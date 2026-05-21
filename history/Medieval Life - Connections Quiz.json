@@ -1,0 +1,205 @@
+{
+  "title": "Medieval Life Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Medieval Life concept is described by this clue: A peasant bound to work land under a lord's control?",
+      "correctAnswer": "Serf",
+      "wrongAnswers": [
+        "Castle",
+        "Monastery",
+        "Crop rotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A landholder with power over tenants and dependents?",
+      "correctAnswer": "Lord",
+      "wrongAnswers": [
+        "Guild",
+        "Pilgrimage",
+        "Common land"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A person who owed service to a lord in exchange for protection or land?",
+      "correctAnswer": "Vassal",
+      "wrongAnswers": [
+        "Apprentice",
+        "Cathedral",
+        "Market town"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A mounted warrior linked to the feudal system?",
+      "correctAnswer": "Knight",
+      "wrongAnswers": [
+        "Journeyman",
+        "Illuminated manuscript",
+        "Charter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A fortified residence and defensive structure?",
+      "correctAnswer": "Castle",
+      "wrongAnswers": [
+        "Tithe",
+        "Black Death",
+        "Feudalism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: An association of craftspeople or merchants?",
+      "correctAnswer": "Guild",
+      "wrongAnswers": [
+        "Monastery",
+        "Crop rotation",
+        "Manor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A beginner learning a trade from a master?",
+      "correctAnswer": "Apprentice",
+      "wrongAnswers": [
+        "Pilgrimage",
+        "Common land",
+        "Serf"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A trained worker who had not yet become a master?",
+      "correctAnswer": "Journeyman",
+      "wrongAnswers": [
+        "Cathedral",
+        "Market town",
+        "Lord"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A church payment often made as a portion of produce or income?",
+      "correctAnswer": "Tithe",
+      "wrongAnswers": [
+        "Illuminated manuscript",
+        "Charter",
+        "Vassal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A religious community where monks lived and worked?",
+      "correctAnswer": "Monastery",
+      "wrongAnswers": [
+        "Black Death",
+        "Feudalism",
+        "Knight"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A journey to a sacred place?",
+      "correctAnswer": "Pilgrimage",
+      "wrongAnswers": [
+        "Crop rotation",
+        "Manor",
+        "Castle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A major church serving as a bishop's seat?",
+      "correctAnswer": "Cathedral",
+      "wrongAnswers": [
+        "Common land",
+        "Serf",
+        "Guild"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A hand-copied book decorated with images or ornament?",
+      "correctAnswer": "Illuminated manuscript",
+      "wrongAnswers": [
+        "Market town",
+        "Lord",
+        "Apprentice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A devastating plague pandemic in medieval Europe?",
+      "correctAnswer": "Black Death",
+      "wrongAnswers": [
+        "Charter",
+        "Vassal",
+        "Journeyman"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: Changing crops in fields to maintain soil fertility?",
+      "correctAnswer": "Crop rotation",
+      "wrongAnswers": [
+        "Feudalism",
+        "Knight",
+        "Tithe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: Land shared by members of a community?",
+      "correctAnswer": "Common land",
+      "wrongAnswers": [
+        "Manor",
+        "Castle",
+        "Monastery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A settlement with rights or customs for regular trade?",
+      "correctAnswer": "Market town",
+      "wrongAnswers": [
+        "Serf",
+        "Guild",
+        "Pilgrimage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A written grant of rights or privileges?",
+      "correctAnswer": "Charter",
+      "wrongAnswers": [
+        "Lord",
+        "Apprentice",
+        "Cathedral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A social system based on landholding and obligations?",
+      "correctAnswer": "Feudalism",
+      "wrongAnswers": [
+        "Vassal",
+        "Journeyman",
+        "Illuminated manuscript"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Medieval Life concept is described by this clue: A landed estate that organized rural medieval life?",
+      "correctAnswer": "Manor",
+      "wrongAnswers": [
+        "Knight",
+        "Tithe",
+        "Black Death"
+      ],
+      "timeout": 15
+    }
+  ]
+}

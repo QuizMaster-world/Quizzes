@@ -1,0 +1,205 @@
+{
+  "title": "Creative Writing Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Creative Writing, which term means: A character or force opposing the protagonist?",
+      "correctAnswer": "Antagonist",
+      "wrongAnswers": [
+        "Point of view",
+        "Pacing",
+        "Falling action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The struggle that creates story tension?",
+      "correctAnswer": "Conflict",
+      "wrongAnswers": [
+        "First person",
+        "Scene",
+        "Resolution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The time and place of a story?",
+      "correctAnswer": "Setting",
+      "wrongAnswers": [
+        "Third person limited",
+        "Exposition",
+        "Character arc"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The perspective from which a story is told?",
+      "correctAnswer": "Point of view",
+      "wrongAnswers": [
+        "Third person omniscient",
+        "Rising action",
+        "Voice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Narration using a character's I perspective?",
+      "correctAnswer": "First person",
+      "wrongAnswers": [
+        "Dialogue",
+        "Climax",
+        "Subtext"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Narration focused on one character's thoughts?",
+      "correctAnswer": "Third person limited",
+      "wrongAnswers": [
+        "Pacing",
+        "Falling action",
+        "Revision"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Narration that can reveal many characters' thoughts?",
+      "correctAnswer": "Third person omniscient",
+      "wrongAnswers": [
+        "Scene",
+        "Resolution",
+        "Protagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Spoken conversation between characters?",
+      "correctAnswer": "Dialogue",
+      "wrongAnswers": [
+        "Exposition",
+        "Character arc",
+        "Antagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The speed at which a story moves?",
+      "correctAnswer": "Pacing",
+      "wrongAnswers": [
+        "Rising action",
+        "Voice",
+        "Conflict"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: A unit of story action in a specific time and place?",
+      "correctAnswer": "Scene",
+      "wrongAnswers": [
+        "Climax",
+        "Subtext",
+        "Setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Information that introduces background and context?",
+      "correctAnswer": "Exposition",
+      "wrongAnswers": [
+        "Falling action",
+        "Revision",
+        "Point of view"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Events that build tension toward the climax?",
+      "correctAnswer": "Rising action",
+      "wrongAnswers": [
+        "Resolution",
+        "Protagonist",
+        "First person"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The turning point of highest tension?",
+      "correctAnswer": "Climax",
+      "wrongAnswers": [
+        "Character arc",
+        "Antagonist",
+        "Third person limited"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Events after the climax leading toward resolution?",
+      "correctAnswer": "Falling action",
+      "wrongAnswers": [
+        "Voice",
+        "Conflict",
+        "Third person omniscient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The part where major story questions are settled?",
+      "correctAnswer": "Resolution",
+      "wrongAnswers": [
+        "Subtext",
+        "Setting",
+        "Dialogue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: A character's internal change through a story?",
+      "correctAnswer": "Character arc",
+      "wrongAnswers": [
+        "Revision",
+        "Point of view",
+        "Pacing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The distinctive style or personality of narration?",
+      "correctAnswer": "Voice",
+      "wrongAnswers": [
+        "Protagonist",
+        "First person",
+        "Scene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Meaning implied beneath spoken or written words?",
+      "correctAnswer": "Subtext",
+      "wrongAnswers": [
+        "Antagonist",
+        "Third person limited",
+        "Exposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: Reworking a draft to improve meaning, structure, and style?",
+      "correctAnswer": "Revision",
+      "wrongAnswers": [
+        "Conflict",
+        "Third person omniscient",
+        "Rising action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, which term means: The central character who drives the story?",
+      "correctAnswer": "Protagonist",
+      "wrongAnswers": [
+        "Setting",
+        "Dialogue",
+        "Climax"
+      ],
+      "timeout": 15
+    }
+  ]
+}

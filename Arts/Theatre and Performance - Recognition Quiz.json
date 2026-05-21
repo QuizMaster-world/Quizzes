@@ -1,0 +1,205 @@
+{
+  "title": "Theatre and Performance Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Stage direction\" is correct?",
+      "correctAnswer": "Stage direction: A script note describing action, movement, or setting",
+      "wrongAnswers": [
+        "Costume: Clothing worn by performers to support character and setting",
+        "Rehearsal: Practice time used to prepare a performance",
+        "Scene change: A transition from one staged moment or setting to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Blocking\" is correct?",
+      "correctAnswer": "Blocking: Planned movement and positioning of actors",
+      "wrongAnswers": [
+        "Lighting design: Planning light to shape visibility, mood, and focus",
+        "Improvisation: Creating performance material spontaneously",
+        "Curtain call: Performers returning to receive audience applause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cue\" is correct?",
+      "correctAnswer": "Cue: A signal for an actor or technician to act",
+      "wrongAnswers": [
+        "Sound design: Planning audio elements for a production",
+        "Characterization: Choices that create a believable character",
+        "Script: The written text of a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Prop\" is correct?",
+      "correctAnswer": "Prop: An object handled or used by performers",
+      "wrongAnswers": [
+        "Director: The person guiding artistic choices in a production",
+        "Projection: Using voice so an audience can hear clearly",
+        "Dialogue: Words spoken by characters"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Set\" is correct?",
+      "correctAnswer": "Set: The physical environment built for a performance",
+      "wrongAnswers": [
+        "Stage manager: The person coordinating rehearsals and live performance logistics",
+        "Ensemble: Performers working together as a group",
+        "Monologue: An extended speech by one performer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Costume\" is correct?",
+      "correctAnswer": "Costume: Clothing worn by performers to support character and setting",
+      "wrongAnswers": [
+        "Rehearsal: Practice time used to prepare a performance",
+        "Scene change: A transition from one staged moment or setting to another",
+        "Stage direction: A script note describing action, movement, or setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lighting design\" is correct?",
+      "correctAnswer": "Lighting design: Planning light to shape visibility, mood, and focus",
+      "wrongAnswers": [
+        "Improvisation: Creating performance material spontaneously",
+        "Curtain call: Performers returning to receive audience applause",
+        "Blocking: Planned movement and positioning of actors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sound design\" is correct?",
+      "correctAnswer": "Sound design: Planning audio elements for a production",
+      "wrongAnswers": [
+        "Characterization: Choices that create a believable character",
+        "Script: The written text of a performance",
+        "Cue: A signal for an actor or technician to act"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Director\" is correct?",
+      "correctAnswer": "Director: The person guiding artistic choices in a production",
+      "wrongAnswers": [
+        "Projection: Using voice so an audience can hear clearly",
+        "Dialogue: Words spoken by characters",
+        "Prop: An object handled or used by performers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stage manager\" is correct?",
+      "correctAnswer": "Stage manager: The person coordinating rehearsals and live performance logistics",
+      "wrongAnswers": [
+        "Ensemble: Performers working together as a group",
+        "Monologue: An extended speech by one performer",
+        "Set: The physical environment built for a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rehearsal\" is correct?",
+      "correctAnswer": "Rehearsal: Practice time used to prepare a performance",
+      "wrongAnswers": [
+        "Scene change: A transition from one staged moment or setting to another",
+        "Stage direction: A script note describing action, movement, or setting",
+        "Costume: Clothing worn by performers to support character and setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Improvisation\" is correct?",
+      "correctAnswer": "Improvisation: Creating performance material spontaneously",
+      "wrongAnswers": [
+        "Curtain call: Performers returning to receive audience applause",
+        "Blocking: Planned movement and positioning of actors",
+        "Lighting design: Planning light to shape visibility, mood, and focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Characterization\" is correct?",
+      "correctAnswer": "Characterization: Choices that create a believable character",
+      "wrongAnswers": [
+        "Script: The written text of a performance",
+        "Cue: A signal for an actor or technician to act",
+        "Sound design: Planning audio elements for a production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Projection\" is correct?",
+      "correctAnswer": "Projection: Using voice so an audience can hear clearly",
+      "wrongAnswers": [
+        "Dialogue: Words spoken by characters",
+        "Prop: An object handled or used by performers",
+        "Director: The person guiding artistic choices in a production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ensemble\" is correct?",
+      "correctAnswer": "Ensemble: Performers working together as a group",
+      "wrongAnswers": [
+        "Monologue: An extended speech by one performer",
+        "Set: The physical environment built for a performance",
+        "Stage manager: The person coordinating rehearsals and live performance logistics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Scene change\" is correct?",
+      "correctAnswer": "Scene change: A transition from one staged moment or setting to another",
+      "wrongAnswers": [
+        "Stage direction: A script note describing action, movement, or setting",
+        "Costume: Clothing worn by performers to support character and setting",
+        "Rehearsal: Practice time used to prepare a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Curtain call\" is correct?",
+      "correctAnswer": "Curtain call: Performers returning to receive audience applause",
+      "wrongAnswers": [
+        "Blocking: Planned movement and positioning of actors",
+        "Lighting design: Planning light to shape visibility, mood, and focus",
+        "Improvisation: Creating performance material spontaneously"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Script\" is correct?",
+      "correctAnswer": "Script: The written text of a performance",
+      "wrongAnswers": [
+        "Cue: A signal for an actor or technician to act",
+        "Sound design: Planning audio elements for a production",
+        "Characterization: Choices that create a believable character"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dialogue\" is correct?",
+      "correctAnswer": "Dialogue: Words spoken by characters",
+      "wrongAnswers": [
+        "Prop: An object handled or used by performers",
+        "Director: The person guiding artistic choices in a production",
+        "Projection: Using voice so an audience can hear clearly"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Monologue\" is correct?",
+      "correctAnswer": "Monologue: An extended speech by one performer",
+      "wrongAnswers": [
+        "Set: The physical environment built for a performance",
+        "Stage manager: The person coordinating rehearsals and live performance logistics",
+        "Ensemble: Performers working together as a group"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Medieval Life Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Lord\" is correct?",
+      "correctAnswer": "Lord: A landholder with power over tenants and dependents",
+      "wrongAnswers": [
+        "Apprentice: A beginner learning a trade from a master",
+        "Cathedral: A major church serving as a bishop's seat",
+        "Market town: A settlement with rights or customs for regular trade"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vassal\" is correct?",
+      "correctAnswer": "Vassal: A person who owed service to a lord in exchange for protection or land",
+      "wrongAnswers": [
+        "Journeyman: A trained worker who had not yet become a master",
+        "Illuminated manuscript: A hand-copied book decorated with images or ornament",
+        "Charter: A written grant of rights or privileges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Knight\" is correct?",
+      "correctAnswer": "Knight: A mounted warrior linked to the feudal system",
+      "wrongAnswers": [
+        "Tithe: A church payment often made as a portion of produce or income",
+        "Black Death: A devastating plague pandemic in medieval Europe",
+        "Feudalism: A social system based on landholding and obligations"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Castle\" is correct?",
+      "correctAnswer": "Castle: A fortified residence and defensive structure",
+      "wrongAnswers": [
+        "Monastery: A religious community where monks lived and worked",
+        "Crop rotation: Changing crops in fields to maintain soil fertility",
+        "Manor: A landed estate that organized rural medieval life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Guild\" is correct?",
+      "correctAnswer": "Guild: An association of craftspeople or merchants",
+      "wrongAnswers": [
+        "Pilgrimage: A journey to a sacred place",
+        "Common land: Land shared by members of a community",
+        "Serf: A peasant bound to work land under a lord's control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Apprentice\" is correct?",
+      "correctAnswer": "Apprentice: A beginner learning a trade from a master",
+      "wrongAnswers": [
+        "Cathedral: A major church serving as a bishop's seat",
+        "Market town: A settlement with rights or customs for regular trade",
+        "Lord: A landholder with power over tenants and dependents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Journeyman\" is correct?",
+      "correctAnswer": "Journeyman: A trained worker who had not yet become a master",
+      "wrongAnswers": [
+        "Illuminated manuscript: A hand-copied book decorated with images or ornament",
+        "Charter: A written grant of rights or privileges",
+        "Vassal: A person who owed service to a lord in exchange for protection or land"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tithe\" is correct?",
+      "correctAnswer": "Tithe: A church payment often made as a portion of produce or income",
+      "wrongAnswers": [
+        "Black Death: A devastating plague pandemic in medieval Europe",
+        "Feudalism: A social system based on landholding and obligations",
+        "Knight: A mounted warrior linked to the feudal system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Monastery\" is correct?",
+      "correctAnswer": "Monastery: A religious community where monks lived and worked",
+      "wrongAnswers": [
+        "Crop rotation: Changing crops in fields to maintain soil fertility",
+        "Manor: A landed estate that organized rural medieval life",
+        "Castle: A fortified residence and defensive structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pilgrimage\" is correct?",
+      "correctAnswer": "Pilgrimage: A journey to a sacred place",
+      "wrongAnswers": [
+        "Common land: Land shared by members of a community",
+        "Serf: A peasant bound to work land under a lord's control",
+        "Guild: An association of craftspeople or merchants"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cathedral\" is correct?",
+      "correctAnswer": "Cathedral: A major church serving as a bishop's seat",
+      "wrongAnswers": [
+        "Market town: A settlement with rights or customs for regular trade",
+        "Lord: A landholder with power over tenants and dependents",
+        "Apprentice: A beginner learning a trade from a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Illuminated manuscript\" is correct?",
+      "correctAnswer": "Illuminated manuscript: A hand-copied book decorated with images or ornament",
+      "wrongAnswers": [
+        "Charter: A written grant of rights or privileges",
+        "Vassal: A person who owed service to a lord in exchange for protection or land",
+        "Journeyman: A trained worker who had not yet become a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Black Death\" is correct?",
+      "correctAnswer": "Black Death: A devastating plague pandemic in medieval Europe",
+      "wrongAnswers": [
+        "Feudalism: A social system based on landholding and obligations",
+        "Knight: A mounted warrior linked to the feudal system",
+        "Tithe: A church payment often made as a portion of produce or income"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Crop rotation\" is correct?",
+      "correctAnswer": "Crop rotation: Changing crops in fields to maintain soil fertility",
+      "wrongAnswers": [
+        "Manor: A landed estate that organized rural medieval life",
+        "Castle: A fortified residence and defensive structure",
+        "Monastery: A religious community where monks lived and worked"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Common land\" is correct?",
+      "correctAnswer": "Common land: Land shared by members of a community",
+      "wrongAnswers": [
+        "Serf: A peasant bound to work land under a lord's control",
+        "Guild: An association of craftspeople or merchants",
+        "Pilgrimage: A journey to a sacred place"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Market town\" is correct?",
+      "correctAnswer": "Market town: A settlement with rights or customs for regular trade",
+      "wrongAnswers": [
+        "Lord: A landholder with power over tenants and dependents",
+        "Apprentice: A beginner learning a trade from a master",
+        "Cathedral: A major church serving as a bishop's seat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Charter\" is correct?",
+      "correctAnswer": "Charter: A written grant of rights or privileges",
+      "wrongAnswers": [
+        "Vassal: A person who owed service to a lord in exchange for protection or land",
+        "Journeyman: A trained worker who had not yet become a master",
+        "Illuminated manuscript: A hand-copied book decorated with images or ornament"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feudalism\" is correct?",
+      "correctAnswer": "Feudalism: A social system based on landholding and obligations",
+      "wrongAnswers": [
+        "Knight: A mounted warrior linked to the feudal system",
+        "Tithe: A church payment often made as a portion of produce or income",
+        "Black Death: A devastating plague pandemic in medieval Europe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Manor\" is correct?",
+      "correctAnswer": "Manor: A landed estate that organized rural medieval life",
+      "wrongAnswers": [
+        "Castle: A fortified residence and defensive structure",
+        "Monastery: A religious community where monks lived and worked",
+        "Crop rotation: Changing crops in fields to maintain soil fertility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Serf\" is correct?",
+      "correctAnswer": "Serf: A peasant bound to work land under a lord's control",
+      "wrongAnswers": [
+        "Guild: An association of craftspeople or merchants",
+        "Pilgrimage: A journey to a sacred place",
+        "Common land: Land shared by members of a community"
+      ],
+      "timeout": 15
+    }
+  ]
+}

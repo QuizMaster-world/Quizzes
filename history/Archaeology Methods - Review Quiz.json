@@ -1,0 +1,205 @@
+{
+  "title": "Archaeology Methods Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Excavation\" in Archaeology Methods.",
+      "correctAnswer": "Careful digging to uncover and record buried evidence",
+      "wrongAnswers": [
+        "Dating wood by comparing tree-ring patterns",
+        "Recording finds in an organized system",
+        "An object made or modified by humans"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Stratigraphy\" in Archaeology Methods.",
+      "correctAnswer": "Studying layers to understand sequence and context",
+      "wrongAnswers": [
+        "A fragment of broken ceramic material",
+        "Detecting buried or distant features without direct excavation",
+        "A non-portable trace of human activity such as a hearth or wall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Context\" in Archaeology Methods.",
+      "correctAnswer": "The location and relationship of evidence within a site",
+      "wrongAnswers": [
+        "A stone tool or stone-tool material",
+        "A method using radar pulses to detect subsurface features",
+        "A place containing evidence of past human activity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Provenance\" in Archaeology Methods.",
+      "correctAnswer": "The precise origin or findspot of an object",
+      "wrongAnswers": [
+        "Natural material that gives evidence about past environments or diet",
+        "Studying living communities to interpret material culture",
+        "Systematic searching for archaeological evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Typology\" in Archaeology Methods.",
+      "correctAnswer": "Classifying artifacts by shared characteristics",
+      "wrongAnswers": [
+        "Stabilizing and preserving archaeological materials",
+        "Archaeology that involves or communicates with the wider public",
+        "Careful digging to uncover and record buried evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Radiocarbon dating\" in Archaeology Methods.",
+      "correctAnswer": "Dating once-living material using carbon isotopes",
+      "wrongAnswers": [
+        "Recording finds in an organized system",
+        "An object made or modified by humans",
+        "Studying layers to understand sequence and context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Dendrochronology\" in Archaeology Methods.",
+      "correctAnswer": "Dating wood by comparing tree-ring patterns",
+      "wrongAnswers": [
+        "Detecting buried or distant features without direct excavation",
+        "A non-portable trace of human activity such as a hearth or wall",
+        "The location and relationship of evidence within a site"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pottery sherd\" in Archaeology Methods.",
+      "correctAnswer": "A fragment of broken ceramic material",
+      "wrongAnswers": [
+        "A method using radar pulses to detect subsurface features",
+        "A place containing evidence of past human activity",
+        "The precise origin or findspot of an object"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Lithic\" in Archaeology Methods.",
+      "correctAnswer": "A stone tool or stone-tool material",
+      "wrongAnswers": [
+        "Studying living communities to interpret material culture",
+        "Systematic searching for archaeological evidence",
+        "Classifying artifacts by shared characteristics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ecofact\" in Archaeology Methods.",
+      "correctAnswer": "Natural material that gives evidence about past environments or diet",
+      "wrongAnswers": [
+        "Archaeology that involves or communicates with the wider public",
+        "Careful digging to uncover and record buried evidence",
+        "Dating once-living material using carbon isotopes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Conservation\" in Archaeology Methods.",
+      "correctAnswer": "Stabilizing and preserving archaeological materials",
+      "wrongAnswers": [
+        "An object made or modified by humans",
+        "Studying layers to understand sequence and context",
+        "Dating wood by comparing tree-ring patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cataloging\" in Archaeology Methods.",
+      "correctAnswer": "Recording finds in an organized system",
+      "wrongAnswers": [
+        "A non-portable trace of human activity such as a hearth or wall",
+        "The location and relationship of evidence within a site",
+        "A fragment of broken ceramic material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Remote sensing\" in Archaeology Methods.",
+      "correctAnswer": "Detecting buried or distant features without direct excavation",
+      "wrongAnswers": [
+        "A place containing evidence of past human activity",
+        "The precise origin or findspot of an object",
+        "A stone tool or stone-tool material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ground-penetrating radar\" in Archaeology Methods.",
+      "correctAnswer": "A method using radar pulses to detect subsurface features",
+      "wrongAnswers": [
+        "Systematic searching for archaeological evidence",
+        "Classifying artifacts by shared characteristics",
+        "Natural material that gives evidence about past environments or diet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ethnoarchaeology\" in Archaeology Methods.",
+      "correctAnswer": "Studying living communities to interpret material culture",
+      "wrongAnswers": [
+        "Careful digging to uncover and record buried evidence",
+        "Dating once-living material using carbon isotopes",
+        "Stabilizing and preserving archaeological materials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Public archaeology\" in Archaeology Methods.",
+      "correctAnswer": "Archaeology that involves or communicates with the wider public",
+      "wrongAnswers": [
+        "Studying layers to understand sequence and context",
+        "Dating wood by comparing tree-ring patterns",
+        "Recording finds in an organized system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Artifact\" in Archaeology Methods.",
+      "correctAnswer": "An object made or modified by humans",
+      "wrongAnswers": [
+        "The location and relationship of evidence within a site",
+        "A fragment of broken ceramic material",
+        "Detecting buried or distant features without direct excavation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feature\" in Archaeology Methods.",
+      "correctAnswer": "A non-portable trace of human activity such as a hearth or wall",
+      "wrongAnswers": [
+        "The precise origin or findspot of an object",
+        "A stone tool or stone-tool material",
+        "A method using radar pulses to detect subsurface features"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Site\" in Archaeology Methods.",
+      "correctAnswer": "A place containing evidence of past human activity",
+      "wrongAnswers": [
+        "Classifying artifacts by shared characteristics",
+        "Natural material that gives evidence about past environments or diet",
+        "Studying living communities to interpret material culture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Survey\" in Archaeology Methods.",
+      "correctAnswer": "Systematic searching for archaeological evidence",
+      "wrongAnswers": [
+        "Dating once-living material using carbon isotopes",
+        "Stabilizing and preserving archaeological materials",
+        "Archaeology that involves or communicates with the wider public"
+      ],
+      "timeout": 15
+    }
+  ]
+}

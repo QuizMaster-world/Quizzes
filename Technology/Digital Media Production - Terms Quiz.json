@@ -1,0 +1,205 @@
+{
+  "title": "Digital Media Production Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Digital Media Production, which term means: How many video frames are shown each second?",
+      "correctAnswer": "Frame rate",
+      "wrongAnswers": [
+        "Shot list",
+        "Color grading",
+        "Timeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: The proportional relationship between width and height?",
+      "correctAnswer": "Aspect ratio",
+      "wrongAnswers": [
+        "B-roll",
+        "White balance",
+        "Layer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A sequence of drawings or panels planning visual scenes?",
+      "correctAnswer": "Storyboard",
+      "wrongAnswers": [
+        "Voice-over",
+        "Compression",
+        "Keyframe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A planned list of camera shots for production?",
+      "correctAnswer": "Shot list",
+      "wrongAnswers": [
+        "Cut",
+        "Codec",
+        "Mask"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Supplementary footage used to support the main footage?",
+      "correctAnswer": "B-roll",
+      "wrongAnswers": [
+        "Fade",
+        "Bitrate",
+        "Export"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Narration recorded over visuals?",
+      "correctAnswer": "Voice-over",
+      "wrongAnswers": [
+        "Color grading",
+        "Timeline",
+        "Copyright"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A direct transition from one shot to another?",
+      "correctAnswer": "Cut",
+      "wrongAnswers": [
+        "White balance",
+        "Layer",
+        "Resolution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A gradual transition to or from an image or sound?",
+      "correctAnswer": "Fade",
+      "wrongAnswers": [
+        "Compression",
+        "Keyframe",
+        "Frame rate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Adjusting color and tone for style and consistency?",
+      "correctAnswer": "Color grading",
+      "wrongAnswers": [
+        "Codec",
+        "Mask",
+        "Aspect ratio"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Adjusting color so whites appear neutral?",
+      "correctAnswer": "White balance",
+      "wrongAnswers": [
+        "Bitrate",
+        "Export",
+        "Storyboard"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Reducing media file size through encoding?",
+      "correctAnswer": "Compression",
+      "wrongAnswers": [
+        "Timeline",
+        "Copyright",
+        "Shot list"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Software or method used to encode and decode media?",
+      "correctAnswer": "Codec",
+      "wrongAnswers": [
+        "Layer",
+        "Resolution",
+        "B-roll"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: The amount of data used per second of media?",
+      "correctAnswer": "Bitrate",
+      "wrongAnswers": [
+        "Keyframe",
+        "Frame rate",
+        "Voice-over"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: The editing workspace where clips are arranged over time?",
+      "correctAnswer": "Timeline",
+      "wrongAnswers": [
+        "Mask",
+        "Aspect ratio",
+        "Cut"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A separate visual or audio element stacked with others?",
+      "correctAnswer": "Layer",
+      "wrongAnswers": [
+        "Export",
+        "Storyboard",
+        "Fade"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A marker defining a property value at a point in time?",
+      "correctAnswer": "Keyframe",
+      "wrongAnswers": [
+        "Copyright",
+        "Shot list",
+        "Color grading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: A shape used to hide or reveal part of a layer?",
+      "correctAnswer": "Mask",
+      "wrongAnswers": [
+        "Resolution",
+        "B-roll",
+        "White balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Rendering a finished media file from a project?",
+      "correctAnswer": "Export",
+      "wrongAnswers": [
+        "Frame rate",
+        "Voice-over",
+        "Compression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: Legal protection for creative works?",
+      "correctAnswer": "Copyright",
+      "wrongAnswers": [
+        "Aspect ratio",
+        "Cut",
+        "Codec"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, which term means: The detail of an image or video measured by pixel dimensions?",
+      "correctAnswer": "Resolution",
+      "wrongAnswers": [
+        "Storyboard",
+        "Fade",
+        "Bitrate"
+      ],
+      "timeout": 15
+    }
+  ]
+}

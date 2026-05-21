@@ -1,0 +1,205 @@
+{
+  "title": "Astronomy and Space Science Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A natural satellite orbiting a planet or smaller body?",
+      "correctAnswer": "Moon",
+      "wrongAnswers": [
+        "Nebula",
+        "Spectroscopy",
+        "Neutron star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A rocky small body orbiting the Sun?",
+      "correctAnswer": "Asteroid",
+      "wrongAnswers": [
+        "Light-year",
+        "Redshift",
+        "White dwarf"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: An icy small body that can form a tail near the Sun?",
+      "correctAnswer": "Comet",
+      "wrongAnswers": [
+        "Orbit",
+        "Exoplanet",
+        "Solar wind"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A huge system of stars, gas, dust, and dark matter?",
+      "correctAnswer": "Galaxy",
+      "wrongAnswers": [
+        "Gravity",
+        "Supernova",
+        "Habitable zone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A cloud of gas and dust in space?",
+      "correctAnswer": "Nebula",
+      "wrongAnswers": [
+        "Telescope",
+        "Black hole",
+        "Star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: The distance light travels in one year?",
+      "correctAnswer": "Light-year",
+      "wrongAnswers": [
+        "Spectroscopy",
+        "Neutron star",
+        "Planet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: The curved path of one body around another?",
+      "correctAnswer": "Orbit",
+      "wrongAnswers": [
+        "Redshift",
+        "White dwarf",
+        "Moon"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: The attraction between masses?",
+      "correctAnswer": "Gravity",
+      "wrongAnswers": [
+        "Exoplanet",
+        "Solar wind",
+        "Asteroid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: An instrument that collects and focuses electromagnetic radiation?",
+      "correctAnswer": "Telescope",
+      "wrongAnswers": [
+        "Supernova",
+        "Habitable zone",
+        "Comet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: Studying light by separating it into wavelengths?",
+      "correctAnswer": "Spectroscopy",
+      "wrongAnswers": [
+        "Black hole",
+        "Star",
+        "Galaxy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: Stretching of light toward longer wavelengths?",
+      "correctAnswer": "Redshift",
+      "wrongAnswers": [
+        "Neutron star",
+        "Planet",
+        "Nebula"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A planet orbiting a star outside the Solar System?",
+      "correctAnswer": "Exoplanet",
+      "wrongAnswers": [
+        "White dwarf",
+        "Moon",
+        "Light-year"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A powerful stellar explosion?",
+      "correctAnswer": "Supernova",
+      "wrongAnswers": [
+        "Solar wind",
+        "Asteroid",
+        "Orbit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A region where gravity prevents light from escaping?",
+      "correctAnswer": "Black hole",
+      "wrongAnswers": [
+        "Habitable zone",
+        "Comet",
+        "Gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A dense remnant of a massive star?",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": [
+        "Star",
+        "Galaxy",
+        "Telescope"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A dense remnant left by a Sun-like star?",
+      "correctAnswer": "White dwarf",
+      "wrongAnswers": [
+        "Planet",
+        "Nebula",
+        "Spectroscopy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: Charged particles flowing outward from the Sun?",
+      "correctAnswer": "Solar wind",
+      "wrongAnswers": [
+        "Moon",
+        "Light-year",
+        "Redshift"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: The region where liquid water could exist on a planet's surface?",
+      "correctAnswer": "Habitable zone",
+      "wrongAnswers": [
+        "Asteroid",
+        "Orbit",
+        "Exoplanet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A luminous sphere of plasma powered by nuclear fusion?",
+      "correctAnswer": "Star",
+      "wrongAnswers": [
+        "Comet",
+        "Gravity",
+        "Supernova"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Astronomy and Space Science concept is described by this clue: A large body orbiting a star that clears its orbital neighborhood?",
+      "correctAnswer": "Planet",
+      "wrongAnswers": [
+        "Galaxy",
+        "Telescope",
+        "Black hole"
+      ],
+      "timeout": 15
+    }
+  ]
+}

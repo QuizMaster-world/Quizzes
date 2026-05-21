@@ -1,0 +1,205 @@
+{
+  "title": "English Grammar Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In English Grammar, what does \"Noun\" mean?",
+      "correctAnswer": "A word that names a person, place, thing, or idea",
+      "wrongAnswers": [
+        "A word that describes a noun",
+        "A word or phrase expressing sudden feeling",
+        "A clause that cannot stand alone as a sentence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Verb\" mean?",
+      "correctAnswer": "A word that expresses an action or state",
+      "wrongAnswers": [
+        "A word that modifies a verb, adjective, or adverb",
+        "The part of a sentence that tells who or what it is about",
+        "A group of related words without both subject and verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Adjective\" mean?",
+      "correctAnswer": "A word that describes a noun",
+      "wrongAnswers": [
+        "A word that stands in for a noun",
+        "The part of a sentence that tells what the subject does or is",
+        "Verb form showing time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Adverb\" mean?",
+      "correctAnswer": "A word that modifies a verb, adjective, or adverb",
+      "wrongAnswers": [
+        "A word showing relationships such as location or direction",
+        "A group of words with a subject and a verb",
+        "Matching grammatical forms such as subject and verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Pronoun\" mean?",
+      "correctAnswer": "A word that stands in for a noun",
+      "wrongAnswers": [
+        "A word that connects words, phrases, or clauses",
+        "A clause that can stand alone as a sentence",
+        "A word or phrase that describes another element"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Preposition\" mean?",
+      "correctAnswer": "A word showing relationships such as location or direction",
+      "wrongAnswers": [
+        "A word or phrase expressing sudden feeling",
+        "A clause that cannot stand alone as a sentence",
+        "A noun or pronoun receiving an action or following a preposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Conjunction\" mean?",
+      "correctAnswer": "A word that connects words, phrases, or clauses",
+      "wrongAnswers": [
+        "The part of a sentence that tells who or what it is about",
+        "A group of related words without both subject and verb",
+        "An error joining independent clauses with only a comma"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Interjection\" mean?",
+      "correctAnswer": "A word or phrase expressing sudden feeling",
+      "wrongAnswers": [
+        "The part of a sentence that tells what the subject does or is",
+        "Verb form showing time",
+        "Using matching grammatical forms in a series"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Subject\" mean?",
+      "correctAnswer": "The part of a sentence that tells who or what it is about",
+      "wrongAnswers": [
+        "A group of words with a subject and a verb",
+        "Matching grammatical forms such as subject and verb",
+        "A word that names a person, place, thing, or idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Predicate\" mean?",
+      "correctAnswer": "The part of a sentence that tells what the subject does or is",
+      "wrongAnswers": [
+        "A clause that can stand alone as a sentence",
+        "A word or phrase that describes another element",
+        "A word that expresses an action or state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Clause\" mean?",
+      "correctAnswer": "A group of words with a subject and a verb",
+      "wrongAnswers": [
+        "A clause that cannot stand alone as a sentence",
+        "A noun or pronoun receiving an action or following a preposition",
+        "A word that describes a noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Independent clause\" mean?",
+      "correctAnswer": "A clause that can stand alone as a sentence",
+      "wrongAnswers": [
+        "A group of related words without both subject and verb",
+        "An error joining independent clauses with only a comma",
+        "A word that modifies a verb, adjective, or adverb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Dependent clause\" mean?",
+      "correctAnswer": "A clause that cannot stand alone as a sentence",
+      "wrongAnswers": [
+        "Verb form showing time",
+        "Using matching grammatical forms in a series",
+        "A word that stands in for a noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Phrase\" mean?",
+      "correctAnswer": "A group of related words without both subject and verb",
+      "wrongAnswers": [
+        "Matching grammatical forms such as subject and verb",
+        "A word that names a person, place, thing, or idea",
+        "A word showing relationships such as location or direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Tense\" mean?",
+      "correctAnswer": "Verb form showing time",
+      "wrongAnswers": [
+        "A word or phrase that describes another element",
+        "A word that expresses an action or state",
+        "A word that connects words, phrases, or clauses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Agreement\" mean?",
+      "correctAnswer": "Matching grammatical forms such as subject and verb",
+      "wrongAnswers": [
+        "A noun or pronoun receiving an action or following a preposition",
+        "A word that describes a noun",
+        "A word or phrase expressing sudden feeling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Modifier\" mean?",
+      "correctAnswer": "A word or phrase that describes another element",
+      "wrongAnswers": [
+        "An error joining independent clauses with only a comma",
+        "A word that modifies a verb, adjective, or adverb",
+        "The part of a sentence that tells who or what it is about"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Object\" mean?",
+      "correctAnswer": "A noun or pronoun receiving an action or following a preposition",
+      "wrongAnswers": [
+        "Using matching grammatical forms in a series",
+        "A word that stands in for a noun",
+        "The part of a sentence that tells what the subject does or is"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Comma splice\" mean?",
+      "correctAnswer": "An error joining independent clauses with only a comma",
+      "wrongAnswers": [
+        "A word that names a person, place, thing, or idea",
+        "A word showing relationships such as location or direction",
+        "A group of words with a subject and a verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, what does \"Parallel structure\" mean?",
+      "correctAnswer": "Using matching grammatical forms in a series",
+      "wrongAnswers": [
+        "A word that expresses an action or state",
+        "A word that connects words, phrases, or clauses",
+        "A clause that can stand alone as a sentence"
+      ],
+      "timeout": 15
+    }
+  ]
+}

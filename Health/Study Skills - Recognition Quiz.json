@@ -1,0 +1,205 @@
+{
+  "title": "Study Skills Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Elaboration\" is correct?",
+      "correctAnswer": "Elaboration: Explaining ideas in detail and connecting them to prior knowledge",
+      "wrongAnswers": [
+        "Practice test: A self-check that simulates assessment questions",
+        "Prioritization: Choosing what matters most to work on first",
+        "Annotation: Adding notes or marks to text while reading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dual coding\" is correct?",
+      "correctAnswer": "Dual coding: Combining words with visuals to support learning",
+      "wrongAnswers": [
+        "Goal setting: Choosing clear targets for learning or work",
+        "Feedback: Information used to improve performance",
+        "Reflection: Reviewing what worked and what should change next time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cornell notes\" is correct?",
+      "correctAnswer": "Cornell notes: A note format with cues, notes, and summary sections",
+      "wrongAnswers": [
+        "Time blocking: Scheduling focused periods for specific tasks",
+        "Revision plan: A schedule and method for reviewing material",
+        "Active recall: Practicing retrieval of information from memory"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mind map\" is correct?",
+      "correctAnswer": "Mind map: A diagram that shows connections among ideas",
+      "wrongAnswers": [
+        "Pomodoro technique: Working in short focused intervals separated by breaks",
+        "Metacognition: Thinking about one's own thinking and learning",
+        "Spaced repetition: Reviewing material at increasing intervals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Flashcard\" is correct?",
+      "correctAnswer": "Flashcard: A study card with a prompt on one side and answer on the other",
+      "wrongAnswers": [
+        "Distraction management: Reducing interruptions during focused work",
+        "Summarizing: Condensing information into the main points",
+        "Interleaving: Mixing related topics during practice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Practice test\" is correct?",
+      "correctAnswer": "Practice test: A self-check that simulates assessment questions",
+      "wrongAnswers": [
+        "Prioritization: Choosing what matters most to work on first",
+        "Annotation: Adding notes or marks to text while reading",
+        "Elaboration: Explaining ideas in detail and connecting them to prior knowledge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Goal setting\" is correct?",
+      "correctAnswer": "Goal setting: Choosing clear targets for learning or work",
+      "wrongAnswers": [
+        "Feedback: Information used to improve performance",
+        "Reflection: Reviewing what worked and what should change next time",
+        "Dual coding: Combining words with visuals to support learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Time blocking\" is correct?",
+      "correctAnswer": "Time blocking: Scheduling focused periods for specific tasks",
+      "wrongAnswers": [
+        "Revision plan: A schedule and method for reviewing material",
+        "Active recall: Practicing retrieval of information from memory",
+        "Cornell notes: A note format with cues, notes, and summary sections"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pomodoro technique\" is correct?",
+      "correctAnswer": "Pomodoro technique: Working in short focused intervals separated by breaks",
+      "wrongAnswers": [
+        "Metacognition: Thinking about one's own thinking and learning",
+        "Spaced repetition: Reviewing material at increasing intervals",
+        "Mind map: A diagram that shows connections among ideas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Distraction management\" is correct?",
+      "correctAnswer": "Distraction management: Reducing interruptions during focused work",
+      "wrongAnswers": [
+        "Summarizing: Condensing information into the main points",
+        "Interleaving: Mixing related topics during practice",
+        "Flashcard: A study card with a prompt on one side and answer on the other"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Prioritization\" is correct?",
+      "correctAnswer": "Prioritization: Choosing what matters most to work on first",
+      "wrongAnswers": [
+        "Annotation: Adding notes or marks to text while reading",
+        "Elaboration: Explaining ideas in detail and connecting them to prior knowledge",
+        "Practice test: A self-check that simulates assessment questions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feedback\" is correct?",
+      "correctAnswer": "Feedback: Information used to improve performance",
+      "wrongAnswers": [
+        "Reflection: Reviewing what worked and what should change next time",
+        "Dual coding: Combining words with visuals to support learning",
+        "Goal setting: Choosing clear targets for learning or work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Revision plan\" is correct?",
+      "correctAnswer": "Revision plan: A schedule and method for reviewing material",
+      "wrongAnswers": [
+        "Active recall: Practicing retrieval of information from memory",
+        "Cornell notes: A note format with cues, notes, and summary sections",
+        "Time blocking: Scheduling focused periods for specific tasks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Metacognition\" is correct?",
+      "correctAnswer": "Metacognition: Thinking about one's own thinking and learning",
+      "wrongAnswers": [
+        "Spaced repetition: Reviewing material at increasing intervals",
+        "Mind map: A diagram that shows connections among ideas",
+        "Pomodoro technique: Working in short focused intervals separated by breaks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Summarizing\" is correct?",
+      "correctAnswer": "Summarizing: Condensing information into the main points",
+      "wrongAnswers": [
+        "Interleaving: Mixing related topics during practice",
+        "Flashcard: A study card with a prompt on one side and answer on the other",
+        "Distraction management: Reducing interruptions during focused work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Annotation\" is correct?",
+      "correctAnswer": "Annotation: Adding notes or marks to text while reading",
+      "wrongAnswers": [
+        "Elaboration: Explaining ideas in detail and connecting them to prior knowledge",
+        "Practice test: A self-check that simulates assessment questions",
+        "Prioritization: Choosing what matters most to work on first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Reflection\" is correct?",
+      "correctAnswer": "Reflection: Reviewing what worked and what should change next time",
+      "wrongAnswers": [
+        "Dual coding: Combining words with visuals to support learning",
+        "Goal setting: Choosing clear targets for learning or work",
+        "Feedback: Information used to improve performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Active recall\" is correct?",
+      "correctAnswer": "Active recall: Practicing retrieval of information from memory",
+      "wrongAnswers": [
+        "Cornell notes: A note format with cues, notes, and summary sections",
+        "Time blocking: Scheduling focused periods for specific tasks",
+        "Revision plan: A schedule and method for reviewing material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Spaced repetition\" is correct?",
+      "correctAnswer": "Spaced repetition: Reviewing material at increasing intervals",
+      "wrongAnswers": [
+        "Mind map: A diagram that shows connections among ideas",
+        "Pomodoro technique: Working in short focused intervals separated by breaks",
+        "Metacognition: Thinking about one's own thinking and learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Interleaving\" is correct?",
+      "correctAnswer": "Interleaving: Mixing related topics during practice",
+      "wrongAnswers": [
+        "Flashcard: A study card with a prompt on one side and answer on the other",
+        "Distraction management: Reducing interruptions during focused work",
+        "Summarizing: Condensing information into the main points"
+      ],
+      "timeout": 15
+    }
+  ]
+}

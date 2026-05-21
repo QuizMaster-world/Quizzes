@@ -1,0 +1,205 @@
+{
+  "title": "Mental Wellbeing Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Mental Wellbeing, which term means: The ability to recover and adapt after difficulty?",
+      "correctAnswer": "Resilience",
+      "wrongAnswers": [
+        "Sleep hygiene",
+        "Empathy",
+        "Grounding technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A method used to manage stress or emotion?",
+      "correctAnswer": "Coping strategy",
+      "wrongAnswers": [
+        "Boundary",
+        "Anxiety",
+        "Breathing exercise"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Paying attention to the present moment without judgment?",
+      "correctAnswer": "Mindfulness",
+      "wrongAnswers": [
+        "Self-care",
+        "Mood",
+        "Growth mindset"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Habits that support healthy sleep?",
+      "correctAnswer": "Sleep hygiene",
+      "wrongAnswers": [
+        "Support network",
+        "Burnout",
+        "Self-talk"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A limit set to protect time, energy, or wellbeing?",
+      "correctAnswer": "Boundary",
+      "wrongAnswers": [
+        "Active listening",
+        "Gratitude practice",
+        "Help-seeking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Actions that support physical and mental health?",
+      "correctAnswer": "Self-care",
+      "wrongAnswers": [
+        "Empathy",
+        "Grounding technique",
+        "Wellbeing plan"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: People who can provide help or connection?",
+      "correctAnswer": "Support network",
+      "wrongAnswers": [
+        "Anxiety",
+        "Breathing exercise",
+        "Stress"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Listening with attention and showing understanding?",
+      "correctAnswer": "Active listening",
+      "wrongAnswers": [
+        "Mood",
+        "Growth mindset",
+        "Resilience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Understanding or sharing another person's feelings?",
+      "correctAnswer": "Empathy",
+      "wrongAnswers": [
+        "Burnout",
+        "Self-talk",
+        "Coping strategy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A state of worry or fear that can affect thoughts and body?",
+      "correctAnswer": "Anxiety",
+      "wrongAnswers": [
+        "Gratitude practice",
+        "Help-seeking",
+        "Mindfulness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A sustained emotional state?",
+      "correctAnswer": "Mood",
+      "wrongAnswers": [
+        "Grounding technique",
+        "Wellbeing plan",
+        "Sleep hygiene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Exhaustion linked to prolonged stress or overload?",
+      "correctAnswer": "Burnout",
+      "wrongAnswers": [
+        "Breathing exercise",
+        "Stress",
+        "Boundary"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Regularly noticing and appreciating positive things?",
+      "correctAnswer": "Gratitude practice",
+      "wrongAnswers": [
+        "Growth mindset",
+        "Resilience",
+        "Self-care"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A strategy for reconnecting attention to the present?",
+      "correctAnswer": "Grounding technique",
+      "wrongAnswers": [
+        "Self-talk",
+        "Coping strategy",
+        "Support network"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Controlled breathing used to calm the body?",
+      "correctAnswer": "Breathing exercise",
+      "wrongAnswers": [
+        "Help-seeking",
+        "Mindfulness",
+        "Active listening"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: The belief that abilities can improve through effort and learning?",
+      "correctAnswer": "Growth mindset",
+      "wrongAnswers": [
+        "Wellbeing plan",
+        "Sleep hygiene",
+        "Empathy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: The inner language people use toward themselves?",
+      "correctAnswer": "Self-talk",
+      "wrongAnswers": [
+        "Stress",
+        "Boundary",
+        "Anxiety"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: Reaching out for support when needed?",
+      "correctAnswer": "Help-seeking",
+      "wrongAnswers": [
+        "Resilience",
+        "Self-care",
+        "Mood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: A personal plan for maintaining mental and emotional health?",
+      "correctAnswer": "Wellbeing plan",
+      "wrongAnswers": [
+        "Coping strategy",
+        "Support network",
+        "Burnout"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, which term means: The body's response to pressure or demand?",
+      "correctAnswer": "Stress",
+      "wrongAnswers": [
+        "Mindfulness",
+        "Active listening",
+        "Gratitude practice"
+      ],
+      "timeout": 15
+    }
+  ]
+}

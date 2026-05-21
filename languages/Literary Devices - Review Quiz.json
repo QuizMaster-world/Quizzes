@@ -1,0 +1,205 @@
+{
+  "title": "Literary Devices Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Assonance\" in Literary Devices.",
+      "correctAnswer": "Repeating vowel sounds within nearby words",
+      "wrongAnswers": [
+        "A scene that shows an earlier time",
+        "Deliberate exaggeration for effect",
+        "A comparison that says one thing is another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Onomatopoeia\" in Literary Devices.",
+      "correctAnswer": "A word that imitates a sound",
+      "wrongAnswers": [
+        "A repeated element with thematic importance",
+        "A phrase that combines contradictory terms",
+        "A comparison using like or as"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Imagery\" in Literary Devices.",
+      "correctAnswer": "Language that appeals to the senses",
+      "wrongAnswers": [
+        "A central idea explored by a text",
+        "A statement that seems contradictory but reveals truth",
+        "Giving human qualities to non-human things"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Symbolism\" in Literary Devices.",
+      "correctAnswer": "Using an object or action to represent a larger idea",
+      "wrongAnswers": [
+        "The writer's attitude toward the subject",
+        "A story with a second symbolic meaning",
+        "Repeating initial consonant sounds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Irony\" in Literary Devices.",
+      "correctAnswer": "A contrast between expectation and reality",
+      "wrongAnswers": [
+        "The emotional atmosphere felt by the reader",
+        "A reference to another text, event, or idea",
+        "Repeating vowel sounds within nearby words"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Foreshadowing\" in Literary Devices.",
+      "correctAnswer": "Hints about events that will happen later",
+      "wrongAnswers": [
+        "Deliberate exaggeration for effect",
+        "A comparison that says one thing is another",
+        "A word that imitates a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Flashback\" in Literary Devices.",
+      "correctAnswer": "A scene that shows an earlier time",
+      "wrongAnswers": [
+        "A phrase that combines contradictory terms",
+        "A comparison using like or as",
+        "Language that appeals to the senses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Motif\" in Literary Devices.",
+      "correctAnswer": "A repeated element with thematic importance",
+      "wrongAnswers": [
+        "A statement that seems contradictory but reveals truth",
+        "Giving human qualities to non-human things",
+        "Using an object or action to represent a larger idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Theme\" in Literary Devices.",
+      "correctAnswer": "A central idea explored by a text",
+      "wrongAnswers": [
+        "A story with a second symbolic meaning",
+        "Repeating initial consonant sounds",
+        "A contrast between expectation and reality"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Tone\" in Literary Devices.",
+      "correctAnswer": "The writer's attitude toward the subject",
+      "wrongAnswers": [
+        "A reference to another text, event, or idea",
+        "Repeating vowel sounds within nearby words",
+        "Hints about events that will happen later"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mood\" in Literary Devices.",
+      "correctAnswer": "The emotional atmosphere felt by the reader",
+      "wrongAnswers": [
+        "A comparison that says one thing is another",
+        "A word that imitates a sound",
+        "A scene that shows an earlier time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Hyperbole\" in Literary Devices.",
+      "correctAnswer": "Deliberate exaggeration for effect",
+      "wrongAnswers": [
+        "A comparison using like or as",
+        "Language that appeals to the senses",
+        "A repeated element with thematic importance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Oxymoron\" in Literary Devices.",
+      "correctAnswer": "A phrase that combines contradictory terms",
+      "wrongAnswers": [
+        "Giving human qualities to non-human things",
+        "Using an object or action to represent a larger idea",
+        "A central idea explored by a text"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Paradox\" in Literary Devices.",
+      "correctAnswer": "A statement that seems contradictory but reveals truth",
+      "wrongAnswers": [
+        "Repeating initial consonant sounds",
+        "A contrast between expectation and reality",
+        "The writer's attitude toward the subject"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Allegory\" in Literary Devices.",
+      "correctAnswer": "A story with a second symbolic meaning",
+      "wrongAnswers": [
+        "Repeating vowel sounds within nearby words",
+        "Hints about events that will happen later",
+        "The emotional atmosphere felt by the reader"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Allusion\" in Literary Devices.",
+      "correctAnswer": "A reference to another text, event, or idea",
+      "wrongAnswers": [
+        "A word that imitates a sound",
+        "A scene that shows an earlier time",
+        "Deliberate exaggeration for effect"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Metaphor\" in Literary Devices.",
+      "correctAnswer": "A comparison that says one thing is another",
+      "wrongAnswers": [
+        "Language that appeals to the senses",
+        "A repeated element with thematic importance",
+        "A phrase that combines contradictory terms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Simile\" in Literary Devices.",
+      "correctAnswer": "A comparison using like or as",
+      "wrongAnswers": [
+        "Using an object or action to represent a larger idea",
+        "A central idea explored by a text",
+        "A statement that seems contradictory but reveals truth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Personification\" in Literary Devices.",
+      "correctAnswer": "Giving human qualities to non-human things",
+      "wrongAnswers": [
+        "A contrast between expectation and reality",
+        "The writer's attitude toward the subject",
+        "A story with a second symbolic meaning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Alliteration\" in Literary Devices.",
+      "correctAnswer": "Repeating initial consonant sounds",
+      "wrongAnswers": [
+        "Hints about events that will happen later",
+        "The emotional atmosphere felt by the reader",
+        "A reference to another text, event, or idea"
+      ],
+      "timeout": 15
+    }
+  ]
+}

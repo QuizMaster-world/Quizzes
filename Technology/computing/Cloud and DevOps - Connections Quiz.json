@@ -1,0 +1,205 @@
+{
+  "title": "Cloud and DevOps Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Managing deployment and operation of many containers?",
+      "correctAnswer": "Orchestration",
+      "wrongAnswers": [
+        "Pipeline",
+        "Auto scaling",
+        "Incident"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Managing infrastructure through versioned configuration files?",
+      "correctAnswer": "Infrastructure as code",
+      "wrongAnswers": [
+        "Artifact",
+        "Monitoring",
+        "Rollback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Automatically building and testing frequent code changes?",
+      "correctAnswer": "Continuous integration",
+      "wrongAnswers": [
+        "Environment variable",
+        "Metric",
+        "Canary release"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Automatically releasing validated changes to users?",
+      "correctAnswer": "Continuous deployment",
+      "wrongAnswers": [
+        "Secret management",
+        "Log",
+        "Feature flag"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: An automated sequence of build, test, and release steps?",
+      "correctAnswer": "Pipeline",
+      "wrongAnswers": [
+        "Load balancer",
+        "Trace",
+        "Container"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A built output produced by a software pipeline?",
+      "correctAnswer": "Artifact",
+      "wrongAnswers": [
+        "Auto scaling",
+        "Incident",
+        "Image"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A named value supplied to a running process?",
+      "correctAnswer": "Environment variable",
+      "wrongAnswers": [
+        "Monitoring",
+        "Rollback",
+        "Orchestration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Protecting credentials used by systems and applications?",
+      "correctAnswer": "Secret management",
+      "wrongAnswers": [
+        "Metric",
+        "Canary release",
+        "Infrastructure as code"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A component that distributes traffic across servers?",
+      "correctAnswer": "Load balancer",
+      "wrongAnswers": [
+        "Log",
+        "Feature flag",
+        "Continuous integration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Adjusting computing capacity as demand changes?",
+      "correctAnswer": "Auto scaling",
+      "wrongAnswers": [
+        "Trace",
+        "Container",
+        "Continuous deployment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Collecting information about system health and behavior?",
+      "correctAnswer": "Monitoring",
+      "wrongAnswers": [
+        "Incident",
+        "Image",
+        "Pipeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A numeric measurement collected over time?",
+      "correctAnswer": "Metric",
+      "wrongAnswers": [
+        "Rollback",
+        "Orchestration",
+        "Artifact"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A recorded event from a system or application?",
+      "correctAnswer": "Log",
+      "wrongAnswers": [
+        "Canary release",
+        "Infrastructure as code",
+        "Environment variable"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A record of a request moving through system components?",
+      "correctAnswer": "Trace",
+      "wrongAnswers": [
+        "Feature flag",
+        "Continuous integration",
+        "Secret management"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: An unplanned service disruption or degradation?",
+      "correctAnswer": "Incident",
+      "wrongAnswers": [
+        "Container",
+        "Continuous deployment",
+        "Load balancer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Returning a deployed system to a previous version?",
+      "correctAnswer": "Rollback",
+      "wrongAnswers": [
+        "Image",
+        "Pipeline",
+        "Auto scaling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: Rolling out a change to a small group before wider release?",
+      "correctAnswer": "Canary release",
+      "wrongAnswers": [
+        "Orchestration",
+        "Artifact",
+        "Monitoring"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A switch that controls behavior without redeploying code?",
+      "correctAnswer": "Feature flag",
+      "wrongAnswers": [
+        "Infrastructure as code",
+        "Environment variable",
+        "Metric"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A packaged runtime environment for an application?",
+      "correctAnswer": "Container",
+      "wrongAnswers": [
+        "Continuous integration",
+        "Secret management",
+        "Log"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cloud and DevOps concept is described by this clue: A template used to create containers?",
+      "correctAnswer": "Image",
+      "wrongAnswers": [
+        "Continuous deployment",
+        "Load balancer",
+        "Trace"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Archaeology Methods Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Archaeology Methods, what does \"Artifact\" mean?",
+      "correctAnswer": "An object made or modified by humans",
+      "wrongAnswers": [
+        "A place containing evidence of past human activity",
+        "The precise origin or findspot of an object",
+        "A stone tool or stone-tool material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Feature\" mean?",
+      "correctAnswer": "A non-portable trace of human activity such as a hearth or wall",
+      "wrongAnswers": [
+        "Systematic searching for archaeological evidence",
+        "Classifying artifacts by shared characteristics",
+        "Natural material that gives evidence about past environments or diet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Site\" mean?",
+      "correctAnswer": "A place containing evidence of past human activity",
+      "wrongAnswers": [
+        "Careful digging to uncover and record buried evidence",
+        "Dating once-living material using carbon isotopes",
+        "Stabilizing and preserving archaeological materials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Survey\" mean?",
+      "correctAnswer": "Systematic searching for archaeological evidence",
+      "wrongAnswers": [
+        "Studying layers to understand sequence and context",
+        "Dating wood by comparing tree-ring patterns",
+        "Recording finds in an organized system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Excavation\" mean?",
+      "correctAnswer": "Careful digging to uncover and record buried evidence",
+      "wrongAnswers": [
+        "The location and relationship of evidence within a site",
+        "A fragment of broken ceramic material",
+        "Detecting buried or distant features without direct excavation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Stratigraphy\" mean?",
+      "correctAnswer": "Studying layers to understand sequence and context",
+      "wrongAnswers": [
+        "The precise origin or findspot of an object",
+        "A stone tool or stone-tool material",
+        "A method using radar pulses to detect subsurface features"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Context\" mean?",
+      "correctAnswer": "The location and relationship of evidence within a site",
+      "wrongAnswers": [
+        "Classifying artifacts by shared characteristics",
+        "Natural material that gives evidence about past environments or diet",
+        "Studying living communities to interpret material culture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Provenance\" mean?",
+      "correctAnswer": "The precise origin or findspot of an object",
+      "wrongAnswers": [
+        "Dating once-living material using carbon isotopes",
+        "Stabilizing and preserving archaeological materials",
+        "Archaeology that involves or communicates with the wider public"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Typology\" mean?",
+      "correctAnswer": "Classifying artifacts by shared characteristics",
+      "wrongAnswers": [
+        "Dating wood by comparing tree-ring patterns",
+        "Recording finds in an organized system",
+        "An object made or modified by humans"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Radiocarbon dating\" mean?",
+      "correctAnswer": "Dating once-living material using carbon isotopes",
+      "wrongAnswers": [
+        "A fragment of broken ceramic material",
+        "Detecting buried or distant features without direct excavation",
+        "A non-portable trace of human activity such as a hearth or wall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Dendrochronology\" mean?",
+      "correctAnswer": "Dating wood by comparing tree-ring patterns",
+      "wrongAnswers": [
+        "A stone tool or stone-tool material",
+        "A method using radar pulses to detect subsurface features",
+        "A place containing evidence of past human activity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Pottery sherd\" mean?",
+      "correctAnswer": "A fragment of broken ceramic material",
+      "wrongAnswers": [
+        "Natural material that gives evidence about past environments or diet",
+        "Studying living communities to interpret material culture",
+        "Systematic searching for archaeological evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Lithic\" mean?",
+      "correctAnswer": "A stone tool or stone-tool material",
+      "wrongAnswers": [
+        "Stabilizing and preserving archaeological materials",
+        "Archaeology that involves or communicates with the wider public",
+        "Careful digging to uncover and record buried evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Ecofact\" mean?",
+      "correctAnswer": "Natural material that gives evidence about past environments or diet",
+      "wrongAnswers": [
+        "Recording finds in an organized system",
+        "An object made or modified by humans",
+        "Studying layers to understand sequence and context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Conservation\" mean?",
+      "correctAnswer": "Stabilizing and preserving archaeological materials",
+      "wrongAnswers": [
+        "Detecting buried or distant features without direct excavation",
+        "A non-portable trace of human activity such as a hearth or wall",
+        "The location and relationship of evidence within a site"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Cataloging\" mean?",
+      "correctAnswer": "Recording finds in an organized system",
+      "wrongAnswers": [
+        "A method using radar pulses to detect subsurface features",
+        "A place containing evidence of past human activity",
+        "The precise origin or findspot of an object"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Remote sensing\" mean?",
+      "correctAnswer": "Detecting buried or distant features without direct excavation",
+      "wrongAnswers": [
+        "Studying living communities to interpret material culture",
+        "Systematic searching for archaeological evidence",
+        "Classifying artifacts by shared characteristics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Ground-penetrating radar\" mean?",
+      "correctAnswer": "A method using radar pulses to detect subsurface features",
+      "wrongAnswers": [
+        "Archaeology that involves or communicates with the wider public",
+        "Careful digging to uncover and record buried evidence",
+        "Dating once-living material using carbon isotopes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Ethnoarchaeology\" mean?",
+      "correctAnswer": "Studying living communities to interpret material culture",
+      "wrongAnswers": [
+        "An object made or modified by humans",
+        "Studying layers to understand sequence and context",
+        "Dating wood by comparing tree-ring patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, what does \"Public archaeology\" mean?",
+      "correctAnswer": "Archaeology that involves or communicates with the wider public",
+      "wrongAnswers": [
+        "A non-portable trace of human activity such as a hearth or wall",
+        "The location and relationship of evidence within a site",
+        "A fragment of broken ceramic material"
+      ],
+      "timeout": 15
+    }
+  ]
+}

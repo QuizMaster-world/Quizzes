@@ -1,0 +1,205 @@
+{
+  "title": "Visual Art Techniques Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Visual Art Techniques, which term means: A flat enclosed area?",
+      "correctAnswer": "Shape",
+      "wrongAnswers": [
+        "Texture",
+        "Contrast",
+        "Shading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A three-dimensional object or the illusion of one?",
+      "correctAnswer": "Form",
+      "wrongAnswers": [
+        "Color harmony",
+        "Balance",
+        "Blending"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The lightness or darkness of a color?",
+      "correctAnswer": "Value",
+      "wrongAnswers": [
+        "Composition",
+        "Proportion",
+        "Layering"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The surface quality seen or felt in artwork?",
+      "correctAnswer": "Texture",
+      "wrongAnswers": [
+        "Perspective",
+        "Gesture drawing",
+        "Wash"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A pleasing relationship among colors?",
+      "correctAnswer": "Color harmony",
+      "wrongAnswers": [
+        "Focal point",
+        "Contour drawing",
+        "Negative space"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The arrangement of visual elements?",
+      "correctAnswer": "Composition",
+      "wrongAnswers": [
+        "Contrast",
+        "Shading",
+        "Mixed media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A method for creating the illusion of depth?",
+      "correctAnswer": "Perspective",
+      "wrongAnswers": [
+        "Balance",
+        "Blending",
+        "Line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The area that draws the viewer's attention?",
+      "correctAnswer": "Focal point",
+      "wrongAnswers": [
+        "Proportion",
+        "Layering",
+        "Shape"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: Difference between visual elements?",
+      "correctAnswer": "Contrast",
+      "wrongAnswers": [
+        "Gesture drawing",
+        "Wash",
+        "Form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The distribution of visual weight?",
+      "correctAnswer": "Balance",
+      "wrongAnswers": [
+        "Contour drawing",
+        "Negative space",
+        "Value"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The size relationship between parts?",
+      "correctAnswer": "Proportion",
+      "wrongAnswers": [
+        "Shading",
+        "Mixed media",
+        "Texture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A quick drawing that captures movement or pose?",
+      "correctAnswer": "Gesture drawing",
+      "wrongAnswers": [
+        "Blending",
+        "Line",
+        "Color harmony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A drawing that emphasizes outlines and edges?",
+      "correctAnswer": "Contour drawing",
+      "wrongAnswers": [
+        "Layering",
+        "Shape",
+        "Composition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: Using value to suggest light and form?",
+      "correctAnswer": "Shading",
+      "wrongAnswers": [
+        "Wash",
+        "Form",
+        "Perspective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: Smoothly transitioning between tones or colors?",
+      "correctAnswer": "Blending",
+      "wrongAnswers": [
+        "Negative space",
+        "Value",
+        "Focal point"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: Building an image through multiple applications of media?",
+      "correctAnswer": "Layering",
+      "wrongAnswers": [
+        "Mixed media",
+        "Texture",
+        "Contrast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A thin transparent layer of paint or ink?",
+      "correctAnswer": "Wash",
+      "wrongAnswers": [
+        "Line",
+        "Color harmony",
+        "Balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: The area around and between subjects?",
+      "correctAnswer": "Negative space",
+      "wrongAnswers": [
+        "Shape",
+        "Composition",
+        "Proportion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: Artwork made with more than one material or technique?",
+      "correctAnswer": "Mixed media",
+      "wrongAnswers": [
+        "Form",
+        "Perspective",
+        "Gesture drawing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, which term means: A mark that can define shape, direction, and movement?",
+      "correctAnswer": "Line",
+      "wrongAnswers": [
+        "Value",
+        "Focal point",
+        "Contour drawing"
+      ],
+      "timeout": 15
+    }
+  ]
+}

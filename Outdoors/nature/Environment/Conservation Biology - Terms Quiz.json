@@ -1,0 +1,205 @@
+{
+  "title": "Conservation Biology Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Conservation Biology, which term means: A species at serious risk of extinction?",
+      "correctAnswer": "Endangered species",
+      "wrongAnswers": [
+        "Corridor",
+        "Captive breeding",
+        "Sustainable harvest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A species likely to become endangered without protection?",
+      "correctAnswer": "Threatened species",
+      "wrongAnswers": [
+        "Restoration ecology",
+        "In situ conservation",
+        "Overexploitation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Breaking continuous habitat into smaller isolated patches?",
+      "correctAnswer": "Habitat fragmentation",
+      "wrongAnswers": [
+        "Rewilding",
+        "Ex situ conservation",
+        "Citizen science"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A habitat link that helps organisms move between areas?",
+      "correctAnswer": "Corridor",
+      "wrongAnswers": [
+        "Protected area",
+        "Pollinator",
+        "Bioindicator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Repairing damaged ecosystems?",
+      "correctAnswer": "Restoration ecology",
+      "wrongAnswers": [
+        "Biodiversity hotspot",
+        "Ecosystem service",
+        "Genetic diversity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Restoring natural processes and native species to landscapes?",
+      "correctAnswer": "Rewilding",
+      "wrongAnswers": [
+        "Captive breeding",
+        "Sustainable harvest",
+        "Habitat restoration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A place managed to conserve natural or cultural value?",
+      "correctAnswer": "Protected area",
+      "wrongAnswers": [
+        "In situ conservation",
+        "Overexploitation",
+        "Conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A region with many unique species under threat?",
+      "correctAnswer": "Biodiversity hotspot",
+      "wrongAnswers": [
+        "Ex situ conservation",
+        "Citizen science",
+        "Endangered species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Raising species under human care to support conservation?",
+      "correctAnswer": "Captive breeding",
+      "wrongAnswers": [
+        "Pollinator",
+        "Bioindicator",
+        "Threatened species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Protecting species in their natural habitats?",
+      "correctAnswer": "In situ conservation",
+      "wrongAnswers": [
+        "Ecosystem service",
+        "Genetic diversity",
+        "Habitat fragmentation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Protecting species outside their natural habitats?",
+      "correctAnswer": "Ex situ conservation",
+      "wrongAnswers": [
+        "Sustainable harvest",
+        "Habitat restoration",
+        "Corridor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: An organism that helps transfer pollen between flowers?",
+      "correctAnswer": "Pollinator",
+      "wrongAnswers": [
+        "Overexploitation",
+        "Conservation",
+        "Restoration ecology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A benefit people receive from nature?",
+      "correctAnswer": "Ecosystem service",
+      "wrongAnswers": [
+        "Citizen science",
+        "Endangered species",
+        "Rewilding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Using resources at a rate that can continue over time?",
+      "correctAnswer": "Sustainable harvest",
+      "wrongAnswers": [
+        "Bioindicator",
+        "Threatened species",
+        "Protected area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Using a species or resource faster than it can recover?",
+      "correctAnswer": "Overexploitation",
+      "wrongAnswers": [
+        "Genetic diversity",
+        "Habitat fragmentation",
+        "Biodiversity hotspot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Public participation in scientific data collection?",
+      "correctAnswer": "Citizen science",
+      "wrongAnswers": [
+        "Habitat restoration",
+        "Corridor",
+        "Captive breeding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: A species used to show environmental conditions?",
+      "correctAnswer": "Bioindicator",
+      "wrongAnswers": [
+        "Conservation",
+        "Restoration ecology",
+        "In situ conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Variation in genes within a population or species?",
+      "correctAnswer": "Genetic diversity",
+      "wrongAnswers": [
+        "Endangered species",
+        "Rewilding",
+        "Ex situ conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Improving a damaged habitat so it can support life?",
+      "correctAnswer": "Habitat restoration",
+      "wrongAnswers": [
+        "Threatened species",
+        "Protected area",
+        "Pollinator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, which term means: Protecting species, habitats, and natural processes?",
+      "correctAnswer": "Conservation",
+      "wrongAnswers": [
+        "Habitat fragmentation",
+        "Biodiversity hotspot",
+        "Ecosystem service"
+      ],
+      "timeout": 15
+    }
+  ]
+}

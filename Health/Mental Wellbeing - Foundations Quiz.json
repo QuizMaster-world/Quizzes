@@ -1,0 +1,205 @@
+{
+  "title": "Mental Wellbeing Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Mental Wellbeing, what does \"Stress\" mean?",
+      "correctAnswer": "The body's response to pressure or demand",
+      "wrongAnswers": [
+        "A method used to manage stress or emotion",
+        "People who can provide help or connection",
+        "Exhaustion linked to prolonged stress or overload"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Resilience\" mean?",
+      "correctAnswer": "The ability to recover and adapt after difficulty",
+      "wrongAnswers": [
+        "Paying attention to the present moment without judgment",
+        "Listening with attention and showing understanding",
+        "Regularly noticing and appreciating positive things"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Coping strategy\" mean?",
+      "correctAnswer": "A method used to manage stress or emotion",
+      "wrongAnswers": [
+        "Habits that support healthy sleep",
+        "Understanding or sharing another person's feelings",
+        "A strategy for reconnecting attention to the present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Mindfulness\" mean?",
+      "correctAnswer": "Paying attention to the present moment without judgment",
+      "wrongAnswers": [
+        "A limit set to protect time, energy, or wellbeing",
+        "A state of worry or fear that can affect thoughts and body",
+        "Controlled breathing used to calm the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Sleep hygiene\" mean?",
+      "correctAnswer": "Habits that support healthy sleep",
+      "wrongAnswers": [
+        "Actions that support physical and mental health",
+        "A sustained emotional state",
+        "The belief that abilities can improve through effort and learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Boundary\" mean?",
+      "correctAnswer": "A limit set to protect time, energy, or wellbeing",
+      "wrongAnswers": [
+        "People who can provide help or connection",
+        "Exhaustion linked to prolonged stress or overload",
+        "The inner language people use toward themselves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Self-care\" mean?",
+      "correctAnswer": "Actions that support physical and mental health",
+      "wrongAnswers": [
+        "Listening with attention and showing understanding",
+        "Regularly noticing and appreciating positive things",
+        "Reaching out for support when needed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Support network\" mean?",
+      "correctAnswer": "People who can provide help or connection",
+      "wrongAnswers": [
+        "Understanding or sharing another person's feelings",
+        "A strategy for reconnecting attention to the present",
+        "A personal plan for maintaining mental and emotional health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Active listening\" mean?",
+      "correctAnswer": "Listening with attention and showing understanding",
+      "wrongAnswers": [
+        "A state of worry or fear that can affect thoughts and body",
+        "Controlled breathing used to calm the body",
+        "The body's response to pressure or demand"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Empathy\" mean?",
+      "correctAnswer": "Understanding or sharing another person's feelings",
+      "wrongAnswers": [
+        "A sustained emotional state",
+        "The belief that abilities can improve through effort and learning",
+        "The ability to recover and adapt after difficulty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Anxiety\" mean?",
+      "correctAnswer": "A state of worry or fear that can affect thoughts and body",
+      "wrongAnswers": [
+        "Exhaustion linked to prolonged stress or overload",
+        "The inner language people use toward themselves",
+        "A method used to manage stress or emotion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Mood\" mean?",
+      "correctAnswer": "A sustained emotional state",
+      "wrongAnswers": [
+        "Regularly noticing and appreciating positive things",
+        "Reaching out for support when needed",
+        "Paying attention to the present moment without judgment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Burnout\" mean?",
+      "correctAnswer": "Exhaustion linked to prolonged stress or overload",
+      "wrongAnswers": [
+        "A strategy for reconnecting attention to the present",
+        "A personal plan for maintaining mental and emotional health",
+        "Habits that support healthy sleep"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Gratitude practice\" mean?",
+      "correctAnswer": "Regularly noticing and appreciating positive things",
+      "wrongAnswers": [
+        "Controlled breathing used to calm the body",
+        "The body's response to pressure or demand",
+        "A limit set to protect time, energy, or wellbeing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Grounding technique\" mean?",
+      "correctAnswer": "A strategy for reconnecting attention to the present",
+      "wrongAnswers": [
+        "The belief that abilities can improve through effort and learning",
+        "The ability to recover and adapt after difficulty",
+        "Actions that support physical and mental health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Breathing exercise\" mean?",
+      "correctAnswer": "Controlled breathing used to calm the body",
+      "wrongAnswers": [
+        "The inner language people use toward themselves",
+        "A method used to manage stress or emotion",
+        "People who can provide help or connection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Growth mindset\" mean?",
+      "correctAnswer": "The belief that abilities can improve through effort and learning",
+      "wrongAnswers": [
+        "Reaching out for support when needed",
+        "Paying attention to the present moment without judgment",
+        "Listening with attention and showing understanding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Self-talk\" mean?",
+      "correctAnswer": "The inner language people use toward themselves",
+      "wrongAnswers": [
+        "A personal plan for maintaining mental and emotional health",
+        "Habits that support healthy sleep",
+        "Understanding or sharing another person's feelings"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Help-seeking\" mean?",
+      "correctAnswer": "Reaching out for support when needed",
+      "wrongAnswers": [
+        "The body's response to pressure or demand",
+        "A limit set to protect time, energy, or wellbeing",
+        "A state of worry or fear that can affect thoughts and body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Mental Wellbeing, what does \"Wellbeing plan\" mean?",
+      "correctAnswer": "A personal plan for maintaining mental and emotional health",
+      "wrongAnswers": [
+        "The ability to recover and adapt after difficulty",
+        "Actions that support physical and mental health",
+        "A sustained emotional state"
+      ],
+      "timeout": 15
+    }
+  ]
+}

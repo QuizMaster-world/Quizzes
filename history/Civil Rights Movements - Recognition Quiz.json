@@ -1,0 +1,205 @@
+{
+  "title": "Civil Rights Movements Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Boycott\" is correct?",
+      "correctAnswer": "Boycott: Refusing to buy or use something as protest",
+      "wrongAnswers": [
+        "Suffrage: The right to vote",
+        "Coalition: Groups working together for a shared goal",
+        "Reform: A change made to improve a system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sit-in\" is correct?",
+      "correctAnswer": "Sit-in: A protest where people occupy a space and refuse to leave",
+      "wrongAnswers": [
+        "Desegregation: Ending enforced separation of groups",
+        "Petition: A formal request supported by signatures",
+        "Human rights: Basic rights and freedoms considered to belong to all people"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"March\" is correct?",
+      "correctAnswer": "March: A public demonstration involving organized walking",
+      "wrongAnswers": [
+        "Equal protection: The principle that laws should protect people equally",
+        "Legal challenge: Using courts to contest a law or policy",
+        "Civil rights: Legal and social rights protecting equal participation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Nonviolent resistance\" is correct?",
+      "correctAnswer": "Nonviolent resistance: Opposing injustice without physical violence",
+      "wrongAnswers": [
+        "Grassroots organizing: Local community action to build change",
+        "Activist: A person who works to bring social or political change",
+        "Segregation: Enforced separation of groups in public or private life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Civil disobedience\" is correct?",
+      "correctAnswer": "Civil disobedience: Deliberately breaking an unjust law to challenge it",
+      "wrongAnswers": [
+        "Advocacy: Public support for a cause or policy",
+        "Ally: A supporter who helps a group facing injustice",
+        "Discrimination: Unfair treatment based on identity or group membership"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Suffrage\" is correct?",
+      "correctAnswer": "Suffrage: The right to vote",
+      "wrongAnswers": [
+        "Coalition: Groups working together for a shared goal",
+        "Reform: A change made to improve a system",
+        "Boycott: Refusing to buy or use something as protest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Desegregation\" is correct?",
+      "correctAnswer": "Desegregation: Ending enforced separation of groups",
+      "wrongAnswers": [
+        "Petition: A formal request supported by signatures",
+        "Human rights: Basic rights and freedoms considered to belong to all people",
+        "Sit-in: A protest where people occupy a space and refuse to leave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Equal protection\" is correct?",
+      "correctAnswer": "Equal protection: The principle that laws should protect people equally",
+      "wrongAnswers": [
+        "Legal challenge: Using courts to contest a law or policy",
+        "Civil rights: Legal and social rights protecting equal participation",
+        "March: A public demonstration involving organized walking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Grassroots organizing\" is correct?",
+      "correctAnswer": "Grassroots organizing: Local community action to build change",
+      "wrongAnswers": [
+        "Activist: A person who works to bring social or political change",
+        "Segregation: Enforced separation of groups in public or private life",
+        "Nonviolent resistance: Opposing injustice without physical violence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Advocacy\" is correct?",
+      "correctAnswer": "Advocacy: Public support for a cause or policy",
+      "wrongAnswers": [
+        "Ally: A supporter who helps a group facing injustice",
+        "Discrimination: Unfair treatment based on identity or group membership",
+        "Civil disobedience: Deliberately breaking an unjust law to challenge it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Coalition\" is correct?",
+      "correctAnswer": "Coalition: Groups working together for a shared goal",
+      "wrongAnswers": [
+        "Reform: A change made to improve a system",
+        "Boycott: Refusing to buy or use something as protest",
+        "Suffrage: The right to vote"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Petition\" is correct?",
+      "correctAnswer": "Petition: A formal request supported by signatures",
+      "wrongAnswers": [
+        "Human rights: Basic rights and freedoms considered to belong to all people",
+        "Sit-in: A protest where people occupy a space and refuse to leave",
+        "Desegregation: Ending enforced separation of groups"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Legal challenge\" is correct?",
+      "correctAnswer": "Legal challenge: Using courts to contest a law or policy",
+      "wrongAnswers": [
+        "Civil rights: Legal and social rights protecting equal participation",
+        "March: A public demonstration involving organized walking",
+        "Equal protection: The principle that laws should protect people equally"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Activist\" is correct?",
+      "correctAnswer": "Activist: A person who works to bring social or political change",
+      "wrongAnswers": [
+        "Segregation: Enforced separation of groups in public or private life",
+        "Nonviolent resistance: Opposing injustice without physical violence",
+        "Grassroots organizing: Local community action to build change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ally\" is correct?",
+      "correctAnswer": "Ally: A supporter who helps a group facing injustice",
+      "wrongAnswers": [
+        "Discrimination: Unfair treatment based on identity or group membership",
+        "Civil disobedience: Deliberately breaking an unjust law to challenge it",
+        "Advocacy: Public support for a cause or policy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Reform\" is correct?",
+      "correctAnswer": "Reform: A change made to improve a system",
+      "wrongAnswers": [
+        "Boycott: Refusing to buy or use something as protest",
+        "Suffrage: The right to vote",
+        "Coalition: Groups working together for a shared goal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Human rights\" is correct?",
+      "correctAnswer": "Human rights: Basic rights and freedoms considered to belong to all people",
+      "wrongAnswers": [
+        "Sit-in: A protest where people occupy a space and refuse to leave",
+        "Desegregation: Ending enforced separation of groups",
+        "Petition: A formal request supported by signatures"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Civil rights\" is correct?",
+      "correctAnswer": "Civil rights: Legal and social rights protecting equal participation",
+      "wrongAnswers": [
+        "March: A public demonstration involving organized walking",
+        "Equal protection: The principle that laws should protect people equally",
+        "Legal challenge: Using courts to contest a law or policy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Segregation\" is correct?",
+      "correctAnswer": "Segregation: Enforced separation of groups in public or private life",
+      "wrongAnswers": [
+        "Nonviolent resistance: Opposing injustice without physical violence",
+        "Grassroots organizing: Local community action to build change",
+        "Activist: A person who works to bring social or political change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Discrimination\" is correct?",
+      "correctAnswer": "Discrimination: Unfair treatment based on identity or group membership",
+      "wrongAnswers": [
+        "Civil disobedience: Deliberately breaking an unjust law to challenge it",
+        "Advocacy: Public support for a cause or policy",
+        "Ally: A supporter who helps a group facing injustice"
+      ],
+      "timeout": 15
+    }
+  ]
+}

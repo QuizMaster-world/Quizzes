@@ -1,0 +1,205 @@
+{
+  "title": "UI and UX Design Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In UI and UX Design, which term means: The overall experience a person has using a product?",
+      "correctAnswer": "User experience",
+      "wrongAnswers": [
+        "Wireframe",
+        "Affordance",
+        "Consistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A research-based profile representing a user type?",
+      "correctAnswer": "Persona",
+      "wrongAnswers": [
+        "Prototype",
+        "Feedback",
+        "Error state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: The steps a user takes to reach a goal?",
+      "correctAnswer": "User journey",
+      "wrongAnswers": [
+        "Usability testing",
+        "Accessibility",
+        "Empty state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A low-detail layout plan for an interface?",
+      "correctAnswer": "Wireframe",
+      "wrongAnswers": [
+        "Information architecture",
+        "Contrast",
+        "Onboarding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: An interactive or visual model used to test a design?",
+      "correctAnswer": "Prototype",
+      "wrongAnswers": [
+        "Navigation",
+        "Hierarchy",
+        "Microcopy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Observing users to find design problems?",
+      "correctAnswer": "Usability testing",
+      "wrongAnswers": [
+        "Affordance",
+        "Consistency",
+        "Design system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Organizing content so people can find and understand it?",
+      "correctAnswer": "Information architecture",
+      "wrongAnswers": [
+        "Feedback",
+        "Error state",
+        "User interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Controls that help users move through a product?",
+      "correctAnswer": "Navigation",
+      "wrongAnswers": [
+        "Accessibility",
+        "Empty state",
+        "User experience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A cue that suggests how something can be used?",
+      "correctAnswer": "Affordance",
+      "wrongAnswers": [
+        "Contrast",
+        "Onboarding",
+        "Persona"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A system response that confirms an action or state?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Hierarchy",
+        "Microcopy",
+        "User journey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Designing products for people with varied abilities?",
+      "correctAnswer": "Accessibility",
+      "wrongAnswers": [
+        "Consistency",
+        "Design system",
+        "Wireframe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A visual difference that helps elements stand apart?",
+      "correctAnswer": "Contrast",
+      "wrongAnswers": [
+        "Error state",
+        "User interface",
+        "Prototype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Arranging elements to show importance?",
+      "correctAnswer": "Hierarchy",
+      "wrongAnswers": [
+        "Empty state",
+        "User experience",
+        "Usability testing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Using familiar patterns across an interface?",
+      "correctAnswer": "Consistency",
+      "wrongAnswers": [
+        "Onboarding",
+        "Persona",
+        "Information architecture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A design state that communicates a problem?",
+      "correctAnswer": "Error state",
+      "wrongAnswers": [
+        "Microcopy",
+        "User journey",
+        "Navigation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A design state shown when there is no content yet?",
+      "correctAnswer": "Empty state",
+      "wrongAnswers": [
+        "Design system",
+        "Wireframe",
+        "Affordance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Helping new users begin using a product?",
+      "correctAnswer": "Onboarding",
+      "wrongAnswers": [
+        "User interface",
+        "Prototype",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: Short interface text that guides users?",
+      "correctAnswer": "Microcopy",
+      "wrongAnswers": [
+        "User experience",
+        "Usability testing",
+        "Accessibility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: A shared set of reusable design rules and components?",
+      "correctAnswer": "Design system",
+      "wrongAnswers": [
+        "Persona",
+        "Information architecture",
+        "Contrast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, which term means: The visible and interactive parts of a product?",
+      "correctAnswer": "User interface",
+      "wrongAnswers": [
+        "User journey",
+        "Navigation",
+        "Hierarchy"
+      ],
+      "timeout": 15
+    }
+  ]
+}

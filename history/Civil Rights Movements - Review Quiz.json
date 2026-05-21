@@ -1,0 +1,205 @@
+{
+  "title": "Civil Rights Movements Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Sit-in\" in Civil Rights Movements.",
+      "correctAnswer": "A protest where people occupy a space and refuse to leave",
+      "wrongAnswers": [
+        "The principle that laws should protect people equally",
+        "Using courts to contest a law or policy",
+        "Legal and social rights protecting equal participation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"March\" in Civil Rights Movements.",
+      "correctAnswer": "A public demonstration involving organized walking",
+      "wrongAnswers": [
+        "Local community action to build change",
+        "A person who works to bring social or political change",
+        "Enforced separation of groups in public or private life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Nonviolent resistance\" in Civil Rights Movements.",
+      "correctAnswer": "Opposing injustice without physical violence",
+      "wrongAnswers": [
+        "Public support for a cause or policy",
+        "A supporter who helps a group facing injustice",
+        "Unfair treatment based on identity or group membership"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Civil disobedience\" in Civil Rights Movements.",
+      "correctAnswer": "Deliberately breaking an unjust law to challenge it",
+      "wrongAnswers": [
+        "Groups working together for a shared goal",
+        "A change made to improve a system",
+        "Refusing to buy or use something as protest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Suffrage\" in Civil Rights Movements.",
+      "correctAnswer": "The right to vote",
+      "wrongAnswers": [
+        "A formal request supported by signatures",
+        "Basic rights and freedoms considered to belong to all people",
+        "A protest where people occupy a space and refuse to leave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Desegregation\" in Civil Rights Movements.",
+      "correctAnswer": "Ending enforced separation of groups",
+      "wrongAnswers": [
+        "Using courts to contest a law or policy",
+        "Legal and social rights protecting equal participation",
+        "A public demonstration involving organized walking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Equal protection\" in Civil Rights Movements.",
+      "correctAnswer": "The principle that laws should protect people equally",
+      "wrongAnswers": [
+        "A person who works to bring social or political change",
+        "Enforced separation of groups in public or private life",
+        "Opposing injustice without physical violence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Grassroots organizing\" in Civil Rights Movements.",
+      "correctAnswer": "Local community action to build change",
+      "wrongAnswers": [
+        "A supporter who helps a group facing injustice",
+        "Unfair treatment based on identity or group membership",
+        "Deliberately breaking an unjust law to challenge it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Advocacy\" in Civil Rights Movements.",
+      "correctAnswer": "Public support for a cause or policy",
+      "wrongAnswers": [
+        "A change made to improve a system",
+        "Refusing to buy or use something as protest",
+        "The right to vote"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Coalition\" in Civil Rights Movements.",
+      "correctAnswer": "Groups working together for a shared goal",
+      "wrongAnswers": [
+        "Basic rights and freedoms considered to belong to all people",
+        "A protest where people occupy a space and refuse to leave",
+        "Ending enforced separation of groups"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Petition\" in Civil Rights Movements.",
+      "correctAnswer": "A formal request supported by signatures",
+      "wrongAnswers": [
+        "Legal and social rights protecting equal participation",
+        "A public demonstration involving organized walking",
+        "The principle that laws should protect people equally"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Legal challenge\" in Civil Rights Movements.",
+      "correctAnswer": "Using courts to contest a law or policy",
+      "wrongAnswers": [
+        "Enforced separation of groups in public or private life",
+        "Opposing injustice without physical violence",
+        "Local community action to build change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Activist\" in Civil Rights Movements.",
+      "correctAnswer": "A person who works to bring social or political change",
+      "wrongAnswers": [
+        "Unfair treatment based on identity or group membership",
+        "Deliberately breaking an unjust law to challenge it",
+        "Public support for a cause or policy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ally\" in Civil Rights Movements.",
+      "correctAnswer": "A supporter who helps a group facing injustice",
+      "wrongAnswers": [
+        "Refusing to buy or use something as protest",
+        "The right to vote",
+        "Groups working together for a shared goal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Reform\" in Civil Rights Movements.",
+      "correctAnswer": "A change made to improve a system",
+      "wrongAnswers": [
+        "A protest where people occupy a space and refuse to leave",
+        "Ending enforced separation of groups",
+        "A formal request supported by signatures"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Human rights\" in Civil Rights Movements.",
+      "correctAnswer": "Basic rights and freedoms considered to belong to all people",
+      "wrongAnswers": [
+        "A public demonstration involving organized walking",
+        "The principle that laws should protect people equally",
+        "Using courts to contest a law or policy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Civil rights\" in Civil Rights Movements.",
+      "correctAnswer": "Legal and social rights protecting equal participation",
+      "wrongAnswers": [
+        "Opposing injustice without physical violence",
+        "Local community action to build change",
+        "A person who works to bring social or political change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Segregation\" in Civil Rights Movements.",
+      "correctAnswer": "Enforced separation of groups in public or private life",
+      "wrongAnswers": [
+        "Deliberately breaking an unjust law to challenge it",
+        "Public support for a cause or policy",
+        "A supporter who helps a group facing injustice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Discrimination\" in Civil Rights Movements.",
+      "correctAnswer": "Unfair treatment based on identity or group membership",
+      "wrongAnswers": [
+        "The right to vote",
+        "Groups working together for a shared goal",
+        "A change made to improve a system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Boycott\" in Civil Rights Movements.",
+      "correctAnswer": "Refusing to buy or use something as protest",
+      "wrongAnswers": [
+        "Ending enforced separation of groups",
+        "A formal request supported by signatures",
+        "Basic rights and freedoms considered to belong to all people"
+      ],
+      "timeout": 15
+    }
+  ]
+}

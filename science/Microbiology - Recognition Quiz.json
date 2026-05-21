@@ -1,0 +1,205 @@
+{
+  "title": "Microbiology Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Protozoan\" is correct?",
+      "correctAnswer": "Protozoan: A single-celled eukaryotic microorganism",
+      "wrongAnswers": [
+        "Culture: Microbes grown under controlled conditions",
+        "Gram stain: A staining method that helps classify bacteria",
+        "Host cell: A cell used by a virus or microbe to reproduce"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Microbiome\" is correct?",
+      "correctAnswer": "Microbiome: The community of microorganisms living in an environment",
+      "wrongAnswers": [
+        "Petri dish: A shallow dish used to grow microorganisms",
+        "Colony: A visible group of microbes growing from cells",
+        "Biofilm: A surface-attached community of microorganisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pathogen\" is correct?",
+      "correctAnswer": "Pathogen: A microbe or agent that can cause disease",
+      "wrongAnswers": [
+        "Aseptic technique: Methods used to prevent unwanted contamination",
+        "Fermentation: Microbial metabolism that produces useful products without oxygen",
+        "Bacterium: A single-celled organism without a nucleus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Antibiotic\" is correct?",
+      "correctAnswer": "Antibiotic: A drug used to treat bacterial infections",
+      "wrongAnswers": [
+        "Sterilization: Destroying or removing all living microbes",
+        "Yeast: A single-celled fungus often used in baking and brewing",
+        "Virus: An infectious particle that replicates inside host cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Antibiotic resistance\" is correct?",
+      "correctAnswer": "Antibiotic resistance: The ability of bacteria to survive an antibiotic",
+      "wrongAnswers": [
+        "Disinfectant: A chemical used to reduce microbes on surfaces",
+        "Capsid: The protein coat around a virus",
+        "Fungus: An organism group that includes yeasts and molds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Culture\" is correct?",
+      "correctAnswer": "Culture: Microbes grown under controlled conditions",
+      "wrongAnswers": [
+        "Gram stain: A staining method that helps classify bacteria",
+        "Host cell: A cell used by a virus or microbe to reproduce",
+        "Protozoan: A single-celled eukaryotic microorganism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Petri dish\" is correct?",
+      "correctAnswer": "Petri dish: A shallow dish used to grow microorganisms",
+      "wrongAnswers": [
+        "Colony: A visible group of microbes growing from cells",
+        "Biofilm: A surface-attached community of microorganisms",
+        "Microbiome: The community of microorganisms living in an environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Aseptic technique\" is correct?",
+      "correctAnswer": "Aseptic technique: Methods used to prevent unwanted contamination",
+      "wrongAnswers": [
+        "Fermentation: Microbial metabolism that produces useful products without oxygen",
+        "Bacterium: A single-celled organism without a nucleus",
+        "Pathogen: A microbe or agent that can cause disease"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sterilization\" is correct?",
+      "correctAnswer": "Sterilization: Destroying or removing all living microbes",
+      "wrongAnswers": [
+        "Yeast: A single-celled fungus often used in baking and brewing",
+        "Virus: An infectious particle that replicates inside host cells",
+        "Antibiotic: A drug used to treat bacterial infections"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Disinfectant\" is correct?",
+      "correctAnswer": "Disinfectant: A chemical used to reduce microbes on surfaces",
+      "wrongAnswers": [
+        "Capsid: The protein coat around a virus",
+        "Fungus: An organism group that includes yeasts and molds",
+        "Antibiotic resistance: The ability of bacteria to survive an antibiotic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gram stain\" is correct?",
+      "correctAnswer": "Gram stain: A staining method that helps classify bacteria",
+      "wrongAnswers": [
+        "Host cell: A cell used by a virus or microbe to reproduce",
+        "Protozoan: A single-celled eukaryotic microorganism",
+        "Culture: Microbes grown under controlled conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Colony\" is correct?",
+      "correctAnswer": "Colony: A visible group of microbes growing from cells",
+      "wrongAnswers": [
+        "Biofilm: A surface-attached community of microorganisms",
+        "Microbiome: The community of microorganisms living in an environment",
+        "Petri dish: A shallow dish used to grow microorganisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fermentation\" is correct?",
+      "correctAnswer": "Fermentation: Microbial metabolism that produces useful products without oxygen",
+      "wrongAnswers": [
+        "Bacterium: A single-celled organism without a nucleus",
+        "Pathogen: A microbe or agent that can cause disease",
+        "Aseptic technique: Methods used to prevent unwanted contamination"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Yeast\" is correct?",
+      "correctAnswer": "Yeast: A single-celled fungus often used in baking and brewing",
+      "wrongAnswers": [
+        "Virus: An infectious particle that replicates inside host cells",
+        "Antibiotic: A drug used to treat bacterial infections",
+        "Sterilization: Destroying or removing all living microbes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Capsid\" is correct?",
+      "correctAnswer": "Capsid: The protein coat around a virus",
+      "wrongAnswers": [
+        "Fungus: An organism group that includes yeasts and molds",
+        "Antibiotic resistance: The ability of bacteria to survive an antibiotic",
+        "Disinfectant: A chemical used to reduce microbes on surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Host cell\" is correct?",
+      "correctAnswer": "Host cell: A cell used by a virus or microbe to reproduce",
+      "wrongAnswers": [
+        "Protozoan: A single-celled eukaryotic microorganism",
+        "Culture: Microbes grown under controlled conditions",
+        "Gram stain: A staining method that helps classify bacteria"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Biofilm\" is correct?",
+      "correctAnswer": "Biofilm: A surface-attached community of microorganisms",
+      "wrongAnswers": [
+        "Microbiome: The community of microorganisms living in an environment",
+        "Petri dish: A shallow dish used to grow microorganisms",
+        "Colony: A visible group of microbes growing from cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Bacterium\" is correct?",
+      "correctAnswer": "Bacterium: A single-celled organism without a nucleus",
+      "wrongAnswers": [
+        "Pathogen: A microbe or agent that can cause disease",
+        "Aseptic technique: Methods used to prevent unwanted contamination",
+        "Fermentation: Microbial metabolism that produces useful products without oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Virus\" is correct?",
+      "correctAnswer": "Virus: An infectious particle that replicates inside host cells",
+      "wrongAnswers": [
+        "Antibiotic: A drug used to treat bacterial infections",
+        "Sterilization: Destroying or removing all living microbes",
+        "Yeast: A single-celled fungus often used in baking and brewing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fungus\" is correct?",
+      "correctAnswer": "Fungus: An organism group that includes yeasts and molds",
+      "wrongAnswers": [
+        "Antibiotic resistance: The ability of bacteria to survive an antibiotic",
+        "Disinfectant: A chemical used to reduce microbes on surfaces",
+        "Capsid: The protein coat around a virus"
+      ],
+      "timeout": 15
+    }
+  ]
+}

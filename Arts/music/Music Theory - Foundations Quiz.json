@@ -1,0 +1,205 @@
+{
+  "title": "Music Theory Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Music Theory, what does \"Pitch\" mean?",
+      "correctAnswer": "How high or low a sound is perceived",
+      "wrongAnswers": [
+        "The regular pulse in music",
+        "The combination of notes sounded together",
+        "How loud or soft music is played"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Rhythm\" mean?",
+      "correctAnswer": "The pattern of sounds and silences in time",
+      "wrongAnswers": [
+        "The speed of the beat",
+        "Three or more notes sounded together",
+        "The tone color or quality of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Beat\" mean?",
+      "correctAnswer": "The regular pulse in music",
+      "wrongAnswers": [
+        "The grouping of beats into repeating patterns",
+        "An ordered set of pitches",
+        "How notes are started, connected, or separated"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Tempo\" mean?",
+      "correctAnswer": "The speed of the beat",
+      "wrongAnswers": [
+        "A segment of music containing a set number of beats",
+        "The tonal center of a piece of music",
+        "Smoothly connected notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Meter\" mean?",
+      "correctAnswer": "The grouping of beats into repeating patterns",
+      "wrongAnswers": [
+        "A sequence of pitches heard as a musical line",
+        "The distance between two pitches",
+        "Short separated notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Measure\" mean?",
+      "correctAnswer": "A segment of music containing a set number of beats",
+      "wrongAnswers": [
+        "The combination of notes sounded together",
+        "How loud or soft music is played",
+        "A musical ending or point of rest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Melody\" mean?",
+      "correctAnswer": "A sequence of pitches heard as a musical line",
+      "wrongAnswers": [
+        "Three or more notes sounded together",
+        "The tone color or quality of a sound",
+        "A short recurring musical idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Harmony\" mean?",
+      "correctAnswer": "The combination of notes sounded together",
+      "wrongAnswers": [
+        "An ordered set of pitches",
+        "How notes are started, connected, or separated",
+        "Creating music spontaneously while performing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Chord\" mean?",
+      "correctAnswer": "Three or more notes sounded together",
+      "wrongAnswers": [
+        "The tonal center of a piece of music",
+        "Smoothly connected notes",
+        "How high or low a sound is perceived"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Scale\" mean?",
+      "correctAnswer": "An ordered set of pitches",
+      "wrongAnswers": [
+        "The distance between two pitches",
+        "Short separated notes",
+        "The pattern of sounds and silences in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Key\" mean?",
+      "correctAnswer": "The tonal center of a piece of music",
+      "wrongAnswers": [
+        "How loud or soft music is played",
+        "A musical ending or point of rest",
+        "The regular pulse in music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Interval\" mean?",
+      "correctAnswer": "The distance between two pitches",
+      "wrongAnswers": [
+        "The tone color or quality of a sound",
+        "A short recurring musical idea",
+        "The speed of the beat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Dynamics\" mean?",
+      "correctAnswer": "How loud or soft music is played",
+      "wrongAnswers": [
+        "How notes are started, connected, or separated",
+        "Creating music spontaneously while performing",
+        "The grouping of beats into repeating patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Timbre\" mean?",
+      "correctAnswer": "The tone color or quality of a sound",
+      "wrongAnswers": [
+        "Smoothly connected notes",
+        "How high or low a sound is perceived",
+        "A segment of music containing a set number of beats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Articulation\" mean?",
+      "correctAnswer": "How notes are started, connected, or separated",
+      "wrongAnswers": [
+        "Short separated notes",
+        "The pattern of sounds and silences in time",
+        "A sequence of pitches heard as a musical line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Legato\" mean?",
+      "correctAnswer": "Smoothly connected notes",
+      "wrongAnswers": [
+        "A musical ending or point of rest",
+        "The regular pulse in music",
+        "The combination of notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Staccato\" mean?",
+      "correctAnswer": "Short separated notes",
+      "wrongAnswers": [
+        "A short recurring musical idea",
+        "The speed of the beat",
+        "Three or more notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Cadence\" mean?",
+      "correctAnswer": "A musical ending or point of rest",
+      "wrongAnswers": [
+        "Creating music spontaneously while performing",
+        "The grouping of beats into repeating patterns",
+        "An ordered set of pitches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Motif\" mean?",
+      "correctAnswer": "A short recurring musical idea",
+      "wrongAnswers": [
+        "How high or low a sound is perceived",
+        "A segment of music containing a set number of beats",
+        "The tonal center of a piece of music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, what does \"Improvisation\" mean?",
+      "correctAnswer": "Creating music spontaneously while performing",
+      "wrongAnswers": [
+        "The pattern of sounds and silences in time",
+        "A sequence of pitches heard as a musical line",
+        "The distance between two pitches"
+      ],
+      "timeout": 15
+    }
+  ]
+}

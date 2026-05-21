@@ -1,0 +1,205 @@
+{
+  "title": "Digital Media Production Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Digital Media Production concept is described by this clue: The proportional relationship between width and height?",
+      "correctAnswer": "Aspect ratio",
+      "wrongAnswers": [
+        "Voice-over",
+        "Compression",
+        "Keyframe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A sequence of drawings or panels planning visual scenes?",
+      "correctAnswer": "Storyboard",
+      "wrongAnswers": [
+        "Cut",
+        "Codec",
+        "Mask"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A planned list of camera shots for production?",
+      "correctAnswer": "Shot list",
+      "wrongAnswers": [
+        "Fade",
+        "Bitrate",
+        "Export"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Supplementary footage used to support the main footage?",
+      "correctAnswer": "B-roll",
+      "wrongAnswers": [
+        "Color grading",
+        "Timeline",
+        "Copyright"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Narration recorded over visuals?",
+      "correctAnswer": "Voice-over",
+      "wrongAnswers": [
+        "White balance",
+        "Layer",
+        "Resolution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A direct transition from one shot to another?",
+      "correctAnswer": "Cut",
+      "wrongAnswers": [
+        "Compression",
+        "Keyframe",
+        "Frame rate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A gradual transition to or from an image or sound?",
+      "correctAnswer": "Fade",
+      "wrongAnswers": [
+        "Codec",
+        "Mask",
+        "Aspect ratio"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Adjusting color and tone for style and consistency?",
+      "correctAnswer": "Color grading",
+      "wrongAnswers": [
+        "Bitrate",
+        "Export",
+        "Storyboard"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Adjusting color so whites appear neutral?",
+      "correctAnswer": "White balance",
+      "wrongAnswers": [
+        "Timeline",
+        "Copyright",
+        "Shot list"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Reducing media file size through encoding?",
+      "correctAnswer": "Compression",
+      "wrongAnswers": [
+        "Layer",
+        "Resolution",
+        "B-roll"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Software or method used to encode and decode media?",
+      "correctAnswer": "Codec",
+      "wrongAnswers": [
+        "Keyframe",
+        "Frame rate",
+        "Voice-over"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: The amount of data used per second of media?",
+      "correctAnswer": "Bitrate",
+      "wrongAnswers": [
+        "Mask",
+        "Aspect ratio",
+        "Cut"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: The editing workspace where clips are arranged over time?",
+      "correctAnswer": "Timeline",
+      "wrongAnswers": [
+        "Export",
+        "Storyboard",
+        "Fade"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A separate visual or audio element stacked with others?",
+      "correctAnswer": "Layer",
+      "wrongAnswers": [
+        "Copyright",
+        "Shot list",
+        "Color grading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A marker defining a property value at a point in time?",
+      "correctAnswer": "Keyframe",
+      "wrongAnswers": [
+        "Resolution",
+        "B-roll",
+        "White balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: A shape used to hide or reveal part of a layer?",
+      "correctAnswer": "Mask",
+      "wrongAnswers": [
+        "Frame rate",
+        "Voice-over",
+        "Compression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Rendering a finished media file from a project?",
+      "correctAnswer": "Export",
+      "wrongAnswers": [
+        "Aspect ratio",
+        "Cut",
+        "Codec"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: Legal protection for creative works?",
+      "correctAnswer": "Copyright",
+      "wrongAnswers": [
+        "Storyboard",
+        "Fade",
+        "Bitrate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: The detail of an image or video measured by pixel dimensions?",
+      "correctAnswer": "Resolution",
+      "wrongAnswers": [
+        "Shot list",
+        "Color grading",
+        "Timeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Digital Media Production concept is described by this clue: How many video frames are shown each second?",
+      "correctAnswer": "Frame rate",
+      "wrongAnswers": [
+        "B-roll",
+        "White balance",
+        "Layer"
+      ],
+      "timeout": 15
+    }
+  ]
+}

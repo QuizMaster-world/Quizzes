@@ -1,0 +1,205 @@
+{
+  "title": "Earth Science Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Earth Science concept is described by this clue: A softer mantle layer beneath the lithosphere?",
+      "correctAnswer": "Asthenosphere",
+      "wrongAnswers": [
+        "Sedimentary rock",
+        "Fault",
+        "Strata"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Molten rock beneath Earth's surface?",
+      "correctAnswer": "Magma",
+      "wrongAnswers": [
+        "Metamorphic rock",
+        "Epicenter",
+        "Rock cycle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Molten rock that reaches Earth's surface?",
+      "correctAnswer": "Lava",
+      "wrongAnswers": [
+        "Weathering",
+        "Seismic wave",
+        "Mantle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Rock formed from cooled molten material?",
+      "correctAnswer": "Igneous rock",
+      "wrongAnswers": [
+        "Erosion",
+        "Volcano",
+        "Core"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Rock formed from compacted sediment?",
+      "correctAnswer": "Sedimentary rock",
+      "wrongAnswers": [
+        "Deposition",
+        "Fossil",
+        "Plate tectonics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Rock changed by heat, pressure, or fluids?",
+      "correctAnswer": "Metamorphic rock",
+      "wrongAnswers": [
+        "Fault",
+        "Strata",
+        "Lithosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Breaking down rock at Earth's surface?",
+      "correctAnswer": "Weathering",
+      "wrongAnswers": [
+        "Epicenter",
+        "Rock cycle",
+        "Asthenosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Moving weathered material by water, wind, ice, or gravity?",
+      "correctAnswer": "Erosion",
+      "wrongAnswers": [
+        "Seismic wave",
+        "Mantle",
+        "Magma"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Dropping sediment in a new location?",
+      "correctAnswer": "Deposition",
+      "wrongAnswers": [
+        "Volcano",
+        "Core",
+        "Lava"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: A fracture where rocks have moved?",
+      "correctAnswer": "Fault",
+      "wrongAnswers": [
+        "Fossil",
+        "Plate tectonics",
+        "Igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: The surface point above an earthquake focus?",
+      "correctAnswer": "Epicenter",
+      "wrongAnswers": [
+        "Strata",
+        "Lithosphere",
+        "Sedimentary rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Energy wave produced by an earthquake?",
+      "correctAnswer": "Seismic wave",
+      "wrongAnswers": [
+        "Rock cycle",
+        "Asthenosphere",
+        "Metamorphic rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: An opening where molten material and gases may erupt?",
+      "correctAnswer": "Volcano",
+      "wrongAnswers": [
+        "Mantle",
+        "Magma",
+        "Weathering"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Preserved evidence of past life?",
+      "correctAnswer": "Fossil",
+      "wrongAnswers": [
+        "Core",
+        "Lava",
+        "Erosion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Layers of sedimentary rock?",
+      "correctAnswer": "Strata",
+      "wrongAnswers": [
+        "Plate tectonics",
+        "Igneous rock",
+        "Deposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: The processes that transform rocks among major types?",
+      "correctAnswer": "Rock cycle",
+      "wrongAnswers": [
+        "Lithosphere",
+        "Sedimentary rock",
+        "Fault"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: The thick layer of Earth between crust and core?",
+      "correctAnswer": "Mantle",
+      "wrongAnswers": [
+        "Asthenosphere",
+        "Metamorphic rock",
+        "Epicenter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Earth's central region rich in iron and nickel?",
+      "correctAnswer": "Core",
+      "wrongAnswers": [
+        "Magma",
+        "Weathering",
+        "Seismic wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: The theory that Earth's outer shell is divided into moving plates?",
+      "correctAnswer": "Plate tectonics",
+      "wrongAnswers": [
+        "Lava",
+        "Erosion",
+        "Volcano"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Earth Science concept is described by this clue: Earth's rigid outer layer of crust and upper mantle?",
+      "correctAnswer": "Lithosphere",
+      "wrongAnswers": [
+        "Igneous rock",
+        "Deposition",
+        "Fossil"
+      ],
+      "timeout": 15
+    }
+  ]
+}

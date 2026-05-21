@@ -1,0 +1,205 @@
+{
+  "title": "First Aid Basics Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A side-lying position used for an unconscious breathing person?",
+      "correctAnswer": "Recovery position",
+      "wrongAnswers": [
+        "Pressure bandage",
+        "Choking",
+        "Consent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Chest compressions and rescue breaths used during cardiac arrest?",
+      "correctAnswer": "CPR",
+      "wrongAnswers": [
+        "Burn cooling",
+        "Allergic reaction",
+        "Scene safety"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A device that can deliver a shock to restart a normal heart rhythm?",
+      "correctAnswer": "AED",
+      "wrongAnswers": [
+        "Sprain",
+        "Epinephrine auto-injector",
+        "Universal precautions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Actions used to slow or stop blood loss?",
+      "correctAnswer": "Bleeding control",
+      "wrongAnswers": [
+        "Fracture",
+        "Poisoning",
+        "Incident report"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A bandage that applies pressure to a wound?",
+      "correctAnswer": "Pressure bandage",
+      "wrongAnswers": [
+        "Shock",
+        "Emergency services",
+        "First aid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Using cool running water to reduce burn injury?",
+      "correctAnswer": "Burn cooling",
+      "wrongAnswers": [
+        "Choking",
+        "Consent",
+        "Primary survey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: An injury to ligaments around a joint?",
+      "correctAnswer": "Sprain",
+      "wrongAnswers": [
+        "Allergic reaction",
+        "Scene safety",
+        "Recovery position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A break or crack in a bone?",
+      "correctAnswer": "Fracture",
+      "wrongAnswers": [
+        "Epinephrine auto-injector",
+        "Universal precautions",
+        "CPR"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A dangerous condition where organs do not get enough blood flow?",
+      "correctAnswer": "Shock",
+      "wrongAnswers": [
+        "Poisoning",
+        "Incident report",
+        "AED"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Airway blockage that prevents normal breathing?",
+      "correctAnswer": "Choking",
+      "wrongAnswers": [
+        "Emergency services",
+        "First aid",
+        "Bleeding control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: An immune response that can range from mild to severe?",
+      "correctAnswer": "Allergic reaction",
+      "wrongAnswers": [
+        "Consent",
+        "Primary survey",
+        "Pressure bandage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A device used for severe allergic reactions?",
+      "correctAnswer": "Epinephrine auto-injector",
+      "wrongAnswers": [
+        "Scene safety",
+        "Recovery position",
+        "Burn cooling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Harm caused by swallowing, inhaling, or touching a toxic substance?",
+      "correctAnswer": "Poisoning",
+      "wrongAnswers": [
+        "Universal precautions",
+        "CPR",
+        "Sprain"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Professional responders contacted during serious incidents?",
+      "correctAnswer": "Emergency services",
+      "wrongAnswers": [
+        "Incident report",
+        "AED",
+        "Fracture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Permission from a conscious person before giving aid?",
+      "correctAnswer": "Consent",
+      "wrongAnswers": [
+        "First aid",
+        "Bleeding control",
+        "Shock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Checking that it is safe to approach and help?",
+      "correctAnswer": "Scene safety",
+      "wrongAnswers": [
+        "Primary survey",
+        "Pressure bandage",
+        "Choking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Steps used to reduce contact with bodily fluids?",
+      "correctAnswer": "Universal precautions",
+      "wrongAnswers": [
+        "Recovery position",
+        "Burn cooling",
+        "Allergic reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A record of what happened and what aid was given?",
+      "correctAnswer": "Incident report",
+      "wrongAnswers": [
+        "CPR",
+        "Sprain",
+        "Epinephrine auto-injector"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: Immediate help given to someone who is ill or injured?",
+      "correctAnswer": "First aid",
+      "wrongAnswers": [
+        "AED",
+        "Fracture",
+        "Poisoning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which First Aid Basics concept is described by this clue: A quick check for life-threatening problems?",
+      "correctAnswer": "Primary survey",
+      "wrongAnswers": [
+        "Bleeding control",
+        "Shock",
+        "Emergency services"
+      ],
+      "timeout": 15
+    }
+  ]
+}

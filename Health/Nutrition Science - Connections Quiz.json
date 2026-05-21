@@ -1,0 +1,205 @@
+{
+  "title": "Nutrition Science Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A nutrient that stores energy and supports cell functions?",
+      "correctAnswer": "Fat",
+      "wrongAnswers": [
+        "Hydration",
+        "Iron",
+        "Trans fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: An organic micronutrient needed in small amounts?",
+      "correctAnswer": "Vitamin",
+      "wrongAnswers": [
+        "Balanced diet",
+        "Vitamin C",
+        "Food label"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: An inorganic micronutrient needed for body functions?",
+      "correctAnswer": "Mineral",
+      "wrongAnswers": [
+        "Macronutrient",
+        "Vitamin D",
+        "Portion size"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: Plant material that supports digestion?",
+      "correctAnswer": "Fiber",
+      "wrongAnswers": [
+        "Micronutrient",
+        "Unsaturated fat",
+        "Food allergy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: Maintaining enough water in the body?",
+      "correctAnswer": "Hydration",
+      "wrongAnswers": [
+        "Calcium",
+        "Saturated fat",
+        "Carbohydrate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: Eating a variety of foods in appropriate amounts?",
+      "correctAnswer": "Balanced diet",
+      "wrongAnswers": [
+        "Iron",
+        "Trans fat",
+        "Protein"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A nutrient needed in larger amounts?",
+      "correctAnswer": "Macronutrient",
+      "wrongAnswers": [
+        "Vitamin C",
+        "Food label",
+        "Fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A nutrient needed in smaller amounts?",
+      "correctAnswer": "Micronutrient",
+      "wrongAnswers": [
+        "Vitamin D",
+        "Portion size",
+        "Vitamin"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A mineral important for bones, teeth, and muscle function?",
+      "correctAnswer": "Calcium",
+      "wrongAnswers": [
+        "Unsaturated fat",
+        "Food allergy",
+        "Mineral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A mineral needed for oxygen transport in blood?",
+      "correctAnswer": "Iron",
+      "wrongAnswers": [
+        "Saturated fat",
+        "Carbohydrate",
+        "Fiber"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A vitamin involved in tissue repair and immune function?",
+      "correctAnswer": "Vitamin C",
+      "wrongAnswers": [
+        "Trans fat",
+        "Protein",
+        "Hydration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A vitamin important for calcium regulation and bone health?",
+      "correctAnswer": "Vitamin D",
+      "wrongAnswers": [
+        "Food label",
+        "Fat",
+        "Balanced diet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A fat type often liquid at room temperature?",
+      "correctAnswer": "Unsaturated fat",
+      "wrongAnswers": [
+        "Portion size",
+        "Vitamin",
+        "Macronutrient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A fat type often solid at room temperature?",
+      "correctAnswer": "Saturated fat",
+      "wrongAnswers": [
+        "Food allergy",
+        "Mineral",
+        "Micronutrient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A processed fat type associated with health risks?",
+      "correctAnswer": "Trans fat",
+      "wrongAnswers": [
+        "Carbohydrate",
+        "Fiber",
+        "Calcium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: Printed nutrition and ingredient information on packaged food?",
+      "correctAnswer": "Food label",
+      "wrongAnswers": [
+        "Protein",
+        "Hydration",
+        "Iron"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: The amount of food someone chooses to eat?",
+      "correctAnswer": "Portion size",
+      "wrongAnswers": [
+        "Fat",
+        "Balanced diet",
+        "Vitamin C"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: An immune reaction to a specific food substance?",
+      "correctAnswer": "Food allergy",
+      "wrongAnswers": [
+        "Vitamin",
+        "Macronutrient",
+        "Vitamin D"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A nutrient group used as a major energy source?",
+      "correctAnswer": "Carbohydrate",
+      "wrongAnswers": [
+        "Mineral",
+        "Micronutrient",
+        "Unsaturated fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Nutrition Science concept is described by this clue: A nutrient made of amino acids used for growth and repair?",
+      "correctAnswer": "Protein",
+      "wrongAnswers": [
+        "Fiber",
+        "Calcium",
+        "Saturated fat"
+      ],
+      "timeout": 15
+    }
+  ]
+}

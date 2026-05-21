@@ -1,0 +1,205 @@
+{
+  "title": "Mental Wellbeing Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Mindfulness\" is correct?",
+      "correctAnswer": "Mindfulness: Paying attention to the present moment without judgment",
+      "wrongAnswers": [
+        "Active listening: Listening with attention and showing understanding",
+        "Gratitude practice: Regularly noticing and appreciating positive things",
+        "Help-seeking: Reaching out for support when needed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sleep hygiene\" is correct?",
+      "correctAnswer": "Sleep hygiene: Habits that support healthy sleep",
+      "wrongAnswers": [
+        "Empathy: Understanding or sharing another person's feelings",
+        "Grounding technique: A strategy for reconnecting attention to the present",
+        "Wellbeing plan: A personal plan for maintaining mental and emotional health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Boundary\" is correct?",
+      "correctAnswer": "Boundary: A limit set to protect time, energy, or wellbeing",
+      "wrongAnswers": [
+        "Anxiety: A state of worry or fear that can affect thoughts and body",
+        "Breathing exercise: Controlled breathing used to calm the body",
+        "Stress: The body's response to pressure or demand"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Self-care\" is correct?",
+      "correctAnswer": "Self-care: Actions that support physical and mental health",
+      "wrongAnswers": [
+        "Mood: A sustained emotional state",
+        "Growth mindset: The belief that abilities can improve through effort and learning",
+        "Resilience: The ability to recover and adapt after difficulty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Support network\" is correct?",
+      "correctAnswer": "Support network: People who can provide help or connection",
+      "wrongAnswers": [
+        "Burnout: Exhaustion linked to prolonged stress or overload",
+        "Self-talk: The inner language people use toward themselves",
+        "Coping strategy: A method used to manage stress or emotion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Active listening\" is correct?",
+      "correctAnswer": "Active listening: Listening with attention and showing understanding",
+      "wrongAnswers": [
+        "Gratitude practice: Regularly noticing and appreciating positive things",
+        "Help-seeking: Reaching out for support when needed",
+        "Mindfulness: Paying attention to the present moment without judgment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Empathy\" is correct?",
+      "correctAnswer": "Empathy: Understanding or sharing another person's feelings",
+      "wrongAnswers": [
+        "Grounding technique: A strategy for reconnecting attention to the present",
+        "Wellbeing plan: A personal plan for maintaining mental and emotional health",
+        "Sleep hygiene: Habits that support healthy sleep"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Anxiety\" is correct?",
+      "correctAnswer": "Anxiety: A state of worry or fear that can affect thoughts and body",
+      "wrongAnswers": [
+        "Breathing exercise: Controlled breathing used to calm the body",
+        "Stress: The body's response to pressure or demand",
+        "Boundary: A limit set to protect time, energy, or wellbeing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mood\" is correct?",
+      "correctAnswer": "Mood: A sustained emotional state",
+      "wrongAnswers": [
+        "Growth mindset: The belief that abilities can improve through effort and learning",
+        "Resilience: The ability to recover and adapt after difficulty",
+        "Self-care: Actions that support physical and mental health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Burnout\" is correct?",
+      "correctAnswer": "Burnout: Exhaustion linked to prolonged stress or overload",
+      "wrongAnswers": [
+        "Self-talk: The inner language people use toward themselves",
+        "Coping strategy: A method used to manage stress or emotion",
+        "Support network: People who can provide help or connection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gratitude practice\" is correct?",
+      "correctAnswer": "Gratitude practice: Regularly noticing and appreciating positive things",
+      "wrongAnswers": [
+        "Help-seeking: Reaching out for support when needed",
+        "Mindfulness: Paying attention to the present moment without judgment",
+        "Active listening: Listening with attention and showing understanding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Grounding technique\" is correct?",
+      "correctAnswer": "Grounding technique: A strategy for reconnecting attention to the present",
+      "wrongAnswers": [
+        "Wellbeing plan: A personal plan for maintaining mental and emotional health",
+        "Sleep hygiene: Habits that support healthy sleep",
+        "Empathy: Understanding or sharing another person's feelings"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Breathing exercise\" is correct?",
+      "correctAnswer": "Breathing exercise: Controlled breathing used to calm the body",
+      "wrongAnswers": [
+        "Stress: The body's response to pressure or demand",
+        "Boundary: A limit set to protect time, energy, or wellbeing",
+        "Anxiety: A state of worry or fear that can affect thoughts and body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Growth mindset\" is correct?",
+      "correctAnswer": "Growth mindset: The belief that abilities can improve through effort and learning",
+      "wrongAnswers": [
+        "Resilience: The ability to recover and adapt after difficulty",
+        "Self-care: Actions that support physical and mental health",
+        "Mood: A sustained emotional state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Self-talk\" is correct?",
+      "correctAnswer": "Self-talk: The inner language people use toward themselves",
+      "wrongAnswers": [
+        "Coping strategy: A method used to manage stress or emotion",
+        "Support network: People who can provide help or connection",
+        "Burnout: Exhaustion linked to prolonged stress or overload"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Help-seeking\" is correct?",
+      "correctAnswer": "Help-seeking: Reaching out for support when needed",
+      "wrongAnswers": [
+        "Mindfulness: Paying attention to the present moment without judgment",
+        "Active listening: Listening with attention and showing understanding",
+        "Gratitude practice: Regularly noticing and appreciating positive things"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Wellbeing plan\" is correct?",
+      "correctAnswer": "Wellbeing plan: A personal plan for maintaining mental and emotional health",
+      "wrongAnswers": [
+        "Sleep hygiene: Habits that support healthy sleep",
+        "Empathy: Understanding or sharing another person's feelings",
+        "Grounding technique: A strategy for reconnecting attention to the present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stress\" is correct?",
+      "correctAnswer": "Stress: The body's response to pressure or demand",
+      "wrongAnswers": [
+        "Boundary: A limit set to protect time, energy, or wellbeing",
+        "Anxiety: A state of worry or fear that can affect thoughts and body",
+        "Breathing exercise: Controlled breathing used to calm the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Resilience\" is correct?",
+      "correctAnswer": "Resilience: The ability to recover and adapt after difficulty",
+      "wrongAnswers": [
+        "Self-care: Actions that support physical and mental health",
+        "Mood: A sustained emotional state",
+        "Growth mindset: The belief that abilities can improve through effort and learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Coping strategy\" is correct?",
+      "correctAnswer": "Coping strategy: A method used to manage stress or emotion",
+      "wrongAnswers": [
+        "Support network: People who can provide help or connection",
+        "Burnout: Exhaustion linked to prolonged stress or overload",
+        "Self-talk: The inner language people use toward themselves"
+      ],
+      "timeout": 15
+    }
+  ]
+}

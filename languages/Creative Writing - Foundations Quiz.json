@@ -1,0 +1,205 @@
+{
+  "title": "Creative Writing Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Creative Writing, what does \"Protagonist\" mean?",
+      "correctAnswer": "The central character who drives the story",
+      "wrongAnswers": [
+        "The struggle that creates story tension",
+        "Narration that can reveal many characters' thoughts",
+        "Events that build tension toward the climax"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Antagonist\" mean?",
+      "correctAnswer": "A character or force opposing the protagonist",
+      "wrongAnswers": [
+        "The time and place of a story",
+        "Spoken conversation between characters",
+        "The turning point of highest tension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Conflict\" mean?",
+      "correctAnswer": "The struggle that creates story tension",
+      "wrongAnswers": [
+        "The perspective from which a story is told",
+        "The speed at which a story moves",
+        "Events after the climax leading toward resolution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Setting\" mean?",
+      "correctAnswer": "The time and place of a story",
+      "wrongAnswers": [
+        "Narration using a character's I perspective",
+        "A unit of story action in a specific time and place",
+        "The part where major story questions are settled"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Point of view\" mean?",
+      "correctAnswer": "The perspective from which a story is told",
+      "wrongAnswers": [
+        "Narration focused on one character's thoughts",
+        "Information that introduces background and context",
+        "A character's internal change through a story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"First person\" mean?",
+      "correctAnswer": "Narration using a character's I perspective",
+      "wrongAnswers": [
+        "Narration that can reveal many characters' thoughts",
+        "Events that build tension toward the climax",
+        "The distinctive style or personality of narration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Third person limited\" mean?",
+      "correctAnswer": "Narration focused on one character's thoughts",
+      "wrongAnswers": [
+        "Spoken conversation between characters",
+        "The turning point of highest tension",
+        "Meaning implied beneath spoken or written words"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Third person omniscient\" mean?",
+      "correctAnswer": "Narration that can reveal many characters' thoughts",
+      "wrongAnswers": [
+        "The speed at which a story moves",
+        "Events after the climax leading toward resolution",
+        "Reworking a draft to improve meaning, structure, and style"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Dialogue\" mean?",
+      "correctAnswer": "Spoken conversation between characters",
+      "wrongAnswers": [
+        "A unit of story action in a specific time and place",
+        "The part where major story questions are settled",
+        "The central character who drives the story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Pacing\" mean?",
+      "correctAnswer": "The speed at which a story moves",
+      "wrongAnswers": [
+        "Information that introduces background and context",
+        "A character's internal change through a story",
+        "A character or force opposing the protagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Scene\" mean?",
+      "correctAnswer": "A unit of story action in a specific time and place",
+      "wrongAnswers": [
+        "Events that build tension toward the climax",
+        "The distinctive style or personality of narration",
+        "The struggle that creates story tension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Exposition\" mean?",
+      "correctAnswer": "Information that introduces background and context",
+      "wrongAnswers": [
+        "The turning point of highest tension",
+        "Meaning implied beneath spoken or written words",
+        "The time and place of a story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Rising action\" mean?",
+      "correctAnswer": "Events that build tension toward the climax",
+      "wrongAnswers": [
+        "Events after the climax leading toward resolution",
+        "Reworking a draft to improve meaning, structure, and style",
+        "The perspective from which a story is told"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Climax\" mean?",
+      "correctAnswer": "The turning point of highest tension",
+      "wrongAnswers": [
+        "The part where major story questions are settled",
+        "The central character who drives the story",
+        "Narration using a character's I perspective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Falling action\" mean?",
+      "correctAnswer": "Events after the climax leading toward resolution",
+      "wrongAnswers": [
+        "A character's internal change through a story",
+        "A character or force opposing the protagonist",
+        "Narration focused on one character's thoughts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Resolution\" mean?",
+      "correctAnswer": "The part where major story questions are settled",
+      "wrongAnswers": [
+        "The distinctive style or personality of narration",
+        "The struggle that creates story tension",
+        "Narration that can reveal many characters' thoughts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Character arc\" mean?",
+      "correctAnswer": "A character's internal change through a story",
+      "wrongAnswers": [
+        "Meaning implied beneath spoken or written words",
+        "The time and place of a story",
+        "Spoken conversation between characters"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Voice\" mean?",
+      "correctAnswer": "The distinctive style or personality of narration",
+      "wrongAnswers": [
+        "Reworking a draft to improve meaning, structure, and style",
+        "The perspective from which a story is told",
+        "The speed at which a story moves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Subtext\" mean?",
+      "correctAnswer": "Meaning implied beneath spoken or written words",
+      "wrongAnswers": [
+        "The central character who drives the story",
+        "Narration using a character's I perspective",
+        "A unit of story action in a specific time and place"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Creative Writing, what does \"Revision\" mean?",
+      "correctAnswer": "Reworking a draft to improve meaning, structure, and style",
+      "wrongAnswers": [
+        "A character or force opposing the protagonist",
+        "Narration focused on one character's thoughts",
+        "Information that introduces background and context"
+      ],
+      "timeout": 15
+    }
+  ]
+}

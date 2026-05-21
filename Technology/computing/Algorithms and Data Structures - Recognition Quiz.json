@@ -1,0 +1,205 @@
+{
+  "title": "Algorithms and Data Structures Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Queue\" is correct?",
+      "correctAnswer": "Queue: A collection where the earliest added item is removed first",
+      "wrongAnswers": [
+        "Depth-first search: A graph search that explores one path deeply before backtracking",
+        "Dynamic programming: A method that reuses solutions to overlapping subproblems",
+        "Stable sort: A sort that keeps equal items in their original relative order"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hash table\" is correct?",
+      "correctAnswer": "Hash table: A structure that maps keys to buckets for fast lookup",
+      "wrongAnswers": [
+        "Breadth-first search: A graph search that explores nearby vertices before moving farther away",
+        "Greedy algorithm: A method that chooses the best immediate option at each step",
+        "Topological sort: An ordering of dependent tasks so prerequisites come first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Binary tree\" is correct?",
+      "correctAnswer": "Binary tree: A tree where each node has at most two children",
+      "wrongAnswers": [
+        "Binary search: A search method that repeatedly narrows a sorted range",
+        "Backtracking: A method that tries choices and abandons paths that cannot succeed",
+        "Array: A sequence of values stored so each item can be accessed by position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Heap\" is correct?",
+      "correctAnswer": "Heap: A tree-based structure that keeps the highest or lowest priority item easy to remove",
+      "wrongAnswers": [
+        "Merge sort: A sorting method that sorts smaller parts and combines them",
+        "Memoization: Storing function results so repeated calls can be answered quickly",
+        "Linked list: A chain of nodes where each node points to another node"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Graph\" is correct?",
+      "correctAnswer": "Graph: A set of vertices connected by edges",
+      "wrongAnswers": [
+        "Quick sort: A sorting method that partitions data around a pivot",
+        "Big O notation: A way to describe how resource use grows with input size",
+        "Stack: A collection where the most recently added item is removed first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Depth-first search\" is correct?",
+      "correctAnswer": "Depth-first search: A graph search that explores one path deeply before backtracking",
+      "wrongAnswers": [
+        "Dynamic programming: A method that reuses solutions to overlapping subproblems",
+        "Stable sort: A sort that keeps equal items in their original relative order",
+        "Queue: A collection where the earliest added item is removed first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Breadth-first search\" is correct?",
+      "correctAnswer": "Breadth-first search: A graph search that explores nearby vertices before moving farther away",
+      "wrongAnswers": [
+        "Greedy algorithm: A method that chooses the best immediate option at each step",
+        "Topological sort: An ordering of dependent tasks so prerequisites come first",
+        "Hash table: A structure that maps keys to buckets for fast lookup"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Binary search\" is correct?",
+      "correctAnswer": "Binary search: A search method that repeatedly narrows a sorted range",
+      "wrongAnswers": [
+        "Backtracking: A method that tries choices and abandons paths that cannot succeed",
+        "Array: A sequence of values stored so each item can be accessed by position",
+        "Binary tree: A tree where each node has at most two children"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Merge sort\" is correct?",
+      "correctAnswer": "Merge sort: A sorting method that sorts smaller parts and combines them",
+      "wrongAnswers": [
+        "Memoization: Storing function results so repeated calls can be answered quickly",
+        "Linked list: A chain of nodes where each node points to another node",
+        "Heap: A tree-based structure that keeps the highest or lowest priority item easy to remove"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Quick sort\" is correct?",
+      "correctAnswer": "Quick sort: A sorting method that partitions data around a pivot",
+      "wrongAnswers": [
+        "Big O notation: A way to describe how resource use grows with input size",
+        "Stack: A collection where the most recently added item is removed first",
+        "Graph: A set of vertices connected by edges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dynamic programming\" is correct?",
+      "correctAnswer": "Dynamic programming: A method that reuses solutions to overlapping subproblems",
+      "wrongAnswers": [
+        "Stable sort: A sort that keeps equal items in their original relative order",
+        "Queue: A collection where the earliest added item is removed first",
+        "Depth-first search: A graph search that explores one path deeply before backtracking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Greedy algorithm\" is correct?",
+      "correctAnswer": "Greedy algorithm: A method that chooses the best immediate option at each step",
+      "wrongAnswers": [
+        "Topological sort: An ordering of dependent tasks so prerequisites come first",
+        "Hash table: A structure that maps keys to buckets for fast lookup",
+        "Breadth-first search: A graph search that explores nearby vertices before moving farther away"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Backtracking\" is correct?",
+      "correctAnswer": "Backtracking: A method that tries choices and abandons paths that cannot succeed",
+      "wrongAnswers": [
+        "Array: A sequence of values stored so each item can be accessed by position",
+        "Binary tree: A tree where each node has at most two children",
+        "Binary search: A search method that repeatedly narrows a sorted range"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Memoization\" is correct?",
+      "correctAnswer": "Memoization: Storing function results so repeated calls can be answered quickly",
+      "wrongAnswers": [
+        "Linked list: A chain of nodes where each node points to another node",
+        "Heap: A tree-based structure that keeps the highest or lowest priority item easy to remove",
+        "Merge sort: A sorting method that sorts smaller parts and combines them"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Big O notation\" is correct?",
+      "correctAnswer": "Big O notation: A way to describe how resource use grows with input size",
+      "wrongAnswers": [
+        "Stack: A collection where the most recently added item is removed first",
+        "Graph: A set of vertices connected by edges",
+        "Quick sort: A sorting method that partitions data around a pivot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stable sort\" is correct?",
+      "correctAnswer": "Stable sort: A sort that keeps equal items in their original relative order",
+      "wrongAnswers": [
+        "Queue: A collection where the earliest added item is removed first",
+        "Depth-first search: A graph search that explores one path deeply before backtracking",
+        "Dynamic programming: A method that reuses solutions to overlapping subproblems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Topological sort\" is correct?",
+      "correctAnswer": "Topological sort: An ordering of dependent tasks so prerequisites come first",
+      "wrongAnswers": [
+        "Hash table: A structure that maps keys to buckets for fast lookup",
+        "Breadth-first search: A graph search that explores nearby vertices before moving farther away",
+        "Greedy algorithm: A method that chooses the best immediate option at each step"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Array\" is correct?",
+      "correctAnswer": "Array: A sequence of values stored so each item can be accessed by position",
+      "wrongAnswers": [
+        "Binary tree: A tree where each node has at most two children",
+        "Binary search: A search method that repeatedly narrows a sorted range",
+        "Backtracking: A method that tries choices and abandons paths that cannot succeed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Linked list\" is correct?",
+      "correctAnswer": "Linked list: A chain of nodes where each node points to another node",
+      "wrongAnswers": [
+        "Heap: A tree-based structure that keeps the highest or lowest priority item easy to remove",
+        "Merge sort: A sorting method that sorts smaller parts and combines them",
+        "Memoization: Storing function results so repeated calls can be answered quickly"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stack\" is correct?",
+      "correctAnswer": "Stack: A collection where the most recently added item is removed first",
+      "wrongAnswers": [
+        "Graph: A set of vertices connected by edges",
+        "Quick sort: A sorting method that partitions data around a pivot",
+        "Big O notation: A way to describe how resource use grows with input size"
+      ],
+      "timeout": 15
+    }
+  ]
+}

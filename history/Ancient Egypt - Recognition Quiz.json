@@ -1,0 +1,205 @@
+{
+  "title": "Ancient Egypt Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Floodplain\" is correct?",
+      "correctAnswer": "Floodplain: Land enriched by seasonal river flooding",
+      "wrongAnswers": [
+        "Mummification: A process used to preserve bodies after death",
+        "Ra: An Egyptian sun god",
+        "Rosetta Stone: A stone inscription that helped scholars read hieroglyphs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hieroglyphs\" is correct?",
+      "correctAnswer": "Hieroglyphs: An Egyptian writing system using picture symbols",
+      "wrongAnswers": [
+        "Canopic jar: A container used to hold organs during mummification",
+        "Ma'at: The concept of truth, balance, and order",
+        "New Kingdom: A period of Egyptian power and expansion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Papyrus\" is correct?",
+      "correctAnswer": "Papyrus: A writing material made from a reed plant",
+      "wrongAnswers": [
+        "Afterlife: The continued existence Egyptians believed followed death",
+        "Vizier: A high official who helped administer the kingdom",
+        "Pharaoh: The ruler of ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Scribe\" is correct?",
+      "correctAnswer": "Scribe: A trained writer and record keeper",
+      "wrongAnswers": [
+        "Osiris: An Egyptian god associated with the afterlife",
+        "Obelisk: A tall stone monument with a pointed top",
+        "Dynasty: A sequence of rulers from the same family or line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pyramid\" is correct?",
+      "correctAnswer": "Pyramid: A monumental tomb structure associated with royal burials",
+      "wrongAnswers": [
+        "Isis: An Egyptian goddess associated with protection and magic",
+        "Cartouche: An oval frame containing a royal name",
+        "Nile River: The river that supported farming and transport in ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mummification\" is correct?",
+      "correctAnswer": "Mummification: A process used to preserve bodies after death",
+      "wrongAnswers": [
+        "Ra: An Egyptian sun god",
+        "Rosetta Stone: A stone inscription that helped scholars read hieroglyphs",
+        "Floodplain: Land enriched by seasonal river flooding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Canopic jar\" is correct?",
+      "correctAnswer": "Canopic jar: A container used to hold organs during mummification",
+      "wrongAnswers": [
+        "Ma'at: The concept of truth, balance, and order",
+        "New Kingdom: A period of Egyptian power and expansion",
+        "Hieroglyphs: An Egyptian writing system using picture symbols"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Afterlife\" is correct?",
+      "correctAnswer": "Afterlife: The continued existence Egyptians believed followed death",
+      "wrongAnswers": [
+        "Vizier: A high official who helped administer the kingdom",
+        "Pharaoh: The ruler of ancient Egypt",
+        "Papyrus: A writing material made from a reed plant"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Osiris\" is correct?",
+      "correctAnswer": "Osiris: An Egyptian god associated with the afterlife",
+      "wrongAnswers": [
+        "Obelisk: A tall stone monument with a pointed top",
+        "Dynasty: A sequence of rulers from the same family or line",
+        "Scribe: A trained writer and record keeper"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Isis\" is correct?",
+      "correctAnswer": "Isis: An Egyptian goddess associated with protection and magic",
+      "wrongAnswers": [
+        "Cartouche: An oval frame containing a royal name",
+        "Nile River: The river that supported farming and transport in ancient Egypt",
+        "Pyramid: A monumental tomb structure associated with royal burials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ra\" is correct?",
+      "correctAnswer": "Ra: An Egyptian sun god",
+      "wrongAnswers": [
+        "Rosetta Stone: A stone inscription that helped scholars read hieroglyphs",
+        "Floodplain: Land enriched by seasonal river flooding",
+        "Mummification: A process used to preserve bodies after death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ma'at\" is correct?",
+      "correctAnswer": "Ma'at: The concept of truth, balance, and order",
+      "wrongAnswers": [
+        "New Kingdom: A period of Egyptian power and expansion",
+        "Hieroglyphs: An Egyptian writing system using picture symbols",
+        "Canopic jar: A container used to hold organs during mummification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vizier\" is correct?",
+      "correctAnswer": "Vizier: A high official who helped administer the kingdom",
+      "wrongAnswers": [
+        "Pharaoh: The ruler of ancient Egypt",
+        "Papyrus: A writing material made from a reed plant",
+        "Afterlife: The continued existence Egyptians believed followed death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Obelisk\" is correct?",
+      "correctAnswer": "Obelisk: A tall stone monument with a pointed top",
+      "wrongAnswers": [
+        "Dynasty: A sequence of rulers from the same family or line",
+        "Scribe: A trained writer and record keeper",
+        "Osiris: An Egyptian god associated with the afterlife"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cartouche\" is correct?",
+      "correctAnswer": "Cartouche: An oval frame containing a royal name",
+      "wrongAnswers": [
+        "Nile River: The river that supported farming and transport in ancient Egypt",
+        "Pyramid: A monumental tomb structure associated with royal burials",
+        "Isis: An Egyptian goddess associated with protection and magic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rosetta Stone\" is correct?",
+      "correctAnswer": "Rosetta Stone: A stone inscription that helped scholars read hieroglyphs",
+      "wrongAnswers": [
+        "Floodplain: Land enriched by seasonal river flooding",
+        "Mummification: A process used to preserve bodies after death",
+        "Ra: An Egyptian sun god"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"New Kingdom\" is correct?",
+      "correctAnswer": "New Kingdom: A period of Egyptian power and expansion",
+      "wrongAnswers": [
+        "Hieroglyphs: An Egyptian writing system using picture symbols",
+        "Canopic jar: A container used to hold organs during mummification",
+        "Ma'at: The concept of truth, balance, and order"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pharaoh\" is correct?",
+      "correctAnswer": "Pharaoh: The ruler of ancient Egypt",
+      "wrongAnswers": [
+        "Papyrus: A writing material made from a reed plant",
+        "Afterlife: The continued existence Egyptians believed followed death",
+        "Vizier: A high official who helped administer the kingdom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dynasty\" is correct?",
+      "correctAnswer": "Dynasty: A sequence of rulers from the same family or line",
+      "wrongAnswers": [
+        "Scribe: A trained writer and record keeper",
+        "Osiris: An Egyptian god associated with the afterlife",
+        "Obelisk: A tall stone monument with a pointed top"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Nile River\" is correct?",
+      "correctAnswer": "Nile River: The river that supported farming and transport in ancient Egypt",
+      "wrongAnswers": [
+        "Pyramid: A monumental tomb structure associated with royal burials",
+        "Isis: An Egyptian goddess associated with protection and magic",
+        "Cartouche: An oval frame containing a royal name"
+      ],
+      "timeout": 15
+    }
+  ]
+}

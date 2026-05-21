@@ -1,0 +1,205 @@
+{
+  "title": "Weather and Climate Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Weather and Climate concept is described by this clue: The amount of water vapor in the air?",
+      "correctAnswer": "Humidity",
+      "wrongAnswers": [
+        "Cold front",
+        "Cirrus cloud",
+        "Climate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: Water vapor changing into liquid droplets?",
+      "correctAnswer": "Condensation",
+      "wrongAnswers": [
+        "Warm front",
+        "Thunderstorm",
+        "Weather"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: Water falling from the atmosphere to Earth's surface?",
+      "correctAnswer": "Precipitation",
+      "wrongAnswers": [
+        "Jet stream",
+        "Tornado",
+        "Greenhouse effect"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A boundary between air masses?",
+      "correctAnswer": "Front",
+      "wrongAnswers": [
+        "Cumulus cloud",
+        "Hurricane",
+        "Climate model"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A boundary where colder air advances?",
+      "correctAnswer": "Cold front",
+      "wrongAnswers": [
+        "Stratus cloud",
+        "Drought",
+        "Atmosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A boundary where warmer air advances?",
+      "correctAnswer": "Warm front",
+      "wrongAnswers": [
+        "Cirrus cloud",
+        "Climate",
+        "Air pressure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A fast-flowing high-altitude air current?",
+      "correctAnswer": "Jet stream",
+      "wrongAnswers": [
+        "Thunderstorm",
+        "Weather",
+        "Humidity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A puffy cloud often linked to fair weather?",
+      "correctAnswer": "Cumulus cloud",
+      "wrongAnswers": [
+        "Tornado",
+        "Greenhouse effect",
+        "Condensation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A layered cloud that can cover much of the sky?",
+      "correctAnswer": "Stratus cloud",
+      "wrongAnswers": [
+        "Hurricane",
+        "Climate model",
+        "Precipitation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A high wispy cloud made mostly of ice crystals?",
+      "correctAnswer": "Cirrus cloud",
+      "wrongAnswers": [
+        "Drought",
+        "Atmosphere",
+        "Front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A storm with lightning and thunder?",
+      "correctAnswer": "Thunderstorm",
+      "wrongAnswers": [
+        "Climate",
+        "Air pressure",
+        "Cold front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A rotating column of air reaching from cloud to ground?",
+      "correctAnswer": "Tornado",
+      "wrongAnswers": [
+        "Weather",
+        "Humidity",
+        "Warm front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A powerful tropical cyclone with organized rotation?",
+      "correctAnswer": "Hurricane",
+      "wrongAnswers": [
+        "Greenhouse effect",
+        "Condensation",
+        "Jet stream"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A long period with unusually low water availability?",
+      "correctAnswer": "Drought",
+      "wrongAnswers": [
+        "Climate model",
+        "Precipitation",
+        "Cumulus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: Long-term patterns of weather in a region?",
+      "correctAnswer": "Climate",
+      "wrongAnswers": [
+        "Atmosphere",
+        "Front",
+        "Stratus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: Short-term atmospheric conditions?",
+      "correctAnswer": "Weather",
+      "wrongAnswers": [
+        "Air pressure",
+        "Cold front",
+        "Cirrus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: Warming caused when gases trap outgoing heat?",
+      "correctAnswer": "Greenhouse effect",
+      "wrongAnswers": [
+        "Humidity",
+        "Warm front",
+        "Thunderstorm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: A computer representation used to study climate behavior?",
+      "correctAnswer": "Climate model",
+      "wrongAnswers": [
+        "Condensation",
+        "Jet stream",
+        "Tornado"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: The layer of gases surrounding Earth?",
+      "correctAnswer": "Atmosphere",
+      "wrongAnswers": [
+        "Precipitation",
+        "Cumulus cloud",
+        "Hurricane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Weather and Climate concept is described by this clue: The force exerted by the weight of air?",
+      "correctAnswer": "Air pressure",
+      "wrongAnswers": [
+        "Front",
+        "Stratus cloud",
+        "Drought"
+      ],
+      "timeout": 15
+    }
+  ]
+}

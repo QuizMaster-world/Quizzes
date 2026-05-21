@@ -1,0 +1,205 @@
+{
+  "title": "Cloud and DevOps Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Continuous integration\" in Cloud and DevOps.",
+      "correctAnswer": "Automatically building and testing frequent code changes",
+      "wrongAnswers": [
+        "A component that distributes traffic across servers",
+        "A record of a request moving through system components",
+        "A packaged runtime environment for an application"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Continuous deployment\" in Cloud and DevOps.",
+      "correctAnswer": "Automatically releasing validated changes to users",
+      "wrongAnswers": [
+        "Adjusting computing capacity as demand changes",
+        "An unplanned service disruption or degradation",
+        "A template used to create containers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pipeline\" in Cloud and DevOps.",
+      "correctAnswer": "An automated sequence of build, test, and release steps",
+      "wrongAnswers": [
+        "Collecting information about system health and behavior",
+        "Returning a deployed system to a previous version",
+        "Managing deployment and operation of many containers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Artifact\" in Cloud and DevOps.",
+      "correctAnswer": "A built output produced by a software pipeline",
+      "wrongAnswers": [
+        "A numeric measurement collected over time",
+        "Rolling out a change to a small group before wider release",
+        "Managing infrastructure through versioned configuration files"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Environment variable\" in Cloud and DevOps.",
+      "correctAnswer": "A named value supplied to a running process",
+      "wrongAnswers": [
+        "A recorded event from a system or application",
+        "A switch that controls behavior without redeploying code",
+        "Automatically building and testing frequent code changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Secret management\" in Cloud and DevOps.",
+      "correctAnswer": "Protecting credentials used by systems and applications",
+      "wrongAnswers": [
+        "A record of a request moving through system components",
+        "A packaged runtime environment for an application",
+        "Automatically releasing validated changes to users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Load balancer\" in Cloud and DevOps.",
+      "correctAnswer": "A component that distributes traffic across servers",
+      "wrongAnswers": [
+        "An unplanned service disruption or degradation",
+        "A template used to create containers",
+        "An automated sequence of build, test, and release steps"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Auto scaling\" in Cloud and DevOps.",
+      "correctAnswer": "Adjusting computing capacity as demand changes",
+      "wrongAnswers": [
+        "Returning a deployed system to a previous version",
+        "Managing deployment and operation of many containers",
+        "A built output produced by a software pipeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Monitoring\" in Cloud and DevOps.",
+      "correctAnswer": "Collecting information about system health and behavior",
+      "wrongAnswers": [
+        "Rolling out a change to a small group before wider release",
+        "Managing infrastructure through versioned configuration files",
+        "A named value supplied to a running process"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Metric\" in Cloud and DevOps.",
+      "correctAnswer": "A numeric measurement collected over time",
+      "wrongAnswers": [
+        "A switch that controls behavior without redeploying code",
+        "Automatically building and testing frequent code changes",
+        "Protecting credentials used by systems and applications"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Log\" in Cloud and DevOps.",
+      "correctAnswer": "A recorded event from a system or application",
+      "wrongAnswers": [
+        "A packaged runtime environment for an application",
+        "Automatically releasing validated changes to users",
+        "A component that distributes traffic across servers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Trace\" in Cloud and DevOps.",
+      "correctAnswer": "A record of a request moving through system components",
+      "wrongAnswers": [
+        "A template used to create containers",
+        "An automated sequence of build, test, and release steps",
+        "Adjusting computing capacity as demand changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Incident\" in Cloud and DevOps.",
+      "correctAnswer": "An unplanned service disruption or degradation",
+      "wrongAnswers": [
+        "Managing deployment and operation of many containers",
+        "A built output produced by a software pipeline",
+        "Collecting information about system health and behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rollback\" in Cloud and DevOps.",
+      "correctAnswer": "Returning a deployed system to a previous version",
+      "wrongAnswers": [
+        "Managing infrastructure through versioned configuration files",
+        "A named value supplied to a running process",
+        "A numeric measurement collected over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Canary release\" in Cloud and DevOps.",
+      "correctAnswer": "Rolling out a change to a small group before wider release",
+      "wrongAnswers": [
+        "Automatically building and testing frequent code changes",
+        "Protecting credentials used by systems and applications",
+        "A recorded event from a system or application"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feature flag\" in Cloud and DevOps.",
+      "correctAnswer": "A switch that controls behavior without redeploying code",
+      "wrongAnswers": [
+        "Automatically releasing validated changes to users",
+        "A component that distributes traffic across servers",
+        "A record of a request moving through system components"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Container\" in Cloud and DevOps.",
+      "correctAnswer": "A packaged runtime environment for an application",
+      "wrongAnswers": [
+        "An automated sequence of build, test, and release steps",
+        "Adjusting computing capacity as demand changes",
+        "An unplanned service disruption or degradation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Image\" in Cloud and DevOps.",
+      "correctAnswer": "A template used to create containers",
+      "wrongAnswers": [
+        "A built output produced by a software pipeline",
+        "Collecting information about system health and behavior",
+        "Returning a deployed system to a previous version"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Orchestration\" in Cloud and DevOps.",
+      "correctAnswer": "Managing deployment and operation of many containers",
+      "wrongAnswers": [
+        "A named value supplied to a running process",
+        "A numeric measurement collected over time",
+        "Rolling out a change to a small group before wider release"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Infrastructure as code\" in Cloud and DevOps.",
+      "correctAnswer": "Managing infrastructure through versioned configuration files",
+      "wrongAnswers": [
+        "Protecting credentials used by systems and applications",
+        "A recorded event from a system or application",
+        "A switch that controls behavior without redeploying code"
+      ],
+      "timeout": 15
+    }
+  ]
+}

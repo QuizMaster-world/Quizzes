@@ -1,0 +1,205 @@
+{
+  "title": "Algorithms and Data Structures Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Algorithms and Data Structures, which term means: A chain of nodes where each node points to another node?",
+      "correctAnswer": "Linked list",
+      "wrongAnswers": [
+        "Hash table",
+        "Breadth-first search",
+        "Greedy algorithm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A collection where the most recently added item is removed first?",
+      "correctAnswer": "Stack",
+      "wrongAnswers": [
+        "Binary tree",
+        "Binary search",
+        "Backtracking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A collection where the earliest added item is removed first?",
+      "correctAnswer": "Queue",
+      "wrongAnswers": [
+        "Heap",
+        "Merge sort",
+        "Memoization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A structure that maps keys to buckets for fast lookup?",
+      "correctAnswer": "Hash table",
+      "wrongAnswers": [
+        "Graph",
+        "Quick sort",
+        "Big O notation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A tree where each node has at most two children?",
+      "correctAnswer": "Binary tree",
+      "wrongAnswers": [
+        "Depth-first search",
+        "Dynamic programming",
+        "Stable sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A tree-based structure that keeps the highest or lowest priority item easy to remove?",
+      "correctAnswer": "Heap",
+      "wrongAnswers": [
+        "Breadth-first search",
+        "Greedy algorithm",
+        "Topological sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A set of vertices connected by edges?",
+      "correctAnswer": "Graph",
+      "wrongAnswers": [
+        "Binary search",
+        "Backtracking",
+        "Array"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A graph search that explores one path deeply before backtracking?",
+      "correctAnswer": "Depth-first search",
+      "wrongAnswers": [
+        "Merge sort",
+        "Memoization",
+        "Linked list"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A graph search that explores nearby vertices before moving farther away?",
+      "correctAnswer": "Breadth-first search",
+      "wrongAnswers": [
+        "Quick sort",
+        "Big O notation",
+        "Stack"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A search method that repeatedly narrows a sorted range?",
+      "correctAnswer": "Binary search",
+      "wrongAnswers": [
+        "Dynamic programming",
+        "Stable sort",
+        "Queue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A sorting method that sorts smaller parts and combines them?",
+      "correctAnswer": "Merge sort",
+      "wrongAnswers": [
+        "Greedy algorithm",
+        "Topological sort",
+        "Hash table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A sorting method that partitions data around a pivot?",
+      "correctAnswer": "Quick sort",
+      "wrongAnswers": [
+        "Backtracking",
+        "Array",
+        "Binary tree"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A method that reuses solutions to overlapping subproblems?",
+      "correctAnswer": "Dynamic programming",
+      "wrongAnswers": [
+        "Memoization",
+        "Linked list",
+        "Heap"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A method that chooses the best immediate option at each step?",
+      "correctAnswer": "Greedy algorithm",
+      "wrongAnswers": [
+        "Big O notation",
+        "Stack",
+        "Graph"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A method that tries choices and abandons paths that cannot succeed?",
+      "correctAnswer": "Backtracking",
+      "wrongAnswers": [
+        "Stable sort",
+        "Queue",
+        "Depth-first search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: Storing function results so repeated calls can be answered quickly?",
+      "correctAnswer": "Memoization",
+      "wrongAnswers": [
+        "Topological sort",
+        "Hash table",
+        "Breadth-first search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A way to describe how resource use grows with input size?",
+      "correctAnswer": "Big O notation",
+      "wrongAnswers": [
+        "Array",
+        "Binary tree",
+        "Binary search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A sort that keeps equal items in their original relative order?",
+      "correctAnswer": "Stable sort",
+      "wrongAnswers": [
+        "Linked list",
+        "Heap",
+        "Merge sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: An ordering of dependent tasks so prerequisites come first?",
+      "correctAnswer": "Topological sort",
+      "wrongAnswers": [
+        "Stack",
+        "Graph",
+        "Quick sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, which term means: A sequence of values stored so each item can be accessed by position?",
+      "correctAnswer": "Array",
+      "wrongAnswers": [
+        "Queue",
+        "Depth-first search",
+        "Dynamic programming"
+      ],
+      "timeout": 15
+    }
+  ]
+}

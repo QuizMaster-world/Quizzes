@@ -1,0 +1,205 @@
+{
+  "title": "Digital Media Production Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Storyboard\" is correct?",
+      "correctAnswer": "Storyboard: A sequence of drawings or panels planning visual scenes",
+      "wrongAnswers": [
+        "Fade: A gradual transition to or from an image or sound",
+        "Bitrate: The amount of data used per second of media",
+        "Export: Rendering a finished media file from a project"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Shot list\" is correct?",
+      "correctAnswer": "Shot list: A planned list of camera shots for production",
+      "wrongAnswers": [
+        "Color grading: Adjusting color and tone for style and consistency",
+        "Timeline: The editing workspace where clips are arranged over time",
+        "Copyright: Legal protection for creative works"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"B-roll\" is correct?",
+      "correctAnswer": "B-roll: Supplementary footage used to support the main footage",
+      "wrongAnswers": [
+        "White balance: Adjusting color so whites appear neutral",
+        "Layer: A separate visual or audio element stacked with others",
+        "Resolution: The detail of an image or video measured by pixel dimensions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Voice-over\" is correct?",
+      "correctAnswer": "Voice-over: Narration recorded over visuals",
+      "wrongAnswers": [
+        "Compression: Reducing media file size through encoding",
+        "Keyframe: A marker defining a property value at a point in time",
+        "Frame rate: How many video frames are shown each second"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cut\" is correct?",
+      "correctAnswer": "Cut: A direct transition from one shot to another",
+      "wrongAnswers": [
+        "Codec: Software or method used to encode and decode media",
+        "Mask: A shape used to hide or reveal part of a layer",
+        "Aspect ratio: The proportional relationship between width and height"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fade\" is correct?",
+      "correctAnswer": "Fade: A gradual transition to or from an image or sound",
+      "wrongAnswers": [
+        "Bitrate: The amount of data used per second of media",
+        "Export: Rendering a finished media file from a project",
+        "Storyboard: A sequence of drawings or panels planning visual scenes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Color grading\" is correct?",
+      "correctAnswer": "Color grading: Adjusting color and tone for style and consistency",
+      "wrongAnswers": [
+        "Timeline: The editing workspace where clips are arranged over time",
+        "Copyright: Legal protection for creative works",
+        "Shot list: A planned list of camera shots for production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"White balance\" is correct?",
+      "correctAnswer": "White balance: Adjusting color so whites appear neutral",
+      "wrongAnswers": [
+        "Layer: A separate visual or audio element stacked with others",
+        "Resolution: The detail of an image or video measured by pixel dimensions",
+        "B-roll: Supplementary footage used to support the main footage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Compression\" is correct?",
+      "correctAnswer": "Compression: Reducing media file size through encoding",
+      "wrongAnswers": [
+        "Keyframe: A marker defining a property value at a point in time",
+        "Frame rate: How many video frames are shown each second",
+        "Voice-over: Narration recorded over visuals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Codec\" is correct?",
+      "correctAnswer": "Codec: Software or method used to encode and decode media",
+      "wrongAnswers": [
+        "Mask: A shape used to hide or reveal part of a layer",
+        "Aspect ratio: The proportional relationship between width and height",
+        "Cut: A direct transition from one shot to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Bitrate\" is correct?",
+      "correctAnswer": "Bitrate: The amount of data used per second of media",
+      "wrongAnswers": [
+        "Export: Rendering a finished media file from a project",
+        "Storyboard: A sequence of drawings or panels planning visual scenes",
+        "Fade: A gradual transition to or from an image or sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Timeline\" is correct?",
+      "correctAnswer": "Timeline: The editing workspace where clips are arranged over time",
+      "wrongAnswers": [
+        "Copyright: Legal protection for creative works",
+        "Shot list: A planned list of camera shots for production",
+        "Color grading: Adjusting color and tone for style and consistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Layer\" is correct?",
+      "correctAnswer": "Layer: A separate visual or audio element stacked with others",
+      "wrongAnswers": [
+        "Resolution: The detail of an image or video measured by pixel dimensions",
+        "B-roll: Supplementary footage used to support the main footage",
+        "White balance: Adjusting color so whites appear neutral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Keyframe\" is correct?",
+      "correctAnswer": "Keyframe: A marker defining a property value at a point in time",
+      "wrongAnswers": [
+        "Frame rate: How many video frames are shown each second",
+        "Voice-over: Narration recorded over visuals",
+        "Compression: Reducing media file size through encoding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mask\" is correct?",
+      "correctAnswer": "Mask: A shape used to hide or reveal part of a layer",
+      "wrongAnswers": [
+        "Aspect ratio: The proportional relationship between width and height",
+        "Cut: A direct transition from one shot to another",
+        "Codec: Software or method used to encode and decode media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Export\" is correct?",
+      "correctAnswer": "Export: Rendering a finished media file from a project",
+      "wrongAnswers": [
+        "Storyboard: A sequence of drawings or panels planning visual scenes",
+        "Fade: A gradual transition to or from an image or sound",
+        "Bitrate: The amount of data used per second of media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Copyright\" is correct?",
+      "correctAnswer": "Copyright: Legal protection for creative works",
+      "wrongAnswers": [
+        "Shot list: A planned list of camera shots for production",
+        "Color grading: Adjusting color and tone for style and consistency",
+        "Timeline: The editing workspace where clips are arranged over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Resolution\" is correct?",
+      "correctAnswer": "Resolution: The detail of an image or video measured by pixel dimensions",
+      "wrongAnswers": [
+        "B-roll: Supplementary footage used to support the main footage",
+        "White balance: Adjusting color so whites appear neutral",
+        "Layer: A separate visual or audio element stacked with others"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Frame rate\" is correct?",
+      "correctAnswer": "Frame rate: How many video frames are shown each second",
+      "wrongAnswers": [
+        "Voice-over: Narration recorded over visuals",
+        "Compression: Reducing media file size through encoding",
+        "Keyframe: A marker defining a property value at a point in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Aspect ratio\" is correct?",
+      "correctAnswer": "Aspect ratio: The proportional relationship between width and height",
+      "wrongAnswers": [
+        "Cut: A direct transition from one shot to another",
+        "Codec: Software or method used to encode and decode media",
+        "Mask: A shape used to hide or reveal part of a layer"
+      ],
+      "timeout": 15
+    }
+  ]
+}

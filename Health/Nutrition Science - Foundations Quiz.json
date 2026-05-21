@@ -1,0 +1,205 @@
+{
+  "title": "Nutrition Science Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Nutrition Science, what does \"Carbohydrate\" mean?",
+      "correctAnswer": "A nutrient group used as a major energy source",
+      "wrongAnswers": [
+        "A nutrient that stores energy and supports cell functions",
+        "Eating a variety of foods in appropriate amounts",
+        "A vitamin involved in tissue repair and immune function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Protein\" mean?",
+      "correctAnswer": "A nutrient made of amino acids used for growth and repair",
+      "wrongAnswers": [
+        "An organic micronutrient needed in small amounts",
+        "A nutrient needed in larger amounts",
+        "A vitamin important for calcium regulation and bone health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Fat\" mean?",
+      "correctAnswer": "A nutrient that stores energy and supports cell functions",
+      "wrongAnswers": [
+        "An inorganic micronutrient needed for body functions",
+        "A nutrient needed in smaller amounts",
+        "A fat type often liquid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Vitamin\" mean?",
+      "correctAnswer": "An organic micronutrient needed in small amounts",
+      "wrongAnswers": [
+        "Plant material that supports digestion",
+        "A mineral important for bones, teeth, and muscle function",
+        "A fat type often solid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Mineral\" mean?",
+      "correctAnswer": "An inorganic micronutrient needed for body functions",
+      "wrongAnswers": [
+        "Maintaining enough water in the body",
+        "A mineral needed for oxygen transport in blood",
+        "A processed fat type associated with health risks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Fiber\" mean?",
+      "correctAnswer": "Plant material that supports digestion",
+      "wrongAnswers": [
+        "Eating a variety of foods in appropriate amounts",
+        "A vitamin involved in tissue repair and immune function",
+        "Printed nutrition and ingredient information on packaged food"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Hydration\" mean?",
+      "correctAnswer": "Maintaining enough water in the body",
+      "wrongAnswers": [
+        "A nutrient needed in larger amounts",
+        "A vitamin important for calcium regulation and bone health",
+        "The amount of food someone chooses to eat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Balanced diet\" mean?",
+      "correctAnswer": "Eating a variety of foods in appropriate amounts",
+      "wrongAnswers": [
+        "A nutrient needed in smaller amounts",
+        "A fat type often liquid at room temperature",
+        "An immune reaction to a specific food substance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Macronutrient\" mean?",
+      "correctAnswer": "A nutrient needed in larger amounts",
+      "wrongAnswers": [
+        "A mineral important for bones, teeth, and muscle function",
+        "A fat type often solid at room temperature",
+        "A nutrient group used as a major energy source"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Micronutrient\" mean?",
+      "correctAnswer": "A nutrient needed in smaller amounts",
+      "wrongAnswers": [
+        "A mineral needed for oxygen transport in blood",
+        "A processed fat type associated with health risks",
+        "A nutrient made of amino acids used for growth and repair"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Calcium\" mean?",
+      "correctAnswer": "A mineral important for bones, teeth, and muscle function",
+      "wrongAnswers": [
+        "A vitamin involved in tissue repair and immune function",
+        "Printed nutrition and ingredient information on packaged food",
+        "A nutrient that stores energy and supports cell functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Iron\" mean?",
+      "correctAnswer": "A mineral needed for oxygen transport in blood",
+      "wrongAnswers": [
+        "A vitamin important for calcium regulation and bone health",
+        "The amount of food someone chooses to eat",
+        "An organic micronutrient needed in small amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Vitamin C\" mean?",
+      "correctAnswer": "A vitamin involved in tissue repair and immune function",
+      "wrongAnswers": [
+        "A fat type often liquid at room temperature",
+        "An immune reaction to a specific food substance",
+        "An inorganic micronutrient needed for body functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Vitamin D\" mean?",
+      "correctAnswer": "A vitamin important for calcium regulation and bone health",
+      "wrongAnswers": [
+        "A fat type often solid at room temperature",
+        "A nutrient group used as a major energy source",
+        "Plant material that supports digestion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Unsaturated fat\" mean?",
+      "correctAnswer": "A fat type often liquid at room temperature",
+      "wrongAnswers": [
+        "A processed fat type associated with health risks",
+        "A nutrient made of amino acids used for growth and repair",
+        "Maintaining enough water in the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Saturated fat\" mean?",
+      "correctAnswer": "A fat type often solid at room temperature",
+      "wrongAnswers": [
+        "Printed nutrition and ingredient information on packaged food",
+        "A nutrient that stores energy and supports cell functions",
+        "Eating a variety of foods in appropriate amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Trans fat\" mean?",
+      "correctAnswer": "A processed fat type associated with health risks",
+      "wrongAnswers": [
+        "The amount of food someone chooses to eat",
+        "An organic micronutrient needed in small amounts",
+        "A nutrient needed in larger amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Food label\" mean?",
+      "correctAnswer": "Printed nutrition and ingredient information on packaged food",
+      "wrongAnswers": [
+        "An immune reaction to a specific food substance",
+        "An inorganic micronutrient needed for body functions",
+        "A nutrient needed in smaller amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Portion size\" mean?",
+      "correctAnswer": "The amount of food someone chooses to eat",
+      "wrongAnswers": [
+        "A nutrient group used as a major energy source",
+        "Plant material that supports digestion",
+        "A mineral important for bones, teeth, and muscle function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, what does \"Food allergy\" mean?",
+      "correctAnswer": "An immune reaction to a specific food substance",
+      "wrongAnswers": [
+        "A nutrient made of amino acids used for growth and repair",
+        "Maintaining enough water in the body",
+        "A mineral needed for oxygen transport in blood"
+      ],
+      "timeout": 15
+    }
+  ]
+}

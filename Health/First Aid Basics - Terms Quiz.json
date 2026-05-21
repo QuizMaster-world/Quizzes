@@ -1,0 +1,205 @@
+{
+  "title": "First Aid Basics Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In First Aid Basics, which term means: A quick check for life-threatening problems?",
+      "correctAnswer": "Primary survey",
+      "wrongAnswers": [
+        "AED",
+        "Fracture",
+        "Poisoning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A side-lying position used for an unconscious breathing person?",
+      "correctAnswer": "Recovery position",
+      "wrongAnswers": [
+        "Bleeding control",
+        "Shock",
+        "Emergency services"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Chest compressions and rescue breaths used during cardiac arrest?",
+      "correctAnswer": "CPR",
+      "wrongAnswers": [
+        "Pressure bandage",
+        "Choking",
+        "Consent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A device that can deliver a shock to restart a normal heart rhythm?",
+      "correctAnswer": "AED",
+      "wrongAnswers": [
+        "Burn cooling",
+        "Allergic reaction",
+        "Scene safety"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Actions used to slow or stop blood loss?",
+      "correctAnswer": "Bleeding control",
+      "wrongAnswers": [
+        "Sprain",
+        "Epinephrine auto-injector",
+        "Universal precautions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A bandage that applies pressure to a wound?",
+      "correctAnswer": "Pressure bandage",
+      "wrongAnswers": [
+        "Fracture",
+        "Poisoning",
+        "Incident report"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Using cool running water to reduce burn injury?",
+      "correctAnswer": "Burn cooling",
+      "wrongAnswers": [
+        "Shock",
+        "Emergency services",
+        "First aid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: An injury to ligaments around a joint?",
+      "correctAnswer": "Sprain",
+      "wrongAnswers": [
+        "Choking",
+        "Consent",
+        "Primary survey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A break or crack in a bone?",
+      "correctAnswer": "Fracture",
+      "wrongAnswers": [
+        "Allergic reaction",
+        "Scene safety",
+        "Recovery position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A dangerous condition where organs do not get enough blood flow?",
+      "correctAnswer": "Shock",
+      "wrongAnswers": [
+        "Epinephrine auto-injector",
+        "Universal precautions",
+        "CPR"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Airway blockage that prevents normal breathing?",
+      "correctAnswer": "Choking",
+      "wrongAnswers": [
+        "Poisoning",
+        "Incident report",
+        "AED"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: An immune response that can range from mild to severe?",
+      "correctAnswer": "Allergic reaction",
+      "wrongAnswers": [
+        "Emergency services",
+        "First aid",
+        "Bleeding control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A device used for severe allergic reactions?",
+      "correctAnswer": "Epinephrine auto-injector",
+      "wrongAnswers": [
+        "Consent",
+        "Primary survey",
+        "Pressure bandage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Harm caused by swallowing, inhaling, or touching a toxic substance?",
+      "correctAnswer": "Poisoning",
+      "wrongAnswers": [
+        "Scene safety",
+        "Recovery position",
+        "Burn cooling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Professional responders contacted during serious incidents?",
+      "correctAnswer": "Emergency services",
+      "wrongAnswers": [
+        "Universal precautions",
+        "CPR",
+        "Sprain"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Permission from a conscious person before giving aid?",
+      "correctAnswer": "Consent",
+      "wrongAnswers": [
+        "Incident report",
+        "AED",
+        "Fracture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Checking that it is safe to approach and help?",
+      "correctAnswer": "Scene safety",
+      "wrongAnswers": [
+        "First aid",
+        "Bleeding control",
+        "Shock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Steps used to reduce contact with bodily fluids?",
+      "correctAnswer": "Universal precautions",
+      "wrongAnswers": [
+        "Primary survey",
+        "Pressure bandage",
+        "Choking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: A record of what happened and what aid was given?",
+      "correctAnswer": "Incident report",
+      "wrongAnswers": [
+        "Recovery position",
+        "Burn cooling",
+        "Allergic reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, which term means: Immediate help given to someone who is ill or injured?",
+      "correctAnswer": "First aid",
+      "wrongAnswers": [
+        "CPR",
+        "Sprain",
+        "Epinephrine auto-injector"
+      ],
+      "timeout": 15
+    }
+  ]
+}

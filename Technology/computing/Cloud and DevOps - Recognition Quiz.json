@@ -1,0 +1,205 @@
+{
+  "title": "Cloud and DevOps Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Infrastructure as code\" is correct?",
+      "correctAnswer": "Infrastructure as code: Managing infrastructure through versioned configuration files",
+      "wrongAnswers": [
+        "Environment variable: A named value supplied to a running process",
+        "Metric: A numeric measurement collected over time",
+        "Canary release: Rolling out a change to a small group before wider release"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Continuous integration\" is correct?",
+      "correctAnswer": "Continuous integration: Automatically building and testing frequent code changes",
+      "wrongAnswers": [
+        "Secret management: Protecting credentials used by systems and applications",
+        "Log: A recorded event from a system or application",
+        "Feature flag: A switch that controls behavior without redeploying code"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Continuous deployment\" is correct?",
+      "correctAnswer": "Continuous deployment: Automatically releasing validated changes to users",
+      "wrongAnswers": [
+        "Load balancer: A component that distributes traffic across servers",
+        "Trace: A record of a request moving through system components",
+        "Container: A packaged runtime environment for an application"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pipeline\" is correct?",
+      "correctAnswer": "Pipeline: An automated sequence of build, test, and release steps",
+      "wrongAnswers": [
+        "Auto scaling: Adjusting computing capacity as demand changes",
+        "Incident: An unplanned service disruption or degradation",
+        "Image: A template used to create containers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Artifact\" is correct?",
+      "correctAnswer": "Artifact: A built output produced by a software pipeline",
+      "wrongAnswers": [
+        "Monitoring: Collecting information about system health and behavior",
+        "Rollback: Returning a deployed system to a previous version",
+        "Orchestration: Managing deployment and operation of many containers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Environment variable\" is correct?",
+      "correctAnswer": "Environment variable: A named value supplied to a running process",
+      "wrongAnswers": [
+        "Metric: A numeric measurement collected over time",
+        "Canary release: Rolling out a change to a small group before wider release",
+        "Infrastructure as code: Managing infrastructure through versioned configuration files"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Secret management\" is correct?",
+      "correctAnswer": "Secret management: Protecting credentials used by systems and applications",
+      "wrongAnswers": [
+        "Log: A recorded event from a system or application",
+        "Feature flag: A switch that controls behavior without redeploying code",
+        "Continuous integration: Automatically building and testing frequent code changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Load balancer\" is correct?",
+      "correctAnswer": "Load balancer: A component that distributes traffic across servers",
+      "wrongAnswers": [
+        "Trace: A record of a request moving through system components",
+        "Container: A packaged runtime environment for an application",
+        "Continuous deployment: Automatically releasing validated changes to users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Auto scaling\" is correct?",
+      "correctAnswer": "Auto scaling: Adjusting computing capacity as demand changes",
+      "wrongAnswers": [
+        "Incident: An unplanned service disruption or degradation",
+        "Image: A template used to create containers",
+        "Pipeline: An automated sequence of build, test, and release steps"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Monitoring\" is correct?",
+      "correctAnswer": "Monitoring: Collecting information about system health and behavior",
+      "wrongAnswers": [
+        "Rollback: Returning a deployed system to a previous version",
+        "Orchestration: Managing deployment and operation of many containers",
+        "Artifact: A built output produced by a software pipeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Metric\" is correct?",
+      "correctAnswer": "Metric: A numeric measurement collected over time",
+      "wrongAnswers": [
+        "Canary release: Rolling out a change to a small group before wider release",
+        "Infrastructure as code: Managing infrastructure through versioned configuration files",
+        "Environment variable: A named value supplied to a running process"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Log\" is correct?",
+      "correctAnswer": "Log: A recorded event from a system or application",
+      "wrongAnswers": [
+        "Feature flag: A switch that controls behavior without redeploying code",
+        "Continuous integration: Automatically building and testing frequent code changes",
+        "Secret management: Protecting credentials used by systems and applications"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Trace\" is correct?",
+      "correctAnswer": "Trace: A record of a request moving through system components",
+      "wrongAnswers": [
+        "Container: A packaged runtime environment for an application",
+        "Continuous deployment: Automatically releasing validated changes to users",
+        "Load balancer: A component that distributes traffic across servers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Incident\" is correct?",
+      "correctAnswer": "Incident: An unplanned service disruption or degradation",
+      "wrongAnswers": [
+        "Image: A template used to create containers",
+        "Pipeline: An automated sequence of build, test, and release steps",
+        "Auto scaling: Adjusting computing capacity as demand changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rollback\" is correct?",
+      "correctAnswer": "Rollback: Returning a deployed system to a previous version",
+      "wrongAnswers": [
+        "Orchestration: Managing deployment and operation of many containers",
+        "Artifact: A built output produced by a software pipeline",
+        "Monitoring: Collecting information about system health and behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Canary release\" is correct?",
+      "correctAnswer": "Canary release: Rolling out a change to a small group before wider release",
+      "wrongAnswers": [
+        "Infrastructure as code: Managing infrastructure through versioned configuration files",
+        "Environment variable: A named value supplied to a running process",
+        "Metric: A numeric measurement collected over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feature flag\" is correct?",
+      "correctAnswer": "Feature flag: A switch that controls behavior without redeploying code",
+      "wrongAnswers": [
+        "Continuous integration: Automatically building and testing frequent code changes",
+        "Secret management: Protecting credentials used by systems and applications",
+        "Log: A recorded event from a system or application"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Container\" is correct?",
+      "correctAnswer": "Container: A packaged runtime environment for an application",
+      "wrongAnswers": [
+        "Continuous deployment: Automatically releasing validated changes to users",
+        "Load balancer: A component that distributes traffic across servers",
+        "Trace: A record of a request moving through system components"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Image\" is correct?",
+      "correctAnswer": "Image: A template used to create containers",
+      "wrongAnswers": [
+        "Pipeline: An automated sequence of build, test, and release steps",
+        "Auto scaling: Adjusting computing capacity as demand changes",
+        "Incident: An unplanned service disruption or degradation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Orchestration\" is correct?",
+      "correctAnswer": "Orchestration: Managing deployment and operation of many containers",
+      "wrongAnswers": [
+        "Artifact: A built output produced by a software pipeline",
+        "Monitoring: Collecting information about system health and behavior",
+        "Rollback: Returning a deployed system to a previous version"
+      ],
+      "timeout": 15
+    }
+  ]
+}

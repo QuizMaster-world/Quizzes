@@ -1,0 +1,205 @@
+{
+  "title": "UI and UX Design Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A research-based profile representing a user type?",
+      "correctAnswer": "Persona",
+      "wrongAnswers": [
+        "Usability testing",
+        "Accessibility",
+        "Empty state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: The steps a user takes to reach a goal?",
+      "correctAnswer": "User journey",
+      "wrongAnswers": [
+        "Information architecture",
+        "Contrast",
+        "Onboarding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A low-detail layout plan for an interface?",
+      "correctAnswer": "Wireframe",
+      "wrongAnswers": [
+        "Navigation",
+        "Hierarchy",
+        "Microcopy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: An interactive or visual model used to test a design?",
+      "correctAnswer": "Prototype",
+      "wrongAnswers": [
+        "Affordance",
+        "Consistency",
+        "Design system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Observing users to find design problems?",
+      "correctAnswer": "Usability testing",
+      "wrongAnswers": [
+        "Feedback",
+        "Error state",
+        "User interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Organizing content so people can find and understand it?",
+      "correctAnswer": "Information architecture",
+      "wrongAnswers": [
+        "Accessibility",
+        "Empty state",
+        "User experience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Controls that help users move through a product?",
+      "correctAnswer": "Navigation",
+      "wrongAnswers": [
+        "Contrast",
+        "Onboarding",
+        "Persona"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A cue that suggests how something can be used?",
+      "correctAnswer": "Affordance",
+      "wrongAnswers": [
+        "Hierarchy",
+        "Microcopy",
+        "User journey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A system response that confirms an action or state?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Consistency",
+        "Design system",
+        "Wireframe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Designing products for people with varied abilities?",
+      "correctAnswer": "Accessibility",
+      "wrongAnswers": [
+        "Error state",
+        "User interface",
+        "Prototype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A visual difference that helps elements stand apart?",
+      "correctAnswer": "Contrast",
+      "wrongAnswers": [
+        "Empty state",
+        "User experience",
+        "Usability testing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Arranging elements to show importance?",
+      "correctAnswer": "Hierarchy",
+      "wrongAnswers": [
+        "Onboarding",
+        "Persona",
+        "Information architecture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Using familiar patterns across an interface?",
+      "correctAnswer": "Consistency",
+      "wrongAnswers": [
+        "Microcopy",
+        "User journey",
+        "Navigation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A design state that communicates a problem?",
+      "correctAnswer": "Error state",
+      "wrongAnswers": [
+        "Design system",
+        "Wireframe",
+        "Affordance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A design state shown when there is no content yet?",
+      "correctAnswer": "Empty state",
+      "wrongAnswers": [
+        "User interface",
+        "Prototype",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Helping new users begin using a product?",
+      "correctAnswer": "Onboarding",
+      "wrongAnswers": [
+        "User experience",
+        "Usability testing",
+        "Accessibility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: Short interface text that guides users?",
+      "correctAnswer": "Microcopy",
+      "wrongAnswers": [
+        "Persona",
+        "Information architecture",
+        "Contrast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: A shared set of reusable design rules and components?",
+      "correctAnswer": "Design system",
+      "wrongAnswers": [
+        "User journey",
+        "Navigation",
+        "Hierarchy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: The visible and interactive parts of a product?",
+      "correctAnswer": "User interface",
+      "wrongAnswers": [
+        "Wireframe",
+        "Affordance",
+        "Consistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which UI and UX Design concept is described by this clue: The overall experience a person has using a product?",
+      "correctAnswer": "User experience",
+      "wrongAnswers": [
+        "Prototype",
+        "Feedback",
+        "Error state"
+      ],
+      "timeout": 15
+    }
+  ]
+}

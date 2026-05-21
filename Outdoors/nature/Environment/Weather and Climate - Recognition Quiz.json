@@ -1,0 +1,205 @@
+{
+  "title": "Weather and Climate Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Condensation\" is correct?",
+      "correctAnswer": "Condensation: Water vapor changing into liquid droplets",
+      "wrongAnswers": [
+        "Jet stream: A fast-flowing high-altitude air current",
+        "Tornado: A rotating column of air reaching from cloud to ground",
+        "Greenhouse effect: Warming caused when gases trap outgoing heat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Precipitation\" is correct?",
+      "correctAnswer": "Precipitation: Water falling from the atmosphere to Earth's surface",
+      "wrongAnswers": [
+        "Cumulus cloud: A puffy cloud often linked to fair weather",
+        "Hurricane: A powerful tropical cyclone with organized rotation",
+        "Climate model: A computer representation used to study climate behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Front\" is correct?",
+      "correctAnswer": "Front: A boundary between air masses",
+      "wrongAnswers": [
+        "Stratus cloud: A layered cloud that can cover much of the sky",
+        "Drought: A long period with unusually low water availability",
+        "Atmosphere: The layer of gases surrounding Earth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cold front\" is correct?",
+      "correctAnswer": "Cold front: A boundary where colder air advances",
+      "wrongAnswers": [
+        "Cirrus cloud: A high wispy cloud made mostly of ice crystals",
+        "Climate: Long-term patterns of weather in a region",
+        "Air pressure: The force exerted by the weight of air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Warm front\" is correct?",
+      "correctAnswer": "Warm front: A boundary where warmer air advances",
+      "wrongAnswers": [
+        "Thunderstorm: A storm with lightning and thunder",
+        "Weather: Short-term atmospheric conditions",
+        "Humidity: The amount of water vapor in the air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Jet stream\" is correct?",
+      "correctAnswer": "Jet stream: A fast-flowing high-altitude air current",
+      "wrongAnswers": [
+        "Tornado: A rotating column of air reaching from cloud to ground",
+        "Greenhouse effect: Warming caused when gases trap outgoing heat",
+        "Condensation: Water vapor changing into liquid droplets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cumulus cloud\" is correct?",
+      "correctAnswer": "Cumulus cloud: A puffy cloud often linked to fair weather",
+      "wrongAnswers": [
+        "Hurricane: A powerful tropical cyclone with organized rotation",
+        "Climate model: A computer representation used to study climate behavior",
+        "Precipitation: Water falling from the atmosphere to Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stratus cloud\" is correct?",
+      "correctAnswer": "Stratus cloud: A layered cloud that can cover much of the sky",
+      "wrongAnswers": [
+        "Drought: A long period with unusually low water availability",
+        "Atmosphere: The layer of gases surrounding Earth",
+        "Front: A boundary between air masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cirrus cloud\" is correct?",
+      "correctAnswer": "Cirrus cloud: A high wispy cloud made mostly of ice crystals",
+      "wrongAnswers": [
+        "Climate: Long-term patterns of weather in a region",
+        "Air pressure: The force exerted by the weight of air",
+        "Cold front: A boundary where colder air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Thunderstorm\" is correct?",
+      "correctAnswer": "Thunderstorm: A storm with lightning and thunder",
+      "wrongAnswers": [
+        "Weather: Short-term atmospheric conditions",
+        "Humidity: The amount of water vapor in the air",
+        "Warm front: A boundary where warmer air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tornado\" is correct?",
+      "correctAnswer": "Tornado: A rotating column of air reaching from cloud to ground",
+      "wrongAnswers": [
+        "Greenhouse effect: Warming caused when gases trap outgoing heat",
+        "Condensation: Water vapor changing into liquid droplets",
+        "Jet stream: A fast-flowing high-altitude air current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hurricane\" is correct?",
+      "correctAnswer": "Hurricane: A powerful tropical cyclone with organized rotation",
+      "wrongAnswers": [
+        "Climate model: A computer representation used to study climate behavior",
+        "Precipitation: Water falling from the atmosphere to Earth's surface",
+        "Cumulus cloud: A puffy cloud often linked to fair weather"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Drought\" is correct?",
+      "correctAnswer": "Drought: A long period with unusually low water availability",
+      "wrongAnswers": [
+        "Atmosphere: The layer of gases surrounding Earth",
+        "Front: A boundary between air masses",
+        "Stratus cloud: A layered cloud that can cover much of the sky"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Climate\" is correct?",
+      "correctAnswer": "Climate: Long-term patterns of weather in a region",
+      "wrongAnswers": [
+        "Air pressure: The force exerted by the weight of air",
+        "Cold front: A boundary where colder air advances",
+        "Cirrus cloud: A high wispy cloud made mostly of ice crystals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Weather\" is correct?",
+      "correctAnswer": "Weather: Short-term atmospheric conditions",
+      "wrongAnswers": [
+        "Humidity: The amount of water vapor in the air",
+        "Warm front: A boundary where warmer air advances",
+        "Thunderstorm: A storm with lightning and thunder"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Greenhouse effect\" is correct?",
+      "correctAnswer": "Greenhouse effect: Warming caused when gases trap outgoing heat",
+      "wrongAnswers": [
+        "Condensation: Water vapor changing into liquid droplets",
+        "Jet stream: A fast-flowing high-altitude air current",
+        "Tornado: A rotating column of air reaching from cloud to ground"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Climate model\" is correct?",
+      "correctAnswer": "Climate model: A computer representation used to study climate behavior",
+      "wrongAnswers": [
+        "Precipitation: Water falling from the atmosphere to Earth's surface",
+        "Cumulus cloud: A puffy cloud often linked to fair weather",
+        "Hurricane: A powerful tropical cyclone with organized rotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Atmosphere\" is correct?",
+      "correctAnswer": "Atmosphere: The layer of gases surrounding Earth",
+      "wrongAnswers": [
+        "Front: A boundary between air masses",
+        "Stratus cloud: A layered cloud that can cover much of the sky",
+        "Drought: A long period with unusually low water availability"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Air pressure\" is correct?",
+      "correctAnswer": "Air pressure: The force exerted by the weight of air",
+      "wrongAnswers": [
+        "Cold front: A boundary where colder air advances",
+        "Cirrus cloud: A high wispy cloud made mostly of ice crystals",
+        "Climate: Long-term patterns of weather in a region"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Humidity\" is correct?",
+      "correctAnswer": "Humidity: The amount of water vapor in the air",
+      "wrongAnswers": [
+        "Warm front: A boundary where warmer air advances",
+        "Thunderstorm: A storm with lightning and thunder",
+        "Weather: Short-term atmospheric conditions"
+      ],
+      "timeout": 15
+    }
+  ]
+}

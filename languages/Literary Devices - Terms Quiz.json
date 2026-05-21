@@ -1,0 +1,205 @@
+{
+  "title": "Literary Devices Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Literary Devices, which term means: A comparison using like or as?",
+      "correctAnswer": "Simile",
+      "wrongAnswers": [
+        "Assonance",
+        "Foreshadowing",
+        "Mood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Giving human qualities to non-human things?",
+      "correctAnswer": "Personification",
+      "wrongAnswers": [
+        "Onomatopoeia",
+        "Flashback",
+        "Hyperbole"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Repeating initial consonant sounds?",
+      "correctAnswer": "Alliteration",
+      "wrongAnswers": [
+        "Imagery",
+        "Motif",
+        "Oxymoron"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Repeating vowel sounds within nearby words?",
+      "correctAnswer": "Assonance",
+      "wrongAnswers": [
+        "Symbolism",
+        "Theme",
+        "Paradox"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A word that imitates a sound?",
+      "correctAnswer": "Onomatopoeia",
+      "wrongAnswers": [
+        "Irony",
+        "Tone",
+        "Allegory"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Language that appeals to the senses?",
+      "correctAnswer": "Imagery",
+      "wrongAnswers": [
+        "Foreshadowing",
+        "Mood",
+        "Allusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Using an object or action to represent a larger idea?",
+      "correctAnswer": "Symbolism",
+      "wrongAnswers": [
+        "Flashback",
+        "Hyperbole",
+        "Metaphor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A contrast between expectation and reality?",
+      "correctAnswer": "Irony",
+      "wrongAnswers": [
+        "Motif",
+        "Oxymoron",
+        "Simile"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Hints about events that will happen later?",
+      "correctAnswer": "Foreshadowing",
+      "wrongAnswers": [
+        "Theme",
+        "Paradox",
+        "Personification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A scene that shows an earlier time?",
+      "correctAnswer": "Flashback",
+      "wrongAnswers": [
+        "Tone",
+        "Allegory",
+        "Alliteration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A repeated element with thematic importance?",
+      "correctAnswer": "Motif",
+      "wrongAnswers": [
+        "Mood",
+        "Allusion",
+        "Assonance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A central idea explored by a text?",
+      "correctAnswer": "Theme",
+      "wrongAnswers": [
+        "Hyperbole",
+        "Metaphor",
+        "Onomatopoeia"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: The writer's attitude toward the subject?",
+      "correctAnswer": "Tone",
+      "wrongAnswers": [
+        "Oxymoron",
+        "Simile",
+        "Imagery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: The emotional atmosphere felt by the reader?",
+      "correctAnswer": "Mood",
+      "wrongAnswers": [
+        "Paradox",
+        "Personification",
+        "Symbolism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: Deliberate exaggeration for effect?",
+      "correctAnswer": "Hyperbole",
+      "wrongAnswers": [
+        "Allegory",
+        "Alliteration",
+        "Irony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A phrase that combines contradictory terms?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": [
+        "Allusion",
+        "Assonance",
+        "Foreshadowing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A statement that seems contradictory but reveals truth?",
+      "correctAnswer": "Paradox",
+      "wrongAnswers": [
+        "Metaphor",
+        "Onomatopoeia",
+        "Flashback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A story with a second symbolic meaning?",
+      "correctAnswer": "Allegory",
+      "wrongAnswers": [
+        "Simile",
+        "Imagery",
+        "Motif"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A reference to another text, event, or idea?",
+      "correctAnswer": "Allusion",
+      "wrongAnswers": [
+        "Personification",
+        "Symbolism",
+        "Theme"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, which term means: A comparison that says one thing is another?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": [
+        "Alliteration",
+        "Irony",
+        "Tone"
+      ],
+      "timeout": 15
+    }
+  ]
+}

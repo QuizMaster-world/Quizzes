@@ -1,0 +1,205 @@
+{
+  "title": "Cybersecurity Basics Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Cybersecurity Basics, what does \"Authentication\" mean?",
+      "correctAnswer": "Verifying the identity of a user or system",
+      "wrongAnswers": [
+        "Transforming readable data into protected data using a key",
+        "Malware that blocks access to data until payment is demanded",
+        "Giving only the access required for a task"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Authorization\" mean?",
+      "correctAnswer": "Deciding what an identified user or system is allowed to access",
+      "wrongAnswers": [
+        "Creating a fixed-size digest from input data",
+        "A control that filters network traffic using rules",
+        "Requiring more than one kind of identity proof"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Encryption\" mean?",
+      "correctAnswer": "Transforming readable data into protected data using a key",
+      "wrongAnswers": [
+        "Random data added before hashing to protect repeated passwords",
+        "A weakness that could be exploited",
+        "A shareable key used in asymmetric cryptography"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Hashing\" mean?",
+      "correctAnswer": "Creating a fixed-size digest from input data",
+      "wrongAnswers": [
+        "Tricking people into revealing sensitive information",
+        "An update that fixes a defect or security weakness",
+        "A secret key used in asymmetric cryptography"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Salt\" mean?",
+      "correctAnswer": "Random data added before hashing to protect repeated passwords",
+      "wrongAnswers": [
+        "Software designed to harm or misuse systems",
+        "A vulnerability that is not yet patched by the vendor",
+        "A cryptographic proof of data origin and integrity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Phishing\" mean?",
+      "correctAnswer": "Tricking people into revealing sensitive information",
+      "wrongAnswers": [
+        "Malware that blocks access to data until payment is demanded",
+        "Giving only the access required for a task",
+        "Putting malicious database commands into untrusted input"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Malware\" mean?",
+      "correctAnswer": "Software designed to harm or misuse systems",
+      "wrongAnswers": [
+        "A control that filters network traffic using rules",
+        "Requiring more than one kind of identity proof",
+        "Injecting script into content viewed by other users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Ransomware\" mean?",
+      "correctAnswer": "Malware that blocks access to data until payment is demanded",
+      "wrongAnswers": [
+        "A weakness that could be exploited",
+        "A shareable key used in asymmetric cryptography",
+        "A record of events useful for investigating security activity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Firewall\" mean?",
+      "correctAnswer": "A control that filters network traffic using rules",
+      "wrongAnswers": [
+        "An update that fixes a defect or security weakness",
+        "A secret key used in asymmetric cryptography",
+        "Verifying the identity of a user or system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Vulnerability\" mean?",
+      "correctAnswer": "A weakness that could be exploited",
+      "wrongAnswers": [
+        "A vulnerability that is not yet patched by the vendor",
+        "A cryptographic proof of data origin and integrity",
+        "Deciding what an identified user or system is allowed to access"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Patch\" mean?",
+      "correctAnswer": "An update that fixes a defect or security weakness",
+      "wrongAnswers": [
+        "Giving only the access required for a task",
+        "Putting malicious database commands into untrusted input",
+        "Transforming readable data into protected data using a key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Zero-day\" mean?",
+      "correctAnswer": "A vulnerability that is not yet patched by the vendor",
+      "wrongAnswers": [
+        "Requiring more than one kind of identity proof",
+        "Injecting script into content viewed by other users",
+        "Creating a fixed-size digest from input data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Least privilege\" mean?",
+      "correctAnswer": "Giving only the access required for a task",
+      "wrongAnswers": [
+        "A shareable key used in asymmetric cryptography",
+        "A record of events useful for investigating security activity",
+        "Random data added before hashing to protect repeated passwords"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Multi-factor authentication\" mean?",
+      "correctAnswer": "Requiring more than one kind of identity proof",
+      "wrongAnswers": [
+        "A secret key used in asymmetric cryptography",
+        "Verifying the identity of a user or system",
+        "Tricking people into revealing sensitive information"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Public key\" mean?",
+      "correctAnswer": "A shareable key used in asymmetric cryptography",
+      "wrongAnswers": [
+        "A cryptographic proof of data origin and integrity",
+        "Deciding what an identified user or system is allowed to access",
+        "Software designed to harm or misuse systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Private key\" mean?",
+      "correctAnswer": "A secret key used in asymmetric cryptography",
+      "wrongAnswers": [
+        "Putting malicious database commands into untrusted input",
+        "Transforming readable data into protected data using a key",
+        "Malware that blocks access to data until payment is demanded"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Digital signature\" mean?",
+      "correctAnswer": "A cryptographic proof of data origin and integrity",
+      "wrongAnswers": [
+        "Injecting script into content viewed by other users",
+        "Creating a fixed-size digest from input data",
+        "A control that filters network traffic using rules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"SQL injection\" mean?",
+      "correctAnswer": "Putting malicious database commands into untrusted input",
+      "wrongAnswers": [
+        "A record of events useful for investigating security activity",
+        "Random data added before hashing to protect repeated passwords",
+        "A weakness that could be exploited"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Cross-site scripting\" mean?",
+      "correctAnswer": "Injecting script into content viewed by other users",
+      "wrongAnswers": [
+        "Verifying the identity of a user or system",
+        "Tricking people into revealing sensitive information",
+        "An update that fixes a defect or security weakness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, what does \"Security audit log\" mean?",
+      "correctAnswer": "A record of events useful for investigating security activity",
+      "wrongAnswers": [
+        "Deciding what an identified user or system is allowed to access",
+        "Software designed to harm or misuse systems",
+        "A vulnerability that is not yet patched by the vendor"
+      ],
+      "timeout": 15
+    }
+  ]
+}

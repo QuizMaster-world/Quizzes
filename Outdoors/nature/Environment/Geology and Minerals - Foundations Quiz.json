@@ -1,0 +1,205 @@
+{
+  "title": "Geology and Minerals Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Geology and Minerals, what does \"Mineral\" mean?",
+      "correctAnswer": "A naturally occurring inorganic solid with a defined structure",
+      "wrongAnswers": [
+        "Resistance of a mineral to scratching",
+        "Rock or mineral containing useful material that can be extracted",
+        "A carbonate mineral that reacts with acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Crystal\" mean?",
+      "correctAnswer": "A solid with atoms arranged in a repeating pattern",
+      "wrongAnswers": [
+        "How a mineral reflects light",
+        "A mineral valued for beauty, durability, or rarity",
+        "A coarse-grained igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Hardness\" mean?",
+      "correctAnswer": "Resistance of a mineral to scratching",
+      "wrongAnswers": [
+        "The color of a mineral in powdered form",
+        "A common mineral made of silicon and oxygen",
+        "A fine-grained volcanic igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Luster\" mean?",
+      "correctAnswer": "How a mineral reflects light",
+      "wrongAnswers": [
+        "A mineral breaking along flat surfaces",
+        "A common group of rock-forming minerals",
+        "A sedimentary rock made mostly of sand-sized grains"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Streak\" mean?",
+      "correctAnswer": "The color of a mineral in powdered form",
+      "wrongAnswers": [
+        "A mineral breaking along irregular surfaces",
+        "A mineral group that splits into thin sheets",
+        "A sedimentary rock made largely of calcium carbonate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Cleavage\" mean?",
+      "correctAnswer": "A mineral breaking along flat surfaces",
+      "wrongAnswers": [
+        "Rock or mineral containing useful material that can be extracted",
+        "A carbonate mineral that reacts with acid",
+        "A fine-grained metamorphic rock that splits into sheets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Fracture\" mean?",
+      "correctAnswer": "A mineral breaking along irregular surfaces",
+      "wrongAnswers": [
+        "A mineral valued for beauty, durability, or rarity",
+        "A coarse-grained igneous rock",
+        "A metamorphic rock formed from limestone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Ore\" mean?",
+      "correctAnswer": "Rock or mineral containing useful material that can be extracted",
+      "wrongAnswers": [
+        "A common mineral made of silicon and oxygen",
+        "A fine-grained volcanic igneous rock",
+        "A banded metamorphic rock formed under high grade conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Gemstone\" mean?",
+      "correctAnswer": "A mineral valued for beauty, durability, or rarity",
+      "wrongAnswers": [
+        "A common group of rock-forming minerals",
+        "A sedimentary rock made mostly of sand-sized grains",
+        "A naturally occurring inorganic solid with a defined structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Quartz\" mean?",
+      "correctAnswer": "A common mineral made of silicon and oxygen",
+      "wrongAnswers": [
+        "A mineral group that splits into thin sheets",
+        "A sedimentary rock made largely of calcium carbonate",
+        "A solid with atoms arranged in a repeating pattern"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Feldspar\" mean?",
+      "correctAnswer": "A common group of rock-forming minerals",
+      "wrongAnswers": [
+        "A carbonate mineral that reacts with acid",
+        "A fine-grained metamorphic rock that splits into sheets",
+        "Resistance of a mineral to scratching"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Mica\" mean?",
+      "correctAnswer": "A mineral group that splits into thin sheets",
+      "wrongAnswers": [
+        "A coarse-grained igneous rock",
+        "A metamorphic rock formed from limestone",
+        "How a mineral reflects light"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Calcite\" mean?",
+      "correctAnswer": "A carbonate mineral that reacts with acid",
+      "wrongAnswers": [
+        "A fine-grained volcanic igneous rock",
+        "A banded metamorphic rock formed under high grade conditions",
+        "The color of a mineral in powdered form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Granite\" mean?",
+      "correctAnswer": "A coarse-grained igneous rock",
+      "wrongAnswers": [
+        "A sedimentary rock made mostly of sand-sized grains",
+        "A naturally occurring inorganic solid with a defined structure",
+        "A mineral breaking along flat surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Basalt\" mean?",
+      "correctAnswer": "A fine-grained volcanic igneous rock",
+      "wrongAnswers": [
+        "A sedimentary rock made largely of calcium carbonate",
+        "A solid with atoms arranged in a repeating pattern",
+        "A mineral breaking along irregular surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Sandstone\" mean?",
+      "correctAnswer": "A sedimentary rock made mostly of sand-sized grains",
+      "wrongAnswers": [
+        "A fine-grained metamorphic rock that splits into sheets",
+        "Resistance of a mineral to scratching",
+        "Rock or mineral containing useful material that can be extracted"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Limestone\" mean?",
+      "correctAnswer": "A sedimentary rock made largely of calcium carbonate",
+      "wrongAnswers": [
+        "A metamorphic rock formed from limestone",
+        "How a mineral reflects light",
+        "A mineral valued for beauty, durability, or rarity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Slate\" mean?",
+      "correctAnswer": "A fine-grained metamorphic rock that splits into sheets",
+      "wrongAnswers": [
+        "A banded metamorphic rock formed under high grade conditions",
+        "The color of a mineral in powdered form",
+        "A common mineral made of silicon and oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Marble\" mean?",
+      "correctAnswer": "A metamorphic rock formed from limestone",
+      "wrongAnswers": [
+        "A naturally occurring inorganic solid with a defined structure",
+        "A mineral breaking along flat surfaces",
+        "A common group of rock-forming minerals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, what does \"Gneiss\" mean?",
+      "correctAnswer": "A banded metamorphic rock formed under high grade conditions",
+      "wrongAnswers": [
+        "A solid with atoms arranged in a repeating pattern",
+        "A mineral breaking along irregular surfaces",
+        "A mineral group that splits into thin sheets"
+      ],
+      "timeout": 15
+    }
+  ]
+}

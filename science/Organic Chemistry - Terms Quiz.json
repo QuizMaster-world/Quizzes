@@ -1,0 +1,205 @@
+{
+  "title": "Organic Chemistry Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Organic Chemistry, which term means: A hydrocarbon with only single carbon-carbon bonds?",
+      "correctAnswer": "Alkane",
+      "wrongAnswers": [
+        "Alcohol",
+        "Monomer",
+        "Aromatic compound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A hydrocarbon with at least one carbon-carbon double bond?",
+      "correctAnswer": "Alkene",
+      "wrongAnswers": [
+        "Carboxylic acid",
+        "Isomer",
+        "Catalyst"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A hydrocarbon with at least one carbon-carbon triple bond?",
+      "correctAnswer": "Alkyne",
+      "wrongAnswers": [
+        "Ester",
+        "Functional group",
+        "Addition reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: An organic compound containing a hydroxyl group?",
+      "correctAnswer": "Alcohol",
+      "wrongAnswers": [
+        "Amine",
+        "Saturated compound",
+        "Substitution reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: An organic compound containing a carboxyl group?",
+      "correctAnswer": "Carboxylic acid",
+      "wrongAnswers": [
+        "Polymer",
+        "Unsaturated compound",
+        "Condensation reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: An organic compound often formed from an alcohol and a carboxylic acid?",
+      "correctAnswer": "Ester",
+      "wrongAnswers": [
+        "Monomer",
+        "Aromatic compound",
+        "Cracking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: An organic compound containing nitrogen bonded to carbon or hydrogen?",
+      "correctAnswer": "Amine",
+      "wrongAnswers": [
+        "Isomer",
+        "Catalyst",
+        "Hydrocarbon"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A large molecule made from repeating smaller units?",
+      "correctAnswer": "Polymer",
+      "wrongAnswers": [
+        "Functional group",
+        "Addition reaction",
+        "Alkane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A small molecule that can join to form a polymer?",
+      "correctAnswer": "Monomer",
+      "wrongAnswers": [
+        "Saturated compound",
+        "Substitution reaction",
+        "Alkene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A compound with the same formula but a different structure?",
+      "correctAnswer": "Isomer",
+      "wrongAnswers": [
+        "Unsaturated compound",
+        "Condensation reaction",
+        "Alkyne"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A group of atoms that gives a molecule characteristic reactions?",
+      "correctAnswer": "Functional group",
+      "wrongAnswers": [
+        "Aromatic compound",
+        "Cracking",
+        "Alcohol"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A compound with no carbon-carbon multiple bonds?",
+      "correctAnswer": "Saturated compound",
+      "wrongAnswers": [
+        "Catalyst",
+        "Hydrocarbon",
+        "Carboxylic acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A compound with at least one carbon-carbon multiple bond?",
+      "correctAnswer": "Unsaturated compound",
+      "wrongAnswers": [
+        "Addition reaction",
+        "Alkane",
+        "Ester"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A stable ring compound with delocalized electrons?",
+      "correctAnswer": "Aromatic compound",
+      "wrongAnswers": [
+        "Substitution reaction",
+        "Alkene",
+        "Amine"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A substance that speeds a reaction without being consumed?",
+      "correctAnswer": "Catalyst",
+      "wrongAnswers": [
+        "Condensation reaction",
+        "Alkyne",
+        "Polymer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A reaction where atoms add across a multiple bond?",
+      "correctAnswer": "Addition reaction",
+      "wrongAnswers": [
+        "Cracking",
+        "Alcohol",
+        "Monomer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A reaction where one atom or group replaces another?",
+      "correctAnswer": "Substitution reaction",
+      "wrongAnswers": [
+        "Hydrocarbon",
+        "Carboxylic acid",
+        "Isomer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A reaction that joins molecules while releasing a small molecule?",
+      "correctAnswer": "Condensation reaction",
+      "wrongAnswers": [
+        "Alkane",
+        "Ester",
+        "Functional group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: Breaking larger hydrocarbons into smaller molecules?",
+      "correctAnswer": "Cracking",
+      "wrongAnswers": [
+        "Alkene",
+        "Amine",
+        "Saturated compound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, which term means: A compound made only of carbon and hydrogen?",
+      "correctAnswer": "Hydrocarbon",
+      "wrongAnswers": [
+        "Alkyne",
+        "Polymer",
+        "Unsaturated compound"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Cybersecurity Basics Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Cybersecurity Basics, which term means: Deciding what an identified user or system is allowed to access?",
+      "correctAnswer": "Authorization",
+      "wrongAnswers": [
+        "Salt",
+        "Vulnerability",
+        "Public key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Transforming readable data into protected data using a key?",
+      "correctAnswer": "Encryption",
+      "wrongAnswers": [
+        "Phishing",
+        "Patch",
+        "Private key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Creating a fixed-size digest from input data?",
+      "correctAnswer": "Hashing",
+      "wrongAnswers": [
+        "Malware",
+        "Zero-day",
+        "Digital signature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Random data added before hashing to protect repeated passwords?",
+      "correctAnswer": "Salt",
+      "wrongAnswers": [
+        "Ransomware",
+        "Least privilege",
+        "SQL injection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Tricking people into revealing sensitive information?",
+      "correctAnswer": "Phishing",
+      "wrongAnswers": [
+        "Firewall",
+        "Multi-factor authentication",
+        "Cross-site scripting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Software designed to harm or misuse systems?",
+      "correctAnswer": "Malware",
+      "wrongAnswers": [
+        "Vulnerability",
+        "Public key",
+        "Security audit log"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Malware that blocks access to data until payment is demanded?",
+      "correctAnswer": "Ransomware",
+      "wrongAnswers": [
+        "Patch",
+        "Private key",
+        "Authentication"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A control that filters network traffic using rules?",
+      "correctAnswer": "Firewall",
+      "wrongAnswers": [
+        "Zero-day",
+        "Digital signature",
+        "Authorization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A weakness that could be exploited?",
+      "correctAnswer": "Vulnerability",
+      "wrongAnswers": [
+        "Least privilege",
+        "SQL injection",
+        "Encryption"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: An update that fixes a defect or security weakness?",
+      "correctAnswer": "Patch",
+      "wrongAnswers": [
+        "Multi-factor authentication",
+        "Cross-site scripting",
+        "Hashing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A vulnerability that is not yet patched by the vendor?",
+      "correctAnswer": "Zero-day",
+      "wrongAnswers": [
+        "Public key",
+        "Security audit log",
+        "Salt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Giving only the access required for a task?",
+      "correctAnswer": "Least privilege",
+      "wrongAnswers": [
+        "Private key",
+        "Authentication",
+        "Phishing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Requiring more than one kind of identity proof?",
+      "correctAnswer": "Multi-factor authentication",
+      "wrongAnswers": [
+        "Digital signature",
+        "Authorization",
+        "Malware"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A shareable key used in asymmetric cryptography?",
+      "correctAnswer": "Public key",
+      "wrongAnswers": [
+        "SQL injection",
+        "Encryption",
+        "Ransomware"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A secret key used in asymmetric cryptography?",
+      "correctAnswer": "Private key",
+      "wrongAnswers": [
+        "Cross-site scripting",
+        "Hashing",
+        "Firewall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A cryptographic proof of data origin and integrity?",
+      "correctAnswer": "Digital signature",
+      "wrongAnswers": [
+        "Security audit log",
+        "Salt",
+        "Vulnerability"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Putting malicious database commands into untrusted input?",
+      "correctAnswer": "SQL injection",
+      "wrongAnswers": [
+        "Authentication",
+        "Phishing",
+        "Patch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Injecting script into content viewed by other users?",
+      "correctAnswer": "Cross-site scripting",
+      "wrongAnswers": [
+        "Authorization",
+        "Malware",
+        "Zero-day"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: A record of events useful for investigating security activity?",
+      "correctAnswer": "Security audit log",
+      "wrongAnswers": [
+        "Encryption",
+        "Ransomware",
+        "Least privilege"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cybersecurity Basics, which term means: Verifying the identity of a user or system?",
+      "correctAnswer": "Authentication",
+      "wrongAnswers": [
+        "Hashing",
+        "Firewall",
+        "Multi-factor authentication"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Medieval Life Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Medieval Life, which term means: A landed estate that organized rural medieval life?",
+      "correctAnswer": "Manor",
+      "wrongAnswers": [
+        "Vassal",
+        "Journeyman",
+        "Illuminated manuscript"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A peasant bound to work land under a lord's control?",
+      "correctAnswer": "Serf",
+      "wrongAnswers": [
+        "Knight",
+        "Tithe",
+        "Black Death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A landholder with power over tenants and dependents?",
+      "correctAnswer": "Lord",
+      "wrongAnswers": [
+        "Castle",
+        "Monastery",
+        "Crop rotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A person who owed service to a lord in exchange for protection or land?",
+      "correctAnswer": "Vassal",
+      "wrongAnswers": [
+        "Guild",
+        "Pilgrimage",
+        "Common land"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A mounted warrior linked to the feudal system?",
+      "correctAnswer": "Knight",
+      "wrongAnswers": [
+        "Apprentice",
+        "Cathedral",
+        "Market town"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A fortified residence and defensive structure?",
+      "correctAnswer": "Castle",
+      "wrongAnswers": [
+        "Journeyman",
+        "Illuminated manuscript",
+        "Charter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: An association of craftspeople or merchants?",
+      "correctAnswer": "Guild",
+      "wrongAnswers": [
+        "Tithe",
+        "Black Death",
+        "Feudalism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A beginner learning a trade from a master?",
+      "correctAnswer": "Apprentice",
+      "wrongAnswers": [
+        "Monastery",
+        "Crop rotation",
+        "Manor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A trained worker who had not yet become a master?",
+      "correctAnswer": "Journeyman",
+      "wrongAnswers": [
+        "Pilgrimage",
+        "Common land",
+        "Serf"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A church payment often made as a portion of produce or income?",
+      "correctAnswer": "Tithe",
+      "wrongAnswers": [
+        "Cathedral",
+        "Market town",
+        "Lord"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A religious community where monks lived and worked?",
+      "correctAnswer": "Monastery",
+      "wrongAnswers": [
+        "Illuminated manuscript",
+        "Charter",
+        "Vassal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A journey to a sacred place?",
+      "correctAnswer": "Pilgrimage",
+      "wrongAnswers": [
+        "Black Death",
+        "Feudalism",
+        "Knight"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A major church serving as a bishop's seat?",
+      "correctAnswer": "Cathedral",
+      "wrongAnswers": [
+        "Crop rotation",
+        "Manor",
+        "Castle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A hand-copied book decorated with images or ornament?",
+      "correctAnswer": "Illuminated manuscript",
+      "wrongAnswers": [
+        "Common land",
+        "Serf",
+        "Guild"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A devastating plague pandemic in medieval Europe?",
+      "correctAnswer": "Black Death",
+      "wrongAnswers": [
+        "Market town",
+        "Lord",
+        "Apprentice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: Changing crops in fields to maintain soil fertility?",
+      "correctAnswer": "Crop rotation",
+      "wrongAnswers": [
+        "Charter",
+        "Vassal",
+        "Journeyman"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: Land shared by members of a community?",
+      "correctAnswer": "Common land",
+      "wrongAnswers": [
+        "Feudalism",
+        "Knight",
+        "Tithe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A settlement with rights or customs for regular trade?",
+      "correctAnswer": "Market town",
+      "wrongAnswers": [
+        "Manor",
+        "Castle",
+        "Monastery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A written grant of rights or privileges?",
+      "correctAnswer": "Charter",
+      "wrongAnswers": [
+        "Serf",
+        "Guild",
+        "Pilgrimage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, which term means: A social system based on landholding and obligations?",
+      "correctAnswer": "Feudalism",
+      "wrongAnswers": [
+        "Lord",
+        "Apprentice",
+        "Cathedral"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Visual Art Techniques Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Value\" is correct?",
+      "correctAnswer": "Value: The lightness or darkness of a color",
+      "wrongAnswers": [
+        "Focal point: The area that draws the viewer's attention",
+        "Contour drawing: A drawing that emphasizes outlines and edges",
+        "Negative space: The area around and between subjects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Texture\" is correct?",
+      "correctAnswer": "Texture: The surface quality seen or felt in artwork",
+      "wrongAnswers": [
+        "Contrast: Difference between visual elements",
+        "Shading: Using value to suggest light and form",
+        "Mixed media: Artwork made with more than one material or technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Color harmony\" is correct?",
+      "correctAnswer": "Color harmony: A pleasing relationship among colors",
+      "wrongAnswers": [
+        "Balance: The distribution of visual weight",
+        "Blending: Smoothly transitioning between tones or colors",
+        "Line: A mark that can define shape, direction, and movement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Composition\" is correct?",
+      "correctAnswer": "Composition: The arrangement of visual elements",
+      "wrongAnswers": [
+        "Proportion: The size relationship between parts",
+        "Layering: Building an image through multiple applications of media",
+        "Shape: A flat enclosed area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Perspective\" is correct?",
+      "correctAnswer": "Perspective: A method for creating the illusion of depth",
+      "wrongAnswers": [
+        "Gesture drawing: A quick drawing that captures movement or pose",
+        "Wash: A thin transparent layer of paint or ink",
+        "Form: A three-dimensional object or the illusion of one"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Focal point\" is correct?",
+      "correctAnswer": "Focal point: The area that draws the viewer's attention",
+      "wrongAnswers": [
+        "Contour drawing: A drawing that emphasizes outlines and edges",
+        "Negative space: The area around and between subjects",
+        "Value: The lightness or darkness of a color"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Contrast\" is correct?",
+      "correctAnswer": "Contrast: Difference between visual elements",
+      "wrongAnswers": [
+        "Shading: Using value to suggest light and form",
+        "Mixed media: Artwork made with more than one material or technique",
+        "Texture: The surface quality seen or felt in artwork"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Balance\" is correct?",
+      "correctAnswer": "Balance: The distribution of visual weight",
+      "wrongAnswers": [
+        "Blending: Smoothly transitioning between tones or colors",
+        "Line: A mark that can define shape, direction, and movement",
+        "Color harmony: A pleasing relationship among colors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Proportion\" is correct?",
+      "correctAnswer": "Proportion: The size relationship between parts",
+      "wrongAnswers": [
+        "Layering: Building an image through multiple applications of media",
+        "Shape: A flat enclosed area",
+        "Composition: The arrangement of visual elements"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gesture drawing\" is correct?",
+      "correctAnswer": "Gesture drawing: A quick drawing that captures movement or pose",
+      "wrongAnswers": [
+        "Wash: A thin transparent layer of paint or ink",
+        "Form: A three-dimensional object or the illusion of one",
+        "Perspective: A method for creating the illusion of depth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Contour drawing\" is correct?",
+      "correctAnswer": "Contour drawing: A drawing that emphasizes outlines and edges",
+      "wrongAnswers": [
+        "Negative space: The area around and between subjects",
+        "Value: The lightness or darkness of a color",
+        "Focal point: The area that draws the viewer's attention"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Shading\" is correct?",
+      "correctAnswer": "Shading: Using value to suggest light and form",
+      "wrongAnswers": [
+        "Mixed media: Artwork made with more than one material or technique",
+        "Texture: The surface quality seen or felt in artwork",
+        "Contrast: Difference between visual elements"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Blending\" is correct?",
+      "correctAnswer": "Blending: Smoothly transitioning between tones or colors",
+      "wrongAnswers": [
+        "Line: A mark that can define shape, direction, and movement",
+        "Color harmony: A pleasing relationship among colors",
+        "Balance: The distribution of visual weight"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Layering\" is correct?",
+      "correctAnswer": "Layering: Building an image through multiple applications of media",
+      "wrongAnswers": [
+        "Shape: A flat enclosed area",
+        "Composition: The arrangement of visual elements",
+        "Proportion: The size relationship between parts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Wash\" is correct?",
+      "correctAnswer": "Wash: A thin transparent layer of paint or ink",
+      "wrongAnswers": [
+        "Form: A three-dimensional object or the illusion of one",
+        "Perspective: A method for creating the illusion of depth",
+        "Gesture drawing: A quick drawing that captures movement or pose"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Negative space\" is correct?",
+      "correctAnswer": "Negative space: The area around and between subjects",
+      "wrongAnswers": [
+        "Value: The lightness or darkness of a color",
+        "Focal point: The area that draws the viewer's attention",
+        "Contour drawing: A drawing that emphasizes outlines and edges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mixed media\" is correct?",
+      "correctAnswer": "Mixed media: Artwork made with more than one material or technique",
+      "wrongAnswers": [
+        "Texture: The surface quality seen or felt in artwork",
+        "Contrast: Difference between visual elements",
+        "Shading: Using value to suggest light and form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Line\" is correct?",
+      "correctAnswer": "Line: A mark that can define shape, direction, and movement",
+      "wrongAnswers": [
+        "Color harmony: A pleasing relationship among colors",
+        "Balance: The distribution of visual weight",
+        "Blending: Smoothly transitioning between tones or colors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Shape\" is correct?",
+      "correctAnswer": "Shape: A flat enclosed area",
+      "wrongAnswers": [
+        "Composition: The arrangement of visual elements",
+        "Proportion: The size relationship between parts",
+        "Layering: Building an image through multiple applications of media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Form\" is correct?",
+      "correctAnswer": "Form: A three-dimensional object or the illusion of one",
+      "wrongAnswers": [
+        "Perspective: A method for creating the illusion of depth",
+        "Gesture drawing: A quick drawing that captures movement or pose",
+        "Wash: A thin transparent layer of paint or ink"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Conservation Biology Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Conservation Biology, what does \"Conservation\" mean?",
+      "correctAnswer": "Protecting species, habitats, and natural processes",
+      "wrongAnswers": [
+        "A species likely to become endangered without protection",
+        "A place managed to conserve natural or cultural value",
+        "An organism that helps transfer pollen between flowers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Endangered species\" mean?",
+      "correctAnswer": "A species at serious risk of extinction",
+      "wrongAnswers": [
+        "Breaking continuous habitat into smaller isolated patches",
+        "A region with many unique species under threat",
+        "A benefit people receive from nature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Threatened species\" mean?",
+      "correctAnswer": "A species likely to become endangered without protection",
+      "wrongAnswers": [
+        "A habitat link that helps organisms move between areas",
+        "Raising species under human care to support conservation",
+        "Using resources at a rate that can continue over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Habitat fragmentation\" mean?",
+      "correctAnswer": "Breaking continuous habitat into smaller isolated patches",
+      "wrongAnswers": [
+        "Repairing damaged ecosystems",
+        "Protecting species in their natural habitats",
+        "Using a species or resource faster than it can recover"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Corridor\" mean?",
+      "correctAnswer": "A habitat link that helps organisms move between areas",
+      "wrongAnswers": [
+        "Restoring natural processes and native species to landscapes",
+        "Protecting species outside their natural habitats",
+        "Public participation in scientific data collection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Restoration ecology\" mean?",
+      "correctAnswer": "Repairing damaged ecosystems",
+      "wrongAnswers": [
+        "A place managed to conserve natural or cultural value",
+        "An organism that helps transfer pollen between flowers",
+        "A species used to show environmental conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Rewilding\" mean?",
+      "correctAnswer": "Restoring natural processes and native species to landscapes",
+      "wrongAnswers": [
+        "A region with many unique species under threat",
+        "A benefit people receive from nature",
+        "Variation in genes within a population or species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Protected area\" mean?",
+      "correctAnswer": "A place managed to conserve natural or cultural value",
+      "wrongAnswers": [
+        "Raising species under human care to support conservation",
+        "Using resources at a rate that can continue over time",
+        "Improving a damaged habitat so it can support life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Biodiversity hotspot\" mean?",
+      "correctAnswer": "A region with many unique species under threat",
+      "wrongAnswers": [
+        "Protecting species in their natural habitats",
+        "Using a species or resource faster than it can recover",
+        "Protecting species, habitats, and natural processes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Captive breeding\" mean?",
+      "correctAnswer": "Raising species under human care to support conservation",
+      "wrongAnswers": [
+        "Protecting species outside their natural habitats",
+        "Public participation in scientific data collection",
+        "A species at serious risk of extinction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"In situ conservation\" mean?",
+      "correctAnswer": "Protecting species in their natural habitats",
+      "wrongAnswers": [
+        "An organism that helps transfer pollen between flowers",
+        "A species used to show environmental conditions",
+        "A species likely to become endangered without protection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Ex situ conservation\" mean?",
+      "correctAnswer": "Protecting species outside their natural habitats",
+      "wrongAnswers": [
+        "A benefit people receive from nature",
+        "Variation in genes within a population or species",
+        "Breaking continuous habitat into smaller isolated patches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Pollinator\" mean?",
+      "correctAnswer": "An organism that helps transfer pollen between flowers",
+      "wrongAnswers": [
+        "Using resources at a rate that can continue over time",
+        "Improving a damaged habitat so it can support life",
+        "A habitat link that helps organisms move between areas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Ecosystem service\" mean?",
+      "correctAnswer": "A benefit people receive from nature",
+      "wrongAnswers": [
+        "Using a species or resource faster than it can recover",
+        "Protecting species, habitats, and natural processes",
+        "Repairing damaged ecosystems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Sustainable harvest\" mean?",
+      "correctAnswer": "Using resources at a rate that can continue over time",
+      "wrongAnswers": [
+        "Public participation in scientific data collection",
+        "A species at serious risk of extinction",
+        "Restoring natural processes and native species to landscapes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Overexploitation\" mean?",
+      "correctAnswer": "Using a species or resource faster than it can recover",
+      "wrongAnswers": [
+        "A species used to show environmental conditions",
+        "A species likely to become endangered without protection",
+        "A place managed to conserve natural or cultural value"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Citizen science\" mean?",
+      "correctAnswer": "Public participation in scientific data collection",
+      "wrongAnswers": [
+        "Variation in genes within a population or species",
+        "Breaking continuous habitat into smaller isolated patches",
+        "A region with many unique species under threat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Bioindicator\" mean?",
+      "correctAnswer": "A species used to show environmental conditions",
+      "wrongAnswers": [
+        "Improving a damaged habitat so it can support life",
+        "A habitat link that helps organisms move between areas",
+        "Raising species under human care to support conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Genetic diversity\" mean?",
+      "correctAnswer": "Variation in genes within a population or species",
+      "wrongAnswers": [
+        "Protecting species, habitats, and natural processes",
+        "Repairing damaged ecosystems",
+        "Protecting species in their natural habitats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Conservation Biology, what does \"Habitat restoration\" mean?",
+      "correctAnswer": "Improving a damaged habitat so it can support life",
+      "wrongAnswers": [
+        "A species at serious risk of extinction",
+        "Restoring natural processes and native species to landscapes",
+        "Protecting species outside their natural habitats"
+      ],
+      "timeout": 15
+    }
+  ]
+}

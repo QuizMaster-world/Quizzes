@@ -1,0 +1,205 @@
+{
+  "title": "Oceanography Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Tide\" is correct?",
+      "correctAnswer": "Tide: Regular sea level rise and fall caused mainly by gravity",
+      "wrongAnswers": [
+        "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water",
+        "Kelp forest: A coastal ecosystem dominated by large brown algae",
+        "Brackish water: Water with salinity between freshwater and seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Estuary\" is correct?",
+      "correctAnswer": "Estuary: A place where river water mixes with seawater",
+      "wrongAnswers": [
+        "Plankton: Small drifting organisms in water",
+        "Upwelling: Rising deep water that brings nutrients to the surface",
+        "Ocean acidification: A decrease in seawater pH linked to absorbed carbon dioxide"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Continental shelf\" is correct?",
+      "correctAnswer": "Continental shelf: The shallow seafloor edge of a continent",
+      "wrongAnswers": [
+        "Phytoplankton: Photosynthetic plankton that form the base of many food webs",
+        "Thermocline: A layer where ocean temperature changes rapidly with depth",
+        "Salinity: The amount of dissolved salt in seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Abyssal plain\" is correct?",
+      "correctAnswer": "Abyssal plain: A broad flat region of deep ocean floor",
+      "wrongAnswers": [
+        "Zooplankton: Animal-like plankton that feed on other organisms",
+        "Marine snow: Falling organic particles that feed deep-sea life",
+        "Current: A continuous movement of ocean water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mid-ocean ridge\" is correct?",
+      "correctAnswer": "Mid-ocean ridge: An underwater mountain chain where new crust forms",
+      "wrongAnswers": [
+        "Coral reef: A marine ecosystem built by coral animals and their skeletons",
+        "Sonar: Using sound waves to detect underwater objects or depth",
+        "Gyre: A large circular system of ocean currents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hydrothermal vent\" is correct?",
+      "correctAnswer": "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water",
+      "wrongAnswers": [
+        "Kelp forest: A coastal ecosystem dominated by large brown algae",
+        "Brackish water: Water with salinity between freshwater and seawater",
+        "Tide: Regular sea level rise and fall caused mainly by gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Plankton\" is correct?",
+      "correctAnswer": "Plankton: Small drifting organisms in water",
+      "wrongAnswers": [
+        "Upwelling: Rising deep water that brings nutrients to the surface",
+        "Ocean acidification: A decrease in seawater pH linked to absorbed carbon dioxide",
+        "Estuary: A place where river water mixes with seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Phytoplankton\" is correct?",
+      "correctAnswer": "Phytoplankton: Photosynthetic plankton that form the base of many food webs",
+      "wrongAnswers": [
+        "Thermocline: A layer where ocean temperature changes rapidly with depth",
+        "Salinity: The amount of dissolved salt in seawater",
+        "Continental shelf: The shallow seafloor edge of a continent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Zooplankton\" is correct?",
+      "correctAnswer": "Zooplankton: Animal-like plankton that feed on other organisms",
+      "wrongAnswers": [
+        "Marine snow: Falling organic particles that feed deep-sea life",
+        "Current: A continuous movement of ocean water",
+        "Abyssal plain: A broad flat region of deep ocean floor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Coral reef\" is correct?",
+      "correctAnswer": "Coral reef: A marine ecosystem built by coral animals and their skeletons",
+      "wrongAnswers": [
+        "Sonar: Using sound waves to detect underwater objects or depth",
+        "Gyre: A large circular system of ocean currents",
+        "Mid-ocean ridge: An underwater mountain chain where new crust forms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Kelp forest\" is correct?",
+      "correctAnswer": "Kelp forest: A coastal ecosystem dominated by large brown algae",
+      "wrongAnswers": [
+        "Brackish water: Water with salinity between freshwater and seawater",
+        "Tide: Regular sea level rise and fall caused mainly by gravity",
+        "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Upwelling\" is correct?",
+      "correctAnswer": "Upwelling: Rising deep water that brings nutrients to the surface",
+      "wrongAnswers": [
+        "Ocean acidification: A decrease in seawater pH linked to absorbed carbon dioxide",
+        "Estuary: A place where river water mixes with seawater",
+        "Plankton: Small drifting organisms in water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Thermocline\" is correct?",
+      "correctAnswer": "Thermocline: A layer where ocean temperature changes rapidly with depth",
+      "wrongAnswers": [
+        "Salinity: The amount of dissolved salt in seawater",
+        "Continental shelf: The shallow seafloor edge of a continent",
+        "Phytoplankton: Photosynthetic plankton that form the base of many food webs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Marine snow\" is correct?",
+      "correctAnswer": "Marine snow: Falling organic particles that feed deep-sea life",
+      "wrongAnswers": [
+        "Current: A continuous movement of ocean water",
+        "Abyssal plain: A broad flat region of deep ocean floor",
+        "Zooplankton: Animal-like plankton that feed on other organisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sonar\" is correct?",
+      "correctAnswer": "Sonar: Using sound waves to detect underwater objects or depth",
+      "wrongAnswers": [
+        "Gyre: A large circular system of ocean currents",
+        "Mid-ocean ridge: An underwater mountain chain where new crust forms",
+        "Coral reef: A marine ecosystem built by coral animals and their skeletons"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Brackish water\" is correct?",
+      "correctAnswer": "Brackish water: Water with salinity between freshwater and seawater",
+      "wrongAnswers": [
+        "Tide: Regular sea level rise and fall caused mainly by gravity",
+        "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water",
+        "Kelp forest: A coastal ecosystem dominated by large brown algae"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ocean acidification\" is correct?",
+      "correctAnswer": "Ocean acidification: A decrease in seawater pH linked to absorbed carbon dioxide",
+      "wrongAnswers": [
+        "Estuary: A place where river water mixes with seawater",
+        "Plankton: Small drifting organisms in water",
+        "Upwelling: Rising deep water that brings nutrients to the surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Salinity\" is correct?",
+      "correctAnswer": "Salinity: The amount of dissolved salt in seawater",
+      "wrongAnswers": [
+        "Continental shelf: The shallow seafloor edge of a continent",
+        "Phytoplankton: Photosynthetic plankton that form the base of many food webs",
+        "Thermocline: A layer where ocean temperature changes rapidly with depth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Current\" is correct?",
+      "correctAnswer": "Current: A continuous movement of ocean water",
+      "wrongAnswers": [
+        "Abyssal plain: A broad flat region of deep ocean floor",
+        "Zooplankton: Animal-like plankton that feed on other organisms",
+        "Marine snow: Falling organic particles that feed deep-sea life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gyre\" is correct?",
+      "correctAnswer": "Gyre: A large circular system of ocean currents",
+      "wrongAnswers": [
+        "Mid-ocean ridge: An underwater mountain chain where new crust forms",
+        "Coral reef: A marine ecosystem built by coral animals and their skeletons",
+        "Sonar: Using sound waves to detect underwater objects or depth"
+      ],
+      "timeout": 15
+    }
+  ]
+}

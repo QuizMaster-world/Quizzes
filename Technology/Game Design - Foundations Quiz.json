@@ -1,0 +1,205 @@
+{
+  "title": "Game Design Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Game Design, what does \"Game mechanic\" mean?",
+      "correctAnswer": "A rule or interaction that shapes play",
+      "wrongAnswers": [
+        "The goal a player tries to achieve",
+        "How player abilities, difficulty, or content change over time",
+        "A rough version built to test an idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Core loop\" mean?",
+      "correctAnswer": "The repeated sequence of actions that drives gameplay",
+      "wrongAnswers": [
+        "An obstacle or difficulty for the player",
+        "A benefit given for player action or achievement",
+        "A character controlled by the game rather than the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Objective\" mean?",
+      "correctAnswer": "The goal a player tries to achieve",
+      "wrongAnswers": [
+        "Information the game gives in response to player action",
+        "A consequence for mistakes or risky choices",
+        "An invisible area used to detect collisions or hits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Challenge\" mean?",
+      "correctAnswer": "An obstacle or difficulty for the player",
+      "wrongAnswers": [
+        "Adjusting systems so gameplay feels fair and engaging",
+        "Guided introduction to game controls or systems",
+        "Determining when game objects touch or overlap"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Feedback\" mean?",
+      "correctAnswer": "Information the game gives in response to player action",
+      "wrongAnswers": [
+        "Creating spaces, challenges, and pacing for play",
+        "Observing players to evaluate and improve a game",
+        "On-screen controls and information for the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Balance\" mean?",
+      "correctAnswer": "Adjusting systems so gameplay feels fair and engaging",
+      "wrongAnswers": [
+        "How player abilities, difficulty, or content change over time",
+        "A rough version built to test an idea",
+        "The responsiveness and sensation of interacting with the game"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Level design\" mean?",
+      "correctAnswer": "Creating spaces, challenges, and pacing for play",
+      "wrongAnswers": [
+        "A benefit given for player action or achievement",
+        "A character controlled by the game rather than the player",
+        "How challenge changes across a game"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Progression\" mean?",
+      "correctAnswer": "How player abilities, difficulty, or content change over time",
+      "wrongAnswers": [
+        "A consequence for mistakes or risky choices",
+        "An invisible area used to detect collisions or hits",
+        "Unexpected play that arises from interacting systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Reward\" mean?",
+      "correctAnswer": "A benefit given for player action or achievement",
+      "wrongAnswers": [
+        "Guided introduction to game controls or systems",
+        "Determining when game objects touch or overlap",
+        "A rule or interaction that shapes play"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Penalty\" mean?",
+      "correctAnswer": "A consequence for mistakes or risky choices",
+      "wrongAnswers": [
+        "Observing players to evaluate and improve a game",
+        "On-screen controls and information for the player",
+        "The repeated sequence of actions that drives gameplay"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Tutorial\" mean?",
+      "correctAnswer": "Guided introduction to game controls or systems",
+      "wrongAnswers": [
+        "A rough version built to test an idea",
+        "The responsiveness and sensation of interacting with the game",
+        "The goal a player tries to achieve"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Playtesting\" mean?",
+      "correctAnswer": "Observing players to evaluate and improve a game",
+      "wrongAnswers": [
+        "A character controlled by the game rather than the player",
+        "How challenge changes across a game",
+        "An obstacle or difficulty for the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Prototype\" mean?",
+      "correctAnswer": "A rough version built to test an idea",
+      "wrongAnswers": [
+        "An invisible area used to detect collisions or hits",
+        "Unexpected play that arises from interacting systems",
+        "Information the game gives in response to player action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Non-player character\" mean?",
+      "correctAnswer": "A character controlled by the game rather than the player",
+      "wrongAnswers": [
+        "Determining when game objects touch or overlap",
+        "A rule or interaction that shapes play",
+        "Adjusting systems so gameplay feels fair and engaging"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Hitbox\" mean?",
+      "correctAnswer": "An invisible area used to detect collisions or hits",
+      "wrongAnswers": [
+        "On-screen controls and information for the player",
+        "The repeated sequence of actions that drives gameplay",
+        "Creating spaces, challenges, and pacing for play"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Collision detection\" mean?",
+      "correctAnswer": "Determining when game objects touch or overlap",
+      "wrongAnswers": [
+        "The responsiveness and sensation of interacting with the game",
+        "The goal a player tries to achieve",
+        "How player abilities, difficulty, or content change over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"User interface\" mean?",
+      "correctAnswer": "On-screen controls and information for the player",
+      "wrongAnswers": [
+        "How challenge changes across a game",
+        "An obstacle or difficulty for the player",
+        "A benefit given for player action or achievement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Game feel\" mean?",
+      "correctAnswer": "The responsiveness and sensation of interacting with the game",
+      "wrongAnswers": [
+        "Unexpected play that arises from interacting systems",
+        "Information the game gives in response to player action",
+        "A consequence for mistakes or risky choices"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Difficulty curve\" mean?",
+      "correctAnswer": "How challenge changes across a game",
+      "wrongAnswers": [
+        "A rule or interaction that shapes play",
+        "Adjusting systems so gameplay feels fair and engaging",
+        "Guided introduction to game controls or systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, what does \"Emergent gameplay\" mean?",
+      "correctAnswer": "Unexpected play that arises from interacting systems",
+      "wrongAnswers": [
+        "The repeated sequence of actions that drives gameplay",
+        "Creating spaces, challenges, and pacing for play",
+        "Observing players to evaluate and improve a game"
+      ],
+      "timeout": 15
+    }
+  ]
+}

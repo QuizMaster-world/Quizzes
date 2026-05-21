@@ -1,0 +1,205 @@
+{
+  "title": "Earth Science Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Earth Science, which term means: Earth's rigid outer layer of crust and upper mantle?",
+      "correctAnswer": "Lithosphere",
+      "wrongAnswers": [
+        "Lava",
+        "Erosion",
+        "Volcano"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: A softer mantle layer beneath the lithosphere?",
+      "correctAnswer": "Asthenosphere",
+      "wrongAnswers": [
+        "Igneous rock",
+        "Deposition",
+        "Fossil"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Molten rock beneath Earth's surface?",
+      "correctAnswer": "Magma",
+      "wrongAnswers": [
+        "Sedimentary rock",
+        "Fault",
+        "Strata"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Molten rock that reaches Earth's surface?",
+      "correctAnswer": "Lava",
+      "wrongAnswers": [
+        "Metamorphic rock",
+        "Epicenter",
+        "Rock cycle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Rock formed from cooled molten material?",
+      "correctAnswer": "Igneous rock",
+      "wrongAnswers": [
+        "Weathering",
+        "Seismic wave",
+        "Mantle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Rock formed from compacted sediment?",
+      "correctAnswer": "Sedimentary rock",
+      "wrongAnswers": [
+        "Erosion",
+        "Volcano",
+        "Core"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Rock changed by heat, pressure, or fluids?",
+      "correctAnswer": "Metamorphic rock",
+      "wrongAnswers": [
+        "Deposition",
+        "Fossil",
+        "Plate tectonics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Breaking down rock at Earth's surface?",
+      "correctAnswer": "Weathering",
+      "wrongAnswers": [
+        "Fault",
+        "Strata",
+        "Lithosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Moving weathered material by water, wind, ice, or gravity?",
+      "correctAnswer": "Erosion",
+      "wrongAnswers": [
+        "Epicenter",
+        "Rock cycle",
+        "Asthenosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Dropping sediment in a new location?",
+      "correctAnswer": "Deposition",
+      "wrongAnswers": [
+        "Seismic wave",
+        "Mantle",
+        "Magma"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: A fracture where rocks have moved?",
+      "correctAnswer": "Fault",
+      "wrongAnswers": [
+        "Volcano",
+        "Core",
+        "Lava"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: The surface point above an earthquake focus?",
+      "correctAnswer": "Epicenter",
+      "wrongAnswers": [
+        "Fossil",
+        "Plate tectonics",
+        "Igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Energy wave produced by an earthquake?",
+      "correctAnswer": "Seismic wave",
+      "wrongAnswers": [
+        "Strata",
+        "Lithosphere",
+        "Sedimentary rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: An opening where molten material and gases may erupt?",
+      "correctAnswer": "Volcano",
+      "wrongAnswers": [
+        "Rock cycle",
+        "Asthenosphere",
+        "Metamorphic rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Preserved evidence of past life?",
+      "correctAnswer": "Fossil",
+      "wrongAnswers": [
+        "Mantle",
+        "Magma",
+        "Weathering"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Layers of sedimentary rock?",
+      "correctAnswer": "Strata",
+      "wrongAnswers": [
+        "Core",
+        "Lava",
+        "Erosion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: The processes that transform rocks among major types?",
+      "correctAnswer": "Rock cycle",
+      "wrongAnswers": [
+        "Plate tectonics",
+        "Igneous rock",
+        "Deposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: The thick layer of Earth between crust and core?",
+      "correctAnswer": "Mantle",
+      "wrongAnswers": [
+        "Lithosphere",
+        "Sedimentary rock",
+        "Fault"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: Earth's central region rich in iron and nickel?",
+      "correctAnswer": "Core",
+      "wrongAnswers": [
+        "Asthenosphere",
+        "Metamorphic rock",
+        "Epicenter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, which term means: The theory that Earth's outer shell is divided into moving plates?",
+      "correctAnswer": "Plate tectonics",
+      "wrongAnswers": [
+        "Magma",
+        "Weathering",
+        "Seismic wave"
+      ],
+      "timeout": 15
+    }
+  ]
+}

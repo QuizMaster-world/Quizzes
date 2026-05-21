@@ -1,0 +1,205 @@
+{
+  "title": "First Aid Basics Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In First Aid Basics, what does \"First aid\" mean?",
+      "correctAnswer": "Immediate help given to someone who is ill or injured",
+      "wrongAnswers": [
+        "A side-lying position used for an unconscious breathing person",
+        "Using cool running water to reduce burn injury",
+        "An immune response that can range from mild to severe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Primary survey\" mean?",
+      "correctAnswer": "A quick check for life-threatening problems",
+      "wrongAnswers": [
+        "Chest compressions and rescue breaths used during cardiac arrest",
+        "An injury to ligaments around a joint",
+        "A device used for severe allergic reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Recovery position\" mean?",
+      "correctAnswer": "A side-lying position used for an unconscious breathing person",
+      "wrongAnswers": [
+        "A device that can deliver a shock to restart a normal heart rhythm",
+        "A break or crack in a bone",
+        "Harm caused by swallowing, inhaling, or touching a toxic substance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"CPR\" mean?",
+      "correctAnswer": "Chest compressions and rescue breaths used during cardiac arrest",
+      "wrongAnswers": [
+        "Actions used to slow or stop blood loss",
+        "A dangerous condition where organs do not get enough blood flow",
+        "Professional responders contacted during serious incidents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"AED\" mean?",
+      "correctAnswer": "A device that can deliver a shock to restart a normal heart rhythm",
+      "wrongAnswers": [
+        "A bandage that applies pressure to a wound",
+        "Airway blockage that prevents normal breathing",
+        "Permission from a conscious person before giving aid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Bleeding control\" mean?",
+      "correctAnswer": "Actions used to slow or stop blood loss",
+      "wrongAnswers": [
+        "Using cool running water to reduce burn injury",
+        "An immune response that can range from mild to severe",
+        "Checking that it is safe to approach and help"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Pressure bandage\" mean?",
+      "correctAnswer": "A bandage that applies pressure to a wound",
+      "wrongAnswers": [
+        "An injury to ligaments around a joint",
+        "A device used for severe allergic reactions",
+        "Steps used to reduce contact with bodily fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Burn cooling\" mean?",
+      "correctAnswer": "Using cool running water to reduce burn injury",
+      "wrongAnswers": [
+        "A break or crack in a bone",
+        "Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "A record of what happened and what aid was given"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Sprain\" mean?",
+      "correctAnswer": "An injury to ligaments around a joint",
+      "wrongAnswers": [
+        "A dangerous condition where organs do not get enough blood flow",
+        "Professional responders contacted during serious incidents",
+        "Immediate help given to someone who is ill or injured"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Fracture\" mean?",
+      "correctAnswer": "A break or crack in a bone",
+      "wrongAnswers": [
+        "Airway blockage that prevents normal breathing",
+        "Permission from a conscious person before giving aid",
+        "A quick check for life-threatening problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Shock\" mean?",
+      "correctAnswer": "A dangerous condition where organs do not get enough blood flow",
+      "wrongAnswers": [
+        "An immune response that can range from mild to severe",
+        "Checking that it is safe to approach and help",
+        "A side-lying position used for an unconscious breathing person"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Choking\" mean?",
+      "correctAnswer": "Airway blockage that prevents normal breathing",
+      "wrongAnswers": [
+        "A device used for severe allergic reactions",
+        "Steps used to reduce contact with bodily fluids",
+        "Chest compressions and rescue breaths used during cardiac arrest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Allergic reaction\" mean?",
+      "correctAnswer": "An immune response that can range from mild to severe",
+      "wrongAnswers": [
+        "Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "A record of what happened and what aid was given",
+        "A device that can deliver a shock to restart a normal heart rhythm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Epinephrine auto-injector\" mean?",
+      "correctAnswer": "A device used for severe allergic reactions",
+      "wrongAnswers": [
+        "Professional responders contacted during serious incidents",
+        "Immediate help given to someone who is ill or injured",
+        "Actions used to slow or stop blood loss"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Poisoning\" mean?",
+      "correctAnswer": "Harm caused by swallowing, inhaling, or touching a toxic substance",
+      "wrongAnswers": [
+        "Permission from a conscious person before giving aid",
+        "A quick check for life-threatening problems",
+        "A bandage that applies pressure to a wound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Emergency services\" mean?",
+      "correctAnswer": "Professional responders contacted during serious incidents",
+      "wrongAnswers": [
+        "Checking that it is safe to approach and help",
+        "A side-lying position used for an unconscious breathing person",
+        "Using cool running water to reduce burn injury"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Consent\" mean?",
+      "correctAnswer": "Permission from a conscious person before giving aid",
+      "wrongAnswers": [
+        "Steps used to reduce contact with bodily fluids",
+        "Chest compressions and rescue breaths used during cardiac arrest",
+        "An injury to ligaments around a joint"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Scene safety\" mean?",
+      "correctAnswer": "Checking that it is safe to approach and help",
+      "wrongAnswers": [
+        "A record of what happened and what aid was given",
+        "A device that can deliver a shock to restart a normal heart rhythm",
+        "A break or crack in a bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Universal precautions\" mean?",
+      "correctAnswer": "Steps used to reduce contact with bodily fluids",
+      "wrongAnswers": [
+        "Immediate help given to someone who is ill or injured",
+        "Actions used to slow or stop blood loss",
+        "A dangerous condition where organs do not get enough blood flow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In First Aid Basics, what does \"Incident report\" mean?",
+      "correctAnswer": "A record of what happened and what aid was given",
+      "wrongAnswers": [
+        "A quick check for life-threatening problems",
+        "A bandage that applies pressure to a wound",
+        "Airway blockage that prevents normal breathing"
+      ],
+      "timeout": 15
+    }
+  ]
+}

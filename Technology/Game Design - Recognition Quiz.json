@@ -1,0 +1,205 @@
+{
+  "title": "Game Design Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Challenge\" is correct?",
+      "correctAnswer": "Challenge: An obstacle or difficulty for the player",
+      "wrongAnswers": [
+        "Reward: A benefit given for player action or achievement",
+        "Non-player character: A character controlled by the game rather than the player",
+        "Difficulty curve: How challenge changes across a game"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feedback\" is correct?",
+      "correctAnswer": "Feedback: Information the game gives in response to player action",
+      "wrongAnswers": [
+        "Penalty: A consequence for mistakes or risky choices",
+        "Hitbox: An invisible area used to detect collisions or hits",
+        "Emergent gameplay: Unexpected play that arises from interacting systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Balance\" is correct?",
+      "correctAnswer": "Balance: Adjusting systems so gameplay feels fair and engaging",
+      "wrongAnswers": [
+        "Tutorial: Guided introduction to game controls or systems",
+        "Collision detection: Determining when game objects touch or overlap",
+        "Game mechanic: A rule or interaction that shapes play"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Level design\" is correct?",
+      "correctAnswer": "Level design: Creating spaces, challenges, and pacing for play",
+      "wrongAnswers": [
+        "Playtesting: Observing players to evaluate and improve a game",
+        "User interface: On-screen controls and information for the player",
+        "Core loop: The repeated sequence of actions that drives gameplay"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Progression\" is correct?",
+      "correctAnswer": "Progression: How player abilities, difficulty, or content change over time",
+      "wrongAnswers": [
+        "Prototype: A rough version built to test an idea",
+        "Game feel: The responsiveness and sensation of interacting with the game",
+        "Objective: The goal a player tries to achieve"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Reward\" is correct?",
+      "correctAnswer": "Reward: A benefit given for player action or achievement",
+      "wrongAnswers": [
+        "Non-player character: A character controlled by the game rather than the player",
+        "Difficulty curve: How challenge changes across a game",
+        "Challenge: An obstacle or difficulty for the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Penalty\" is correct?",
+      "correctAnswer": "Penalty: A consequence for mistakes or risky choices",
+      "wrongAnswers": [
+        "Hitbox: An invisible area used to detect collisions or hits",
+        "Emergent gameplay: Unexpected play that arises from interacting systems",
+        "Feedback: Information the game gives in response to player action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tutorial\" is correct?",
+      "correctAnswer": "Tutorial: Guided introduction to game controls or systems",
+      "wrongAnswers": [
+        "Collision detection: Determining when game objects touch or overlap",
+        "Game mechanic: A rule or interaction that shapes play",
+        "Balance: Adjusting systems so gameplay feels fair and engaging"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Playtesting\" is correct?",
+      "correctAnswer": "Playtesting: Observing players to evaluate and improve a game",
+      "wrongAnswers": [
+        "User interface: On-screen controls and information for the player",
+        "Core loop: The repeated sequence of actions that drives gameplay",
+        "Level design: Creating spaces, challenges, and pacing for play"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Prototype\" is correct?",
+      "correctAnswer": "Prototype: A rough version built to test an idea",
+      "wrongAnswers": [
+        "Game feel: The responsiveness and sensation of interacting with the game",
+        "Objective: The goal a player tries to achieve",
+        "Progression: How player abilities, difficulty, or content change over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Non-player character\" is correct?",
+      "correctAnswer": "Non-player character: A character controlled by the game rather than the player",
+      "wrongAnswers": [
+        "Difficulty curve: How challenge changes across a game",
+        "Challenge: An obstacle or difficulty for the player",
+        "Reward: A benefit given for player action or achievement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hitbox\" is correct?",
+      "correctAnswer": "Hitbox: An invisible area used to detect collisions or hits",
+      "wrongAnswers": [
+        "Emergent gameplay: Unexpected play that arises from interacting systems",
+        "Feedback: Information the game gives in response to player action",
+        "Penalty: A consequence for mistakes or risky choices"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Collision detection\" is correct?",
+      "correctAnswer": "Collision detection: Determining when game objects touch or overlap",
+      "wrongAnswers": [
+        "Game mechanic: A rule or interaction that shapes play",
+        "Balance: Adjusting systems so gameplay feels fair and engaging",
+        "Tutorial: Guided introduction to game controls or systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"User interface\" is correct?",
+      "correctAnswer": "User interface: On-screen controls and information for the player",
+      "wrongAnswers": [
+        "Core loop: The repeated sequence of actions that drives gameplay",
+        "Level design: Creating spaces, challenges, and pacing for play",
+        "Playtesting: Observing players to evaluate and improve a game"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Game feel\" is correct?",
+      "correctAnswer": "Game feel: The responsiveness and sensation of interacting with the game",
+      "wrongAnswers": [
+        "Objective: The goal a player tries to achieve",
+        "Progression: How player abilities, difficulty, or content change over time",
+        "Prototype: A rough version built to test an idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Difficulty curve\" is correct?",
+      "correctAnswer": "Difficulty curve: How challenge changes across a game",
+      "wrongAnswers": [
+        "Challenge: An obstacle or difficulty for the player",
+        "Reward: A benefit given for player action or achievement",
+        "Non-player character: A character controlled by the game rather than the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Emergent gameplay\" is correct?",
+      "correctAnswer": "Emergent gameplay: Unexpected play that arises from interacting systems",
+      "wrongAnswers": [
+        "Feedback: Information the game gives in response to player action",
+        "Penalty: A consequence for mistakes or risky choices",
+        "Hitbox: An invisible area used to detect collisions or hits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Game mechanic\" is correct?",
+      "correctAnswer": "Game mechanic: A rule or interaction that shapes play",
+      "wrongAnswers": [
+        "Balance: Adjusting systems so gameplay feels fair and engaging",
+        "Tutorial: Guided introduction to game controls or systems",
+        "Collision detection: Determining when game objects touch or overlap"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Core loop\" is correct?",
+      "correctAnswer": "Core loop: The repeated sequence of actions that drives gameplay",
+      "wrongAnswers": [
+        "Level design: Creating spaces, challenges, and pacing for play",
+        "Playtesting: Observing players to evaluate and improve a game",
+        "User interface: On-screen controls and information for the player"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Objective\" is correct?",
+      "correctAnswer": "Objective: The goal a player tries to achieve",
+      "wrongAnswers": [
+        "Progression: How player abilities, difficulty, or content change over time",
+        "Prototype: A rough version built to test an idea",
+        "Game feel: The responsiveness and sensation of interacting with the game"
+      ],
+      "timeout": 15
+    }
+  ]
+}

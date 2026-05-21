@@ -1,0 +1,205 @@
+{
+  "title": "Robotics Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Servo\" in Robotics.",
+      "correctAnswer": "A motor system that moves to controlled positions",
+      "wrongAnswers": [
+        "Remote control of a robot by a human",
+        "A robotic arm or device used to move objects",
+        "A machine that can sense, decide, or act in its environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"End effector\" in Robotics.",
+      "correctAnswer": "The tool or gripper at the end of a robot arm",
+      "wrongAnswers": [
+        "Finding a route for a robot to follow",
+        "An independent direction or rotation a robot can move",
+        "A device that detects information from the environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Chassis\" in Robotics.",
+      "correctAnswer": "The structural frame of a robot",
+      "wrongAnswers": [
+        "Detecting and moving around objects in the way",
+        "The study of robot motion without focusing on forces",
+        "A device that converts signals into movement or action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Controller\" in Robotics.",
+      "correctAnswer": "The system that processes inputs and commands outputs",
+      "wrongAnswers": [
+        "Determining a robot's position",
+        "The weight a robot can carry or manipulate",
+        "An actuator that produces rotational motion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feedback\" in Robotics.",
+      "correctAnswer": "Information returned to adjust robot behavior",
+      "wrongAnswers": [
+        "Building a representation of an environment",
+        "Adjusting a robot or sensor for accurate operation",
+        "A motor system that moves to controlled positions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Autonomy\" in Robotics.",
+      "correctAnswer": "The ability to operate without direct human control",
+      "wrongAnswers": [
+        "A robotic arm or device used to move objects",
+        "A machine that can sense, decide, or act in its environment",
+        "The tool or gripper at the end of a robot arm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Teleoperation\" in Robotics.",
+      "correctAnswer": "Remote control of a robot by a human",
+      "wrongAnswers": [
+        "An independent direction or rotation a robot can move",
+        "A device that detects information from the environment",
+        "The structural frame of a robot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Path planning\" in Robotics.",
+      "correctAnswer": "Finding a route for a robot to follow",
+      "wrongAnswers": [
+        "The study of robot motion without focusing on forces",
+        "A device that converts signals into movement or action",
+        "The system that processes inputs and commands outputs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Obstacle avoidance\" in Robotics.",
+      "correctAnswer": "Detecting and moving around objects in the way",
+      "wrongAnswers": [
+        "The weight a robot can carry or manipulate",
+        "An actuator that produces rotational motion",
+        "Information returned to adjust robot behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Localization\" in Robotics.",
+      "correctAnswer": "Determining a robot's position",
+      "wrongAnswers": [
+        "Adjusting a robot or sensor for accurate operation",
+        "A motor system that moves to controlled positions",
+        "The ability to operate without direct human control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mapping\" in Robotics.",
+      "correctAnswer": "Building a representation of an environment",
+      "wrongAnswers": [
+        "A machine that can sense, decide, or act in its environment",
+        "The tool or gripper at the end of a robot arm",
+        "Remote control of a robot by a human"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Manipulator\" in Robotics.",
+      "correctAnswer": "A robotic arm or device used to move objects",
+      "wrongAnswers": [
+        "A device that detects information from the environment",
+        "The structural frame of a robot",
+        "Finding a route for a robot to follow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Degree of freedom\" in Robotics.",
+      "correctAnswer": "An independent direction or rotation a robot can move",
+      "wrongAnswers": [
+        "A device that converts signals into movement or action",
+        "The system that processes inputs and commands outputs",
+        "Detecting and moving around objects in the way"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Kinematics\" in Robotics.",
+      "correctAnswer": "The study of robot motion without focusing on forces",
+      "wrongAnswers": [
+        "An actuator that produces rotational motion",
+        "Information returned to adjust robot behavior",
+        "Determining a robot's position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Payload\" in Robotics.",
+      "correctAnswer": "The weight a robot can carry or manipulate",
+      "wrongAnswers": [
+        "A motor system that moves to controlled positions",
+        "The ability to operate without direct human control",
+        "Building a representation of an environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Calibration\" in Robotics.",
+      "correctAnswer": "Adjusting a robot or sensor for accurate operation",
+      "wrongAnswers": [
+        "The tool or gripper at the end of a robot arm",
+        "Remote control of a robot by a human",
+        "A robotic arm or device used to move objects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Robot\" in Robotics.",
+      "correctAnswer": "A machine that can sense, decide, or act in its environment",
+      "wrongAnswers": [
+        "The structural frame of a robot",
+        "Finding a route for a robot to follow",
+        "An independent direction or rotation a robot can move"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sensor\" in Robotics.",
+      "correctAnswer": "A device that detects information from the environment",
+      "wrongAnswers": [
+        "The system that processes inputs and commands outputs",
+        "Detecting and moving around objects in the way",
+        "The study of robot motion without focusing on forces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Actuator\" in Robotics.",
+      "correctAnswer": "A device that converts signals into movement or action",
+      "wrongAnswers": [
+        "Information returned to adjust robot behavior",
+        "Determining a robot's position",
+        "The weight a robot can carry or manipulate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Motor\" in Robotics.",
+      "correctAnswer": "An actuator that produces rotational motion",
+      "wrongAnswers": [
+        "The ability to operate without direct human control",
+        "Building a representation of an environment",
+        "Adjusting a robot or sensor for accurate operation"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Medieval Life Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Medieval Life, what does \"Feudalism\" mean?",
+      "correctAnswer": "A social system based on landholding and obligations",
+      "wrongAnswers": [
+        "A peasant bound to work land under a lord's control",
+        "An association of craftspeople or merchants",
+        "A journey to a sacred place"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Manor\" mean?",
+      "correctAnswer": "A landed estate that organized rural medieval life",
+      "wrongAnswers": [
+        "A landholder with power over tenants and dependents",
+        "A beginner learning a trade from a master",
+        "A major church serving as a bishop's seat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Serf\" mean?",
+      "correctAnswer": "A peasant bound to work land under a lord's control",
+      "wrongAnswers": [
+        "A person who owed service to a lord in exchange for protection or land",
+        "A trained worker who had not yet become a master",
+        "A hand-copied book decorated with images or ornament"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Lord\" mean?",
+      "correctAnswer": "A landholder with power over tenants and dependents",
+      "wrongAnswers": [
+        "A mounted warrior linked to the feudal system",
+        "A church payment often made as a portion of produce or income",
+        "A devastating plague pandemic in medieval Europe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Vassal\" mean?",
+      "correctAnswer": "A person who owed service to a lord in exchange for protection or land",
+      "wrongAnswers": [
+        "A fortified residence and defensive structure",
+        "A religious community where monks lived and worked",
+        "Changing crops in fields to maintain soil fertility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Knight\" mean?",
+      "correctAnswer": "A mounted warrior linked to the feudal system",
+      "wrongAnswers": [
+        "An association of craftspeople or merchants",
+        "A journey to a sacred place",
+        "Land shared by members of a community"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Castle\" mean?",
+      "correctAnswer": "A fortified residence and defensive structure",
+      "wrongAnswers": [
+        "A beginner learning a trade from a master",
+        "A major church serving as a bishop's seat",
+        "A settlement with rights or customs for regular trade"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Guild\" mean?",
+      "correctAnswer": "An association of craftspeople or merchants",
+      "wrongAnswers": [
+        "A trained worker who had not yet become a master",
+        "A hand-copied book decorated with images or ornament",
+        "A written grant of rights or privileges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Apprentice\" mean?",
+      "correctAnswer": "A beginner learning a trade from a master",
+      "wrongAnswers": [
+        "A church payment often made as a portion of produce or income",
+        "A devastating plague pandemic in medieval Europe",
+        "A social system based on landholding and obligations"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Journeyman\" mean?",
+      "correctAnswer": "A trained worker who had not yet become a master",
+      "wrongAnswers": [
+        "A religious community where monks lived and worked",
+        "Changing crops in fields to maintain soil fertility",
+        "A landed estate that organized rural medieval life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Tithe\" mean?",
+      "correctAnswer": "A church payment often made as a portion of produce or income",
+      "wrongAnswers": [
+        "A journey to a sacred place",
+        "Land shared by members of a community",
+        "A peasant bound to work land under a lord's control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Monastery\" mean?",
+      "correctAnswer": "A religious community where monks lived and worked",
+      "wrongAnswers": [
+        "A major church serving as a bishop's seat",
+        "A settlement with rights or customs for regular trade",
+        "A landholder with power over tenants and dependents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Pilgrimage\" mean?",
+      "correctAnswer": "A journey to a sacred place",
+      "wrongAnswers": [
+        "A hand-copied book decorated with images or ornament",
+        "A written grant of rights or privileges",
+        "A person who owed service to a lord in exchange for protection or land"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Cathedral\" mean?",
+      "correctAnswer": "A major church serving as a bishop's seat",
+      "wrongAnswers": [
+        "A devastating plague pandemic in medieval Europe",
+        "A social system based on landholding and obligations",
+        "A mounted warrior linked to the feudal system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Illuminated manuscript\" mean?",
+      "correctAnswer": "A hand-copied book decorated with images or ornament",
+      "wrongAnswers": [
+        "Changing crops in fields to maintain soil fertility",
+        "A landed estate that organized rural medieval life",
+        "A fortified residence and defensive structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Black Death\" mean?",
+      "correctAnswer": "A devastating plague pandemic in medieval Europe",
+      "wrongAnswers": [
+        "Land shared by members of a community",
+        "A peasant bound to work land under a lord's control",
+        "An association of craftspeople or merchants"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Crop rotation\" mean?",
+      "correctAnswer": "Changing crops in fields to maintain soil fertility",
+      "wrongAnswers": [
+        "A settlement with rights or customs for regular trade",
+        "A landholder with power over tenants and dependents",
+        "A beginner learning a trade from a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Common land\" mean?",
+      "correctAnswer": "Land shared by members of a community",
+      "wrongAnswers": [
+        "A written grant of rights or privileges",
+        "A person who owed service to a lord in exchange for protection or land",
+        "A trained worker who had not yet become a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Market town\" mean?",
+      "correctAnswer": "A settlement with rights or customs for regular trade",
+      "wrongAnswers": [
+        "A social system based on landholding and obligations",
+        "A mounted warrior linked to the feudal system",
+        "A church payment often made as a portion of produce or income"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Medieval Life, what does \"Charter\" mean?",
+      "correctAnswer": "A written grant of rights or privileges",
+      "wrongAnswers": [
+        "A landed estate that organized rural medieval life",
+        "A fortified residence and defensive structure",
+        "A religious community where monks lived and worked"
+      ],
+      "timeout": 15
+    }
+  ]
+}

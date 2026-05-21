@@ -1,0 +1,205 @@
+{
+  "title": "Astronomy and Space Science Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Comet\" in Astronomy and Space Science.",
+      "correctAnswer": "An icy small body that can form a tail near the Sun",
+      "wrongAnswers": [
+        "An instrument that collects and focuses electromagnetic radiation",
+        "A region where gravity prevents light from escaping",
+        "A luminous sphere of plasma powered by nuclear fusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Galaxy\" in Astronomy and Space Science.",
+      "correctAnswer": "A huge system of stars, gas, dust, and dark matter",
+      "wrongAnswers": [
+        "Studying light by separating it into wavelengths",
+        "A dense remnant of a massive star",
+        "A large body orbiting a star that clears its orbital neighborhood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Nebula\" in Astronomy and Space Science.",
+      "correctAnswer": "A cloud of gas and dust in space",
+      "wrongAnswers": [
+        "Stretching of light toward longer wavelengths",
+        "A dense remnant left by a Sun-like star",
+        "A natural satellite orbiting a planet or smaller body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Light-year\" in Astronomy and Space Science.",
+      "correctAnswer": "The distance light travels in one year",
+      "wrongAnswers": [
+        "A planet orbiting a star outside the Solar System",
+        "Charged particles flowing outward from the Sun",
+        "A rocky small body orbiting the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Orbit\" in Astronomy and Space Science.",
+      "correctAnswer": "The curved path of one body around another",
+      "wrongAnswers": [
+        "A powerful stellar explosion",
+        "The region where liquid water could exist on a planet's surface",
+        "An icy small body that can form a tail near the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Gravity\" in Astronomy and Space Science.",
+      "correctAnswer": "The attraction between masses",
+      "wrongAnswers": [
+        "A region where gravity prevents light from escaping",
+        "A luminous sphere of plasma powered by nuclear fusion",
+        "A huge system of stars, gas, dust, and dark matter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Telescope\" in Astronomy and Space Science.",
+      "correctAnswer": "An instrument that collects and focuses electromagnetic radiation",
+      "wrongAnswers": [
+        "A dense remnant of a massive star",
+        "A large body orbiting a star that clears its orbital neighborhood",
+        "A cloud of gas and dust in space"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Spectroscopy\" in Astronomy and Space Science.",
+      "correctAnswer": "Studying light by separating it into wavelengths",
+      "wrongAnswers": [
+        "A dense remnant left by a Sun-like star",
+        "A natural satellite orbiting a planet or smaller body",
+        "The distance light travels in one year"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Redshift\" in Astronomy and Space Science.",
+      "correctAnswer": "Stretching of light toward longer wavelengths",
+      "wrongAnswers": [
+        "Charged particles flowing outward from the Sun",
+        "A rocky small body orbiting the Sun",
+        "The curved path of one body around another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Exoplanet\" in Astronomy and Space Science.",
+      "correctAnswer": "A planet orbiting a star outside the Solar System",
+      "wrongAnswers": [
+        "The region where liquid water could exist on a planet's surface",
+        "An icy small body that can form a tail near the Sun",
+        "The attraction between masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Supernova\" in Astronomy and Space Science.",
+      "correctAnswer": "A powerful stellar explosion",
+      "wrongAnswers": [
+        "A luminous sphere of plasma powered by nuclear fusion",
+        "A huge system of stars, gas, dust, and dark matter",
+        "An instrument that collects and focuses electromagnetic radiation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Black hole\" in Astronomy and Space Science.",
+      "correctAnswer": "A region where gravity prevents light from escaping",
+      "wrongAnswers": [
+        "A large body orbiting a star that clears its orbital neighborhood",
+        "A cloud of gas and dust in space",
+        "Studying light by separating it into wavelengths"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Neutron star\" in Astronomy and Space Science.",
+      "correctAnswer": "A dense remnant of a massive star",
+      "wrongAnswers": [
+        "A natural satellite orbiting a planet or smaller body",
+        "The distance light travels in one year",
+        "Stretching of light toward longer wavelengths"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"White dwarf\" in Astronomy and Space Science.",
+      "correctAnswer": "A dense remnant left by a Sun-like star",
+      "wrongAnswers": [
+        "A rocky small body orbiting the Sun",
+        "The curved path of one body around another",
+        "A planet orbiting a star outside the Solar System"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Solar wind\" in Astronomy and Space Science.",
+      "correctAnswer": "Charged particles flowing outward from the Sun",
+      "wrongAnswers": [
+        "An icy small body that can form a tail near the Sun",
+        "The attraction between masses",
+        "A powerful stellar explosion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Habitable zone\" in Astronomy and Space Science.",
+      "correctAnswer": "The region where liquid water could exist on a planet's surface",
+      "wrongAnswers": [
+        "A huge system of stars, gas, dust, and dark matter",
+        "An instrument that collects and focuses electromagnetic radiation",
+        "A region where gravity prevents light from escaping"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Star\" in Astronomy and Space Science.",
+      "correctAnswer": "A luminous sphere of plasma powered by nuclear fusion",
+      "wrongAnswers": [
+        "A cloud of gas and dust in space",
+        "Studying light by separating it into wavelengths",
+        "A dense remnant of a massive star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Planet\" in Astronomy and Space Science.",
+      "correctAnswer": "A large body orbiting a star that clears its orbital neighborhood",
+      "wrongAnswers": [
+        "The distance light travels in one year",
+        "Stretching of light toward longer wavelengths",
+        "A dense remnant left by a Sun-like star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Moon\" in Astronomy and Space Science.",
+      "correctAnswer": "A natural satellite orbiting a planet or smaller body",
+      "wrongAnswers": [
+        "The curved path of one body around another",
+        "A planet orbiting a star outside the Solar System",
+        "Charged particles flowing outward from the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Asteroid\" in Astronomy and Space Science.",
+      "correctAnswer": "A rocky small body orbiting the Sun",
+      "wrongAnswers": [
+        "The attraction between masses",
+        "A powerful stellar explosion",
+        "The region where liquid water could exist on a planet's surface"
+      ],
+      "timeout": 15
+    }
+  ]
+}

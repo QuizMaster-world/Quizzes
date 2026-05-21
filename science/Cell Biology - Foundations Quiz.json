@@ -1,0 +1,205 @@
+{
+  "title": "Cell Biology Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Cell Biology, what does \"Cell membrane\" mean?",
+      "correctAnswer": "A boundary that controls movement into and out of the cell",
+      "wrongAnswers": [
+        "The organelle that stores most genetic material in eukaryotic cells",
+        "An organelle that breaks down waste and worn cell parts",
+        "Movement of particles from higher concentration to lower concentration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Cytoplasm\" mean?",
+      "correctAnswer": "The gel-like material inside a cell where many reactions occur",
+      "wrongAnswers": [
+        "An organelle that releases usable energy from food molecules",
+        "A plant cell organelle that carries out photosynthesis",
+        "Diffusion of water across a selectively permeable membrane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Nucleus\" mean?",
+      "correctAnswer": "The organelle that stores most genetic material in eukaryotic cells",
+      "wrongAnswers": [
+        "A structure that builds proteins from amino acids",
+        "A rigid outer layer that supports some kinds of cells",
+        "Movement across a membrane using cellular energy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Mitochondrion\" mean?",
+      "correctAnswer": "An organelle that releases usable energy from food molecules",
+      "wrongAnswers": [
+        "A membrane network involved in protein and lipid processing",
+        "A storage compartment inside a cell",
+        "A protein that speeds up a chemical reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Ribosome\" mean?",
+      "correctAnswer": "A structure that builds proteins from amino acids",
+      "wrongAnswers": [
+        "An organelle that modifies and packages cell products",
+        "A specialized structure inside a cell",
+        "A molecule used as a direct energy source in cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Endoplasmic reticulum\" mean?",
+      "correctAnswer": "A membrane network involved in protein and lipid processing",
+      "wrongAnswers": [
+        "An organelle that breaks down waste and worn cell parts",
+        "Movement of particles from higher concentration to lower concentration",
+        "Cell division that produces genetically identical body cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Golgi apparatus\" mean?",
+      "correctAnswer": "An organelle that modifies and packages cell products",
+      "wrongAnswers": [
+        "A plant cell organelle that carries out photosynthesis",
+        "Diffusion of water across a selectively permeable membrane",
+        "Cell division that produces gametes with reduced chromosome sets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Lysosome\" mean?",
+      "correctAnswer": "An organelle that breaks down waste and worn cell parts",
+      "wrongAnswers": [
+        "A rigid outer layer that supports some kinds of cells",
+        "Movement across a membrane using cellular energy",
+        "Maintaining a stable internal condition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Chloroplast\" mean?",
+      "correctAnswer": "A plant cell organelle that carries out photosynthesis",
+      "wrongAnswers": [
+        "A storage compartment inside a cell",
+        "A protein that speeds up a chemical reaction",
+        "A boundary that controls movement into and out of the cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Cell wall\" mean?",
+      "correctAnswer": "A rigid outer layer that supports some kinds of cells",
+      "wrongAnswers": [
+        "A specialized structure inside a cell",
+        "A molecule used as a direct energy source in cells",
+        "The gel-like material inside a cell where many reactions occur"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Vacuole\" mean?",
+      "correctAnswer": "A storage compartment inside a cell",
+      "wrongAnswers": [
+        "Movement of particles from higher concentration to lower concentration",
+        "Cell division that produces genetically identical body cells",
+        "The organelle that stores most genetic material in eukaryotic cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Organelle\" mean?",
+      "correctAnswer": "A specialized structure inside a cell",
+      "wrongAnswers": [
+        "Diffusion of water across a selectively permeable membrane",
+        "Cell division that produces gametes with reduced chromosome sets",
+        "An organelle that releases usable energy from food molecules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Diffusion\" mean?",
+      "correctAnswer": "Movement of particles from higher concentration to lower concentration",
+      "wrongAnswers": [
+        "Movement across a membrane using cellular energy",
+        "Maintaining a stable internal condition",
+        "A structure that builds proteins from amino acids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Osmosis\" mean?",
+      "correctAnswer": "Diffusion of water across a selectively permeable membrane",
+      "wrongAnswers": [
+        "A protein that speeds up a chemical reaction",
+        "A boundary that controls movement into and out of the cell",
+        "A membrane network involved in protein and lipid processing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Active transport\" mean?",
+      "correctAnswer": "Movement across a membrane using cellular energy",
+      "wrongAnswers": [
+        "A molecule used as a direct energy source in cells",
+        "The gel-like material inside a cell where many reactions occur",
+        "An organelle that modifies and packages cell products"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Enzyme\" mean?",
+      "correctAnswer": "A protein that speeds up a chemical reaction",
+      "wrongAnswers": [
+        "Cell division that produces genetically identical body cells",
+        "The organelle that stores most genetic material in eukaryotic cells",
+        "An organelle that breaks down waste and worn cell parts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"ATP\" mean?",
+      "correctAnswer": "A molecule used as a direct energy source in cells",
+      "wrongAnswers": [
+        "Cell division that produces gametes with reduced chromosome sets",
+        "An organelle that releases usable energy from food molecules",
+        "A plant cell organelle that carries out photosynthesis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Mitosis\" mean?",
+      "correctAnswer": "Cell division that produces genetically identical body cells",
+      "wrongAnswers": [
+        "Maintaining a stable internal condition",
+        "A structure that builds proteins from amino acids",
+        "A rigid outer layer that supports some kinds of cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Meiosis\" mean?",
+      "correctAnswer": "Cell division that produces gametes with reduced chromosome sets",
+      "wrongAnswers": [
+        "A boundary that controls movement into and out of the cell",
+        "A membrane network involved in protein and lipid processing",
+        "A storage compartment inside a cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, what does \"Homeostasis\" mean?",
+      "correctAnswer": "Maintaining a stable internal condition",
+      "wrongAnswers": [
+        "The gel-like material inside a cell where many reactions occur",
+        "An organelle that modifies and packages cell products",
+        "A specialized structure inside a cell"
+      ],
+      "timeout": 15
+    }
+  ]
+}

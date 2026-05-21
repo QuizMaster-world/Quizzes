@@ -1,0 +1,205 @@
+{
+  "title": "Electronics Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Electronics, which term means: The flow of electric charge?",
+      "correctAnswer": "Current",
+      "wrongAnswers": [
+        "Resistor",
+        "Transistor",
+        "Soldering"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: Electric potential difference that pushes charge?",
+      "correctAnswer": "Voltage",
+      "wrongAnswers": [
+        "Capacitor",
+        "Switch",
+        "Multimeter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: Opposition to electric current?",
+      "correctAnswer": "Resistance",
+      "wrongAnswers": [
+        "Inductor",
+        "Battery",
+        "Sensor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component that limits current?",
+      "correctAnswer": "Resistor",
+      "wrongAnswers": [
+        "Diode",
+        "Ground",
+        "Actuator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component that stores electric charge?",
+      "correctAnswer": "Capacitor",
+      "wrongAnswers": [
+        "LED",
+        "Breadboard",
+        "Microcontroller"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component that stores energy in a magnetic field?",
+      "correctAnswer": "Inductor",
+      "wrongAnswers": [
+        "Transistor",
+        "Soldering",
+        "Printed circuit board"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component that allows current mainly in one direction?",
+      "correctAnswer": "Diode",
+      "wrongAnswers": [
+        "Switch",
+        "Multimeter",
+        "Circuit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A diode that emits light when current flows?",
+      "correctAnswer": "LED",
+      "wrongAnswers": [
+        "Battery",
+        "Sensor",
+        "Current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component used for switching or amplification?",
+      "correctAnswer": "Transistor",
+      "wrongAnswers": [
+        "Ground",
+        "Actuator",
+        "Voltage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A component that opens or closes a circuit?",
+      "correctAnswer": "Switch",
+      "wrongAnswers": [
+        "Breadboard",
+        "Microcontroller",
+        "Resistance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A device that provides electrical energy from chemical reactions?",
+      "correctAnswer": "Battery",
+      "wrongAnswers": [
+        "Soldering",
+        "Printed circuit board",
+        "Resistor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A reference point for voltage in a circuit?",
+      "correctAnswer": "Ground",
+      "wrongAnswers": [
+        "Multimeter",
+        "Circuit",
+        "Capacitor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A reusable board for building temporary circuits?",
+      "correctAnswer": "Breadboard",
+      "wrongAnswers": [
+        "Sensor",
+        "Current",
+        "Inductor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: Joining metal parts using melted filler metal?",
+      "correctAnswer": "Soldering",
+      "wrongAnswers": [
+        "Actuator",
+        "Voltage",
+        "Diode"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A tool for measuring electrical quantities?",
+      "correctAnswer": "Multimeter",
+      "wrongAnswers": [
+        "Microcontroller",
+        "Resistance",
+        "LED"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A device that detects a physical condition?",
+      "correctAnswer": "Sensor",
+      "wrongAnswers": [
+        "Printed circuit board",
+        "Resistor",
+        "Transistor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A device that creates physical action from a signal?",
+      "correctAnswer": "Actuator",
+      "wrongAnswers": [
+        "Circuit",
+        "Capacitor",
+        "Switch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A small computer on a chip used to control devices?",
+      "correctAnswer": "Microcontroller",
+      "wrongAnswers": [
+        "Current",
+        "Inductor",
+        "Battery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A board with conductive paths for electronic components?",
+      "correctAnswer": "Printed circuit board",
+      "wrongAnswers": [
+        "Voltage",
+        "Diode",
+        "Ground"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Electronics, which term means: A path that allows electric current to flow?",
+      "correctAnswer": "Circuit",
+      "wrongAnswers": [
+        "Resistance",
+        "LED",
+        "Breadboard"
+      ],
+      "timeout": 15
+    }
+  ]
+}

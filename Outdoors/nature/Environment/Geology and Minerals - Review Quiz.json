@@ -1,0 +1,205 @@
+{
+  "title": "Geology and Minerals Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Streak\" in Geology and Minerals.",
+      "correctAnswer": "The color of a mineral in powdered form",
+      "wrongAnswers": [
+        "A common group of rock-forming minerals",
+        "A sedimentary rock made mostly of sand-sized grains",
+        "A naturally occurring inorganic solid with a defined structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cleavage\" in Geology and Minerals.",
+      "correctAnswer": "A mineral breaking along flat surfaces",
+      "wrongAnswers": [
+        "A mineral group that splits into thin sheets",
+        "A sedimentary rock made largely of calcium carbonate",
+        "A solid with atoms arranged in a repeating pattern"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fracture\" in Geology and Minerals.",
+      "correctAnswer": "A mineral breaking along irregular surfaces",
+      "wrongAnswers": [
+        "A carbonate mineral that reacts with acid",
+        "A fine-grained metamorphic rock that splits into sheets",
+        "Resistance of a mineral to scratching"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ore\" in Geology and Minerals.",
+      "correctAnswer": "Rock or mineral containing useful material that can be extracted",
+      "wrongAnswers": [
+        "A coarse-grained igneous rock",
+        "A metamorphic rock formed from limestone",
+        "How a mineral reflects light"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Gemstone\" in Geology and Minerals.",
+      "correctAnswer": "A mineral valued for beauty, durability, or rarity",
+      "wrongAnswers": [
+        "A fine-grained volcanic igneous rock",
+        "A banded metamorphic rock formed under high grade conditions",
+        "The color of a mineral in powdered form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Quartz\" in Geology and Minerals.",
+      "correctAnswer": "A common mineral made of silicon and oxygen",
+      "wrongAnswers": [
+        "A sedimentary rock made mostly of sand-sized grains",
+        "A naturally occurring inorganic solid with a defined structure",
+        "A mineral breaking along flat surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feldspar\" in Geology and Minerals.",
+      "correctAnswer": "A common group of rock-forming minerals",
+      "wrongAnswers": [
+        "A sedimentary rock made largely of calcium carbonate",
+        "A solid with atoms arranged in a repeating pattern",
+        "A mineral breaking along irregular surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mica\" in Geology and Minerals.",
+      "correctAnswer": "A mineral group that splits into thin sheets",
+      "wrongAnswers": [
+        "A fine-grained metamorphic rock that splits into sheets",
+        "Resistance of a mineral to scratching",
+        "Rock or mineral containing useful material that can be extracted"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Calcite\" in Geology and Minerals.",
+      "correctAnswer": "A carbonate mineral that reacts with acid",
+      "wrongAnswers": [
+        "A metamorphic rock formed from limestone",
+        "How a mineral reflects light",
+        "A mineral valued for beauty, durability, or rarity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Granite\" in Geology and Minerals.",
+      "correctAnswer": "A coarse-grained igneous rock",
+      "wrongAnswers": [
+        "A banded metamorphic rock formed under high grade conditions",
+        "The color of a mineral in powdered form",
+        "A common mineral made of silicon and oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Basalt\" in Geology and Minerals.",
+      "correctAnswer": "A fine-grained volcanic igneous rock",
+      "wrongAnswers": [
+        "A naturally occurring inorganic solid with a defined structure",
+        "A mineral breaking along flat surfaces",
+        "A common group of rock-forming minerals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sandstone\" in Geology and Minerals.",
+      "correctAnswer": "A sedimentary rock made mostly of sand-sized grains",
+      "wrongAnswers": [
+        "A solid with atoms arranged in a repeating pattern",
+        "A mineral breaking along irregular surfaces",
+        "A mineral group that splits into thin sheets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Limestone\" in Geology and Minerals.",
+      "correctAnswer": "A sedimentary rock made largely of calcium carbonate",
+      "wrongAnswers": [
+        "Resistance of a mineral to scratching",
+        "Rock or mineral containing useful material that can be extracted",
+        "A carbonate mineral that reacts with acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Slate\" in Geology and Minerals.",
+      "correctAnswer": "A fine-grained metamorphic rock that splits into sheets",
+      "wrongAnswers": [
+        "How a mineral reflects light",
+        "A mineral valued for beauty, durability, or rarity",
+        "A coarse-grained igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Marble\" in Geology and Minerals.",
+      "correctAnswer": "A metamorphic rock formed from limestone",
+      "wrongAnswers": [
+        "The color of a mineral in powdered form",
+        "A common mineral made of silicon and oxygen",
+        "A fine-grained volcanic igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Gneiss\" in Geology and Minerals.",
+      "correctAnswer": "A banded metamorphic rock formed under high grade conditions",
+      "wrongAnswers": [
+        "A mineral breaking along flat surfaces",
+        "A common group of rock-forming minerals",
+        "A sedimentary rock made mostly of sand-sized grains"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mineral\" in Geology and Minerals.",
+      "correctAnswer": "A naturally occurring inorganic solid with a defined structure",
+      "wrongAnswers": [
+        "A mineral breaking along irregular surfaces",
+        "A mineral group that splits into thin sheets",
+        "A sedimentary rock made largely of calcium carbonate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Crystal\" in Geology and Minerals.",
+      "correctAnswer": "A solid with atoms arranged in a repeating pattern",
+      "wrongAnswers": [
+        "Rock or mineral containing useful material that can be extracted",
+        "A carbonate mineral that reacts with acid",
+        "A fine-grained metamorphic rock that splits into sheets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Hardness\" in Geology and Minerals.",
+      "correctAnswer": "Resistance of a mineral to scratching",
+      "wrongAnswers": [
+        "A mineral valued for beauty, durability, or rarity",
+        "A coarse-grained igneous rock",
+        "A metamorphic rock formed from limestone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Luster\" in Geology and Minerals.",
+      "correctAnswer": "How a mineral reflects light",
+      "wrongAnswers": [
+        "A common mineral made of silicon and oxygen",
+        "A fine-grained volcanic igneous rock",
+        "A banded metamorphic rock formed under high grade conditions"
+      ],
+      "timeout": 15
+    }
+  ]
+}

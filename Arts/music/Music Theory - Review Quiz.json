@@ -1,0 +1,205 @@
+{
+  "title": "Music Theory Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Meter\" in Music Theory.",
+      "correctAnswer": "The grouping of beats into repeating patterns",
+      "wrongAnswers": [
+        "The tonal center of a piece of music",
+        "Smoothly connected notes",
+        "How high or low a sound is perceived"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Measure\" in Music Theory.",
+      "correctAnswer": "A segment of music containing a set number of beats",
+      "wrongAnswers": [
+        "The distance between two pitches",
+        "Short separated notes",
+        "The pattern of sounds and silences in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Melody\" in Music Theory.",
+      "correctAnswer": "A sequence of pitches heard as a musical line",
+      "wrongAnswers": [
+        "How loud or soft music is played",
+        "A musical ending or point of rest",
+        "The regular pulse in music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Harmony\" in Music Theory.",
+      "correctAnswer": "The combination of notes sounded together",
+      "wrongAnswers": [
+        "The tone color or quality of a sound",
+        "A short recurring musical idea",
+        "The speed of the beat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Chord\" in Music Theory.",
+      "correctAnswer": "Three or more notes sounded together",
+      "wrongAnswers": [
+        "How notes are started, connected, or separated",
+        "Creating music spontaneously while performing",
+        "The grouping of beats into repeating patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Scale\" in Music Theory.",
+      "correctAnswer": "An ordered set of pitches",
+      "wrongAnswers": [
+        "Smoothly connected notes",
+        "How high or low a sound is perceived",
+        "A segment of music containing a set number of beats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Key\" in Music Theory.",
+      "correctAnswer": "The tonal center of a piece of music",
+      "wrongAnswers": [
+        "Short separated notes",
+        "The pattern of sounds and silences in time",
+        "A sequence of pitches heard as a musical line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Interval\" in Music Theory.",
+      "correctAnswer": "The distance between two pitches",
+      "wrongAnswers": [
+        "A musical ending or point of rest",
+        "The regular pulse in music",
+        "The combination of notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Dynamics\" in Music Theory.",
+      "correctAnswer": "How loud or soft music is played",
+      "wrongAnswers": [
+        "A short recurring musical idea",
+        "The speed of the beat",
+        "Three or more notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Timbre\" in Music Theory.",
+      "correctAnswer": "The tone color or quality of a sound",
+      "wrongAnswers": [
+        "Creating music spontaneously while performing",
+        "The grouping of beats into repeating patterns",
+        "An ordered set of pitches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Articulation\" in Music Theory.",
+      "correctAnswer": "How notes are started, connected, or separated",
+      "wrongAnswers": [
+        "How high or low a sound is perceived",
+        "A segment of music containing a set number of beats",
+        "The tonal center of a piece of music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Legato\" in Music Theory.",
+      "correctAnswer": "Smoothly connected notes",
+      "wrongAnswers": [
+        "The pattern of sounds and silences in time",
+        "A sequence of pitches heard as a musical line",
+        "The distance between two pitches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Staccato\" in Music Theory.",
+      "correctAnswer": "Short separated notes",
+      "wrongAnswers": [
+        "The regular pulse in music",
+        "The combination of notes sounded together",
+        "How loud or soft music is played"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cadence\" in Music Theory.",
+      "correctAnswer": "A musical ending or point of rest",
+      "wrongAnswers": [
+        "The speed of the beat",
+        "Three or more notes sounded together",
+        "The tone color or quality of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Motif\" in Music Theory.",
+      "correctAnswer": "A short recurring musical idea",
+      "wrongAnswers": [
+        "The grouping of beats into repeating patterns",
+        "An ordered set of pitches",
+        "How notes are started, connected, or separated"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Improvisation\" in Music Theory.",
+      "correctAnswer": "Creating music spontaneously while performing",
+      "wrongAnswers": [
+        "A segment of music containing a set number of beats",
+        "The tonal center of a piece of music",
+        "Smoothly connected notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pitch\" in Music Theory.",
+      "correctAnswer": "How high or low a sound is perceived",
+      "wrongAnswers": [
+        "A sequence of pitches heard as a musical line",
+        "The distance between two pitches",
+        "Short separated notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rhythm\" in Music Theory.",
+      "correctAnswer": "The pattern of sounds and silences in time",
+      "wrongAnswers": [
+        "The combination of notes sounded together",
+        "How loud or soft music is played",
+        "A musical ending or point of rest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Beat\" in Music Theory.",
+      "correctAnswer": "The regular pulse in music",
+      "wrongAnswers": [
+        "Three or more notes sounded together",
+        "The tone color or quality of a sound",
+        "A short recurring musical idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Tempo\" in Music Theory.",
+      "correctAnswer": "The speed of the beat",
+      "wrongAnswers": [
+        "An ordered set of pitches",
+        "How notes are started, connected, or separated",
+        "Creating music spontaneously while performing"
+      ],
+      "timeout": 15
+    }
+  ]
+}

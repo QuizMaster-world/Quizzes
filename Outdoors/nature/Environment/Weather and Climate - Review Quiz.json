@@ -1,0 +1,205 @@
+{
+  "title": "Weather and Climate Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Precipitation\" in Weather and Climate.",
+      "correctAnswer": "Water falling from the atmosphere to Earth's surface",
+      "wrongAnswers": [
+        "A layered cloud that can cover much of the sky",
+        "A long period with unusually low water availability",
+        "The layer of gases surrounding Earth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Front\" in Weather and Climate.",
+      "correctAnswer": "A boundary between air masses",
+      "wrongAnswers": [
+        "A high wispy cloud made mostly of ice crystals",
+        "Long-term patterns of weather in a region",
+        "The force exerted by the weight of air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cold front\" in Weather and Climate.",
+      "correctAnswer": "A boundary where colder air advances",
+      "wrongAnswers": [
+        "A storm with lightning and thunder",
+        "Short-term atmospheric conditions",
+        "The amount of water vapor in the air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Warm front\" in Weather and Climate.",
+      "correctAnswer": "A boundary where warmer air advances",
+      "wrongAnswers": [
+        "A rotating column of air reaching from cloud to ground",
+        "Warming caused when gases trap outgoing heat",
+        "Water vapor changing into liquid droplets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Jet stream\" in Weather and Climate.",
+      "correctAnswer": "A fast-flowing high-altitude air current",
+      "wrongAnswers": [
+        "A powerful tropical cyclone with organized rotation",
+        "A computer representation used to study climate behavior",
+        "Water falling from the atmosphere to Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cumulus cloud\" in Weather and Climate.",
+      "correctAnswer": "A puffy cloud often linked to fair weather",
+      "wrongAnswers": [
+        "A long period with unusually low water availability",
+        "The layer of gases surrounding Earth",
+        "A boundary between air masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Stratus cloud\" in Weather and Climate.",
+      "correctAnswer": "A layered cloud that can cover much of the sky",
+      "wrongAnswers": [
+        "Long-term patterns of weather in a region",
+        "The force exerted by the weight of air",
+        "A boundary where colder air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cirrus cloud\" in Weather and Climate.",
+      "correctAnswer": "A high wispy cloud made mostly of ice crystals",
+      "wrongAnswers": [
+        "Short-term atmospheric conditions",
+        "The amount of water vapor in the air",
+        "A boundary where warmer air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Thunderstorm\" in Weather and Climate.",
+      "correctAnswer": "A storm with lightning and thunder",
+      "wrongAnswers": [
+        "Warming caused when gases trap outgoing heat",
+        "Water vapor changing into liquid droplets",
+        "A fast-flowing high-altitude air current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Tornado\" in Weather and Climate.",
+      "correctAnswer": "A rotating column of air reaching from cloud to ground",
+      "wrongAnswers": [
+        "A computer representation used to study climate behavior",
+        "Water falling from the atmosphere to Earth's surface",
+        "A puffy cloud often linked to fair weather"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Hurricane\" in Weather and Climate.",
+      "correctAnswer": "A powerful tropical cyclone with organized rotation",
+      "wrongAnswers": [
+        "The layer of gases surrounding Earth",
+        "A boundary between air masses",
+        "A layered cloud that can cover much of the sky"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Drought\" in Weather and Climate.",
+      "correctAnswer": "A long period with unusually low water availability",
+      "wrongAnswers": [
+        "The force exerted by the weight of air",
+        "A boundary where colder air advances",
+        "A high wispy cloud made mostly of ice crystals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Climate\" in Weather and Climate.",
+      "correctAnswer": "Long-term patterns of weather in a region",
+      "wrongAnswers": [
+        "The amount of water vapor in the air",
+        "A boundary where warmer air advances",
+        "A storm with lightning and thunder"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Weather\" in Weather and Climate.",
+      "correctAnswer": "Short-term atmospheric conditions",
+      "wrongAnswers": [
+        "Water vapor changing into liquid droplets",
+        "A fast-flowing high-altitude air current",
+        "A rotating column of air reaching from cloud to ground"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Greenhouse effect\" in Weather and Climate.",
+      "correctAnswer": "Warming caused when gases trap outgoing heat",
+      "wrongAnswers": [
+        "Water falling from the atmosphere to Earth's surface",
+        "A puffy cloud often linked to fair weather",
+        "A powerful tropical cyclone with organized rotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Climate model\" in Weather and Climate.",
+      "correctAnswer": "A computer representation used to study climate behavior",
+      "wrongAnswers": [
+        "A boundary between air masses",
+        "A layered cloud that can cover much of the sky",
+        "A long period with unusually low water availability"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Atmosphere\" in Weather and Climate.",
+      "correctAnswer": "The layer of gases surrounding Earth",
+      "wrongAnswers": [
+        "A boundary where colder air advances",
+        "A high wispy cloud made mostly of ice crystals",
+        "Long-term patterns of weather in a region"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Air pressure\" in Weather and Climate.",
+      "correctAnswer": "The force exerted by the weight of air",
+      "wrongAnswers": [
+        "A boundary where warmer air advances",
+        "A storm with lightning and thunder",
+        "Short-term atmospheric conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Humidity\" in Weather and Climate.",
+      "correctAnswer": "The amount of water vapor in the air",
+      "wrongAnswers": [
+        "A fast-flowing high-altitude air current",
+        "A rotating column of air reaching from cloud to ground",
+        "Warming caused when gases trap outgoing heat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Condensation\" in Weather and Climate.",
+      "correctAnswer": "Water vapor changing into liquid droplets",
+      "wrongAnswers": [
+        "A puffy cloud often linked to fair weather",
+        "A powerful tropical cyclone with organized rotation",
+        "A computer representation used to study climate behavior"
+      ],
+      "timeout": 15
+    }
+  ]
+}

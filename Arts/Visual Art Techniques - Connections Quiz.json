@@ -1,0 +1,205 @@
+{
+  "title": "Visual Art Techniques Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A three-dimensional object or the illusion of one?",
+      "correctAnswer": "Form",
+      "wrongAnswers": [
+        "Composition",
+        "Proportion",
+        "Layering"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The lightness or darkness of a color?",
+      "correctAnswer": "Value",
+      "wrongAnswers": [
+        "Perspective",
+        "Gesture drawing",
+        "Wash"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The surface quality seen or felt in artwork?",
+      "correctAnswer": "Texture",
+      "wrongAnswers": [
+        "Focal point",
+        "Contour drawing",
+        "Negative space"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A pleasing relationship among colors?",
+      "correctAnswer": "Color harmony",
+      "wrongAnswers": [
+        "Contrast",
+        "Shading",
+        "Mixed media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The arrangement of visual elements?",
+      "correctAnswer": "Composition",
+      "wrongAnswers": [
+        "Balance",
+        "Blending",
+        "Line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A method for creating the illusion of depth?",
+      "correctAnswer": "Perspective",
+      "wrongAnswers": [
+        "Proportion",
+        "Layering",
+        "Shape"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The area that draws the viewer's attention?",
+      "correctAnswer": "Focal point",
+      "wrongAnswers": [
+        "Gesture drawing",
+        "Wash",
+        "Form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: Difference between visual elements?",
+      "correctAnswer": "Contrast",
+      "wrongAnswers": [
+        "Contour drawing",
+        "Negative space",
+        "Value"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The distribution of visual weight?",
+      "correctAnswer": "Balance",
+      "wrongAnswers": [
+        "Shading",
+        "Mixed media",
+        "Texture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The size relationship between parts?",
+      "correctAnswer": "Proportion",
+      "wrongAnswers": [
+        "Blending",
+        "Line",
+        "Color harmony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A quick drawing that captures movement or pose?",
+      "correctAnswer": "Gesture drawing",
+      "wrongAnswers": [
+        "Layering",
+        "Shape",
+        "Composition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A drawing that emphasizes outlines and edges?",
+      "correctAnswer": "Contour drawing",
+      "wrongAnswers": [
+        "Wash",
+        "Form",
+        "Perspective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: Using value to suggest light and form?",
+      "correctAnswer": "Shading",
+      "wrongAnswers": [
+        "Negative space",
+        "Value",
+        "Focal point"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: Smoothly transitioning between tones or colors?",
+      "correctAnswer": "Blending",
+      "wrongAnswers": [
+        "Mixed media",
+        "Texture",
+        "Contrast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: Building an image through multiple applications of media?",
+      "correctAnswer": "Layering",
+      "wrongAnswers": [
+        "Line",
+        "Color harmony",
+        "Balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A thin transparent layer of paint or ink?",
+      "correctAnswer": "Wash",
+      "wrongAnswers": [
+        "Shape",
+        "Composition",
+        "Proportion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: The area around and between subjects?",
+      "correctAnswer": "Negative space",
+      "wrongAnswers": [
+        "Form",
+        "Perspective",
+        "Gesture drawing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: Artwork made with more than one material or technique?",
+      "correctAnswer": "Mixed media",
+      "wrongAnswers": [
+        "Value",
+        "Focal point",
+        "Contour drawing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A mark that can define shape, direction, and movement?",
+      "correctAnswer": "Line",
+      "wrongAnswers": [
+        "Texture",
+        "Contrast",
+        "Shading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Visual Art Techniques concept is described by this clue: A flat enclosed area?",
+      "correctAnswer": "Shape",
+      "wrongAnswers": [
+        "Color harmony",
+        "Balance",
+        "Blending"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Databases and Data Modeling Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Databases and Data Modeling, what does \"Table\" mean?",
+      "correctAnswer": "A collection of rows and columns in a relational database",
+      "wrongAnswers": [
+        "A named field stored for each row",
+        "A SQL command used to retrieve data",
+        "Making transaction changes permanent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Row\" mean?",
+      "correctAnswer": "One record in a database table",
+      "wrongAnswers": [
+        "A value that uniquely identifies a row",
+        "A SQL operation that combines related rows",
+        "The defined structure of database objects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Column\" mean?",
+      "correctAnswer": "A named field stored for each row",
+      "wrongAnswers": [
+        "A value that references a row in another table",
+        "A SQL clause that filters rows",
+        "Organizing data to reduce redundancy and inconsistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Primary key\" mean?",
+      "correctAnswer": "A value that uniquely identifies a row",
+      "wrongAnswers": [
+        "A structure that speeds up data lookup",
+        "A group of database operations treated as one unit",
+        "Adding controlled redundancy to improve access patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Foreign key\" mean?",
+      "correctAnswer": "A value that references a row in another table",
+      "wrongAnswers": [
+        "A request for data or data changes",
+        "Undoing changes from an unfinished transaction",
+        "A database that stores records as flexible documents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Index\" mean?",
+      "correctAnswer": "A structure that speeds up data lookup",
+      "wrongAnswers": [
+        "A SQL command used to retrieve data",
+        "Making transaction changes permanent",
+        "A database that models entities and relationships as nodes and edges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Query\" mean?",
+      "correctAnswer": "A request for data or data changes",
+      "wrongAnswers": [
+        "A SQL operation that combines related rows",
+        "The defined structure of database objects",
+        "A controlled change to database structure or data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"SELECT\" mean?",
+      "correctAnswer": "A SQL command used to retrieve data",
+      "wrongAnswers": [
+        "A SQL clause that filters rows",
+        "Organizing data to reduce redundancy and inconsistency",
+        "The strategy a database uses to execute a query"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"JOIN\" mean?",
+      "correctAnswer": "A SQL operation that combines related rows",
+      "wrongAnswers": [
+        "A group of database operations treated as one unit",
+        "Adding controlled redundancy to improve access patterns",
+        "A collection of rows and columns in a relational database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"WHERE clause\" mean?",
+      "correctAnswer": "A SQL clause that filters rows",
+      "wrongAnswers": [
+        "Undoing changes from an unfinished transaction",
+        "A database that stores records as flexible documents",
+        "One record in a database table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Transaction\" mean?",
+      "correctAnswer": "A group of database operations treated as one unit",
+      "wrongAnswers": [
+        "Making transaction changes permanent",
+        "A database that models entities and relationships as nodes and edges",
+        "A named field stored for each row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Rollback\" mean?",
+      "correctAnswer": "Undoing changes from an unfinished transaction",
+      "wrongAnswers": [
+        "The defined structure of database objects",
+        "A controlled change to database structure or data",
+        "A value that uniquely identifies a row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Commit\" mean?",
+      "correctAnswer": "Making transaction changes permanent",
+      "wrongAnswers": [
+        "Organizing data to reduce redundancy and inconsistency",
+        "The strategy a database uses to execute a query",
+        "A value that references a row in another table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Schema\" mean?",
+      "correctAnswer": "The defined structure of database objects",
+      "wrongAnswers": [
+        "Adding controlled redundancy to improve access patterns",
+        "A collection of rows and columns in a relational database",
+        "A structure that speeds up data lookup"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Normalization\" mean?",
+      "correctAnswer": "Organizing data to reduce redundancy and inconsistency",
+      "wrongAnswers": [
+        "A database that stores records as flexible documents",
+        "One record in a database table",
+        "A request for data or data changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Denormalization\" mean?",
+      "correctAnswer": "Adding controlled redundancy to improve access patterns",
+      "wrongAnswers": [
+        "A database that models entities and relationships as nodes and edges",
+        "A named field stored for each row",
+        "A SQL command used to retrieve data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Document database\" mean?",
+      "correctAnswer": "A database that stores records as flexible documents",
+      "wrongAnswers": [
+        "A controlled change to database structure or data",
+        "A value that uniquely identifies a row",
+        "A SQL operation that combines related rows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Graph database\" mean?",
+      "correctAnswer": "A database that models entities and relationships as nodes and edges",
+      "wrongAnswers": [
+        "The strategy a database uses to execute a query",
+        "A value that references a row in another table",
+        "A SQL clause that filters rows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Migration\" mean?",
+      "correctAnswer": "A controlled change to database structure or data",
+      "wrongAnswers": [
+        "A collection of rows and columns in a relational database",
+        "A structure that speeds up data lookup",
+        "A group of database operations treated as one unit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, what does \"Query plan\" mean?",
+      "correctAnswer": "The strategy a database uses to execute a query",
+      "wrongAnswers": [
+        "One record in a database table",
+        "A request for data or data changes",
+        "Undoing changes from an unfinished transaction"
+      ],
+      "timeout": 15
+    }
+  ]
+}

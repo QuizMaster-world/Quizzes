@@ -1,0 +1,205 @@
+{
+  "title": "Robotics Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Robotics concept is described by this clue: A device that converts signals into movement or action?",
+      "correctAnswer": "Actuator",
+      "wrongAnswers": [
+        "Chassis",
+        "Path planning",
+        "Degree of freedom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: An actuator that produces rotational motion?",
+      "correctAnswer": "Motor",
+      "wrongAnswers": [
+        "Controller",
+        "Obstacle avoidance",
+        "Kinematics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: A motor system that moves to controlled positions?",
+      "correctAnswer": "Servo",
+      "wrongAnswers": [
+        "Feedback",
+        "Localization",
+        "Payload"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The tool or gripper at the end of a robot arm?",
+      "correctAnswer": "End effector",
+      "wrongAnswers": [
+        "Autonomy",
+        "Mapping",
+        "Calibration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The structural frame of a robot?",
+      "correctAnswer": "Chassis",
+      "wrongAnswers": [
+        "Teleoperation",
+        "Manipulator",
+        "Robot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The system that processes inputs and commands outputs?",
+      "correctAnswer": "Controller",
+      "wrongAnswers": [
+        "Path planning",
+        "Degree of freedom",
+        "Sensor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Information returned to adjust robot behavior?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Obstacle avoidance",
+        "Kinematics",
+        "Actuator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The ability to operate without direct human control?",
+      "correctAnswer": "Autonomy",
+      "wrongAnswers": [
+        "Localization",
+        "Payload",
+        "Motor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Remote control of a robot by a human?",
+      "correctAnswer": "Teleoperation",
+      "wrongAnswers": [
+        "Mapping",
+        "Calibration",
+        "Servo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Finding a route for a robot to follow?",
+      "correctAnswer": "Path planning",
+      "wrongAnswers": [
+        "Manipulator",
+        "Robot",
+        "End effector"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Detecting and moving around objects in the way?",
+      "correctAnswer": "Obstacle avoidance",
+      "wrongAnswers": [
+        "Degree of freedom",
+        "Sensor",
+        "Chassis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Determining a robot's position?",
+      "correctAnswer": "Localization",
+      "wrongAnswers": [
+        "Kinematics",
+        "Actuator",
+        "Controller"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Building a representation of an environment?",
+      "correctAnswer": "Mapping",
+      "wrongAnswers": [
+        "Payload",
+        "Motor",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: A robotic arm or device used to move objects?",
+      "correctAnswer": "Manipulator",
+      "wrongAnswers": [
+        "Calibration",
+        "Servo",
+        "Autonomy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: An independent direction or rotation a robot can move?",
+      "correctAnswer": "Degree of freedom",
+      "wrongAnswers": [
+        "Robot",
+        "End effector",
+        "Teleoperation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The study of robot motion without focusing on forces?",
+      "correctAnswer": "Kinematics",
+      "wrongAnswers": [
+        "Sensor",
+        "Chassis",
+        "Path planning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: The weight a robot can carry or manipulate?",
+      "correctAnswer": "Payload",
+      "wrongAnswers": [
+        "Actuator",
+        "Controller",
+        "Obstacle avoidance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: Adjusting a robot or sensor for accurate operation?",
+      "correctAnswer": "Calibration",
+      "wrongAnswers": [
+        "Motor",
+        "Feedback",
+        "Localization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: A machine that can sense, decide, or act in its environment?",
+      "correctAnswer": "Robot",
+      "wrongAnswers": [
+        "Servo",
+        "Autonomy",
+        "Mapping"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Robotics concept is described by this clue: A device that detects information from the environment?",
+      "correctAnswer": "Sensor",
+      "wrongAnswers": [
+        "End effector",
+        "Teleoperation",
+        "Manipulator"
+      ],
+      "timeout": 15
+    }
+  ]
+}

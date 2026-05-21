@@ -1,0 +1,205 @@
+{
+  "title": "UI and UX Design Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Wireframe\" in UI and UX Design.",
+      "correctAnswer": "A low-detail layout plan for an interface",
+      "wrongAnswers": [
+        "A system response that confirms an action or state",
+        "A design state that communicates a problem",
+        "The visible and interactive parts of a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Prototype\" in UI and UX Design.",
+      "correctAnswer": "An interactive or visual model used to test a design",
+      "wrongAnswers": [
+        "Designing products for people with varied abilities",
+        "A design state shown when there is no content yet",
+        "The overall experience a person has using a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Usability testing\" in UI and UX Design.",
+      "correctAnswer": "Observing users to find design problems",
+      "wrongAnswers": [
+        "A visual difference that helps elements stand apart",
+        "Helping new users begin using a product",
+        "A research-based profile representing a user type"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Information architecture\" in UI and UX Design.",
+      "correctAnswer": "Organizing content so people can find and understand it",
+      "wrongAnswers": [
+        "Arranging elements to show importance",
+        "Short interface text that guides users",
+        "The steps a user takes to reach a goal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Navigation\" in UI and UX Design.",
+      "correctAnswer": "Controls that help users move through a product",
+      "wrongAnswers": [
+        "Using familiar patterns across an interface",
+        "A shared set of reusable design rules and components",
+        "A low-detail layout plan for an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Affordance\" in UI and UX Design.",
+      "correctAnswer": "A cue that suggests how something can be used",
+      "wrongAnswers": [
+        "A design state that communicates a problem",
+        "The visible and interactive parts of a product",
+        "An interactive or visual model used to test a design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feedback\" in UI and UX Design.",
+      "correctAnswer": "A system response that confirms an action or state",
+      "wrongAnswers": [
+        "A design state shown when there is no content yet",
+        "The overall experience a person has using a product",
+        "Observing users to find design problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Accessibility\" in UI and UX Design.",
+      "correctAnswer": "Designing products for people with varied abilities",
+      "wrongAnswers": [
+        "Helping new users begin using a product",
+        "A research-based profile representing a user type",
+        "Organizing content so people can find and understand it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Contrast\" in UI and UX Design.",
+      "correctAnswer": "A visual difference that helps elements stand apart",
+      "wrongAnswers": [
+        "Short interface text that guides users",
+        "The steps a user takes to reach a goal",
+        "Controls that help users move through a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Hierarchy\" in UI and UX Design.",
+      "correctAnswer": "Arranging elements to show importance",
+      "wrongAnswers": [
+        "A shared set of reusable design rules and components",
+        "A low-detail layout plan for an interface",
+        "A cue that suggests how something can be used"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Consistency\" in UI and UX Design.",
+      "correctAnswer": "Using familiar patterns across an interface",
+      "wrongAnswers": [
+        "The visible and interactive parts of a product",
+        "An interactive or visual model used to test a design",
+        "A system response that confirms an action or state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Error state\" in UI and UX Design.",
+      "correctAnswer": "A design state that communicates a problem",
+      "wrongAnswers": [
+        "The overall experience a person has using a product",
+        "Observing users to find design problems",
+        "Designing products for people with varied abilities"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Empty state\" in UI and UX Design.",
+      "correctAnswer": "A design state shown when there is no content yet",
+      "wrongAnswers": [
+        "A research-based profile representing a user type",
+        "Organizing content so people can find and understand it",
+        "A visual difference that helps elements stand apart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Onboarding\" in UI and UX Design.",
+      "correctAnswer": "Helping new users begin using a product",
+      "wrongAnswers": [
+        "The steps a user takes to reach a goal",
+        "Controls that help users move through a product",
+        "Arranging elements to show importance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Microcopy\" in UI and UX Design.",
+      "correctAnswer": "Short interface text that guides users",
+      "wrongAnswers": [
+        "A low-detail layout plan for an interface",
+        "A cue that suggests how something can be used",
+        "Using familiar patterns across an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Design system\" in UI and UX Design.",
+      "correctAnswer": "A shared set of reusable design rules and components",
+      "wrongAnswers": [
+        "An interactive or visual model used to test a design",
+        "A system response that confirms an action or state",
+        "A design state that communicates a problem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"User interface\" in UI and UX Design.",
+      "correctAnswer": "The visible and interactive parts of a product",
+      "wrongAnswers": [
+        "Observing users to find design problems",
+        "Designing products for people with varied abilities",
+        "A design state shown when there is no content yet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"User experience\" in UI and UX Design.",
+      "correctAnswer": "The overall experience a person has using a product",
+      "wrongAnswers": [
+        "Organizing content so people can find and understand it",
+        "A visual difference that helps elements stand apart",
+        "Helping new users begin using a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Persona\" in UI and UX Design.",
+      "correctAnswer": "A research-based profile representing a user type",
+      "wrongAnswers": [
+        "Controls that help users move through a product",
+        "Arranging elements to show importance",
+        "Short interface text that guides users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"User journey\" in UI and UX Design.",
+      "correctAnswer": "The steps a user takes to reach a goal",
+      "wrongAnswers": [
+        "A cue that suggests how something can be used",
+        "Using familiar patterns across an interface",
+        "A shared set of reusable design rules and components"
+      ],
+      "timeout": 15
+    }
+  ]
+}

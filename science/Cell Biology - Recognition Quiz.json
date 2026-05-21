@@ -1,0 +1,205 @@
+{
+  "title": "Cell Biology Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Mitochondrion\" is correct?",
+      "correctAnswer": "Mitochondrion: An organelle that releases usable energy from food molecules",
+      "wrongAnswers": [
+        "Chloroplast: A plant cell organelle that carries out photosynthesis",
+        "Osmosis: Diffusion of water across a selectively permeable membrane",
+        "Meiosis: Cell division that produces gametes with reduced chromosome sets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ribosome\" is correct?",
+      "correctAnswer": "Ribosome: A structure that builds proteins from amino acids",
+      "wrongAnswers": [
+        "Cell wall: A rigid outer layer that supports some kinds of cells",
+        "Active transport: Movement across a membrane using cellular energy",
+        "Homeostasis: Maintaining a stable internal condition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Endoplasmic reticulum\" is correct?",
+      "correctAnswer": "Endoplasmic reticulum: A membrane network involved in protein and lipid processing",
+      "wrongAnswers": [
+        "Vacuole: A storage compartment inside a cell",
+        "Enzyme: A protein that speeds up a chemical reaction",
+        "Cell membrane: A boundary that controls movement into and out of the cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Golgi apparatus\" is correct?",
+      "correctAnswer": "Golgi apparatus: An organelle that modifies and packages cell products",
+      "wrongAnswers": [
+        "Organelle: A specialized structure inside a cell",
+        "ATP: A molecule used as a direct energy source in cells",
+        "Cytoplasm: The gel-like material inside a cell where many reactions occur"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lysosome\" is correct?",
+      "correctAnswer": "Lysosome: An organelle that breaks down waste and worn cell parts",
+      "wrongAnswers": [
+        "Diffusion: Movement of particles from higher concentration to lower concentration",
+        "Mitosis: Cell division that produces genetically identical body cells",
+        "Nucleus: The organelle that stores most genetic material in eukaryotic cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Chloroplast\" is correct?",
+      "correctAnswer": "Chloroplast: A plant cell organelle that carries out photosynthesis",
+      "wrongAnswers": [
+        "Osmosis: Diffusion of water across a selectively permeable membrane",
+        "Meiosis: Cell division that produces gametes with reduced chromosome sets",
+        "Mitochondrion: An organelle that releases usable energy from food molecules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cell wall\" is correct?",
+      "correctAnswer": "Cell wall: A rigid outer layer that supports some kinds of cells",
+      "wrongAnswers": [
+        "Active transport: Movement across a membrane using cellular energy",
+        "Homeostasis: Maintaining a stable internal condition",
+        "Ribosome: A structure that builds proteins from amino acids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vacuole\" is correct?",
+      "correctAnswer": "Vacuole: A storage compartment inside a cell",
+      "wrongAnswers": [
+        "Enzyme: A protein that speeds up a chemical reaction",
+        "Cell membrane: A boundary that controls movement into and out of the cell",
+        "Endoplasmic reticulum: A membrane network involved in protein and lipid processing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Organelle\" is correct?",
+      "correctAnswer": "Organelle: A specialized structure inside a cell",
+      "wrongAnswers": [
+        "ATP: A molecule used as a direct energy source in cells",
+        "Cytoplasm: The gel-like material inside a cell where many reactions occur",
+        "Golgi apparatus: An organelle that modifies and packages cell products"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Diffusion\" is correct?",
+      "correctAnswer": "Diffusion: Movement of particles from higher concentration to lower concentration",
+      "wrongAnswers": [
+        "Mitosis: Cell division that produces genetically identical body cells",
+        "Nucleus: The organelle that stores most genetic material in eukaryotic cells",
+        "Lysosome: An organelle that breaks down waste and worn cell parts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Osmosis\" is correct?",
+      "correctAnswer": "Osmosis: Diffusion of water across a selectively permeable membrane",
+      "wrongAnswers": [
+        "Meiosis: Cell division that produces gametes with reduced chromosome sets",
+        "Mitochondrion: An organelle that releases usable energy from food molecules",
+        "Chloroplast: A plant cell organelle that carries out photosynthesis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Active transport\" is correct?",
+      "correctAnswer": "Active transport: Movement across a membrane using cellular energy",
+      "wrongAnswers": [
+        "Homeostasis: Maintaining a stable internal condition",
+        "Ribosome: A structure that builds proteins from amino acids",
+        "Cell wall: A rigid outer layer that supports some kinds of cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Enzyme\" is correct?",
+      "correctAnswer": "Enzyme: A protein that speeds up a chemical reaction",
+      "wrongAnswers": [
+        "Cell membrane: A boundary that controls movement into and out of the cell",
+        "Endoplasmic reticulum: A membrane network involved in protein and lipid processing",
+        "Vacuole: A storage compartment inside a cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"ATP\" is correct?",
+      "correctAnswer": "ATP: A molecule used as a direct energy source in cells",
+      "wrongAnswers": [
+        "Cytoplasm: The gel-like material inside a cell where many reactions occur",
+        "Golgi apparatus: An organelle that modifies and packages cell products",
+        "Organelle: A specialized structure inside a cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mitosis\" is correct?",
+      "correctAnswer": "Mitosis: Cell division that produces genetically identical body cells",
+      "wrongAnswers": [
+        "Nucleus: The organelle that stores most genetic material in eukaryotic cells",
+        "Lysosome: An organelle that breaks down waste and worn cell parts",
+        "Diffusion: Movement of particles from higher concentration to lower concentration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Meiosis\" is correct?",
+      "correctAnswer": "Meiosis: Cell division that produces gametes with reduced chromosome sets",
+      "wrongAnswers": [
+        "Mitochondrion: An organelle that releases usable energy from food molecules",
+        "Chloroplast: A plant cell organelle that carries out photosynthesis",
+        "Osmosis: Diffusion of water across a selectively permeable membrane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Homeostasis\" is correct?",
+      "correctAnswer": "Homeostasis: Maintaining a stable internal condition",
+      "wrongAnswers": [
+        "Ribosome: A structure that builds proteins from amino acids",
+        "Cell wall: A rigid outer layer that supports some kinds of cells",
+        "Active transport: Movement across a membrane using cellular energy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cell membrane\" is correct?",
+      "correctAnswer": "Cell membrane: A boundary that controls movement into and out of the cell",
+      "wrongAnswers": [
+        "Endoplasmic reticulum: A membrane network involved in protein and lipid processing",
+        "Vacuole: A storage compartment inside a cell",
+        "Enzyme: A protein that speeds up a chemical reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cytoplasm\" is correct?",
+      "correctAnswer": "Cytoplasm: The gel-like material inside a cell where many reactions occur",
+      "wrongAnswers": [
+        "Golgi apparatus: An organelle that modifies and packages cell products",
+        "Organelle: A specialized structure inside a cell",
+        "ATP: A molecule used as a direct energy source in cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Nucleus\" is correct?",
+      "correctAnswer": "Nucleus: The organelle that stores most genetic material in eukaryotic cells",
+      "wrongAnswers": [
+        "Lysosome: An organelle that breaks down waste and worn cell parts",
+        "Diffusion: Movement of particles from higher concentration to lower concentration",
+        "Mitosis: Cell division that produces genetically identical body cells"
+      ],
+      "timeout": 15
+    }
+  ]
+}

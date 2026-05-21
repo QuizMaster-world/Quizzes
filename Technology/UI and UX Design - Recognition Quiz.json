@@ -1,0 +1,205 @@
+{
+  "title": "UI and UX Design Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"User journey\" is correct?",
+      "correctAnswer": "User journey: The steps a user takes to reach a goal",
+      "wrongAnswers": [
+        "Navigation: Controls that help users move through a product",
+        "Hierarchy: Arranging elements to show importance",
+        "Microcopy: Short interface text that guides users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Wireframe\" is correct?",
+      "correctAnswer": "Wireframe: A low-detail layout plan for an interface",
+      "wrongAnswers": [
+        "Affordance: A cue that suggests how something can be used",
+        "Consistency: Using familiar patterns across an interface",
+        "Design system: A shared set of reusable design rules and components"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Prototype\" is correct?",
+      "correctAnswer": "Prototype: An interactive or visual model used to test a design",
+      "wrongAnswers": [
+        "Feedback: A system response that confirms an action or state",
+        "Error state: A design state that communicates a problem",
+        "User interface: The visible and interactive parts of a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Usability testing\" is correct?",
+      "correctAnswer": "Usability testing: Observing users to find design problems",
+      "wrongAnswers": [
+        "Accessibility: Designing products for people with varied abilities",
+        "Empty state: A design state shown when there is no content yet",
+        "User experience: The overall experience a person has using a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Information architecture\" is correct?",
+      "correctAnswer": "Information architecture: Organizing content so people can find and understand it",
+      "wrongAnswers": [
+        "Contrast: A visual difference that helps elements stand apart",
+        "Onboarding: Helping new users begin using a product",
+        "Persona: A research-based profile representing a user type"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Navigation\" is correct?",
+      "correctAnswer": "Navigation: Controls that help users move through a product",
+      "wrongAnswers": [
+        "Hierarchy: Arranging elements to show importance",
+        "Microcopy: Short interface text that guides users",
+        "User journey: The steps a user takes to reach a goal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Affordance\" is correct?",
+      "correctAnswer": "Affordance: A cue that suggests how something can be used",
+      "wrongAnswers": [
+        "Consistency: Using familiar patterns across an interface",
+        "Design system: A shared set of reusable design rules and components",
+        "Wireframe: A low-detail layout plan for an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feedback\" is correct?",
+      "correctAnswer": "Feedback: A system response that confirms an action or state",
+      "wrongAnswers": [
+        "Error state: A design state that communicates a problem",
+        "User interface: The visible and interactive parts of a product",
+        "Prototype: An interactive or visual model used to test a design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Accessibility\" is correct?",
+      "correctAnswer": "Accessibility: Designing products for people with varied abilities",
+      "wrongAnswers": [
+        "Empty state: A design state shown when there is no content yet",
+        "User experience: The overall experience a person has using a product",
+        "Usability testing: Observing users to find design problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Contrast\" is correct?",
+      "correctAnswer": "Contrast: A visual difference that helps elements stand apart",
+      "wrongAnswers": [
+        "Onboarding: Helping new users begin using a product",
+        "Persona: A research-based profile representing a user type",
+        "Information architecture: Organizing content so people can find and understand it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hierarchy\" is correct?",
+      "correctAnswer": "Hierarchy: Arranging elements to show importance",
+      "wrongAnswers": [
+        "Microcopy: Short interface text that guides users",
+        "User journey: The steps a user takes to reach a goal",
+        "Navigation: Controls that help users move through a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Consistency\" is correct?",
+      "correctAnswer": "Consistency: Using familiar patterns across an interface",
+      "wrongAnswers": [
+        "Design system: A shared set of reusable design rules and components",
+        "Wireframe: A low-detail layout plan for an interface",
+        "Affordance: A cue that suggests how something can be used"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Error state\" is correct?",
+      "correctAnswer": "Error state: A design state that communicates a problem",
+      "wrongAnswers": [
+        "User interface: The visible and interactive parts of a product",
+        "Prototype: An interactive or visual model used to test a design",
+        "Feedback: A system response that confirms an action or state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Empty state\" is correct?",
+      "correctAnswer": "Empty state: A design state shown when there is no content yet",
+      "wrongAnswers": [
+        "User experience: The overall experience a person has using a product",
+        "Usability testing: Observing users to find design problems",
+        "Accessibility: Designing products for people with varied abilities"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Onboarding\" is correct?",
+      "correctAnswer": "Onboarding: Helping new users begin using a product",
+      "wrongAnswers": [
+        "Persona: A research-based profile representing a user type",
+        "Information architecture: Organizing content so people can find and understand it",
+        "Contrast: A visual difference that helps elements stand apart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Microcopy\" is correct?",
+      "correctAnswer": "Microcopy: Short interface text that guides users",
+      "wrongAnswers": [
+        "User journey: The steps a user takes to reach a goal",
+        "Navigation: Controls that help users move through a product",
+        "Hierarchy: Arranging elements to show importance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Design system\" is correct?",
+      "correctAnswer": "Design system: A shared set of reusable design rules and components",
+      "wrongAnswers": [
+        "Wireframe: A low-detail layout plan for an interface",
+        "Affordance: A cue that suggests how something can be used",
+        "Consistency: Using familiar patterns across an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"User interface\" is correct?",
+      "correctAnswer": "User interface: The visible and interactive parts of a product",
+      "wrongAnswers": [
+        "Prototype: An interactive or visual model used to test a design",
+        "Feedback: A system response that confirms an action or state",
+        "Error state: A design state that communicates a problem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"User experience\" is correct?",
+      "correctAnswer": "User experience: The overall experience a person has using a product",
+      "wrongAnswers": [
+        "Usability testing: Observing users to find design problems",
+        "Accessibility: Designing products for people with varied abilities",
+        "Empty state: A design state shown when there is no content yet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Persona\" is correct?",
+      "correctAnswer": "Persona: A research-based profile representing a user type",
+      "wrongAnswers": [
+        "Information architecture: Organizing content so people can find and understand it",
+        "Contrast: A visual difference that helps elements stand apart",
+        "Onboarding: Helping new users begin using a product"
+      ],
+      "timeout": 15
+    }
+  ]
+}

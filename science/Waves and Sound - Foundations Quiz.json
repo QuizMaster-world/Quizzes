@@ -1,0 +1,205 @@
+{
+  "title": "Waves and Sound Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Waves and Sound, what does \"Wave\" mean?",
+      "correctAnswer": "A disturbance that transfers energy through space or a medium",
+      "wrongAnswers": [
+        "The distance between matching points on neighboring waves",
+        "A wave where particles vibrate parallel to travel direction",
+        "A wave changing direction as speed changes in a new medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Amplitude\" mean?",
+      "correctAnswer": "The maximum displacement from a wave's resting position",
+      "wrongAnswers": [
+        "How often wave cycles pass a point",
+        "A wave where particles vibrate perpendicular to travel direction",
+        "A wave spreading around obstacles or through gaps"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Wavelength\" mean?",
+      "correctAnswer": "The distance between matching points on neighboring waves",
+      "wrongAnswers": [
+        "The time for one complete wave cycle",
+        "A crowded region in a longitudinal wave",
+        "Overlapping waves combining their effects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Frequency\" mean?",
+      "correctAnswer": "How often wave cycles pass a point",
+      "wrongAnswers": [
+        "The highest point of a transverse wave",
+        "A spread-out region in a longitudinal wave",
+        "Large vibration caused by matching a natural frequency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Period\" mean?",
+      "correctAnswer": "The time for one complete wave cycle",
+      "wrongAnswers": [
+        "The lowest point of a transverse wave",
+        "A wave bouncing from a boundary",
+        "The perceived highness or lowness of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Crest\" mean?",
+      "correctAnswer": "The highest point of a transverse wave",
+      "wrongAnswers": [
+        "A wave where particles vibrate parallel to travel direction",
+        "A wave changing direction as speed changes in a new medium",
+        "The perceived strength of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Trough\" mean?",
+      "correctAnswer": "The lowest point of a transverse wave",
+      "wrongAnswers": [
+        "A wave where particles vibrate perpendicular to travel direction",
+        "A wave spreading around obstacles or through gaps",
+        "A reflected sound heard after the original"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Longitudinal wave\" mean?",
+      "correctAnswer": "A wave where particles vibrate parallel to travel direction",
+      "wrongAnswers": [
+        "A crowded region in a longitudinal wave",
+        "Overlapping waves combining their effects",
+        "Sound with frequency above human hearing range"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Transverse wave\" mean?",
+      "correctAnswer": "A wave where particles vibrate perpendicular to travel direction",
+      "wrongAnswers": [
+        "A spread-out region in a longitudinal wave",
+        "Large vibration caused by matching a natural frequency",
+        "A disturbance that transfers energy through space or a medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Compression\" mean?",
+      "correctAnswer": "A crowded region in a longitudinal wave",
+      "wrongAnswers": [
+        "A wave bouncing from a boundary",
+        "The perceived highness or lowness of a sound",
+        "The maximum displacement from a wave's resting position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Rarefaction\" mean?",
+      "correctAnswer": "A spread-out region in a longitudinal wave",
+      "wrongAnswers": [
+        "A wave changing direction as speed changes in a new medium",
+        "The perceived strength of a sound",
+        "The distance between matching points on neighboring waves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Reflection\" mean?",
+      "correctAnswer": "A wave bouncing from a boundary",
+      "wrongAnswers": [
+        "A wave spreading around obstacles or through gaps",
+        "A reflected sound heard after the original",
+        "How often wave cycles pass a point"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Refraction\" mean?",
+      "correctAnswer": "A wave changing direction as speed changes in a new medium",
+      "wrongAnswers": [
+        "Overlapping waves combining their effects",
+        "Sound with frequency above human hearing range",
+        "The time for one complete wave cycle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Diffraction\" mean?",
+      "correctAnswer": "A wave spreading around obstacles or through gaps",
+      "wrongAnswers": [
+        "Large vibration caused by matching a natural frequency",
+        "A disturbance that transfers energy through space or a medium",
+        "The highest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Interference\" mean?",
+      "correctAnswer": "Overlapping waves combining their effects",
+      "wrongAnswers": [
+        "The perceived highness or lowness of a sound",
+        "The maximum displacement from a wave's resting position",
+        "The lowest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Resonance\" mean?",
+      "correctAnswer": "Large vibration caused by matching a natural frequency",
+      "wrongAnswers": [
+        "The perceived strength of a sound",
+        "The distance between matching points on neighboring waves",
+        "A wave where particles vibrate parallel to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Pitch\" mean?",
+      "correctAnswer": "The perceived highness or lowness of a sound",
+      "wrongAnswers": [
+        "A reflected sound heard after the original",
+        "How often wave cycles pass a point",
+        "A wave where particles vibrate perpendicular to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Loudness\" mean?",
+      "correctAnswer": "The perceived strength of a sound",
+      "wrongAnswers": [
+        "Sound with frequency above human hearing range",
+        "The time for one complete wave cycle",
+        "A crowded region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Echo\" mean?",
+      "correctAnswer": "A reflected sound heard after the original",
+      "wrongAnswers": [
+        "A disturbance that transfers energy through space or a medium",
+        "The highest point of a transverse wave",
+        "A spread-out region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, what does \"Ultrasound\" mean?",
+      "correctAnswer": "Sound with frequency above human hearing range",
+      "wrongAnswers": [
+        "The maximum displacement from a wave's resting position",
+        "The lowest point of a transverse wave",
+        "A wave bouncing from a boundary"
+      ],
+      "timeout": 15
+    }
+  ]
+}

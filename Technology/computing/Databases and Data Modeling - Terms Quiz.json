@@ -1,0 +1,205 @@
+{
+  "title": "Databases and Data Modeling Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Databases and Data Modeling, which term means: One record in a database table?",
+      "correctAnswer": "Row",
+      "wrongAnswers": [
+        "Foreign key",
+        "WHERE clause",
+        "Normalization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A named field stored for each row?",
+      "correctAnswer": "Column",
+      "wrongAnswers": [
+        "Index",
+        "Transaction",
+        "Denormalization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A value that uniquely identifies a row?",
+      "correctAnswer": "Primary key",
+      "wrongAnswers": [
+        "Query",
+        "Rollback",
+        "Document database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A value that references a row in another table?",
+      "correctAnswer": "Foreign key",
+      "wrongAnswers": [
+        "SELECT",
+        "Commit",
+        "Graph database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A structure that speeds up data lookup?",
+      "correctAnswer": "Index",
+      "wrongAnswers": [
+        "JOIN",
+        "Schema",
+        "Migration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A request for data or data changes?",
+      "correctAnswer": "Query",
+      "wrongAnswers": [
+        "WHERE clause",
+        "Normalization",
+        "Query plan"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A SQL command used to retrieve data?",
+      "correctAnswer": "SELECT",
+      "wrongAnswers": [
+        "Transaction",
+        "Denormalization",
+        "Table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A SQL operation that combines related rows?",
+      "correctAnswer": "JOIN",
+      "wrongAnswers": [
+        "Rollback",
+        "Document database",
+        "Row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A SQL clause that filters rows?",
+      "correctAnswer": "WHERE clause",
+      "wrongAnswers": [
+        "Commit",
+        "Graph database",
+        "Column"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A group of database operations treated as one unit?",
+      "correctAnswer": "Transaction",
+      "wrongAnswers": [
+        "Schema",
+        "Migration",
+        "Primary key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: Undoing changes from an unfinished transaction?",
+      "correctAnswer": "Rollback",
+      "wrongAnswers": [
+        "Normalization",
+        "Query plan",
+        "Foreign key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: Making transaction changes permanent?",
+      "correctAnswer": "Commit",
+      "wrongAnswers": [
+        "Denormalization",
+        "Table",
+        "Index"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: The defined structure of database objects?",
+      "correctAnswer": "Schema",
+      "wrongAnswers": [
+        "Document database",
+        "Row",
+        "Query"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: Organizing data to reduce redundancy and inconsistency?",
+      "correctAnswer": "Normalization",
+      "wrongAnswers": [
+        "Graph database",
+        "Column",
+        "SELECT"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: Adding controlled redundancy to improve access patterns?",
+      "correctAnswer": "Denormalization",
+      "wrongAnswers": [
+        "Migration",
+        "Primary key",
+        "JOIN"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A database that stores records as flexible documents?",
+      "correctAnswer": "Document database",
+      "wrongAnswers": [
+        "Query plan",
+        "Foreign key",
+        "WHERE clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A database that models entities and relationships as nodes and edges?",
+      "correctAnswer": "Graph database",
+      "wrongAnswers": [
+        "Table",
+        "Index",
+        "Transaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A controlled change to database structure or data?",
+      "correctAnswer": "Migration",
+      "wrongAnswers": [
+        "Row",
+        "Query",
+        "Rollback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: The strategy a database uses to execute a query?",
+      "correctAnswer": "Query plan",
+      "wrongAnswers": [
+        "Column",
+        "SELECT",
+        "Commit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Databases and Data Modeling, which term means: A collection of rows and columns in a relational database?",
+      "correctAnswer": "Table",
+      "wrongAnswers": [
+        "Primary key",
+        "JOIN",
+        "Schema"
+      ],
+      "timeout": 15
+    }
+  ]
+}

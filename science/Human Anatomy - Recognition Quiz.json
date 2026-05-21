@@ -1,0 +1,205 @@
+{
+  "title": "Human Anatomy Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Spinal cord\" is correct?",
+      "correctAnswer": "Spinal cord: A nerve pathway connecting the brain with the body",
+      "wrongAnswers": [
+        "Kidney: An organ that filters blood and helps regulate body fluids",
+        "Capillary: A tiny blood vessel where exchange with tissues occurs",
+        "Red blood cell: A cell that transports oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stomach\" is correct?",
+      "correctAnswer": "Stomach: An organ that begins major chemical digestion of food",
+      "wrongAnswers": [
+        "Pancreas: An organ that produces digestive enzymes and hormones",
+        "Diaphragm: A muscle that helps draw air into the lungs",
+        "White blood cell: A cell involved in immune defense"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Small intestine\" is correct?",
+      "correctAnswer": "Small intestine: The organ where most nutrient absorption occurs",
+      "wrongAnswers": [
+        "Neuron: A nerve cell that carries signals",
+        "Tendon: Tissue that connects muscle to bone",
+        "Heart: A muscular organ that pumps blood through the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Large intestine\" is correct?",
+      "correctAnswer": "Large intestine: The organ that absorbs water from digestive waste",
+      "wrongAnswers": [
+        "Artery: A blood vessel that carries blood away from the heart",
+        "Ligament: Tissue that connects bone to bone",
+        "Lung: An organ that exchanges oxygen and carbon dioxide"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Liver\" is correct?",
+      "correctAnswer": "Liver: An organ that processes nutrients and detoxifies chemicals",
+      "wrongAnswers": [
+        "Vein: A blood vessel that carries blood toward the heart",
+        "Cartilage: Flexible connective tissue that cushions joints",
+        "Brain: The organ that coordinates thought, sensation, and body control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Kidney\" is correct?",
+      "correctAnswer": "Kidney: An organ that filters blood and helps regulate body fluids",
+      "wrongAnswers": [
+        "Capillary: A tiny blood vessel where exchange with tissues occurs",
+        "Red blood cell: A cell that transports oxygen",
+        "Spinal cord: A nerve pathway connecting the brain with the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pancreas\" is correct?",
+      "correctAnswer": "Pancreas: An organ that produces digestive enzymes and hormones",
+      "wrongAnswers": [
+        "Diaphragm: A muscle that helps draw air into the lungs",
+        "White blood cell: A cell involved in immune defense",
+        "Stomach: An organ that begins major chemical digestion of food"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Neuron\" is correct?",
+      "correctAnswer": "Neuron: A nerve cell that carries signals",
+      "wrongAnswers": [
+        "Tendon: Tissue that connects muscle to bone",
+        "Heart: A muscular organ that pumps blood through the body",
+        "Small intestine: The organ where most nutrient absorption occurs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Artery\" is correct?",
+      "correctAnswer": "Artery: A blood vessel that carries blood away from the heart",
+      "wrongAnswers": [
+        "Ligament: Tissue that connects bone to bone",
+        "Lung: An organ that exchanges oxygen and carbon dioxide",
+        "Large intestine: The organ that absorbs water from digestive waste"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vein\" is correct?",
+      "correctAnswer": "Vein: A blood vessel that carries blood toward the heart",
+      "wrongAnswers": [
+        "Cartilage: Flexible connective tissue that cushions joints",
+        "Brain: The organ that coordinates thought, sensation, and body control",
+        "Liver: An organ that processes nutrients and detoxifies chemicals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Capillary\" is correct?",
+      "correctAnswer": "Capillary: A tiny blood vessel where exchange with tissues occurs",
+      "wrongAnswers": [
+        "Red blood cell: A cell that transports oxygen",
+        "Spinal cord: A nerve pathway connecting the brain with the body",
+        "Kidney: An organ that filters blood and helps regulate body fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Diaphragm\" is correct?",
+      "correctAnswer": "Diaphragm: A muscle that helps draw air into the lungs",
+      "wrongAnswers": [
+        "White blood cell: A cell involved in immune defense",
+        "Stomach: An organ that begins major chemical digestion of food",
+        "Pancreas: An organ that produces digestive enzymes and hormones"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tendon\" is correct?",
+      "correctAnswer": "Tendon: Tissue that connects muscle to bone",
+      "wrongAnswers": [
+        "Heart: A muscular organ that pumps blood through the body",
+        "Small intestine: The organ where most nutrient absorption occurs",
+        "Neuron: A nerve cell that carries signals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ligament\" is correct?",
+      "correctAnswer": "Ligament: Tissue that connects bone to bone",
+      "wrongAnswers": [
+        "Lung: An organ that exchanges oxygen and carbon dioxide",
+        "Large intestine: The organ that absorbs water from digestive waste",
+        "Artery: A blood vessel that carries blood away from the heart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cartilage\" is correct?",
+      "correctAnswer": "Cartilage: Flexible connective tissue that cushions joints",
+      "wrongAnswers": [
+        "Brain: The organ that coordinates thought, sensation, and body control",
+        "Liver: An organ that processes nutrients and detoxifies chemicals",
+        "Vein: A blood vessel that carries blood toward the heart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Red blood cell\" is correct?",
+      "correctAnswer": "Red blood cell: A cell that transports oxygen",
+      "wrongAnswers": [
+        "Spinal cord: A nerve pathway connecting the brain with the body",
+        "Kidney: An organ that filters blood and helps regulate body fluids",
+        "Capillary: A tiny blood vessel where exchange with tissues occurs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"White blood cell\" is correct?",
+      "correctAnswer": "White blood cell: A cell involved in immune defense",
+      "wrongAnswers": [
+        "Stomach: An organ that begins major chemical digestion of food",
+        "Pancreas: An organ that produces digestive enzymes and hormones",
+        "Diaphragm: A muscle that helps draw air into the lungs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Heart\" is correct?",
+      "correctAnswer": "Heart: A muscular organ that pumps blood through the body",
+      "wrongAnswers": [
+        "Small intestine: The organ where most nutrient absorption occurs",
+        "Neuron: A nerve cell that carries signals",
+        "Tendon: Tissue that connects muscle to bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lung\" is correct?",
+      "correctAnswer": "Lung: An organ that exchanges oxygen and carbon dioxide",
+      "wrongAnswers": [
+        "Large intestine: The organ that absorbs water from digestive waste",
+        "Artery: A blood vessel that carries blood away from the heart",
+        "Ligament: Tissue that connects bone to bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Brain\" is correct?",
+      "correctAnswer": "Brain: The organ that coordinates thought, sensation, and body control",
+      "wrongAnswers": [
+        "Liver: An organ that processes nutrients and detoxifies chemicals",
+        "Vein: A blood vessel that carries blood toward the heart",
+        "Cartilage: Flexible connective tissue that cushions joints"
+      ],
+      "timeout": 15
+    }
+  ]
+}

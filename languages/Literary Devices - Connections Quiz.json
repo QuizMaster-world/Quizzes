@@ -1,0 +1,205 @@
+{
+  "title": "Literary Devices Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Literary Devices concept is described by this clue: Giving human qualities to non-human things?",
+      "correctAnswer": "Personification",
+      "wrongAnswers": [
+        "Imagery",
+        "Motif",
+        "Oxymoron"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Repeating initial consonant sounds?",
+      "correctAnswer": "Alliteration",
+      "wrongAnswers": [
+        "Symbolism",
+        "Theme",
+        "Paradox"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Repeating vowel sounds within nearby words?",
+      "correctAnswer": "Assonance",
+      "wrongAnswers": [
+        "Irony",
+        "Tone",
+        "Allegory"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A word that imitates a sound?",
+      "correctAnswer": "Onomatopoeia",
+      "wrongAnswers": [
+        "Foreshadowing",
+        "Mood",
+        "Allusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Language that appeals to the senses?",
+      "correctAnswer": "Imagery",
+      "wrongAnswers": [
+        "Flashback",
+        "Hyperbole",
+        "Metaphor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Using an object or action to represent a larger idea?",
+      "correctAnswer": "Symbolism",
+      "wrongAnswers": [
+        "Motif",
+        "Oxymoron",
+        "Simile"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A contrast between expectation and reality?",
+      "correctAnswer": "Irony",
+      "wrongAnswers": [
+        "Theme",
+        "Paradox",
+        "Personification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Hints about events that will happen later?",
+      "correctAnswer": "Foreshadowing",
+      "wrongAnswers": [
+        "Tone",
+        "Allegory",
+        "Alliteration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A scene that shows an earlier time?",
+      "correctAnswer": "Flashback",
+      "wrongAnswers": [
+        "Mood",
+        "Allusion",
+        "Assonance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A repeated element with thematic importance?",
+      "correctAnswer": "Motif",
+      "wrongAnswers": [
+        "Hyperbole",
+        "Metaphor",
+        "Onomatopoeia"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A central idea explored by a text?",
+      "correctAnswer": "Theme",
+      "wrongAnswers": [
+        "Oxymoron",
+        "Simile",
+        "Imagery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: The writer's attitude toward the subject?",
+      "correctAnswer": "Tone",
+      "wrongAnswers": [
+        "Paradox",
+        "Personification",
+        "Symbolism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: The emotional atmosphere felt by the reader?",
+      "correctAnswer": "Mood",
+      "wrongAnswers": [
+        "Allegory",
+        "Alliteration",
+        "Irony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: Deliberate exaggeration for effect?",
+      "correctAnswer": "Hyperbole",
+      "wrongAnswers": [
+        "Allusion",
+        "Assonance",
+        "Foreshadowing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A phrase that combines contradictory terms?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": [
+        "Metaphor",
+        "Onomatopoeia",
+        "Flashback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A statement that seems contradictory but reveals truth?",
+      "correctAnswer": "Paradox",
+      "wrongAnswers": [
+        "Simile",
+        "Imagery",
+        "Motif"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A story with a second symbolic meaning?",
+      "correctAnswer": "Allegory",
+      "wrongAnswers": [
+        "Personification",
+        "Symbolism",
+        "Theme"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A reference to another text, event, or idea?",
+      "correctAnswer": "Allusion",
+      "wrongAnswers": [
+        "Alliteration",
+        "Irony",
+        "Tone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A comparison that says one thing is another?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": [
+        "Assonance",
+        "Foreshadowing",
+        "Mood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Literary Devices concept is described by this clue: A comparison using like or as?",
+      "correctAnswer": "Simile",
+      "wrongAnswers": [
+        "Onomatopoeia",
+        "Flashback",
+        "Hyperbole"
+      ],
+      "timeout": 15
+    }
+  ]
+}

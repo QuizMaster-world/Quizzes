@@ -1,0 +1,205 @@
+{
+  "title": "Creative Writing Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Creative Writing concept is described by this clue: The struggle that creates story tension?",
+      "correctAnswer": "Conflict",
+      "wrongAnswers": [
+        "Third person limited",
+        "Exposition",
+        "Character arc"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The time and place of a story?",
+      "correctAnswer": "Setting",
+      "wrongAnswers": [
+        "Third person omniscient",
+        "Rising action",
+        "Voice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The perspective from which a story is told?",
+      "correctAnswer": "Point of view",
+      "wrongAnswers": [
+        "Dialogue",
+        "Climax",
+        "Subtext"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Narration using a character's I perspective?",
+      "correctAnswer": "First person",
+      "wrongAnswers": [
+        "Pacing",
+        "Falling action",
+        "Revision"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Narration focused on one character's thoughts?",
+      "correctAnswer": "Third person limited",
+      "wrongAnswers": [
+        "Scene",
+        "Resolution",
+        "Protagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Narration that can reveal many characters' thoughts?",
+      "correctAnswer": "Third person omniscient",
+      "wrongAnswers": [
+        "Exposition",
+        "Character arc",
+        "Antagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Spoken conversation between characters?",
+      "correctAnswer": "Dialogue",
+      "wrongAnswers": [
+        "Rising action",
+        "Voice",
+        "Conflict"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The speed at which a story moves?",
+      "correctAnswer": "Pacing",
+      "wrongAnswers": [
+        "Climax",
+        "Subtext",
+        "Setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: A unit of story action in a specific time and place?",
+      "correctAnswer": "Scene",
+      "wrongAnswers": [
+        "Falling action",
+        "Revision",
+        "Point of view"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Information that introduces background and context?",
+      "correctAnswer": "Exposition",
+      "wrongAnswers": [
+        "Resolution",
+        "Protagonist",
+        "First person"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Events that build tension toward the climax?",
+      "correctAnswer": "Rising action",
+      "wrongAnswers": [
+        "Character arc",
+        "Antagonist",
+        "Third person limited"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The turning point of highest tension?",
+      "correctAnswer": "Climax",
+      "wrongAnswers": [
+        "Voice",
+        "Conflict",
+        "Third person omniscient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Events after the climax leading toward resolution?",
+      "correctAnswer": "Falling action",
+      "wrongAnswers": [
+        "Subtext",
+        "Setting",
+        "Dialogue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The part where major story questions are settled?",
+      "correctAnswer": "Resolution",
+      "wrongAnswers": [
+        "Revision",
+        "Point of view",
+        "Pacing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: A character's internal change through a story?",
+      "correctAnswer": "Character arc",
+      "wrongAnswers": [
+        "Protagonist",
+        "First person",
+        "Scene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The distinctive style or personality of narration?",
+      "correctAnswer": "Voice",
+      "wrongAnswers": [
+        "Antagonist",
+        "Third person limited",
+        "Exposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Meaning implied beneath spoken or written words?",
+      "correctAnswer": "Subtext",
+      "wrongAnswers": [
+        "Conflict",
+        "Third person omniscient",
+        "Rising action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: Reworking a draft to improve meaning, structure, and style?",
+      "correctAnswer": "Revision",
+      "wrongAnswers": [
+        "Setting",
+        "Dialogue",
+        "Climax"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: The central character who drives the story?",
+      "correctAnswer": "Protagonist",
+      "wrongAnswers": [
+        "Point of view",
+        "Pacing",
+        "Falling action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Creative Writing concept is described by this clue: A character or force opposing the protagonist?",
+      "correctAnswer": "Antagonist",
+      "wrongAnswers": [
+        "First person",
+        "Scene",
+        "Resolution"
+      ],
+      "timeout": 15
+    }
+  ]
+}

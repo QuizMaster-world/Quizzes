@@ -1,0 +1,205 @@
+{
+  "title": "First Aid Basics Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"AED\" in First Aid Basics.",
+      "correctAnswer": "A device that can deliver a shock to restart a normal heart rhythm",
+      "wrongAnswers": [
+        "A dangerous condition where organs do not get enough blood flow",
+        "Professional responders contacted during serious incidents",
+        "Immediate help given to someone who is ill or injured"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Bleeding control\" in First Aid Basics.",
+      "correctAnswer": "Actions used to slow or stop blood loss",
+      "wrongAnswers": [
+        "Airway blockage that prevents normal breathing",
+        "Permission from a conscious person before giving aid",
+        "A quick check for life-threatening problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pressure bandage\" in First Aid Basics.",
+      "correctAnswer": "A bandage that applies pressure to a wound",
+      "wrongAnswers": [
+        "An immune response that can range from mild to severe",
+        "Checking that it is safe to approach and help",
+        "A side-lying position used for an unconscious breathing person"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Burn cooling\" in First Aid Basics.",
+      "correctAnswer": "Using cool running water to reduce burn injury",
+      "wrongAnswers": [
+        "A device used for severe allergic reactions",
+        "Steps used to reduce contact with bodily fluids",
+        "Chest compressions and rescue breaths used during cardiac arrest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sprain\" in First Aid Basics.",
+      "correctAnswer": "An injury to ligaments around a joint",
+      "wrongAnswers": [
+        "Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "A record of what happened and what aid was given",
+        "A device that can deliver a shock to restart a normal heart rhythm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fracture\" in First Aid Basics.",
+      "correctAnswer": "A break or crack in a bone",
+      "wrongAnswers": [
+        "Professional responders contacted during serious incidents",
+        "Immediate help given to someone who is ill or injured",
+        "Actions used to slow or stop blood loss"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Shock\" in First Aid Basics.",
+      "correctAnswer": "A dangerous condition where organs do not get enough blood flow",
+      "wrongAnswers": [
+        "Permission from a conscious person before giving aid",
+        "A quick check for life-threatening problems",
+        "A bandage that applies pressure to a wound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Choking\" in First Aid Basics.",
+      "correctAnswer": "Airway blockage that prevents normal breathing",
+      "wrongAnswers": [
+        "Checking that it is safe to approach and help",
+        "A side-lying position used for an unconscious breathing person",
+        "Using cool running water to reduce burn injury"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Allergic reaction\" in First Aid Basics.",
+      "correctAnswer": "An immune response that can range from mild to severe",
+      "wrongAnswers": [
+        "Steps used to reduce contact with bodily fluids",
+        "Chest compressions and rescue breaths used during cardiac arrest",
+        "An injury to ligaments around a joint"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Epinephrine auto-injector\" in First Aid Basics.",
+      "correctAnswer": "A device used for severe allergic reactions",
+      "wrongAnswers": [
+        "A record of what happened and what aid was given",
+        "A device that can deliver a shock to restart a normal heart rhythm",
+        "A break or crack in a bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Poisoning\" in First Aid Basics.",
+      "correctAnswer": "Harm caused by swallowing, inhaling, or touching a toxic substance",
+      "wrongAnswers": [
+        "Immediate help given to someone who is ill or injured",
+        "Actions used to slow or stop blood loss",
+        "A dangerous condition where organs do not get enough blood flow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Emergency services\" in First Aid Basics.",
+      "correctAnswer": "Professional responders contacted during serious incidents",
+      "wrongAnswers": [
+        "A quick check for life-threatening problems",
+        "A bandage that applies pressure to a wound",
+        "Airway blockage that prevents normal breathing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Consent\" in First Aid Basics.",
+      "correctAnswer": "Permission from a conscious person before giving aid",
+      "wrongAnswers": [
+        "A side-lying position used for an unconscious breathing person",
+        "Using cool running water to reduce burn injury",
+        "An immune response that can range from mild to severe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Scene safety\" in First Aid Basics.",
+      "correctAnswer": "Checking that it is safe to approach and help",
+      "wrongAnswers": [
+        "Chest compressions and rescue breaths used during cardiac arrest",
+        "An injury to ligaments around a joint",
+        "A device used for severe allergic reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Universal precautions\" in First Aid Basics.",
+      "correctAnswer": "Steps used to reduce contact with bodily fluids",
+      "wrongAnswers": [
+        "A device that can deliver a shock to restart a normal heart rhythm",
+        "A break or crack in a bone",
+        "Harm caused by swallowing, inhaling, or touching a toxic substance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Incident report\" in First Aid Basics.",
+      "correctAnswer": "A record of what happened and what aid was given",
+      "wrongAnswers": [
+        "Actions used to slow or stop blood loss",
+        "A dangerous condition where organs do not get enough blood flow",
+        "Professional responders contacted during serious incidents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"First aid\" in First Aid Basics.",
+      "correctAnswer": "Immediate help given to someone who is ill or injured",
+      "wrongAnswers": [
+        "A bandage that applies pressure to a wound",
+        "Airway blockage that prevents normal breathing",
+        "Permission from a conscious person before giving aid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Primary survey\" in First Aid Basics.",
+      "correctAnswer": "A quick check for life-threatening problems",
+      "wrongAnswers": [
+        "Using cool running water to reduce burn injury",
+        "An immune response that can range from mild to severe",
+        "Checking that it is safe to approach and help"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Recovery position\" in First Aid Basics.",
+      "correctAnswer": "A side-lying position used for an unconscious breathing person",
+      "wrongAnswers": [
+        "An injury to ligaments around a joint",
+        "A device used for severe allergic reactions",
+        "Steps used to reduce contact with bodily fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"CPR\" in First Aid Basics.",
+      "correctAnswer": "Chest compressions and rescue breaths used during cardiac arrest",
+      "wrongAnswers": [
+        "A break or crack in a bone",
+        "Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "A record of what happened and what aid was given"
+      ],
+      "timeout": 15
+    }
+  ]
+}

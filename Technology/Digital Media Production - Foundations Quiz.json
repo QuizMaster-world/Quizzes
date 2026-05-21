@@ -1,0 +1,205 @@
+{
+  "title": "Digital Media Production Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Digital Media Production, what does \"Resolution\" mean?",
+      "correctAnswer": "The detail of an image or video measured by pixel dimensions",
+      "wrongAnswers": [
+        "The proportional relationship between width and height",
+        "A direct transition from one shot to another",
+        "Software or method used to encode and decode media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Frame rate\" mean?",
+      "correctAnswer": "How many video frames are shown each second",
+      "wrongAnswers": [
+        "A sequence of drawings or panels planning visual scenes",
+        "A gradual transition to or from an image or sound",
+        "The amount of data used per second of media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Aspect ratio\" mean?",
+      "correctAnswer": "The proportional relationship between width and height",
+      "wrongAnswers": [
+        "A planned list of camera shots for production",
+        "Adjusting color and tone for style and consistency",
+        "The editing workspace where clips are arranged over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Storyboard\" mean?",
+      "correctAnswer": "A sequence of drawings or panels planning visual scenes",
+      "wrongAnswers": [
+        "Supplementary footage used to support the main footage",
+        "Adjusting color so whites appear neutral",
+        "A separate visual or audio element stacked with others"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Shot list\" mean?",
+      "correctAnswer": "A planned list of camera shots for production",
+      "wrongAnswers": [
+        "Narration recorded over visuals",
+        "Reducing media file size through encoding",
+        "A marker defining a property value at a point in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"B-roll\" mean?",
+      "correctAnswer": "Supplementary footage used to support the main footage",
+      "wrongAnswers": [
+        "A direct transition from one shot to another",
+        "Software or method used to encode and decode media",
+        "A shape used to hide or reveal part of a layer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Voice-over\" mean?",
+      "correctAnswer": "Narration recorded over visuals",
+      "wrongAnswers": [
+        "A gradual transition to or from an image or sound",
+        "The amount of data used per second of media",
+        "Rendering a finished media file from a project"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Cut\" mean?",
+      "correctAnswer": "A direct transition from one shot to another",
+      "wrongAnswers": [
+        "Adjusting color and tone for style and consistency",
+        "The editing workspace where clips are arranged over time",
+        "Legal protection for creative works"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Fade\" mean?",
+      "correctAnswer": "A gradual transition to or from an image or sound",
+      "wrongAnswers": [
+        "Adjusting color so whites appear neutral",
+        "A separate visual or audio element stacked with others",
+        "The detail of an image or video measured by pixel dimensions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Color grading\" mean?",
+      "correctAnswer": "Adjusting color and tone for style and consistency",
+      "wrongAnswers": [
+        "Reducing media file size through encoding",
+        "A marker defining a property value at a point in time",
+        "How many video frames are shown each second"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"White balance\" mean?",
+      "correctAnswer": "Adjusting color so whites appear neutral",
+      "wrongAnswers": [
+        "Software or method used to encode and decode media",
+        "A shape used to hide or reveal part of a layer",
+        "The proportional relationship between width and height"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Compression\" mean?",
+      "correctAnswer": "Reducing media file size through encoding",
+      "wrongAnswers": [
+        "The amount of data used per second of media",
+        "Rendering a finished media file from a project",
+        "A sequence of drawings or panels planning visual scenes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Codec\" mean?",
+      "correctAnswer": "Software or method used to encode and decode media",
+      "wrongAnswers": [
+        "The editing workspace where clips are arranged over time",
+        "Legal protection for creative works",
+        "A planned list of camera shots for production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Bitrate\" mean?",
+      "correctAnswer": "The amount of data used per second of media",
+      "wrongAnswers": [
+        "A separate visual or audio element stacked with others",
+        "The detail of an image or video measured by pixel dimensions",
+        "Supplementary footage used to support the main footage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Timeline\" mean?",
+      "correctAnswer": "The editing workspace where clips are arranged over time",
+      "wrongAnswers": [
+        "A marker defining a property value at a point in time",
+        "How many video frames are shown each second",
+        "Narration recorded over visuals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Layer\" mean?",
+      "correctAnswer": "A separate visual or audio element stacked with others",
+      "wrongAnswers": [
+        "A shape used to hide or reveal part of a layer",
+        "The proportional relationship between width and height",
+        "A direct transition from one shot to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Keyframe\" mean?",
+      "correctAnswer": "A marker defining a property value at a point in time",
+      "wrongAnswers": [
+        "Rendering a finished media file from a project",
+        "A sequence of drawings or panels planning visual scenes",
+        "A gradual transition to or from an image or sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Mask\" mean?",
+      "correctAnswer": "A shape used to hide or reveal part of a layer",
+      "wrongAnswers": [
+        "Legal protection for creative works",
+        "A planned list of camera shots for production",
+        "Adjusting color and tone for style and consistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Export\" mean?",
+      "correctAnswer": "Rendering a finished media file from a project",
+      "wrongAnswers": [
+        "The detail of an image or video measured by pixel dimensions",
+        "Supplementary footage used to support the main footage",
+        "Adjusting color so whites appear neutral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Digital Media Production, what does \"Copyright\" mean?",
+      "correctAnswer": "Legal protection for creative works",
+      "wrongAnswers": [
+        "How many video frames are shown each second",
+        "Narration recorded over visuals",
+        "Reducing media file size through encoding"
+      ],
+      "timeout": 15
+    }
+  ]
+}

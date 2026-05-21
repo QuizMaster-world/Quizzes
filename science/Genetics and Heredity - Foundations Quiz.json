@@ -1,0 +1,205 @@
+{
+  "title": "Genetics and Heredity Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Genetics and Heredity, what does \"DNA\" mean?",
+      "correctAnswer": "A molecule that stores hereditary instructions",
+      "wrongAnswers": [
+        "A long DNA structure containing many genes",
+        "An allele expressed when two copies are present",
+        "Copying DNA information into RNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Gene\" mean?",
+      "correctAnswer": "A DNA segment that influences a trait or product",
+      "wrongAnswers": [
+        "A version of a gene",
+        "Having two matching alleles for a gene",
+        "Building a protein using RNA instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Chromosome\" mean?",
+      "correctAnswer": "A long DNA structure containing many genes",
+      "wrongAnswers": [
+        "The genetic makeup for a trait",
+        "Having two different alleles for a gene",
+        "RNA that carries genetic instructions from DNA to ribosomes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Allele\" mean?",
+      "correctAnswer": "A version of a gene",
+      "wrongAnswers": [
+        "The observable expression of a trait",
+        "A change in DNA sequence",
+        "A diagram used to predict possible inherited traits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Genotype\" mean?",
+      "correctAnswer": "The genetic makeup for a trait",
+      "wrongAnswers": [
+        "An allele expressed when one copy is present",
+        "The process of making proteins from genetic instructions",
+        "An individual who has one recessive disease allele without showing the trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Phenotype\" mean?",
+      "correctAnswer": "The observable expression of a trait",
+      "wrongAnswers": [
+        "An allele expressed when two copies are present",
+        "Copying DNA information into RNA",
+        "A three-base RNA sequence that specifies an amino acid or stop signal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Dominant allele\" mean?",
+      "correctAnswer": "An allele expressed when one copy is present",
+      "wrongAnswers": [
+        "Having two matching alleles for a gene",
+        "Building a protein using RNA instructions",
+        "All genetic material in an organism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Recessive allele\" mean?",
+      "correctAnswer": "An allele expressed when two copies are present",
+      "wrongAnswers": [
+        "Having two different alleles for a gene",
+        "RNA that carries genetic instructions from DNA to ribosomes",
+        "Differences in DNA among individuals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Homozygous\" mean?",
+      "correctAnswer": "Having two matching alleles for a gene",
+      "wrongAnswers": [
+        "A change in DNA sequence",
+        "A diagram used to predict possible inherited traits",
+        "A molecule that stores hereditary instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Heterozygous\" mean?",
+      "correctAnswer": "Having two different alleles for a gene",
+      "wrongAnswers": [
+        "The process of making proteins from genetic instructions",
+        "An individual who has one recessive disease allele without showing the trait",
+        "A DNA segment that influences a trait or product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Mutation\" mean?",
+      "correctAnswer": "A change in DNA sequence",
+      "wrongAnswers": [
+        "Copying DNA information into RNA",
+        "A three-base RNA sequence that specifies an amino acid or stop signal",
+        "A long DNA structure containing many genes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Protein synthesis\" mean?",
+      "correctAnswer": "The process of making proteins from genetic instructions",
+      "wrongAnswers": [
+        "Building a protein using RNA instructions",
+        "All genetic material in an organism",
+        "A version of a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Transcription\" mean?",
+      "correctAnswer": "Copying DNA information into RNA",
+      "wrongAnswers": [
+        "RNA that carries genetic instructions from DNA to ribosomes",
+        "Differences in DNA among individuals",
+        "The genetic makeup for a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Translation\" mean?",
+      "correctAnswer": "Building a protein using RNA instructions",
+      "wrongAnswers": [
+        "A diagram used to predict possible inherited traits",
+        "A molecule that stores hereditary instructions",
+        "The observable expression of a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Messenger RNA\" mean?",
+      "correctAnswer": "RNA that carries genetic instructions from DNA to ribosomes",
+      "wrongAnswers": [
+        "An individual who has one recessive disease allele without showing the trait",
+        "A DNA segment that influences a trait or product",
+        "An allele expressed when one copy is present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Punnett square\" mean?",
+      "correctAnswer": "A diagram used to predict possible inherited traits",
+      "wrongAnswers": [
+        "A three-base RNA sequence that specifies an amino acid or stop signal",
+        "A long DNA structure containing many genes",
+        "An allele expressed when two copies are present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Carrier\" mean?",
+      "correctAnswer": "An individual who has one recessive disease allele without showing the trait",
+      "wrongAnswers": [
+        "All genetic material in an organism",
+        "A version of a gene",
+        "Having two matching alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Codon\" mean?",
+      "correctAnswer": "A three-base RNA sequence that specifies an amino acid or stop signal",
+      "wrongAnswers": [
+        "Differences in DNA among individuals",
+        "The genetic makeup for a trait",
+        "Having two different alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Genome\" mean?",
+      "correctAnswer": "All genetic material in an organism",
+      "wrongAnswers": [
+        "A molecule that stores hereditary instructions",
+        "The observable expression of a trait",
+        "A change in DNA sequence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, what does \"Genetic variation\" mean?",
+      "correctAnswer": "Differences in DNA among individuals",
+      "wrongAnswers": [
+        "A DNA segment that influences a trait or product",
+        "An allele expressed when one copy is present",
+        "The process of making proteins from genetic instructions"
+      ],
+      "timeout": 15
+    }
+  ]
+}

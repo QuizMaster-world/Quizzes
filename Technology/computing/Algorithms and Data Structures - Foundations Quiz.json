@@ -1,0 +1,205 @@
+{
+  "title": "Algorithms and Data Structures Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Algorithms and Data Structures, what does \"Array\" mean?",
+      "correctAnswer": "A sequence of values stored so each item can be accessed by position",
+      "wrongAnswers": [
+        "A collection where the most recently added item is removed first",
+        "A set of vertices connected by edges",
+        "A sorting method that partitions data around a pivot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Linked list\" mean?",
+      "correctAnswer": "A chain of nodes where each node points to another node",
+      "wrongAnswers": [
+        "A collection where the earliest added item is removed first",
+        "A graph search that explores one path deeply before backtracking",
+        "A method that reuses solutions to overlapping subproblems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Stack\" mean?",
+      "correctAnswer": "A collection where the most recently added item is removed first",
+      "wrongAnswers": [
+        "A structure that maps keys to buckets for fast lookup",
+        "A graph search that explores nearby vertices before moving farther away",
+        "A method that chooses the best immediate option at each step"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Queue\" mean?",
+      "correctAnswer": "A collection where the earliest added item is removed first",
+      "wrongAnswers": [
+        "A tree where each node has at most two children",
+        "A search method that repeatedly narrows a sorted range",
+        "A method that tries choices and abandons paths that cannot succeed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Hash table\" mean?",
+      "correctAnswer": "A structure that maps keys to buckets for fast lookup",
+      "wrongAnswers": [
+        "A tree-based structure that keeps the highest or lowest priority item easy to remove",
+        "A sorting method that sorts smaller parts and combines them",
+        "Storing function results so repeated calls can be answered quickly"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Binary tree\" mean?",
+      "correctAnswer": "A tree where each node has at most two children",
+      "wrongAnswers": [
+        "A set of vertices connected by edges",
+        "A sorting method that partitions data around a pivot",
+        "A way to describe how resource use grows with input size"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Heap\" mean?",
+      "correctAnswer": "A tree-based structure that keeps the highest or lowest priority item easy to remove",
+      "wrongAnswers": [
+        "A graph search that explores one path deeply before backtracking",
+        "A method that reuses solutions to overlapping subproblems",
+        "A sort that keeps equal items in their original relative order"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Graph\" mean?",
+      "correctAnswer": "A set of vertices connected by edges",
+      "wrongAnswers": [
+        "A graph search that explores nearby vertices before moving farther away",
+        "A method that chooses the best immediate option at each step",
+        "An ordering of dependent tasks so prerequisites come first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Depth-first search\" mean?",
+      "correctAnswer": "A graph search that explores one path deeply before backtracking",
+      "wrongAnswers": [
+        "A search method that repeatedly narrows a sorted range",
+        "A method that tries choices and abandons paths that cannot succeed",
+        "A sequence of values stored so each item can be accessed by position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Breadth-first search\" mean?",
+      "correctAnswer": "A graph search that explores nearby vertices before moving farther away",
+      "wrongAnswers": [
+        "A sorting method that sorts smaller parts and combines them",
+        "Storing function results so repeated calls can be answered quickly",
+        "A chain of nodes where each node points to another node"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Binary search\" mean?",
+      "correctAnswer": "A search method that repeatedly narrows a sorted range",
+      "wrongAnswers": [
+        "A sorting method that partitions data around a pivot",
+        "A way to describe how resource use grows with input size",
+        "A collection where the most recently added item is removed first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Merge sort\" mean?",
+      "correctAnswer": "A sorting method that sorts smaller parts and combines them",
+      "wrongAnswers": [
+        "A method that reuses solutions to overlapping subproblems",
+        "A sort that keeps equal items in their original relative order",
+        "A collection where the earliest added item is removed first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Quick sort\" mean?",
+      "correctAnswer": "A sorting method that partitions data around a pivot",
+      "wrongAnswers": [
+        "A method that chooses the best immediate option at each step",
+        "An ordering of dependent tasks so prerequisites come first",
+        "A structure that maps keys to buckets for fast lookup"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Dynamic programming\" mean?",
+      "correctAnswer": "A method that reuses solutions to overlapping subproblems",
+      "wrongAnswers": [
+        "A method that tries choices and abandons paths that cannot succeed",
+        "A sequence of values stored so each item can be accessed by position",
+        "A tree where each node has at most two children"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Greedy algorithm\" mean?",
+      "correctAnswer": "A method that chooses the best immediate option at each step",
+      "wrongAnswers": [
+        "Storing function results so repeated calls can be answered quickly",
+        "A chain of nodes where each node points to another node",
+        "A tree-based structure that keeps the highest or lowest priority item easy to remove"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Backtracking\" mean?",
+      "correctAnswer": "A method that tries choices and abandons paths that cannot succeed",
+      "wrongAnswers": [
+        "A way to describe how resource use grows with input size",
+        "A collection where the most recently added item is removed first",
+        "A set of vertices connected by edges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Memoization\" mean?",
+      "correctAnswer": "Storing function results so repeated calls can be answered quickly",
+      "wrongAnswers": [
+        "A sort that keeps equal items in their original relative order",
+        "A collection where the earliest added item is removed first",
+        "A graph search that explores one path deeply before backtracking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Big O notation\" mean?",
+      "correctAnswer": "A way to describe how resource use grows with input size",
+      "wrongAnswers": [
+        "An ordering of dependent tasks so prerequisites come first",
+        "A structure that maps keys to buckets for fast lookup",
+        "A graph search that explores nearby vertices before moving farther away"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Stable sort\" mean?",
+      "correctAnswer": "A sort that keeps equal items in their original relative order",
+      "wrongAnswers": [
+        "A sequence of values stored so each item can be accessed by position",
+        "A tree where each node has at most two children",
+        "A search method that repeatedly narrows a sorted range"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Algorithms and Data Structures, what does \"Topological sort\" mean?",
+      "correctAnswer": "An ordering of dependent tasks so prerequisites come first",
+      "wrongAnswers": [
+        "A chain of nodes where each node points to another node",
+        "A tree-based structure that keeps the highest or lowest priority item easy to remove",
+        "A sorting method that sorts smaller parts and combines them"
+      ],
+      "timeout": 15
+    }
+  ]
+}

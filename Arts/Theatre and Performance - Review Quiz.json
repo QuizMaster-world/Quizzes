@@ -1,0 +1,205 @@
+{
+  "title": "Theatre and Performance Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Blocking\" in Theatre and Performance.",
+      "correctAnswer": "Planned movement and positioning of actors",
+      "wrongAnswers": [
+        "Planning audio elements for a production",
+        "Choices that create a believable character",
+        "The written text of a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cue\" in Theatre and Performance.",
+      "correctAnswer": "A signal for an actor or technician to act",
+      "wrongAnswers": [
+        "The person guiding artistic choices in a production",
+        "Using voice so an audience can hear clearly",
+        "Words spoken by characters"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Prop\" in Theatre and Performance.",
+      "correctAnswer": "An object handled or used by performers",
+      "wrongAnswers": [
+        "The person coordinating rehearsals and live performance logistics",
+        "Performers working together as a group",
+        "An extended speech by one performer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Set\" in Theatre and Performance.",
+      "correctAnswer": "The physical environment built for a performance",
+      "wrongAnswers": [
+        "Practice time used to prepare a performance",
+        "A transition from one staged moment or setting to another",
+        "A script note describing action, movement, or setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Costume\" in Theatre and Performance.",
+      "correctAnswer": "Clothing worn by performers to support character and setting",
+      "wrongAnswers": [
+        "Creating performance material spontaneously",
+        "Performers returning to receive audience applause",
+        "Planned movement and positioning of actors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Lighting design\" in Theatre and Performance.",
+      "correctAnswer": "Planning light to shape visibility, mood, and focus",
+      "wrongAnswers": [
+        "Choices that create a believable character",
+        "The written text of a performance",
+        "A signal for an actor or technician to act"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sound design\" in Theatre and Performance.",
+      "correctAnswer": "Planning audio elements for a production",
+      "wrongAnswers": [
+        "Using voice so an audience can hear clearly",
+        "Words spoken by characters",
+        "An object handled or used by performers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Director\" in Theatre and Performance.",
+      "correctAnswer": "The person guiding artistic choices in a production",
+      "wrongAnswers": [
+        "Performers working together as a group",
+        "An extended speech by one performer",
+        "The physical environment built for a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Stage manager\" in Theatre and Performance.",
+      "correctAnswer": "The person coordinating rehearsals and live performance logistics",
+      "wrongAnswers": [
+        "A transition from one staged moment or setting to another",
+        "A script note describing action, movement, or setting",
+        "Clothing worn by performers to support character and setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rehearsal\" in Theatre and Performance.",
+      "correctAnswer": "Practice time used to prepare a performance",
+      "wrongAnswers": [
+        "Performers returning to receive audience applause",
+        "Planned movement and positioning of actors",
+        "Planning light to shape visibility, mood, and focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Improvisation\" in Theatre and Performance.",
+      "correctAnswer": "Creating performance material spontaneously",
+      "wrongAnswers": [
+        "The written text of a performance",
+        "A signal for an actor or technician to act",
+        "Planning audio elements for a production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Characterization\" in Theatre and Performance.",
+      "correctAnswer": "Choices that create a believable character",
+      "wrongAnswers": [
+        "Words spoken by characters",
+        "An object handled or used by performers",
+        "The person guiding artistic choices in a production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Projection\" in Theatre and Performance.",
+      "correctAnswer": "Using voice so an audience can hear clearly",
+      "wrongAnswers": [
+        "An extended speech by one performer",
+        "The physical environment built for a performance",
+        "The person coordinating rehearsals and live performance logistics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ensemble\" in Theatre and Performance.",
+      "correctAnswer": "Performers working together as a group",
+      "wrongAnswers": [
+        "A script note describing action, movement, or setting",
+        "Clothing worn by performers to support character and setting",
+        "Practice time used to prepare a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Scene change\" in Theatre and Performance.",
+      "correctAnswer": "A transition from one staged moment or setting to another",
+      "wrongAnswers": [
+        "Planned movement and positioning of actors",
+        "Planning light to shape visibility, mood, and focus",
+        "Creating performance material spontaneously"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Curtain call\" in Theatre and Performance.",
+      "correctAnswer": "Performers returning to receive audience applause",
+      "wrongAnswers": [
+        "A signal for an actor or technician to act",
+        "Planning audio elements for a production",
+        "Choices that create a believable character"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Script\" in Theatre and Performance.",
+      "correctAnswer": "The written text of a performance",
+      "wrongAnswers": [
+        "An object handled or used by performers",
+        "The person guiding artistic choices in a production",
+        "Using voice so an audience can hear clearly"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Dialogue\" in Theatre and Performance.",
+      "correctAnswer": "Words spoken by characters",
+      "wrongAnswers": [
+        "The physical environment built for a performance",
+        "The person coordinating rehearsals and live performance logistics",
+        "Performers working together as a group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Monologue\" in Theatre and Performance.",
+      "correctAnswer": "An extended speech by one performer",
+      "wrongAnswers": [
+        "Clothing worn by performers to support character and setting",
+        "Practice time used to prepare a performance",
+        "A transition from one staged moment or setting to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Stage direction\" in Theatre and Performance.",
+      "correctAnswer": "A script note describing action, movement, or setting",
+      "wrongAnswers": [
+        "Planning light to shape visibility, mood, and focus",
+        "Creating performance material spontaneously",
+        "Performers returning to receive audience applause"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Databases and Data Modeling Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Primary key\" is correct?",
+      "correctAnswer": "Primary key: A value that uniquely identifies a row",
+      "wrongAnswers": [
+        "JOIN: A SQL operation that combines related rows",
+        "Schema: The defined structure of database objects",
+        "Migration: A controlled change to database structure or data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Foreign key\" is correct?",
+      "correctAnswer": "Foreign key: A value that references a row in another table",
+      "wrongAnswers": [
+        "WHERE clause: A SQL clause that filters rows",
+        "Normalization: Organizing data to reduce redundancy and inconsistency",
+        "Query plan: The strategy a database uses to execute a query"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Index\" is correct?",
+      "correctAnswer": "Index: A structure that speeds up data lookup",
+      "wrongAnswers": [
+        "Transaction: A group of database operations treated as one unit",
+        "Denormalization: Adding controlled redundancy to improve access patterns",
+        "Table: A collection of rows and columns in a relational database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Query\" is correct?",
+      "correctAnswer": "Query: A request for data or data changes",
+      "wrongAnswers": [
+        "Rollback: Undoing changes from an unfinished transaction",
+        "Document database: A database that stores records as flexible documents",
+        "Row: One record in a database table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"SELECT\" is correct?",
+      "correctAnswer": "SELECT: A SQL command used to retrieve data",
+      "wrongAnswers": [
+        "Commit: Making transaction changes permanent",
+        "Graph database: A database that models entities and relationships as nodes and edges",
+        "Column: A named field stored for each row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"JOIN\" is correct?",
+      "correctAnswer": "JOIN: A SQL operation that combines related rows",
+      "wrongAnswers": [
+        "Schema: The defined structure of database objects",
+        "Migration: A controlled change to database structure or data",
+        "Primary key: A value that uniquely identifies a row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"WHERE clause\" is correct?",
+      "correctAnswer": "WHERE clause: A SQL clause that filters rows",
+      "wrongAnswers": [
+        "Normalization: Organizing data to reduce redundancy and inconsistency",
+        "Query plan: The strategy a database uses to execute a query",
+        "Foreign key: A value that references a row in another table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Transaction\" is correct?",
+      "correctAnswer": "Transaction: A group of database operations treated as one unit",
+      "wrongAnswers": [
+        "Denormalization: Adding controlled redundancy to improve access patterns",
+        "Table: A collection of rows and columns in a relational database",
+        "Index: A structure that speeds up data lookup"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rollback\" is correct?",
+      "correctAnswer": "Rollback: Undoing changes from an unfinished transaction",
+      "wrongAnswers": [
+        "Document database: A database that stores records as flexible documents",
+        "Row: One record in a database table",
+        "Query: A request for data or data changes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Commit\" is correct?",
+      "correctAnswer": "Commit: Making transaction changes permanent",
+      "wrongAnswers": [
+        "Graph database: A database that models entities and relationships as nodes and edges",
+        "Column: A named field stored for each row",
+        "SELECT: A SQL command used to retrieve data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Schema\" is correct?",
+      "correctAnswer": "Schema: The defined structure of database objects",
+      "wrongAnswers": [
+        "Migration: A controlled change to database structure or data",
+        "Primary key: A value that uniquely identifies a row",
+        "JOIN: A SQL operation that combines related rows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Normalization\" is correct?",
+      "correctAnswer": "Normalization: Organizing data to reduce redundancy and inconsistency",
+      "wrongAnswers": [
+        "Query plan: The strategy a database uses to execute a query",
+        "Foreign key: A value that references a row in another table",
+        "WHERE clause: A SQL clause that filters rows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Denormalization\" is correct?",
+      "correctAnswer": "Denormalization: Adding controlled redundancy to improve access patterns",
+      "wrongAnswers": [
+        "Table: A collection of rows and columns in a relational database",
+        "Index: A structure that speeds up data lookup",
+        "Transaction: A group of database operations treated as one unit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Document database\" is correct?",
+      "correctAnswer": "Document database: A database that stores records as flexible documents",
+      "wrongAnswers": [
+        "Row: One record in a database table",
+        "Query: A request for data or data changes",
+        "Rollback: Undoing changes from an unfinished transaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Graph database\" is correct?",
+      "correctAnswer": "Graph database: A database that models entities and relationships as nodes and edges",
+      "wrongAnswers": [
+        "Column: A named field stored for each row",
+        "SELECT: A SQL command used to retrieve data",
+        "Commit: Making transaction changes permanent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Migration\" is correct?",
+      "correctAnswer": "Migration: A controlled change to database structure or data",
+      "wrongAnswers": [
+        "Primary key: A value that uniquely identifies a row",
+        "JOIN: A SQL operation that combines related rows",
+        "Schema: The defined structure of database objects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Query plan\" is correct?",
+      "correctAnswer": "Query plan: The strategy a database uses to execute a query",
+      "wrongAnswers": [
+        "Foreign key: A value that references a row in another table",
+        "WHERE clause: A SQL clause that filters rows",
+        "Normalization: Organizing data to reduce redundancy and inconsistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Table\" is correct?",
+      "correctAnswer": "Table: A collection of rows and columns in a relational database",
+      "wrongAnswers": [
+        "Index: A structure that speeds up data lookup",
+        "Transaction: A group of database operations treated as one unit",
+        "Denormalization: Adding controlled redundancy to improve access patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Row\" is correct?",
+      "correctAnswer": "Row: One record in a database table",
+      "wrongAnswers": [
+        "Query: A request for data or data changes",
+        "Rollback: Undoing changes from an unfinished transaction",
+        "Document database: A database that stores records as flexible documents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Column\" is correct?",
+      "correctAnswer": "Column: A named field stored for each row",
+      "wrongAnswers": [
+        "SELECT: A SQL command used to retrieve data",
+        "Commit: Making transaction changes permanent",
+        "Graph database: A database that models entities and relationships as nodes and edges"
+      ],
+      "timeout": 15
+    }
+  ]
+}

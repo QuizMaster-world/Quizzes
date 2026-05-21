@@ -1,0 +1,205 @@
+{
+  "title": "Nutrition Science Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Vitamin\" is correct?",
+      "correctAnswer": "Vitamin: An organic micronutrient needed in small amounts",
+      "wrongAnswers": [
+        "Macronutrient: A nutrient needed in larger amounts",
+        "Vitamin D: A vitamin important for calcium regulation and bone health",
+        "Portion size: The amount of food someone chooses to eat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mineral\" is correct?",
+      "correctAnswer": "Mineral: An inorganic micronutrient needed for body functions",
+      "wrongAnswers": [
+        "Micronutrient: A nutrient needed in smaller amounts",
+        "Unsaturated fat: A fat type often liquid at room temperature",
+        "Food allergy: An immune reaction to a specific food substance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fiber\" is correct?",
+      "correctAnswer": "Fiber: Plant material that supports digestion",
+      "wrongAnswers": [
+        "Calcium: A mineral important for bones, teeth, and muscle function",
+        "Saturated fat: A fat type often solid at room temperature",
+        "Carbohydrate: A nutrient group used as a major energy source"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hydration\" is correct?",
+      "correctAnswer": "Hydration: Maintaining enough water in the body",
+      "wrongAnswers": [
+        "Iron: A mineral needed for oxygen transport in blood",
+        "Trans fat: A processed fat type associated with health risks",
+        "Protein: A nutrient made of amino acids used for growth and repair"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Balanced diet\" is correct?",
+      "correctAnswer": "Balanced diet: Eating a variety of foods in appropriate amounts",
+      "wrongAnswers": [
+        "Vitamin C: A vitamin involved in tissue repair and immune function",
+        "Food label: Printed nutrition and ingredient information on packaged food",
+        "Fat: A nutrient that stores energy and supports cell functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Macronutrient\" is correct?",
+      "correctAnswer": "Macronutrient: A nutrient needed in larger amounts",
+      "wrongAnswers": [
+        "Vitamin D: A vitamin important for calcium regulation and bone health",
+        "Portion size: The amount of food someone chooses to eat",
+        "Vitamin: An organic micronutrient needed in small amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Micronutrient\" is correct?",
+      "correctAnswer": "Micronutrient: A nutrient needed in smaller amounts",
+      "wrongAnswers": [
+        "Unsaturated fat: A fat type often liquid at room temperature",
+        "Food allergy: An immune reaction to a specific food substance",
+        "Mineral: An inorganic micronutrient needed for body functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Calcium\" is correct?",
+      "correctAnswer": "Calcium: A mineral important for bones, teeth, and muscle function",
+      "wrongAnswers": [
+        "Saturated fat: A fat type often solid at room temperature",
+        "Carbohydrate: A nutrient group used as a major energy source",
+        "Fiber: Plant material that supports digestion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Iron\" is correct?",
+      "correctAnswer": "Iron: A mineral needed for oxygen transport in blood",
+      "wrongAnswers": [
+        "Trans fat: A processed fat type associated with health risks",
+        "Protein: A nutrient made of amino acids used for growth and repair",
+        "Hydration: Maintaining enough water in the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vitamin C\" is correct?",
+      "correctAnswer": "Vitamin C: A vitamin involved in tissue repair and immune function",
+      "wrongAnswers": [
+        "Food label: Printed nutrition and ingredient information on packaged food",
+        "Fat: A nutrient that stores energy and supports cell functions",
+        "Balanced diet: Eating a variety of foods in appropriate amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vitamin D\" is correct?",
+      "correctAnswer": "Vitamin D: A vitamin important for calcium regulation and bone health",
+      "wrongAnswers": [
+        "Portion size: The amount of food someone chooses to eat",
+        "Vitamin: An organic micronutrient needed in small amounts",
+        "Macronutrient: A nutrient needed in larger amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Unsaturated fat\" is correct?",
+      "correctAnswer": "Unsaturated fat: A fat type often liquid at room temperature",
+      "wrongAnswers": [
+        "Food allergy: An immune reaction to a specific food substance",
+        "Mineral: An inorganic micronutrient needed for body functions",
+        "Micronutrient: A nutrient needed in smaller amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Saturated fat\" is correct?",
+      "correctAnswer": "Saturated fat: A fat type often solid at room temperature",
+      "wrongAnswers": [
+        "Carbohydrate: A nutrient group used as a major energy source",
+        "Fiber: Plant material that supports digestion",
+        "Calcium: A mineral important for bones, teeth, and muscle function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Trans fat\" is correct?",
+      "correctAnswer": "Trans fat: A processed fat type associated with health risks",
+      "wrongAnswers": [
+        "Protein: A nutrient made of amino acids used for growth and repair",
+        "Hydration: Maintaining enough water in the body",
+        "Iron: A mineral needed for oxygen transport in blood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Food label\" is correct?",
+      "correctAnswer": "Food label: Printed nutrition and ingredient information on packaged food",
+      "wrongAnswers": [
+        "Fat: A nutrient that stores energy and supports cell functions",
+        "Balanced diet: Eating a variety of foods in appropriate amounts",
+        "Vitamin C: A vitamin involved in tissue repair and immune function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Portion size\" is correct?",
+      "correctAnswer": "Portion size: The amount of food someone chooses to eat",
+      "wrongAnswers": [
+        "Vitamin: An organic micronutrient needed in small amounts",
+        "Macronutrient: A nutrient needed in larger amounts",
+        "Vitamin D: A vitamin important for calcium regulation and bone health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Food allergy\" is correct?",
+      "correctAnswer": "Food allergy: An immune reaction to a specific food substance",
+      "wrongAnswers": [
+        "Mineral: An inorganic micronutrient needed for body functions",
+        "Micronutrient: A nutrient needed in smaller amounts",
+        "Unsaturated fat: A fat type often liquid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Carbohydrate\" is correct?",
+      "correctAnswer": "Carbohydrate: A nutrient group used as a major energy source",
+      "wrongAnswers": [
+        "Fiber: Plant material that supports digestion",
+        "Calcium: A mineral important for bones, teeth, and muscle function",
+        "Saturated fat: A fat type often solid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Protein\" is correct?",
+      "correctAnswer": "Protein: A nutrient made of amino acids used for growth and repair",
+      "wrongAnswers": [
+        "Hydration: Maintaining enough water in the body",
+        "Iron: A mineral needed for oxygen transport in blood",
+        "Trans fat: A processed fat type associated with health risks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fat\" is correct?",
+      "correctAnswer": "Fat: A nutrient that stores energy and supports cell functions",
+      "wrongAnswers": [
+        "Balanced diet: Eating a variety of foods in appropriate amounts",
+        "Vitamin C: A vitamin involved in tissue repair and immune function",
+        "Food label: Printed nutrition and ingredient information on packaged food"
+      ],
+      "timeout": 15
+    }
+  ]
+}

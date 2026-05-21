@@ -1,0 +1,205 @@
+{
+  "title": "Human Anatomy Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Human Anatomy, which term means: An organ that exchanges oxygen and carbon dioxide?",
+      "correctAnswer": "Lung",
+      "wrongAnswers": [
+        "Stomach",
+        "Pancreas",
+        "Diaphragm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: The organ that coordinates thought, sensation, and body control?",
+      "correctAnswer": "Brain",
+      "wrongAnswers": [
+        "Small intestine",
+        "Neuron",
+        "Tendon"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A nerve pathway connecting the brain with the body?",
+      "correctAnswer": "Spinal cord",
+      "wrongAnswers": [
+        "Large intestine",
+        "Artery",
+        "Ligament"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: An organ that begins major chemical digestion of food?",
+      "correctAnswer": "Stomach",
+      "wrongAnswers": [
+        "Liver",
+        "Vein",
+        "Cartilage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: The organ where most nutrient absorption occurs?",
+      "correctAnswer": "Small intestine",
+      "wrongAnswers": [
+        "Kidney",
+        "Capillary",
+        "Red blood cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: The organ that absorbs water from digestive waste?",
+      "correctAnswer": "Large intestine",
+      "wrongAnswers": [
+        "Pancreas",
+        "Diaphragm",
+        "White blood cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: An organ that processes nutrients and detoxifies chemicals?",
+      "correctAnswer": "Liver",
+      "wrongAnswers": [
+        "Neuron",
+        "Tendon",
+        "Heart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: An organ that filters blood and helps regulate body fluids?",
+      "correctAnswer": "Kidney",
+      "wrongAnswers": [
+        "Artery",
+        "Ligament",
+        "Lung"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: An organ that produces digestive enzymes and hormones?",
+      "correctAnswer": "Pancreas",
+      "wrongAnswers": [
+        "Vein",
+        "Cartilage",
+        "Brain"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A nerve cell that carries signals?",
+      "correctAnswer": "Neuron",
+      "wrongAnswers": [
+        "Capillary",
+        "Red blood cell",
+        "Spinal cord"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A blood vessel that carries blood away from the heart?",
+      "correctAnswer": "Artery",
+      "wrongAnswers": [
+        "Diaphragm",
+        "White blood cell",
+        "Stomach"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A blood vessel that carries blood toward the heart?",
+      "correctAnswer": "Vein",
+      "wrongAnswers": [
+        "Tendon",
+        "Heart",
+        "Small intestine"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A tiny blood vessel where exchange with tissues occurs?",
+      "correctAnswer": "Capillary",
+      "wrongAnswers": [
+        "Ligament",
+        "Lung",
+        "Large intestine"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A muscle that helps draw air into the lungs?",
+      "correctAnswer": "Diaphragm",
+      "wrongAnswers": [
+        "Cartilage",
+        "Brain",
+        "Liver"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: Tissue that connects muscle to bone?",
+      "correctAnswer": "Tendon",
+      "wrongAnswers": [
+        "Red blood cell",
+        "Spinal cord",
+        "Kidney"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: Tissue that connects bone to bone?",
+      "correctAnswer": "Ligament",
+      "wrongAnswers": [
+        "White blood cell",
+        "Stomach",
+        "Pancreas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: Flexible connective tissue that cushions joints?",
+      "correctAnswer": "Cartilage",
+      "wrongAnswers": [
+        "Heart",
+        "Small intestine",
+        "Neuron"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A cell that transports oxygen?",
+      "correctAnswer": "Red blood cell",
+      "wrongAnswers": [
+        "Lung",
+        "Large intestine",
+        "Artery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A cell involved in immune defense?",
+      "correctAnswer": "White blood cell",
+      "wrongAnswers": [
+        "Brain",
+        "Liver",
+        "Vein"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, which term means: A muscular organ that pumps blood through the body?",
+      "correctAnswer": "Heart",
+      "wrongAnswers": [
+        "Spinal cord",
+        "Kidney",
+        "Capillary"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Waves and Sound Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The distance between matching points on neighboring waves?",
+      "correctAnswer": "Wavelength",
+      "wrongAnswers": [
+        "Trough",
+        "Reflection",
+        "Pitch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: How often wave cycles pass a point?",
+      "correctAnswer": "Frequency",
+      "wrongAnswers": [
+        "Longitudinal wave",
+        "Refraction",
+        "Loudness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The time for one complete wave cycle?",
+      "correctAnswer": "Period",
+      "wrongAnswers": [
+        "Transverse wave",
+        "Diffraction",
+        "Echo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The highest point of a transverse wave?",
+      "correctAnswer": "Crest",
+      "wrongAnswers": [
+        "Compression",
+        "Interference",
+        "Ultrasound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The lowest point of a transverse wave?",
+      "correctAnswer": "Trough",
+      "wrongAnswers": [
+        "Rarefaction",
+        "Resonance",
+        "Wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A wave where particles vibrate parallel to travel direction?",
+      "correctAnswer": "Longitudinal wave",
+      "wrongAnswers": [
+        "Reflection",
+        "Pitch",
+        "Amplitude"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A wave where particles vibrate perpendicular to travel direction?",
+      "correctAnswer": "Transverse wave",
+      "wrongAnswers": [
+        "Refraction",
+        "Loudness",
+        "Wavelength"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A crowded region in a longitudinal wave?",
+      "correctAnswer": "Compression",
+      "wrongAnswers": [
+        "Diffraction",
+        "Echo",
+        "Frequency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A spread-out region in a longitudinal wave?",
+      "correctAnswer": "Rarefaction",
+      "wrongAnswers": [
+        "Interference",
+        "Ultrasound",
+        "Period"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A wave bouncing from a boundary?",
+      "correctAnswer": "Reflection",
+      "wrongAnswers": [
+        "Resonance",
+        "Wave",
+        "Crest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A wave changing direction as speed changes in a new medium?",
+      "correctAnswer": "Refraction",
+      "wrongAnswers": [
+        "Pitch",
+        "Amplitude",
+        "Trough"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A wave spreading around obstacles or through gaps?",
+      "correctAnswer": "Diffraction",
+      "wrongAnswers": [
+        "Loudness",
+        "Wavelength",
+        "Longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: Overlapping waves combining their effects?",
+      "correctAnswer": "Interference",
+      "wrongAnswers": [
+        "Echo",
+        "Frequency",
+        "Transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: Large vibration caused by matching a natural frequency?",
+      "correctAnswer": "Resonance",
+      "wrongAnswers": [
+        "Ultrasound",
+        "Period",
+        "Compression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The perceived highness or lowness of a sound?",
+      "correctAnswer": "Pitch",
+      "wrongAnswers": [
+        "Wave",
+        "Crest",
+        "Rarefaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The perceived strength of a sound?",
+      "correctAnswer": "Loudness",
+      "wrongAnswers": [
+        "Amplitude",
+        "Trough",
+        "Reflection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A reflected sound heard after the original?",
+      "correctAnswer": "Echo",
+      "wrongAnswers": [
+        "Wavelength",
+        "Longitudinal wave",
+        "Refraction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: Sound with frequency above human hearing range?",
+      "correctAnswer": "Ultrasound",
+      "wrongAnswers": [
+        "Frequency",
+        "Transverse wave",
+        "Diffraction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: A disturbance that transfers energy through space or a medium?",
+      "correctAnswer": "Wave",
+      "wrongAnswers": [
+        "Period",
+        "Compression",
+        "Interference"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Waves and Sound concept is described by this clue: The maximum displacement from a wave's resting position?",
+      "correctAnswer": "Amplitude",
+      "wrongAnswers": [
+        "Crest",
+        "Rarefaction",
+        "Resonance"
+      ],
+      "timeout": 15
+    }
+  ]
+}

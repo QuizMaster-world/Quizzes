@@ -1,0 +1,205 @@
+{
+  "title": "Genetics and Heredity Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Genetics and Heredity, which term means: A DNA segment that influences a trait or product?",
+      "correctAnswer": "Gene",
+      "wrongAnswers": [
+        "Genotype",
+        "Heterozygous",
+        "Messenger RNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A long DNA structure containing many genes?",
+      "correctAnswer": "Chromosome",
+      "wrongAnswers": [
+        "Phenotype",
+        "Mutation",
+        "Punnett square"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A version of a gene?",
+      "correctAnswer": "Allele",
+      "wrongAnswers": [
+        "Dominant allele",
+        "Protein synthesis",
+        "Carrier"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: The genetic makeup for a trait?",
+      "correctAnswer": "Genotype",
+      "wrongAnswers": [
+        "Recessive allele",
+        "Transcription",
+        "Codon"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: The observable expression of a trait?",
+      "correctAnswer": "Phenotype",
+      "wrongAnswers": [
+        "Homozygous",
+        "Translation",
+        "Genome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: An allele expressed when one copy is present?",
+      "correctAnswer": "Dominant allele",
+      "wrongAnswers": [
+        "Heterozygous",
+        "Messenger RNA",
+        "Genetic variation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: An allele expressed when two copies are present?",
+      "correctAnswer": "Recessive allele",
+      "wrongAnswers": [
+        "Mutation",
+        "Punnett square",
+        "DNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: Having two matching alleles for a gene?",
+      "correctAnswer": "Homozygous",
+      "wrongAnswers": [
+        "Protein synthesis",
+        "Carrier",
+        "Gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: Having two different alleles for a gene?",
+      "correctAnswer": "Heterozygous",
+      "wrongAnswers": [
+        "Transcription",
+        "Codon",
+        "Chromosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A change in DNA sequence?",
+      "correctAnswer": "Mutation",
+      "wrongAnswers": [
+        "Translation",
+        "Genome",
+        "Allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: The process of making proteins from genetic instructions?",
+      "correctAnswer": "Protein synthesis",
+      "wrongAnswers": [
+        "Messenger RNA",
+        "Genetic variation",
+        "Genotype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: Copying DNA information into RNA?",
+      "correctAnswer": "Transcription",
+      "wrongAnswers": [
+        "Punnett square",
+        "DNA",
+        "Phenotype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: Building a protein using RNA instructions?",
+      "correctAnswer": "Translation",
+      "wrongAnswers": [
+        "Carrier",
+        "Gene",
+        "Dominant allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: RNA that carries genetic instructions from DNA to ribosomes?",
+      "correctAnswer": "Messenger RNA",
+      "wrongAnswers": [
+        "Codon",
+        "Chromosome",
+        "Recessive allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A diagram used to predict possible inherited traits?",
+      "correctAnswer": "Punnett square",
+      "wrongAnswers": [
+        "Genome",
+        "Allele",
+        "Homozygous"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: An individual who has one recessive disease allele without showing the trait?",
+      "correctAnswer": "Carrier",
+      "wrongAnswers": [
+        "Genetic variation",
+        "Genotype",
+        "Heterozygous"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A three-base RNA sequence that specifies an amino acid or stop signal?",
+      "correctAnswer": "Codon",
+      "wrongAnswers": [
+        "DNA",
+        "Phenotype",
+        "Mutation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: All genetic material in an organism?",
+      "correctAnswer": "Genome",
+      "wrongAnswers": [
+        "Gene",
+        "Dominant allele",
+        "Protein synthesis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: Differences in DNA among individuals?",
+      "correctAnswer": "Genetic variation",
+      "wrongAnswers": [
+        "Chromosome",
+        "Recessive allele",
+        "Transcription"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Genetics and Heredity, which term means: A molecule that stores hereditary instructions?",
+      "correctAnswer": "DNA",
+      "wrongAnswers": [
+        "Allele",
+        "Homozygous",
+        "Translation"
+      ],
+      "timeout": 15
+    }
+  ]
+}

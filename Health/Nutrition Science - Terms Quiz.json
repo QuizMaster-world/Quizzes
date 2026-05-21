@@ -1,0 +1,205 @@
+{
+  "title": "Nutrition Science Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Nutrition Science, which term means: A nutrient made of amino acids used for growth and repair?",
+      "correctAnswer": "Protein",
+      "wrongAnswers": [
+        "Mineral",
+        "Micronutrient",
+        "Unsaturated fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A nutrient that stores energy and supports cell functions?",
+      "correctAnswer": "Fat",
+      "wrongAnswers": [
+        "Fiber",
+        "Calcium",
+        "Saturated fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: An organic micronutrient needed in small amounts?",
+      "correctAnswer": "Vitamin",
+      "wrongAnswers": [
+        "Hydration",
+        "Iron",
+        "Trans fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: An inorganic micronutrient needed for body functions?",
+      "correctAnswer": "Mineral",
+      "wrongAnswers": [
+        "Balanced diet",
+        "Vitamin C",
+        "Food label"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: Plant material that supports digestion?",
+      "correctAnswer": "Fiber",
+      "wrongAnswers": [
+        "Macronutrient",
+        "Vitamin D",
+        "Portion size"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: Maintaining enough water in the body?",
+      "correctAnswer": "Hydration",
+      "wrongAnswers": [
+        "Micronutrient",
+        "Unsaturated fat",
+        "Food allergy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: Eating a variety of foods in appropriate amounts?",
+      "correctAnswer": "Balanced diet",
+      "wrongAnswers": [
+        "Calcium",
+        "Saturated fat",
+        "Carbohydrate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A nutrient needed in larger amounts?",
+      "correctAnswer": "Macronutrient",
+      "wrongAnswers": [
+        "Iron",
+        "Trans fat",
+        "Protein"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A nutrient needed in smaller amounts?",
+      "correctAnswer": "Micronutrient",
+      "wrongAnswers": [
+        "Vitamin C",
+        "Food label",
+        "Fat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A mineral important for bones, teeth, and muscle function?",
+      "correctAnswer": "Calcium",
+      "wrongAnswers": [
+        "Vitamin D",
+        "Portion size",
+        "Vitamin"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A mineral needed for oxygen transport in blood?",
+      "correctAnswer": "Iron",
+      "wrongAnswers": [
+        "Unsaturated fat",
+        "Food allergy",
+        "Mineral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A vitamin involved in tissue repair and immune function?",
+      "correctAnswer": "Vitamin C",
+      "wrongAnswers": [
+        "Saturated fat",
+        "Carbohydrate",
+        "Fiber"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A vitamin important for calcium regulation and bone health?",
+      "correctAnswer": "Vitamin D",
+      "wrongAnswers": [
+        "Trans fat",
+        "Protein",
+        "Hydration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A fat type often liquid at room temperature?",
+      "correctAnswer": "Unsaturated fat",
+      "wrongAnswers": [
+        "Food label",
+        "Fat",
+        "Balanced diet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A fat type often solid at room temperature?",
+      "correctAnswer": "Saturated fat",
+      "wrongAnswers": [
+        "Portion size",
+        "Vitamin",
+        "Macronutrient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A processed fat type associated with health risks?",
+      "correctAnswer": "Trans fat",
+      "wrongAnswers": [
+        "Food allergy",
+        "Mineral",
+        "Micronutrient"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: Printed nutrition and ingredient information on packaged food?",
+      "correctAnswer": "Food label",
+      "wrongAnswers": [
+        "Carbohydrate",
+        "Fiber",
+        "Calcium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: The amount of food someone chooses to eat?",
+      "correctAnswer": "Portion size",
+      "wrongAnswers": [
+        "Protein",
+        "Hydration",
+        "Iron"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: An immune reaction to a specific food substance?",
+      "correctAnswer": "Food allergy",
+      "wrongAnswers": [
+        "Fat",
+        "Balanced diet",
+        "Vitamin C"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Nutrition Science, which term means: A nutrient group used as a major energy source?",
+      "correctAnswer": "Carbohydrate",
+      "wrongAnswers": [
+        "Vitamin",
+        "Macronutrient",
+        "Vitamin D"
+      ],
+      "timeout": 15
+    }
+  ]
+}

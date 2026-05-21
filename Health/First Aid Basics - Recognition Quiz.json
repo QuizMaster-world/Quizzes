@@ -1,0 +1,205 @@
+{
+  "title": "First Aid Basics Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"CPR\" is correct?",
+      "correctAnswer": "CPR: Chest compressions and rescue breaths used during cardiac arrest",
+      "wrongAnswers": [
+        "Sprain: An injury to ligaments around a joint",
+        "Epinephrine auto-injector: A device used for severe allergic reactions",
+        "Universal precautions: Steps used to reduce contact with bodily fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"AED\" is correct?",
+      "correctAnswer": "AED: A device that can deliver a shock to restart a normal heart rhythm",
+      "wrongAnswers": [
+        "Fracture: A break or crack in a bone",
+        "Poisoning: Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "Incident report: A record of what happened and what aid was given"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Bleeding control\" is correct?",
+      "correctAnswer": "Bleeding control: Actions used to slow or stop blood loss",
+      "wrongAnswers": [
+        "Shock: A dangerous condition where organs do not get enough blood flow",
+        "Emergency services: Professional responders contacted during serious incidents",
+        "First aid: Immediate help given to someone who is ill or injured"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pressure bandage\" is correct?",
+      "correctAnswer": "Pressure bandage: A bandage that applies pressure to a wound",
+      "wrongAnswers": [
+        "Choking: Airway blockage that prevents normal breathing",
+        "Consent: Permission from a conscious person before giving aid",
+        "Primary survey: A quick check for life-threatening problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Burn cooling\" is correct?",
+      "correctAnswer": "Burn cooling: Using cool running water to reduce burn injury",
+      "wrongAnswers": [
+        "Allergic reaction: An immune response that can range from mild to severe",
+        "Scene safety: Checking that it is safe to approach and help",
+        "Recovery position: A side-lying position used for an unconscious breathing person"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sprain\" is correct?",
+      "correctAnswer": "Sprain: An injury to ligaments around a joint",
+      "wrongAnswers": [
+        "Epinephrine auto-injector: A device used for severe allergic reactions",
+        "Universal precautions: Steps used to reduce contact with bodily fluids",
+        "CPR: Chest compressions and rescue breaths used during cardiac arrest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fracture\" is correct?",
+      "correctAnswer": "Fracture: A break or crack in a bone",
+      "wrongAnswers": [
+        "Poisoning: Harm caused by swallowing, inhaling, or touching a toxic substance",
+        "Incident report: A record of what happened and what aid was given",
+        "AED: A device that can deliver a shock to restart a normal heart rhythm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Shock\" is correct?",
+      "correctAnswer": "Shock: A dangerous condition where organs do not get enough blood flow",
+      "wrongAnswers": [
+        "Emergency services: Professional responders contacted during serious incidents",
+        "First aid: Immediate help given to someone who is ill or injured",
+        "Bleeding control: Actions used to slow or stop blood loss"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Choking\" is correct?",
+      "correctAnswer": "Choking: Airway blockage that prevents normal breathing",
+      "wrongAnswers": [
+        "Consent: Permission from a conscious person before giving aid",
+        "Primary survey: A quick check for life-threatening problems",
+        "Pressure bandage: A bandage that applies pressure to a wound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Allergic reaction\" is correct?",
+      "correctAnswer": "Allergic reaction: An immune response that can range from mild to severe",
+      "wrongAnswers": [
+        "Scene safety: Checking that it is safe to approach and help",
+        "Recovery position: A side-lying position used for an unconscious breathing person",
+        "Burn cooling: Using cool running water to reduce burn injury"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Epinephrine auto-injector\" is correct?",
+      "correctAnswer": "Epinephrine auto-injector: A device used for severe allergic reactions",
+      "wrongAnswers": [
+        "Universal precautions: Steps used to reduce contact with bodily fluids",
+        "CPR: Chest compressions and rescue breaths used during cardiac arrest",
+        "Sprain: An injury to ligaments around a joint"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Poisoning\" is correct?",
+      "correctAnswer": "Poisoning: Harm caused by swallowing, inhaling, or touching a toxic substance",
+      "wrongAnswers": [
+        "Incident report: A record of what happened and what aid was given",
+        "AED: A device that can deliver a shock to restart a normal heart rhythm",
+        "Fracture: A break or crack in a bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Emergency services\" is correct?",
+      "correctAnswer": "Emergency services: Professional responders contacted during serious incidents",
+      "wrongAnswers": [
+        "First aid: Immediate help given to someone who is ill or injured",
+        "Bleeding control: Actions used to slow or stop blood loss",
+        "Shock: A dangerous condition where organs do not get enough blood flow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Consent\" is correct?",
+      "correctAnswer": "Consent: Permission from a conscious person before giving aid",
+      "wrongAnswers": [
+        "Primary survey: A quick check for life-threatening problems",
+        "Pressure bandage: A bandage that applies pressure to a wound",
+        "Choking: Airway blockage that prevents normal breathing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Scene safety\" is correct?",
+      "correctAnswer": "Scene safety: Checking that it is safe to approach and help",
+      "wrongAnswers": [
+        "Recovery position: A side-lying position used for an unconscious breathing person",
+        "Burn cooling: Using cool running water to reduce burn injury",
+        "Allergic reaction: An immune response that can range from mild to severe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Universal precautions\" is correct?",
+      "correctAnswer": "Universal precautions: Steps used to reduce contact with bodily fluids",
+      "wrongAnswers": [
+        "CPR: Chest compressions and rescue breaths used during cardiac arrest",
+        "Sprain: An injury to ligaments around a joint",
+        "Epinephrine auto-injector: A device used for severe allergic reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Incident report\" is correct?",
+      "correctAnswer": "Incident report: A record of what happened and what aid was given",
+      "wrongAnswers": [
+        "AED: A device that can deliver a shock to restart a normal heart rhythm",
+        "Fracture: A break or crack in a bone",
+        "Poisoning: Harm caused by swallowing, inhaling, or touching a toxic substance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"First aid\" is correct?",
+      "correctAnswer": "First aid: Immediate help given to someone who is ill or injured",
+      "wrongAnswers": [
+        "Bleeding control: Actions used to slow or stop blood loss",
+        "Shock: A dangerous condition where organs do not get enough blood flow",
+        "Emergency services: Professional responders contacted during serious incidents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Primary survey\" is correct?",
+      "correctAnswer": "Primary survey: A quick check for life-threatening problems",
+      "wrongAnswers": [
+        "Pressure bandage: A bandage that applies pressure to a wound",
+        "Choking: Airway blockage that prevents normal breathing",
+        "Consent: Permission from a conscious person before giving aid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Recovery position\" is correct?",
+      "correctAnswer": "Recovery position: A side-lying position used for an unconscious breathing person",
+      "wrongAnswers": [
+        "Burn cooling: Using cool running water to reduce burn injury",
+        "Allergic reaction: An immune response that can range from mild to severe",
+        "Scene safety: Checking that it is safe to approach and help"
+      ],
+      "timeout": 15
+    }
+  ]
+}

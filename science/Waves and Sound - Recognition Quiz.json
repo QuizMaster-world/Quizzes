@@ -1,0 +1,205 @@
+{
+  "title": "Waves and Sound Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Frequency\" is correct?",
+      "correctAnswer": "Frequency: How often wave cycles pass a point",
+      "wrongAnswers": [
+        "Transverse wave: A wave where particles vibrate perpendicular to travel direction",
+        "Diffraction: A wave spreading around obstacles or through gaps",
+        "Echo: A reflected sound heard after the original"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Period\" is correct?",
+      "correctAnswer": "Period: The time for one complete wave cycle",
+      "wrongAnswers": [
+        "Compression: A crowded region in a longitudinal wave",
+        "Interference: Overlapping waves combining their effects",
+        "Ultrasound: Sound with frequency above human hearing range"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Crest\" is correct?",
+      "correctAnswer": "Crest: The highest point of a transverse wave",
+      "wrongAnswers": [
+        "Rarefaction: A spread-out region in a longitudinal wave",
+        "Resonance: Large vibration caused by matching a natural frequency",
+        "Wave: A disturbance that transfers energy through space or a medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Trough\" is correct?",
+      "correctAnswer": "Trough: The lowest point of a transverse wave",
+      "wrongAnswers": [
+        "Reflection: A wave bouncing from a boundary",
+        "Pitch: The perceived highness or lowness of a sound",
+        "Amplitude: The maximum displacement from a wave's resting position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Longitudinal wave\" is correct?",
+      "correctAnswer": "Longitudinal wave: A wave where particles vibrate parallel to travel direction",
+      "wrongAnswers": [
+        "Refraction: A wave changing direction as speed changes in a new medium",
+        "Loudness: The perceived strength of a sound",
+        "Wavelength: The distance between matching points on neighboring waves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Transverse wave\" is correct?",
+      "correctAnswer": "Transverse wave: A wave where particles vibrate perpendicular to travel direction",
+      "wrongAnswers": [
+        "Diffraction: A wave spreading around obstacles or through gaps",
+        "Echo: A reflected sound heard after the original",
+        "Frequency: How often wave cycles pass a point"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Compression\" is correct?",
+      "correctAnswer": "Compression: A crowded region in a longitudinal wave",
+      "wrongAnswers": [
+        "Interference: Overlapping waves combining their effects",
+        "Ultrasound: Sound with frequency above human hearing range",
+        "Period: The time for one complete wave cycle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rarefaction\" is correct?",
+      "correctAnswer": "Rarefaction: A spread-out region in a longitudinal wave",
+      "wrongAnswers": [
+        "Resonance: Large vibration caused by matching a natural frequency",
+        "Wave: A disturbance that transfers energy through space or a medium",
+        "Crest: The highest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Reflection\" is correct?",
+      "correctAnswer": "Reflection: A wave bouncing from a boundary",
+      "wrongAnswers": [
+        "Pitch: The perceived highness or lowness of a sound",
+        "Amplitude: The maximum displacement from a wave's resting position",
+        "Trough: The lowest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Refraction\" is correct?",
+      "correctAnswer": "Refraction: A wave changing direction as speed changes in a new medium",
+      "wrongAnswers": [
+        "Loudness: The perceived strength of a sound",
+        "Wavelength: The distance between matching points on neighboring waves",
+        "Longitudinal wave: A wave where particles vibrate parallel to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Diffraction\" is correct?",
+      "correctAnswer": "Diffraction: A wave spreading around obstacles or through gaps",
+      "wrongAnswers": [
+        "Echo: A reflected sound heard after the original",
+        "Frequency: How often wave cycles pass a point",
+        "Transverse wave: A wave where particles vibrate perpendicular to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Interference\" is correct?",
+      "correctAnswer": "Interference: Overlapping waves combining their effects",
+      "wrongAnswers": [
+        "Ultrasound: Sound with frequency above human hearing range",
+        "Period: The time for one complete wave cycle",
+        "Compression: A crowded region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Resonance\" is correct?",
+      "correctAnswer": "Resonance: Large vibration caused by matching a natural frequency",
+      "wrongAnswers": [
+        "Wave: A disturbance that transfers energy through space or a medium",
+        "Crest: The highest point of a transverse wave",
+        "Rarefaction: A spread-out region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pitch\" is correct?",
+      "correctAnswer": "Pitch: The perceived highness or lowness of a sound",
+      "wrongAnswers": [
+        "Amplitude: The maximum displacement from a wave's resting position",
+        "Trough: The lowest point of a transverse wave",
+        "Reflection: A wave bouncing from a boundary"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Loudness\" is correct?",
+      "correctAnswer": "Loudness: The perceived strength of a sound",
+      "wrongAnswers": [
+        "Wavelength: The distance between matching points on neighboring waves",
+        "Longitudinal wave: A wave where particles vibrate parallel to travel direction",
+        "Refraction: A wave changing direction as speed changes in a new medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Echo\" is correct?",
+      "correctAnswer": "Echo: A reflected sound heard after the original",
+      "wrongAnswers": [
+        "Frequency: How often wave cycles pass a point",
+        "Transverse wave: A wave where particles vibrate perpendicular to travel direction",
+        "Diffraction: A wave spreading around obstacles or through gaps"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ultrasound\" is correct?",
+      "correctAnswer": "Ultrasound: Sound with frequency above human hearing range",
+      "wrongAnswers": [
+        "Period: The time for one complete wave cycle",
+        "Compression: A crowded region in a longitudinal wave",
+        "Interference: Overlapping waves combining their effects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Wave\" is correct?",
+      "correctAnswer": "Wave: A disturbance that transfers energy through space or a medium",
+      "wrongAnswers": [
+        "Crest: The highest point of a transverse wave",
+        "Rarefaction: A spread-out region in a longitudinal wave",
+        "Resonance: Large vibration caused by matching a natural frequency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Amplitude\" is correct?",
+      "correctAnswer": "Amplitude: The maximum displacement from a wave's resting position",
+      "wrongAnswers": [
+        "Trough: The lowest point of a transverse wave",
+        "Reflection: A wave bouncing from a boundary",
+        "Pitch: The perceived highness or lowness of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Wavelength\" is correct?",
+      "correctAnswer": "Wavelength: The distance between matching points on neighboring waves",
+      "wrongAnswers": [
+        "Longitudinal wave: A wave where particles vibrate parallel to travel direction",
+        "Refraction: A wave changing direction as speed changes in a new medium",
+        "Loudness: The perceived strength of a sound"
+      ],
+      "timeout": 15
+    }
+  ]
+}

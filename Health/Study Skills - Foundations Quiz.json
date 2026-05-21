@@ -1,0 +1,205 @@
+{
+  "title": "Study Skills Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Study Skills, what does \"Active recall\" mean?",
+      "correctAnswer": "Practicing retrieval of information from memory",
+      "wrongAnswers": [
+        "Mixing related topics during practice",
+        "A study card with a prompt on one side and answer on the other",
+        "Reducing interruptions during focused work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Spaced repetition\" mean?",
+      "correctAnswer": "Reviewing material at increasing intervals",
+      "wrongAnswers": [
+        "Explaining ideas in detail and connecting them to prior knowledge",
+        "A self-check that simulates assessment questions",
+        "Choosing what matters most to work on first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Interleaving\" mean?",
+      "correctAnswer": "Mixing related topics during practice",
+      "wrongAnswers": [
+        "Combining words with visuals to support learning",
+        "Choosing clear targets for learning or work",
+        "Information used to improve performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Elaboration\" mean?",
+      "correctAnswer": "Explaining ideas in detail and connecting them to prior knowledge",
+      "wrongAnswers": [
+        "A note format with cues, notes, and summary sections",
+        "Scheduling focused periods for specific tasks",
+        "A schedule and method for reviewing material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Dual coding\" mean?",
+      "correctAnswer": "Combining words with visuals to support learning",
+      "wrongAnswers": [
+        "A diagram that shows connections among ideas",
+        "Working in short focused intervals separated by breaks",
+        "Thinking about one's own thinking and learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Cornell notes\" mean?",
+      "correctAnswer": "A note format with cues, notes, and summary sections",
+      "wrongAnswers": [
+        "A study card with a prompt on one side and answer on the other",
+        "Reducing interruptions during focused work",
+        "Condensing information into the main points"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Mind map\" mean?",
+      "correctAnswer": "A diagram that shows connections among ideas",
+      "wrongAnswers": [
+        "A self-check that simulates assessment questions",
+        "Choosing what matters most to work on first",
+        "Adding notes or marks to text while reading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Flashcard\" mean?",
+      "correctAnswer": "A study card with a prompt on one side and answer on the other",
+      "wrongAnswers": [
+        "Choosing clear targets for learning or work",
+        "Information used to improve performance",
+        "Reviewing what worked and what should change next time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Practice test\" mean?",
+      "correctAnswer": "A self-check that simulates assessment questions",
+      "wrongAnswers": [
+        "Scheduling focused periods for specific tasks",
+        "A schedule and method for reviewing material",
+        "Practicing retrieval of information from memory"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Goal setting\" mean?",
+      "correctAnswer": "Choosing clear targets for learning or work",
+      "wrongAnswers": [
+        "Working in short focused intervals separated by breaks",
+        "Thinking about one's own thinking and learning",
+        "Reviewing material at increasing intervals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Time blocking\" mean?",
+      "correctAnswer": "Scheduling focused periods for specific tasks",
+      "wrongAnswers": [
+        "Reducing interruptions during focused work",
+        "Condensing information into the main points",
+        "Mixing related topics during practice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Pomodoro technique\" mean?",
+      "correctAnswer": "Working in short focused intervals separated by breaks",
+      "wrongAnswers": [
+        "Choosing what matters most to work on first",
+        "Adding notes or marks to text while reading",
+        "Explaining ideas in detail and connecting them to prior knowledge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Distraction management\" mean?",
+      "correctAnswer": "Reducing interruptions during focused work",
+      "wrongAnswers": [
+        "Information used to improve performance",
+        "Reviewing what worked and what should change next time",
+        "Combining words with visuals to support learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Prioritization\" mean?",
+      "correctAnswer": "Choosing what matters most to work on first",
+      "wrongAnswers": [
+        "A schedule and method for reviewing material",
+        "Practicing retrieval of information from memory",
+        "A note format with cues, notes, and summary sections"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Feedback\" mean?",
+      "correctAnswer": "Information used to improve performance",
+      "wrongAnswers": [
+        "Thinking about one's own thinking and learning",
+        "Reviewing material at increasing intervals",
+        "A diagram that shows connections among ideas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Revision plan\" mean?",
+      "correctAnswer": "A schedule and method for reviewing material",
+      "wrongAnswers": [
+        "Condensing information into the main points",
+        "Mixing related topics during practice",
+        "A study card with a prompt on one side and answer on the other"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Metacognition\" mean?",
+      "correctAnswer": "Thinking about one's own thinking and learning",
+      "wrongAnswers": [
+        "Adding notes or marks to text while reading",
+        "Explaining ideas in detail and connecting them to prior knowledge",
+        "A self-check that simulates assessment questions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Summarizing\" mean?",
+      "correctAnswer": "Condensing information into the main points",
+      "wrongAnswers": [
+        "Reviewing what worked and what should change next time",
+        "Combining words with visuals to support learning",
+        "Choosing clear targets for learning or work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Annotation\" mean?",
+      "correctAnswer": "Adding notes or marks to text while reading",
+      "wrongAnswers": [
+        "Practicing retrieval of information from memory",
+        "A note format with cues, notes, and summary sections",
+        "Scheduling focused periods for specific tasks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Study Skills, what does \"Reflection\" mean?",
+      "correctAnswer": "Reviewing what worked and what should change next time",
+      "wrongAnswers": [
+        "Reviewing material at increasing intervals",
+        "A diagram that shows connections among ideas",
+        "Working in short focused intervals separated by breaks"
+      ],
+      "timeout": 15
+    }
+  ]
+}

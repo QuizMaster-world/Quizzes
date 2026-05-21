@@ -1,0 +1,205 @@
+{
+  "title": "Microbiology Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Microbiology, what does \"Bacterium\" mean?",
+      "correctAnswer": "A single-celled organism without a nucleus",
+      "wrongAnswers": [
+        "An organism group that includes yeasts and molds",
+        "The ability of bacteria to survive an antibiotic",
+        "A chemical used to reduce microbes on surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Virus\" mean?",
+      "correctAnswer": "An infectious particle that replicates inside host cells",
+      "wrongAnswers": [
+        "A single-celled eukaryotic microorganism",
+        "Microbes grown under controlled conditions",
+        "A staining method that helps classify bacteria"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Fungus\" mean?",
+      "correctAnswer": "An organism group that includes yeasts and molds",
+      "wrongAnswers": [
+        "The community of microorganisms living in an environment",
+        "A shallow dish used to grow microorganisms",
+        "A visible group of microbes growing from cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Protozoan\" mean?",
+      "correctAnswer": "A single-celled eukaryotic microorganism",
+      "wrongAnswers": [
+        "A microbe or agent that can cause disease",
+        "Methods used to prevent unwanted contamination",
+        "Microbial metabolism that produces useful products without oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Microbiome\" mean?",
+      "correctAnswer": "The community of microorganisms living in an environment",
+      "wrongAnswers": [
+        "A drug used to treat bacterial infections",
+        "Destroying or removing all living microbes",
+        "A single-celled fungus often used in baking and brewing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Pathogen\" mean?",
+      "correctAnswer": "A microbe or agent that can cause disease",
+      "wrongAnswers": [
+        "The ability of bacteria to survive an antibiotic",
+        "A chemical used to reduce microbes on surfaces",
+        "The protein coat around a virus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Antibiotic\" mean?",
+      "correctAnswer": "A drug used to treat bacterial infections",
+      "wrongAnswers": [
+        "Microbes grown under controlled conditions",
+        "A staining method that helps classify bacteria",
+        "A cell used by a virus or microbe to reproduce"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Antibiotic resistance\" mean?",
+      "correctAnswer": "The ability of bacteria to survive an antibiotic",
+      "wrongAnswers": [
+        "A shallow dish used to grow microorganisms",
+        "A visible group of microbes growing from cells",
+        "A surface-attached community of microorganisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Culture\" mean?",
+      "correctAnswer": "Microbes grown under controlled conditions",
+      "wrongAnswers": [
+        "Methods used to prevent unwanted contamination",
+        "Microbial metabolism that produces useful products without oxygen",
+        "A single-celled organism without a nucleus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Petri dish\" mean?",
+      "correctAnswer": "A shallow dish used to grow microorganisms",
+      "wrongAnswers": [
+        "Destroying or removing all living microbes",
+        "A single-celled fungus often used in baking and brewing",
+        "An infectious particle that replicates inside host cells"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Aseptic technique\" mean?",
+      "correctAnswer": "Methods used to prevent unwanted contamination",
+      "wrongAnswers": [
+        "A chemical used to reduce microbes on surfaces",
+        "The protein coat around a virus",
+        "An organism group that includes yeasts and molds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Sterilization\" mean?",
+      "correctAnswer": "Destroying or removing all living microbes",
+      "wrongAnswers": [
+        "A staining method that helps classify bacteria",
+        "A cell used by a virus or microbe to reproduce",
+        "A single-celled eukaryotic microorganism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Disinfectant\" mean?",
+      "correctAnswer": "A chemical used to reduce microbes on surfaces",
+      "wrongAnswers": [
+        "A visible group of microbes growing from cells",
+        "A surface-attached community of microorganisms",
+        "The community of microorganisms living in an environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Gram stain\" mean?",
+      "correctAnswer": "A staining method that helps classify bacteria",
+      "wrongAnswers": [
+        "Microbial metabolism that produces useful products without oxygen",
+        "A single-celled organism without a nucleus",
+        "A microbe or agent that can cause disease"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Colony\" mean?",
+      "correctAnswer": "A visible group of microbes growing from cells",
+      "wrongAnswers": [
+        "A single-celled fungus often used in baking and brewing",
+        "An infectious particle that replicates inside host cells",
+        "A drug used to treat bacterial infections"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Fermentation\" mean?",
+      "correctAnswer": "Microbial metabolism that produces useful products without oxygen",
+      "wrongAnswers": [
+        "The protein coat around a virus",
+        "An organism group that includes yeasts and molds",
+        "The ability of bacteria to survive an antibiotic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Yeast\" mean?",
+      "correctAnswer": "A single-celled fungus often used in baking and brewing",
+      "wrongAnswers": [
+        "A cell used by a virus or microbe to reproduce",
+        "A single-celled eukaryotic microorganism",
+        "Microbes grown under controlled conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Capsid\" mean?",
+      "correctAnswer": "The protein coat around a virus",
+      "wrongAnswers": [
+        "A surface-attached community of microorganisms",
+        "The community of microorganisms living in an environment",
+        "A shallow dish used to grow microorganisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Host cell\" mean?",
+      "correctAnswer": "A cell used by a virus or microbe to reproduce",
+      "wrongAnswers": [
+        "A single-celled organism without a nucleus",
+        "A microbe or agent that can cause disease",
+        "Methods used to prevent unwanted contamination"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, what does \"Biofilm\" mean?",
+      "correctAnswer": "A surface-attached community of microorganisms",
+      "wrongAnswers": [
+        "An infectious particle that replicates inside host cells",
+        "A drug used to treat bacterial infections",
+        "Destroying or removing all living microbes"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Electronics Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Resistance\" is correct?",
+      "correctAnswer": "Resistance: Opposition to electric current",
+      "wrongAnswers": [
+        "LED: A diode that emits light when current flows",
+        "Breadboard: A reusable board for building temporary circuits",
+        "Microcontroller: A small computer on a chip used to control devices"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Resistor\" is correct?",
+      "correctAnswer": "Resistor: A component that limits current",
+      "wrongAnswers": [
+        "Transistor: A component used for switching or amplification",
+        "Soldering: Joining metal parts using melted filler metal",
+        "Printed circuit board: A board with conductive paths for electronic components"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Capacitor\" is correct?",
+      "correctAnswer": "Capacitor: A component that stores electric charge",
+      "wrongAnswers": [
+        "Switch: A component that opens or closes a circuit",
+        "Multimeter: A tool for measuring electrical quantities",
+        "Circuit: A path that allows electric current to flow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Inductor\" is correct?",
+      "correctAnswer": "Inductor: A component that stores energy in a magnetic field",
+      "wrongAnswers": [
+        "Battery: A device that provides electrical energy from chemical reactions",
+        "Sensor: A device that detects a physical condition",
+        "Current: The flow of electric charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Diode\" is correct?",
+      "correctAnswer": "Diode: A component that allows current mainly in one direction",
+      "wrongAnswers": [
+        "Ground: A reference point for voltage in a circuit",
+        "Actuator: A device that creates physical action from a signal",
+        "Voltage: Electric potential difference that pushes charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"LED\" is correct?",
+      "correctAnswer": "LED: A diode that emits light when current flows",
+      "wrongAnswers": [
+        "Breadboard: A reusable board for building temporary circuits",
+        "Microcontroller: A small computer on a chip used to control devices",
+        "Resistance: Opposition to electric current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Transistor\" is correct?",
+      "correctAnswer": "Transistor: A component used for switching or amplification",
+      "wrongAnswers": [
+        "Soldering: Joining metal parts using melted filler metal",
+        "Printed circuit board: A board with conductive paths for electronic components",
+        "Resistor: A component that limits current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Switch\" is correct?",
+      "correctAnswer": "Switch: A component that opens or closes a circuit",
+      "wrongAnswers": [
+        "Multimeter: A tool for measuring electrical quantities",
+        "Circuit: A path that allows electric current to flow",
+        "Capacitor: A component that stores electric charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Battery\" is correct?",
+      "correctAnswer": "Battery: A device that provides electrical energy from chemical reactions",
+      "wrongAnswers": [
+        "Sensor: A device that detects a physical condition",
+        "Current: The flow of electric charge",
+        "Inductor: A component that stores energy in a magnetic field"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ground\" is correct?",
+      "correctAnswer": "Ground: A reference point for voltage in a circuit",
+      "wrongAnswers": [
+        "Actuator: A device that creates physical action from a signal",
+        "Voltage: Electric potential difference that pushes charge",
+        "Diode: A component that allows current mainly in one direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Breadboard\" is correct?",
+      "correctAnswer": "Breadboard: A reusable board for building temporary circuits",
+      "wrongAnswers": [
+        "Microcontroller: A small computer on a chip used to control devices",
+        "Resistance: Opposition to electric current",
+        "LED: A diode that emits light when current flows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Soldering\" is correct?",
+      "correctAnswer": "Soldering: Joining metal parts using melted filler metal",
+      "wrongAnswers": [
+        "Printed circuit board: A board with conductive paths for electronic components",
+        "Resistor: A component that limits current",
+        "Transistor: A component used for switching or amplification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Multimeter\" is correct?",
+      "correctAnswer": "Multimeter: A tool for measuring electrical quantities",
+      "wrongAnswers": [
+        "Circuit: A path that allows electric current to flow",
+        "Capacitor: A component that stores electric charge",
+        "Switch: A component that opens or closes a circuit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sensor\" is correct?",
+      "correctAnswer": "Sensor: A device that detects a physical condition",
+      "wrongAnswers": [
+        "Current: The flow of electric charge",
+        "Inductor: A component that stores energy in a magnetic field",
+        "Battery: A device that provides electrical energy from chemical reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Actuator\" is correct?",
+      "correctAnswer": "Actuator: A device that creates physical action from a signal",
+      "wrongAnswers": [
+        "Voltage: Electric potential difference that pushes charge",
+        "Diode: A component that allows current mainly in one direction",
+        "Ground: A reference point for voltage in a circuit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Microcontroller\" is correct?",
+      "correctAnswer": "Microcontroller: A small computer on a chip used to control devices",
+      "wrongAnswers": [
+        "Resistance: Opposition to electric current",
+        "LED: A diode that emits light when current flows",
+        "Breadboard: A reusable board for building temporary circuits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Printed circuit board\" is correct?",
+      "correctAnswer": "Printed circuit board: A board with conductive paths for electronic components",
+      "wrongAnswers": [
+        "Resistor: A component that limits current",
+        "Transistor: A component used for switching or amplification",
+        "Soldering: Joining metal parts using melted filler metal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Circuit\" is correct?",
+      "correctAnswer": "Circuit: A path that allows electric current to flow",
+      "wrongAnswers": [
+        "Capacitor: A component that stores electric charge",
+        "Switch: A component that opens or closes a circuit",
+        "Multimeter: A tool for measuring electrical quantities"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Current\" is correct?",
+      "correctAnswer": "Current: The flow of electric charge",
+      "wrongAnswers": [
+        "Inductor: A component that stores energy in a magnetic field",
+        "Battery: A device that provides electrical energy from chemical reactions",
+        "Sensor: A device that detects a physical condition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Voltage\" is correct?",
+      "correctAnswer": "Voltage: Electric potential difference that pushes charge",
+      "wrongAnswers": [
+        "Diode: A component that allows current mainly in one direction",
+        "Ground: A reference point for voltage in a circuit",
+        "Actuator: A device that creates physical action from a signal"
+      ],
+      "timeout": 15
+    }
+  ]
+}

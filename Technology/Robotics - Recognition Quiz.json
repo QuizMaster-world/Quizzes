@@ -1,0 +1,205 @@
+{
+  "title": "Robotics Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Motor\" is correct?",
+      "correctAnswer": "Motor: An actuator that produces rotational motion",
+      "wrongAnswers": [
+        "Feedback: Information returned to adjust robot behavior",
+        "Localization: Determining a robot's position",
+        "Payload: The weight a robot can carry or manipulate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Servo\" is correct?",
+      "correctAnswer": "Servo: A motor system that moves to controlled positions",
+      "wrongAnswers": [
+        "Autonomy: The ability to operate without direct human control",
+        "Mapping: Building a representation of an environment",
+        "Calibration: Adjusting a robot or sensor for accurate operation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"End effector\" is correct?",
+      "correctAnswer": "End effector: The tool or gripper at the end of a robot arm",
+      "wrongAnswers": [
+        "Teleoperation: Remote control of a robot by a human",
+        "Manipulator: A robotic arm or device used to move objects",
+        "Robot: A machine that can sense, decide, or act in its environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Chassis\" is correct?",
+      "correctAnswer": "Chassis: The structural frame of a robot",
+      "wrongAnswers": [
+        "Path planning: Finding a route for a robot to follow",
+        "Degree of freedom: An independent direction or rotation a robot can move",
+        "Sensor: A device that detects information from the environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Controller\" is correct?",
+      "correctAnswer": "Controller: The system that processes inputs and commands outputs",
+      "wrongAnswers": [
+        "Obstacle avoidance: Detecting and moving around objects in the way",
+        "Kinematics: The study of robot motion without focusing on forces",
+        "Actuator: A device that converts signals into movement or action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feedback\" is correct?",
+      "correctAnswer": "Feedback: Information returned to adjust robot behavior",
+      "wrongAnswers": [
+        "Localization: Determining a robot's position",
+        "Payload: The weight a robot can carry or manipulate",
+        "Motor: An actuator that produces rotational motion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Autonomy\" is correct?",
+      "correctAnswer": "Autonomy: The ability to operate without direct human control",
+      "wrongAnswers": [
+        "Mapping: Building a representation of an environment",
+        "Calibration: Adjusting a robot or sensor for accurate operation",
+        "Servo: A motor system that moves to controlled positions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Teleoperation\" is correct?",
+      "correctAnswer": "Teleoperation: Remote control of a robot by a human",
+      "wrongAnswers": [
+        "Manipulator: A robotic arm or device used to move objects",
+        "Robot: A machine that can sense, decide, or act in its environment",
+        "End effector: The tool or gripper at the end of a robot arm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Path planning\" is correct?",
+      "correctAnswer": "Path planning: Finding a route for a robot to follow",
+      "wrongAnswers": [
+        "Degree of freedom: An independent direction or rotation a robot can move",
+        "Sensor: A device that detects information from the environment",
+        "Chassis: The structural frame of a robot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Obstacle avoidance\" is correct?",
+      "correctAnswer": "Obstacle avoidance: Detecting and moving around objects in the way",
+      "wrongAnswers": [
+        "Kinematics: The study of robot motion without focusing on forces",
+        "Actuator: A device that converts signals into movement or action",
+        "Controller: The system that processes inputs and commands outputs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Localization\" is correct?",
+      "correctAnswer": "Localization: Determining a robot's position",
+      "wrongAnswers": [
+        "Payload: The weight a robot can carry or manipulate",
+        "Motor: An actuator that produces rotational motion",
+        "Feedback: Information returned to adjust robot behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mapping\" is correct?",
+      "correctAnswer": "Mapping: Building a representation of an environment",
+      "wrongAnswers": [
+        "Calibration: Adjusting a robot or sensor for accurate operation",
+        "Servo: A motor system that moves to controlled positions",
+        "Autonomy: The ability to operate without direct human control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Manipulator\" is correct?",
+      "correctAnswer": "Manipulator: A robotic arm or device used to move objects",
+      "wrongAnswers": [
+        "Robot: A machine that can sense, decide, or act in its environment",
+        "End effector: The tool or gripper at the end of a robot arm",
+        "Teleoperation: Remote control of a robot by a human"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Degree of freedom\" is correct?",
+      "correctAnswer": "Degree of freedom: An independent direction or rotation a robot can move",
+      "wrongAnswers": [
+        "Sensor: A device that detects information from the environment",
+        "Chassis: The structural frame of a robot",
+        "Path planning: Finding a route for a robot to follow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Kinematics\" is correct?",
+      "correctAnswer": "Kinematics: The study of robot motion without focusing on forces",
+      "wrongAnswers": [
+        "Actuator: A device that converts signals into movement or action",
+        "Controller: The system that processes inputs and commands outputs",
+        "Obstacle avoidance: Detecting and moving around objects in the way"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Payload\" is correct?",
+      "correctAnswer": "Payload: The weight a robot can carry or manipulate",
+      "wrongAnswers": [
+        "Motor: An actuator that produces rotational motion",
+        "Feedback: Information returned to adjust robot behavior",
+        "Localization: Determining a robot's position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Calibration\" is correct?",
+      "correctAnswer": "Calibration: Adjusting a robot or sensor for accurate operation",
+      "wrongAnswers": [
+        "Servo: A motor system that moves to controlled positions",
+        "Autonomy: The ability to operate without direct human control",
+        "Mapping: Building a representation of an environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Robot\" is correct?",
+      "correctAnswer": "Robot: A machine that can sense, decide, or act in its environment",
+      "wrongAnswers": [
+        "End effector: The tool or gripper at the end of a robot arm",
+        "Teleoperation: Remote control of a robot by a human",
+        "Manipulator: A robotic arm or device used to move objects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sensor\" is correct?",
+      "correctAnswer": "Sensor: A device that detects information from the environment",
+      "wrongAnswers": [
+        "Chassis: The structural frame of a robot",
+        "Path planning: Finding a route for a robot to follow",
+        "Degree of freedom: An independent direction or rotation a robot can move"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Actuator\" is correct?",
+      "correctAnswer": "Actuator: A device that converts signals into movement or action",
+      "wrongAnswers": [
+        "Controller: The system that processes inputs and commands outputs",
+        "Obstacle avoidance: Detecting and moving around objects in the way",
+        "Kinematics: The study of robot motion without focusing on forces"
+      ],
+      "timeout": 15
+    }
+  ]
+}

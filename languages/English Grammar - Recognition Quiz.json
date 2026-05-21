@@ -1,0 +1,205 @@
+{
+  "title": "English Grammar Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Adverb\" is correct?",
+      "correctAnswer": "Adverb: A word that modifies a verb, adjective, or adverb",
+      "wrongAnswers": [
+        "Subject: The part of a sentence that tells who or what it is about",
+        "Phrase: A group of related words without both subject and verb",
+        "Comma splice: An error joining independent clauses with only a comma"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pronoun\" is correct?",
+      "correctAnswer": "Pronoun: A word that stands in for a noun",
+      "wrongAnswers": [
+        "Predicate: The part of a sentence that tells what the subject does or is",
+        "Tense: Verb form showing time",
+        "Parallel structure: Using matching grammatical forms in a series"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Preposition\" is correct?",
+      "correctAnswer": "Preposition: A word showing relationships such as location or direction",
+      "wrongAnswers": [
+        "Clause: A group of words with a subject and a verb",
+        "Agreement: Matching grammatical forms such as subject and verb",
+        "Noun: A word that names a person, place, thing, or idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Conjunction\" is correct?",
+      "correctAnswer": "Conjunction: A word that connects words, phrases, or clauses",
+      "wrongAnswers": [
+        "Independent clause: A clause that can stand alone as a sentence",
+        "Modifier: A word or phrase that describes another element",
+        "Verb: A word that expresses an action or state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Interjection\" is correct?",
+      "correctAnswer": "Interjection: A word or phrase expressing sudden feeling",
+      "wrongAnswers": [
+        "Dependent clause: A clause that cannot stand alone as a sentence",
+        "Object: A noun or pronoun receiving an action or following a preposition",
+        "Adjective: A word that describes a noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Subject\" is correct?",
+      "correctAnswer": "Subject: The part of a sentence that tells who or what it is about",
+      "wrongAnswers": [
+        "Phrase: A group of related words without both subject and verb",
+        "Comma splice: An error joining independent clauses with only a comma",
+        "Adverb: A word that modifies a verb, adjective, or adverb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Predicate\" is correct?",
+      "correctAnswer": "Predicate: The part of a sentence that tells what the subject does or is",
+      "wrongAnswers": [
+        "Tense: Verb form showing time",
+        "Parallel structure: Using matching grammatical forms in a series",
+        "Pronoun: A word that stands in for a noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Clause\" is correct?",
+      "correctAnswer": "Clause: A group of words with a subject and a verb",
+      "wrongAnswers": [
+        "Agreement: Matching grammatical forms such as subject and verb",
+        "Noun: A word that names a person, place, thing, or idea",
+        "Preposition: A word showing relationships such as location or direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Independent clause\" is correct?",
+      "correctAnswer": "Independent clause: A clause that can stand alone as a sentence",
+      "wrongAnswers": [
+        "Modifier: A word or phrase that describes another element",
+        "Verb: A word that expresses an action or state",
+        "Conjunction: A word that connects words, phrases, or clauses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dependent clause\" is correct?",
+      "correctAnswer": "Dependent clause: A clause that cannot stand alone as a sentence",
+      "wrongAnswers": [
+        "Object: A noun or pronoun receiving an action or following a preposition",
+        "Adjective: A word that describes a noun",
+        "Interjection: A word or phrase expressing sudden feeling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Phrase\" is correct?",
+      "correctAnswer": "Phrase: A group of related words without both subject and verb",
+      "wrongAnswers": [
+        "Comma splice: An error joining independent clauses with only a comma",
+        "Adverb: A word that modifies a verb, adjective, or adverb",
+        "Subject: The part of a sentence that tells who or what it is about"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tense\" is correct?",
+      "correctAnswer": "Tense: Verb form showing time",
+      "wrongAnswers": [
+        "Parallel structure: Using matching grammatical forms in a series",
+        "Pronoun: A word that stands in for a noun",
+        "Predicate: The part of a sentence that tells what the subject does or is"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Agreement\" is correct?",
+      "correctAnswer": "Agreement: Matching grammatical forms such as subject and verb",
+      "wrongAnswers": [
+        "Noun: A word that names a person, place, thing, or idea",
+        "Preposition: A word showing relationships such as location or direction",
+        "Clause: A group of words with a subject and a verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Modifier\" is correct?",
+      "correctAnswer": "Modifier: A word or phrase that describes another element",
+      "wrongAnswers": [
+        "Verb: A word that expresses an action or state",
+        "Conjunction: A word that connects words, phrases, or clauses",
+        "Independent clause: A clause that can stand alone as a sentence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Object\" is correct?",
+      "correctAnswer": "Object: A noun or pronoun receiving an action or following a preposition",
+      "wrongAnswers": [
+        "Adjective: A word that describes a noun",
+        "Interjection: A word or phrase expressing sudden feeling",
+        "Dependent clause: A clause that cannot stand alone as a sentence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Comma splice\" is correct?",
+      "correctAnswer": "Comma splice: An error joining independent clauses with only a comma",
+      "wrongAnswers": [
+        "Adverb: A word that modifies a verb, adjective, or adverb",
+        "Subject: The part of a sentence that tells who or what it is about",
+        "Phrase: A group of related words without both subject and verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Parallel structure\" is correct?",
+      "correctAnswer": "Parallel structure: Using matching grammatical forms in a series",
+      "wrongAnswers": [
+        "Pronoun: A word that stands in for a noun",
+        "Predicate: The part of a sentence that tells what the subject does or is",
+        "Tense: Verb form showing time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Noun\" is correct?",
+      "correctAnswer": "Noun: A word that names a person, place, thing, or idea",
+      "wrongAnswers": [
+        "Preposition: A word showing relationships such as location or direction",
+        "Clause: A group of words with a subject and a verb",
+        "Agreement: Matching grammatical forms such as subject and verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Verb\" is correct?",
+      "correctAnswer": "Verb: A word that expresses an action or state",
+      "wrongAnswers": [
+        "Conjunction: A word that connects words, phrases, or clauses",
+        "Independent clause: A clause that can stand alone as a sentence",
+        "Modifier: A word or phrase that describes another element"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Adjective\" is correct?",
+      "correctAnswer": "Adjective: A word that describes a noun",
+      "wrongAnswers": [
+        "Interjection: A word or phrase expressing sudden feeling",
+        "Dependent clause: A clause that cannot stand alone as a sentence",
+        "Object: A noun or pronoun receiving an action or following a preposition"
+      ],
+      "timeout": 15
+    }
+  ]
+}

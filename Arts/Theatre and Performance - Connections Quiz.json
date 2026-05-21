@@ -1,0 +1,205 @@
+{
+  "title": "Theatre and Performance Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: An extended speech by one performer?",
+      "correctAnswer": "Monologue",
+      "wrongAnswers": [
+        "Prop",
+        "Director",
+        "Projection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: A script note describing action, movement, or setting?",
+      "correctAnswer": "Stage direction",
+      "wrongAnswers": [
+        "Set",
+        "Stage manager",
+        "Ensemble"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Planned movement and positioning of actors?",
+      "correctAnswer": "Blocking",
+      "wrongAnswers": [
+        "Costume",
+        "Rehearsal",
+        "Scene change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: A signal for an actor or technician to act?",
+      "correctAnswer": "Cue",
+      "wrongAnswers": [
+        "Lighting design",
+        "Improvisation",
+        "Curtain call"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: An object handled or used by performers?",
+      "correctAnswer": "Prop",
+      "wrongAnswers": [
+        "Sound design",
+        "Characterization",
+        "Script"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: The physical environment built for a performance?",
+      "correctAnswer": "Set",
+      "wrongAnswers": [
+        "Director",
+        "Projection",
+        "Dialogue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Clothing worn by performers to support character and setting?",
+      "correctAnswer": "Costume",
+      "wrongAnswers": [
+        "Stage manager",
+        "Ensemble",
+        "Monologue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Planning light to shape visibility, mood, and focus?",
+      "correctAnswer": "Lighting design",
+      "wrongAnswers": [
+        "Rehearsal",
+        "Scene change",
+        "Stage direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Planning audio elements for a production?",
+      "correctAnswer": "Sound design",
+      "wrongAnswers": [
+        "Improvisation",
+        "Curtain call",
+        "Blocking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: The person guiding artistic choices in a production?",
+      "correctAnswer": "Director",
+      "wrongAnswers": [
+        "Characterization",
+        "Script",
+        "Cue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: The person coordinating rehearsals and live performance logistics?",
+      "correctAnswer": "Stage manager",
+      "wrongAnswers": [
+        "Projection",
+        "Dialogue",
+        "Prop"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Practice time used to prepare a performance?",
+      "correctAnswer": "Rehearsal",
+      "wrongAnswers": [
+        "Ensemble",
+        "Monologue",
+        "Set"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Creating performance material spontaneously?",
+      "correctAnswer": "Improvisation",
+      "wrongAnswers": [
+        "Scene change",
+        "Stage direction",
+        "Costume"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Choices that create a believable character?",
+      "correctAnswer": "Characterization",
+      "wrongAnswers": [
+        "Curtain call",
+        "Blocking",
+        "Lighting design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Using voice so an audience can hear clearly?",
+      "correctAnswer": "Projection",
+      "wrongAnswers": [
+        "Script",
+        "Cue",
+        "Sound design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Performers working together as a group?",
+      "correctAnswer": "Ensemble",
+      "wrongAnswers": [
+        "Dialogue",
+        "Prop",
+        "Director"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: A transition from one staged moment or setting to another?",
+      "correctAnswer": "Scene change",
+      "wrongAnswers": [
+        "Monologue",
+        "Set",
+        "Stage manager"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Performers returning to receive audience applause?",
+      "correctAnswer": "Curtain call",
+      "wrongAnswers": [
+        "Stage direction",
+        "Costume",
+        "Rehearsal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: The written text of a performance?",
+      "correctAnswer": "Script",
+      "wrongAnswers": [
+        "Blocking",
+        "Lighting design",
+        "Improvisation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Theatre and Performance concept is described by this clue: Words spoken by characters?",
+      "correctAnswer": "Dialogue",
+      "wrongAnswers": [
+        "Cue",
+        "Sound design",
+        "Characterization"
+      ],
+      "timeout": 15
+    }
+  ]
+}

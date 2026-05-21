@@ -1,0 +1,205 @@
+{
+  "title": "Chemistry Lab Skills Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Pipette\" is correct?",
+      "correctAnswer": "Pipette: A tool used to transfer measured liquid amounts",
+      "wrongAnswers": [
+        "Evaporation: Removing solvent by turning it into vapor",
+        "Solvent: A substance that dissolves a solute",
+        "Dependent variable: The factor measured in response to a change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Burette\" is correct?",
+      "correctAnswer": "Burette: A tube used to deliver precise liquid volumes in titration",
+      "wrongAnswers": [
+        "Crystallization: Forming solid crystals from a solution",
+        "Solution: A uniform mixture of solute and solvent",
+        "Risk assessment: Identifying hazards and controls before practical work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Titration\" is correct?",
+      "correctAnswer": "Titration: A method for finding concentration using a measured reaction",
+      "wrongAnswers": [
+        "Distillation: Separating liquids using different boiling points",
+        "Precipitate: An insoluble solid formed in a reaction",
+        "Beaker: A wide container used for mixing and heating liquids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Indicator\" is correct?",
+      "correctAnswer": "Indicator: A substance that changes color to show chemical conditions",
+      "wrongAnswers": [
+        "Chromatography: Separating substances based on movement through a medium",
+        "Control variable: A factor kept the same during an experiment",
+        "Conical flask: A flask with sloped sides useful for swirling liquids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Filtration\" is correct?",
+      "correctAnswer": "Filtration: Separating solids from liquids using a filter",
+      "wrongAnswers": [
+        "Solute: A substance dissolved in a solvent",
+        "Independent variable: The factor deliberately changed in an experiment",
+        "Measuring cylinder: A vessel used to measure liquid volume"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Evaporation\" is correct?",
+      "correctAnswer": "Evaporation: Removing solvent by turning it into vapor",
+      "wrongAnswers": [
+        "Solvent: A substance that dissolves a solute",
+        "Dependent variable: The factor measured in response to a change",
+        "Pipette: A tool used to transfer measured liquid amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Crystallization\" is correct?",
+      "correctAnswer": "Crystallization: Forming solid crystals from a solution",
+      "wrongAnswers": [
+        "Solution: A uniform mixture of solute and solvent",
+        "Risk assessment: Identifying hazards and controls before practical work",
+        "Burette: A tube used to deliver precise liquid volumes in titration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Distillation\" is correct?",
+      "correctAnswer": "Distillation: Separating liquids using different boiling points",
+      "wrongAnswers": [
+        "Precipitate: An insoluble solid formed in a reaction",
+        "Beaker: A wide container used for mixing and heating liquids",
+        "Titration: A method for finding concentration using a measured reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Chromatography\" is correct?",
+      "correctAnswer": "Chromatography: Separating substances based on movement through a medium",
+      "wrongAnswers": [
+        "Control variable: A factor kept the same during an experiment",
+        "Conical flask: A flask with sloped sides useful for swirling liquids",
+        "Indicator: A substance that changes color to show chemical conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Solute\" is correct?",
+      "correctAnswer": "Solute: A substance dissolved in a solvent",
+      "wrongAnswers": [
+        "Independent variable: The factor deliberately changed in an experiment",
+        "Measuring cylinder: A vessel used to measure liquid volume",
+        "Filtration: Separating solids from liquids using a filter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Solvent\" is correct?",
+      "correctAnswer": "Solvent: A substance that dissolves a solute",
+      "wrongAnswers": [
+        "Dependent variable: The factor measured in response to a change",
+        "Pipette: A tool used to transfer measured liquid amounts",
+        "Evaporation: Removing solvent by turning it into vapor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Solution\" is correct?",
+      "correctAnswer": "Solution: A uniform mixture of solute and solvent",
+      "wrongAnswers": [
+        "Risk assessment: Identifying hazards and controls before practical work",
+        "Burette: A tube used to deliver precise liquid volumes in titration",
+        "Crystallization: Forming solid crystals from a solution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Precipitate\" is correct?",
+      "correctAnswer": "Precipitate: An insoluble solid formed in a reaction",
+      "wrongAnswers": [
+        "Beaker: A wide container used for mixing and heating liquids",
+        "Titration: A method for finding concentration using a measured reaction",
+        "Distillation: Separating liquids using different boiling points"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Control variable\" is correct?",
+      "correctAnswer": "Control variable: A factor kept the same during an experiment",
+      "wrongAnswers": [
+        "Conical flask: A flask with sloped sides useful for swirling liquids",
+        "Indicator: A substance that changes color to show chemical conditions",
+        "Chromatography: Separating substances based on movement through a medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Independent variable\" is correct?",
+      "correctAnswer": "Independent variable: The factor deliberately changed in an experiment",
+      "wrongAnswers": [
+        "Measuring cylinder: A vessel used to measure liquid volume",
+        "Filtration: Separating solids from liquids using a filter",
+        "Solute: A substance dissolved in a solvent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dependent variable\" is correct?",
+      "correctAnswer": "Dependent variable: The factor measured in response to a change",
+      "wrongAnswers": [
+        "Pipette: A tool used to transfer measured liquid amounts",
+        "Evaporation: Removing solvent by turning it into vapor",
+        "Solvent: A substance that dissolves a solute"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Risk assessment\" is correct?",
+      "correctAnswer": "Risk assessment: Identifying hazards and controls before practical work",
+      "wrongAnswers": [
+        "Burette: A tube used to deliver precise liquid volumes in titration",
+        "Crystallization: Forming solid crystals from a solution",
+        "Solution: A uniform mixture of solute and solvent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Beaker\" is correct?",
+      "correctAnswer": "Beaker: A wide container used for mixing and heating liquids",
+      "wrongAnswers": [
+        "Titration: A method for finding concentration using a measured reaction",
+        "Distillation: Separating liquids using different boiling points",
+        "Precipitate: An insoluble solid formed in a reaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Conical flask\" is correct?",
+      "correctAnswer": "Conical flask: A flask with sloped sides useful for swirling liquids",
+      "wrongAnswers": [
+        "Indicator: A substance that changes color to show chemical conditions",
+        "Chromatography: Separating substances based on movement through a medium",
+        "Control variable: A factor kept the same during an experiment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Measuring cylinder\" is correct?",
+      "correctAnswer": "Measuring cylinder: A vessel used to measure liquid volume",
+      "wrongAnswers": [
+        "Filtration: Separating solids from liquids using a filter",
+        "Solute: A substance dissolved in a solvent",
+        "Independent variable: The factor deliberately changed in an experiment"
+      ],
+      "timeout": 15
+    }
+  ]
+}

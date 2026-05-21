@@ -1,0 +1,205 @@
+{
+  "title": "Databases and Data Modeling Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A named field stored for each row?",
+      "correctAnswer": "Column",
+      "wrongAnswers": [
+        "Query",
+        "Rollback",
+        "Document database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A value that uniquely identifies a row?",
+      "correctAnswer": "Primary key",
+      "wrongAnswers": [
+        "SELECT",
+        "Commit",
+        "Graph database"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A value that references a row in another table?",
+      "correctAnswer": "Foreign key",
+      "wrongAnswers": [
+        "JOIN",
+        "Schema",
+        "Migration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A structure that speeds up data lookup?",
+      "correctAnswer": "Index",
+      "wrongAnswers": [
+        "WHERE clause",
+        "Normalization",
+        "Query plan"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A request for data or data changes?",
+      "correctAnswer": "Query",
+      "wrongAnswers": [
+        "Transaction",
+        "Denormalization",
+        "Table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A SQL command used to retrieve data?",
+      "correctAnswer": "SELECT",
+      "wrongAnswers": [
+        "Rollback",
+        "Document database",
+        "Row"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A SQL operation that combines related rows?",
+      "correctAnswer": "JOIN",
+      "wrongAnswers": [
+        "Commit",
+        "Graph database",
+        "Column"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A SQL clause that filters rows?",
+      "correctAnswer": "WHERE clause",
+      "wrongAnswers": [
+        "Schema",
+        "Migration",
+        "Primary key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A group of database operations treated as one unit?",
+      "correctAnswer": "Transaction",
+      "wrongAnswers": [
+        "Normalization",
+        "Query plan",
+        "Foreign key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: Undoing changes from an unfinished transaction?",
+      "correctAnswer": "Rollback",
+      "wrongAnswers": [
+        "Denormalization",
+        "Table",
+        "Index"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: Making transaction changes permanent?",
+      "correctAnswer": "Commit",
+      "wrongAnswers": [
+        "Document database",
+        "Row",
+        "Query"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: The defined structure of database objects?",
+      "correctAnswer": "Schema",
+      "wrongAnswers": [
+        "Graph database",
+        "Column",
+        "SELECT"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: Organizing data to reduce redundancy and inconsistency?",
+      "correctAnswer": "Normalization",
+      "wrongAnswers": [
+        "Migration",
+        "Primary key",
+        "JOIN"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: Adding controlled redundancy to improve access patterns?",
+      "correctAnswer": "Denormalization",
+      "wrongAnswers": [
+        "Query plan",
+        "Foreign key",
+        "WHERE clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A database that stores records as flexible documents?",
+      "correctAnswer": "Document database",
+      "wrongAnswers": [
+        "Table",
+        "Index",
+        "Transaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A database that models entities and relationships as nodes and edges?",
+      "correctAnswer": "Graph database",
+      "wrongAnswers": [
+        "Row",
+        "Query",
+        "Rollback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A controlled change to database structure or data?",
+      "correctAnswer": "Migration",
+      "wrongAnswers": [
+        "Column",
+        "SELECT",
+        "Commit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: The strategy a database uses to execute a query?",
+      "correctAnswer": "Query plan",
+      "wrongAnswers": [
+        "Primary key",
+        "JOIN",
+        "Schema"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: A collection of rows and columns in a relational database?",
+      "correctAnswer": "Table",
+      "wrongAnswers": [
+        "Foreign key",
+        "WHERE clause",
+        "Normalization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Databases and Data Modeling concept is described by this clue: One record in a database table?",
+      "correctAnswer": "Row",
+      "wrongAnswers": [
+        "Index",
+        "Transaction",
+        "Denormalization"
+      ],
+      "timeout": 15
+    }
+  ]
+}

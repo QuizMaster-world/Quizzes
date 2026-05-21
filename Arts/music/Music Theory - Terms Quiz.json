@@ -1,0 +1,205 @@
+{
+  "title": "Music Theory Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Music Theory, which term means: The pattern of sounds and silences in time?",
+      "correctAnswer": "Rhythm",
+      "wrongAnswers": [
+        "Meter",
+        "Scale",
+        "Articulation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The regular pulse in music?",
+      "correctAnswer": "Beat",
+      "wrongAnswers": [
+        "Measure",
+        "Key",
+        "Legato"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The speed of the beat?",
+      "correctAnswer": "Tempo",
+      "wrongAnswers": [
+        "Melody",
+        "Interval",
+        "Staccato"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The grouping of beats into repeating patterns?",
+      "correctAnswer": "Meter",
+      "wrongAnswers": [
+        "Harmony",
+        "Dynamics",
+        "Cadence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: A segment of music containing a set number of beats?",
+      "correctAnswer": "Measure",
+      "wrongAnswers": [
+        "Chord",
+        "Timbre",
+        "Motif"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: A sequence of pitches heard as a musical line?",
+      "correctAnswer": "Melody",
+      "wrongAnswers": [
+        "Scale",
+        "Articulation",
+        "Improvisation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The combination of notes sounded together?",
+      "correctAnswer": "Harmony",
+      "wrongAnswers": [
+        "Key",
+        "Legato",
+        "Pitch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: Three or more notes sounded together?",
+      "correctAnswer": "Chord",
+      "wrongAnswers": [
+        "Interval",
+        "Staccato",
+        "Rhythm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: An ordered set of pitches?",
+      "correctAnswer": "Scale",
+      "wrongAnswers": [
+        "Dynamics",
+        "Cadence",
+        "Beat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The tonal center of a piece of music?",
+      "correctAnswer": "Key",
+      "wrongAnswers": [
+        "Timbre",
+        "Motif",
+        "Tempo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The distance between two pitches?",
+      "correctAnswer": "Interval",
+      "wrongAnswers": [
+        "Articulation",
+        "Improvisation",
+        "Meter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: How loud or soft music is played?",
+      "correctAnswer": "Dynamics",
+      "wrongAnswers": [
+        "Legato",
+        "Pitch",
+        "Measure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: The tone color or quality of a sound?",
+      "correctAnswer": "Timbre",
+      "wrongAnswers": [
+        "Staccato",
+        "Rhythm",
+        "Melody"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: How notes are started, connected, or separated?",
+      "correctAnswer": "Articulation",
+      "wrongAnswers": [
+        "Cadence",
+        "Beat",
+        "Harmony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: Smoothly connected notes?",
+      "correctAnswer": "Legato",
+      "wrongAnswers": [
+        "Motif",
+        "Tempo",
+        "Chord"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: Short separated notes?",
+      "correctAnswer": "Staccato",
+      "wrongAnswers": [
+        "Improvisation",
+        "Meter",
+        "Scale"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: A musical ending or point of rest?",
+      "correctAnswer": "Cadence",
+      "wrongAnswers": [
+        "Pitch",
+        "Measure",
+        "Key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: A short recurring musical idea?",
+      "correctAnswer": "Motif",
+      "wrongAnswers": [
+        "Rhythm",
+        "Melody",
+        "Interval"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: Creating music spontaneously while performing?",
+      "correctAnswer": "Improvisation",
+      "wrongAnswers": [
+        "Beat",
+        "Harmony",
+        "Dynamics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Music Theory, which term means: How high or low a sound is perceived?",
+      "correctAnswer": "Pitch",
+      "wrongAnswers": [
+        "Tempo",
+        "Chord",
+        "Timbre"
+      ],
+      "timeout": 15
+    }
+  ]
+}

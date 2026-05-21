@@ -1,0 +1,205 @@
+{
+  "title": "Medieval Life Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Vassal\" in Medieval Life.",
+      "correctAnswer": "A person who owed service to a lord in exchange for protection or land",
+      "wrongAnswers": [
+        "A church payment often made as a portion of produce or income",
+        "A devastating plague pandemic in medieval Europe",
+        "A social system based on landholding and obligations"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Knight\" in Medieval Life.",
+      "correctAnswer": "A mounted warrior linked to the feudal system",
+      "wrongAnswers": [
+        "A religious community where monks lived and worked",
+        "Changing crops in fields to maintain soil fertility",
+        "A landed estate that organized rural medieval life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Castle\" in Medieval Life.",
+      "correctAnswer": "A fortified residence and defensive structure",
+      "wrongAnswers": [
+        "A journey to a sacred place",
+        "Land shared by members of a community",
+        "A peasant bound to work land under a lord's control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Guild\" in Medieval Life.",
+      "correctAnswer": "An association of craftspeople or merchants",
+      "wrongAnswers": [
+        "A major church serving as a bishop's seat",
+        "A settlement with rights or customs for regular trade",
+        "A landholder with power over tenants and dependents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Apprentice\" in Medieval Life.",
+      "correctAnswer": "A beginner learning a trade from a master",
+      "wrongAnswers": [
+        "A hand-copied book decorated with images or ornament",
+        "A written grant of rights or privileges",
+        "A person who owed service to a lord in exchange for protection or land"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Journeyman\" in Medieval Life.",
+      "correctAnswer": "A trained worker who had not yet become a master",
+      "wrongAnswers": [
+        "A devastating plague pandemic in medieval Europe",
+        "A social system based on landholding and obligations",
+        "A mounted warrior linked to the feudal system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Tithe\" in Medieval Life.",
+      "correctAnswer": "A church payment often made as a portion of produce or income",
+      "wrongAnswers": [
+        "Changing crops in fields to maintain soil fertility",
+        "A landed estate that organized rural medieval life",
+        "A fortified residence and defensive structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Monastery\" in Medieval Life.",
+      "correctAnswer": "A religious community where monks lived and worked",
+      "wrongAnswers": [
+        "Land shared by members of a community",
+        "A peasant bound to work land under a lord's control",
+        "An association of craftspeople or merchants"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pilgrimage\" in Medieval Life.",
+      "correctAnswer": "A journey to a sacred place",
+      "wrongAnswers": [
+        "A settlement with rights or customs for regular trade",
+        "A landholder with power over tenants and dependents",
+        "A beginner learning a trade from a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cathedral\" in Medieval Life.",
+      "correctAnswer": "A major church serving as a bishop's seat",
+      "wrongAnswers": [
+        "A written grant of rights or privileges",
+        "A person who owed service to a lord in exchange for protection or land",
+        "A trained worker who had not yet become a master"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Illuminated manuscript\" in Medieval Life.",
+      "correctAnswer": "A hand-copied book decorated with images or ornament",
+      "wrongAnswers": [
+        "A social system based on landholding and obligations",
+        "A mounted warrior linked to the feudal system",
+        "A church payment often made as a portion of produce or income"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Black Death\" in Medieval Life.",
+      "correctAnswer": "A devastating plague pandemic in medieval Europe",
+      "wrongAnswers": [
+        "A landed estate that organized rural medieval life",
+        "A fortified residence and defensive structure",
+        "A religious community where monks lived and worked"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Crop rotation\" in Medieval Life.",
+      "correctAnswer": "Changing crops in fields to maintain soil fertility",
+      "wrongAnswers": [
+        "A peasant bound to work land under a lord's control",
+        "An association of craftspeople or merchants",
+        "A journey to a sacred place"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Common land\" in Medieval Life.",
+      "correctAnswer": "Land shared by members of a community",
+      "wrongAnswers": [
+        "A landholder with power over tenants and dependents",
+        "A beginner learning a trade from a master",
+        "A major church serving as a bishop's seat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Market town\" in Medieval Life.",
+      "correctAnswer": "A settlement with rights or customs for regular trade",
+      "wrongAnswers": [
+        "A person who owed service to a lord in exchange for protection or land",
+        "A trained worker who had not yet become a master",
+        "A hand-copied book decorated with images or ornament"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Charter\" in Medieval Life.",
+      "correctAnswer": "A written grant of rights or privileges",
+      "wrongAnswers": [
+        "A mounted warrior linked to the feudal system",
+        "A church payment often made as a portion of produce or income",
+        "A devastating plague pandemic in medieval Europe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feudalism\" in Medieval Life.",
+      "correctAnswer": "A social system based on landholding and obligations",
+      "wrongAnswers": [
+        "A fortified residence and defensive structure",
+        "A religious community where monks lived and worked",
+        "Changing crops in fields to maintain soil fertility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Manor\" in Medieval Life.",
+      "correctAnswer": "A landed estate that organized rural medieval life",
+      "wrongAnswers": [
+        "An association of craftspeople or merchants",
+        "A journey to a sacred place",
+        "Land shared by members of a community"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Serf\" in Medieval Life.",
+      "correctAnswer": "A peasant bound to work land under a lord's control",
+      "wrongAnswers": [
+        "A beginner learning a trade from a master",
+        "A major church serving as a bishop's seat",
+        "A settlement with rights or customs for regular trade"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Lord\" in Medieval Life.",
+      "correctAnswer": "A landholder with power over tenants and dependents",
+      "wrongAnswers": [
+        "A trained worker who had not yet become a master",
+        "A hand-copied book decorated with images or ornament",
+        "A written grant of rights or privileges"
+      ],
+      "timeout": 15
+    }
+  ]
+}

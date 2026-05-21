@@ -1,0 +1,205 @@
+{
+  "title": "Genetics and Heredity Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Allele\" is correct?",
+      "correctAnswer": "Allele: A version of a gene",
+      "wrongAnswers": [
+        "Homozygous: Having two matching alleles for a gene",
+        "Translation: Building a protein using RNA instructions",
+        "Genome: All genetic material in an organism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Genotype\" is correct?",
+      "correctAnswer": "Genotype: The genetic makeup for a trait",
+      "wrongAnswers": [
+        "Heterozygous: Having two different alleles for a gene",
+        "Messenger RNA: RNA that carries genetic instructions from DNA to ribosomes",
+        "Genetic variation: Differences in DNA among individuals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Phenotype\" is correct?",
+      "correctAnswer": "Phenotype: The observable expression of a trait",
+      "wrongAnswers": [
+        "Mutation: A change in DNA sequence",
+        "Punnett square: A diagram used to predict possible inherited traits",
+        "DNA: A molecule that stores hereditary instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dominant allele\" is correct?",
+      "correctAnswer": "Dominant allele: An allele expressed when one copy is present",
+      "wrongAnswers": [
+        "Protein synthesis: The process of making proteins from genetic instructions",
+        "Carrier: An individual who has one recessive disease allele without showing the trait",
+        "Gene: A DNA segment that influences a trait or product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Recessive allele\" is correct?",
+      "correctAnswer": "Recessive allele: An allele expressed when two copies are present",
+      "wrongAnswers": [
+        "Transcription: Copying DNA information into RNA",
+        "Codon: A three-base RNA sequence that specifies an amino acid or stop signal",
+        "Chromosome: A long DNA structure containing many genes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Homozygous\" is correct?",
+      "correctAnswer": "Homozygous: Having two matching alleles for a gene",
+      "wrongAnswers": [
+        "Translation: Building a protein using RNA instructions",
+        "Genome: All genetic material in an organism",
+        "Allele: A version of a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Heterozygous\" is correct?",
+      "correctAnswer": "Heterozygous: Having two different alleles for a gene",
+      "wrongAnswers": [
+        "Messenger RNA: RNA that carries genetic instructions from DNA to ribosomes",
+        "Genetic variation: Differences in DNA among individuals",
+        "Genotype: The genetic makeup for a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mutation\" is correct?",
+      "correctAnswer": "Mutation: A change in DNA sequence",
+      "wrongAnswers": [
+        "Punnett square: A diagram used to predict possible inherited traits",
+        "DNA: A molecule that stores hereditary instructions",
+        "Phenotype: The observable expression of a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Protein synthesis\" is correct?",
+      "correctAnswer": "Protein synthesis: The process of making proteins from genetic instructions",
+      "wrongAnswers": [
+        "Carrier: An individual who has one recessive disease allele without showing the trait",
+        "Gene: A DNA segment that influences a trait or product",
+        "Dominant allele: An allele expressed when one copy is present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Transcription\" is correct?",
+      "correctAnswer": "Transcription: Copying DNA information into RNA",
+      "wrongAnswers": [
+        "Codon: A three-base RNA sequence that specifies an amino acid or stop signal",
+        "Chromosome: A long DNA structure containing many genes",
+        "Recessive allele: An allele expressed when two copies are present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Translation\" is correct?",
+      "correctAnswer": "Translation: Building a protein using RNA instructions",
+      "wrongAnswers": [
+        "Genome: All genetic material in an organism",
+        "Allele: A version of a gene",
+        "Homozygous: Having two matching alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Messenger RNA\" is correct?",
+      "correctAnswer": "Messenger RNA: RNA that carries genetic instructions from DNA to ribosomes",
+      "wrongAnswers": [
+        "Genetic variation: Differences in DNA among individuals",
+        "Genotype: The genetic makeup for a trait",
+        "Heterozygous: Having two different alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Punnett square\" is correct?",
+      "correctAnswer": "Punnett square: A diagram used to predict possible inherited traits",
+      "wrongAnswers": [
+        "DNA: A molecule that stores hereditary instructions",
+        "Phenotype: The observable expression of a trait",
+        "Mutation: A change in DNA sequence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Carrier\" is correct?",
+      "correctAnswer": "Carrier: An individual who has one recessive disease allele without showing the trait",
+      "wrongAnswers": [
+        "Gene: A DNA segment that influences a trait or product",
+        "Dominant allele: An allele expressed when one copy is present",
+        "Protein synthesis: The process of making proteins from genetic instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Codon\" is correct?",
+      "correctAnswer": "Codon: A three-base RNA sequence that specifies an amino acid or stop signal",
+      "wrongAnswers": [
+        "Chromosome: A long DNA structure containing many genes",
+        "Recessive allele: An allele expressed when two copies are present",
+        "Transcription: Copying DNA information into RNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Genome\" is correct?",
+      "correctAnswer": "Genome: All genetic material in an organism",
+      "wrongAnswers": [
+        "Allele: A version of a gene",
+        "Homozygous: Having two matching alleles for a gene",
+        "Translation: Building a protein using RNA instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Genetic variation\" is correct?",
+      "correctAnswer": "Genetic variation: Differences in DNA among individuals",
+      "wrongAnswers": [
+        "Genotype: The genetic makeup for a trait",
+        "Heterozygous: Having two different alleles for a gene",
+        "Messenger RNA: RNA that carries genetic instructions from DNA to ribosomes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"DNA\" is correct?",
+      "correctAnswer": "DNA: A molecule that stores hereditary instructions",
+      "wrongAnswers": [
+        "Phenotype: The observable expression of a trait",
+        "Mutation: A change in DNA sequence",
+        "Punnett square: A diagram used to predict possible inherited traits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gene\" is correct?",
+      "correctAnswer": "Gene: A DNA segment that influences a trait or product",
+      "wrongAnswers": [
+        "Dominant allele: An allele expressed when one copy is present",
+        "Protein synthesis: The process of making proteins from genetic instructions",
+        "Carrier: An individual who has one recessive disease allele without showing the trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Chromosome\" is correct?",
+      "correctAnswer": "Chromosome: A long DNA structure containing many genes",
+      "wrongAnswers": [
+        "Recessive allele: An allele expressed when two copies are present",
+        "Transcription: Copying DNA information into RNA",
+        "Codon: A three-base RNA sequence that specifies an amino acid or stop signal"
+      ],
+      "timeout": 15
+    }
+  ]
+}

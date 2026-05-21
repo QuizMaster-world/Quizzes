@@ -1,0 +1,205 @@
+{
+  "title": "Literary Devices Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Literary Devices, what does \"Metaphor\" mean?",
+      "correctAnswer": "A comparison that says one thing is another",
+      "wrongAnswers": [
+        "Giving human qualities to non-human things",
+        "Using an object or action to represent a larger idea",
+        "A central idea explored by a text"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Simile\" mean?",
+      "correctAnswer": "A comparison using like or as",
+      "wrongAnswers": [
+        "Repeating initial consonant sounds",
+        "A contrast between expectation and reality",
+        "The writer's attitude toward the subject"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Personification\" mean?",
+      "correctAnswer": "Giving human qualities to non-human things",
+      "wrongAnswers": [
+        "Repeating vowel sounds within nearby words",
+        "Hints about events that will happen later",
+        "The emotional atmosphere felt by the reader"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Alliteration\" mean?",
+      "correctAnswer": "Repeating initial consonant sounds",
+      "wrongAnswers": [
+        "A word that imitates a sound",
+        "A scene that shows an earlier time",
+        "Deliberate exaggeration for effect"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Assonance\" mean?",
+      "correctAnswer": "Repeating vowel sounds within nearby words",
+      "wrongAnswers": [
+        "Language that appeals to the senses",
+        "A repeated element with thematic importance",
+        "A phrase that combines contradictory terms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Onomatopoeia\" mean?",
+      "correctAnswer": "A word that imitates a sound",
+      "wrongAnswers": [
+        "Using an object or action to represent a larger idea",
+        "A central idea explored by a text",
+        "A statement that seems contradictory but reveals truth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Imagery\" mean?",
+      "correctAnswer": "Language that appeals to the senses",
+      "wrongAnswers": [
+        "A contrast between expectation and reality",
+        "The writer's attitude toward the subject",
+        "A story with a second symbolic meaning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Symbolism\" mean?",
+      "correctAnswer": "Using an object or action to represent a larger idea",
+      "wrongAnswers": [
+        "Hints about events that will happen later",
+        "The emotional atmosphere felt by the reader",
+        "A reference to another text, event, or idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Irony\" mean?",
+      "correctAnswer": "A contrast between expectation and reality",
+      "wrongAnswers": [
+        "A scene that shows an earlier time",
+        "Deliberate exaggeration for effect",
+        "A comparison that says one thing is another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Foreshadowing\" mean?",
+      "correctAnswer": "Hints about events that will happen later",
+      "wrongAnswers": [
+        "A repeated element with thematic importance",
+        "A phrase that combines contradictory terms",
+        "A comparison using like or as"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Flashback\" mean?",
+      "correctAnswer": "A scene that shows an earlier time",
+      "wrongAnswers": [
+        "A central idea explored by a text",
+        "A statement that seems contradictory but reveals truth",
+        "Giving human qualities to non-human things"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Motif\" mean?",
+      "correctAnswer": "A repeated element with thematic importance",
+      "wrongAnswers": [
+        "The writer's attitude toward the subject",
+        "A story with a second symbolic meaning",
+        "Repeating initial consonant sounds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Theme\" mean?",
+      "correctAnswer": "A central idea explored by a text",
+      "wrongAnswers": [
+        "The emotional atmosphere felt by the reader",
+        "A reference to another text, event, or idea",
+        "Repeating vowel sounds within nearby words"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Tone\" mean?",
+      "correctAnswer": "The writer's attitude toward the subject",
+      "wrongAnswers": [
+        "Deliberate exaggeration for effect",
+        "A comparison that says one thing is another",
+        "A word that imitates a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Mood\" mean?",
+      "correctAnswer": "The emotional atmosphere felt by the reader",
+      "wrongAnswers": [
+        "A phrase that combines contradictory terms",
+        "A comparison using like or as",
+        "Language that appeals to the senses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Hyperbole\" mean?",
+      "correctAnswer": "Deliberate exaggeration for effect",
+      "wrongAnswers": [
+        "A statement that seems contradictory but reveals truth",
+        "Giving human qualities to non-human things",
+        "Using an object or action to represent a larger idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Oxymoron\" mean?",
+      "correctAnswer": "A phrase that combines contradictory terms",
+      "wrongAnswers": [
+        "A story with a second symbolic meaning",
+        "Repeating initial consonant sounds",
+        "A contrast between expectation and reality"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Paradox\" mean?",
+      "correctAnswer": "A statement that seems contradictory but reveals truth",
+      "wrongAnswers": [
+        "A reference to another text, event, or idea",
+        "Repeating vowel sounds within nearby words",
+        "Hints about events that will happen later"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Allegory\" mean?",
+      "correctAnswer": "A story with a second symbolic meaning",
+      "wrongAnswers": [
+        "A comparison that says one thing is another",
+        "A word that imitates a sound",
+        "A scene that shows an earlier time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Literary Devices, what does \"Allusion\" mean?",
+      "correctAnswer": "A reference to another text, event, or idea",
+      "wrongAnswers": [
+        "A comparison using like or as",
+        "Language that appeals to the senses",
+        "A repeated element with thematic importance"
+      ],
+      "timeout": 15
+    }
+  ]
+}

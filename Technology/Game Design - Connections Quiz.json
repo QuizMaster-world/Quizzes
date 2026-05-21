@@ -1,0 +1,205 @@
+{
+  "title": "Game Design Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Game Design concept is described by this clue: The goal a player tries to achieve?",
+      "correctAnswer": "Objective",
+      "wrongAnswers": [
+        "Level design",
+        "Playtesting",
+        "User interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: An obstacle or difficulty for the player?",
+      "correctAnswer": "Challenge",
+      "wrongAnswers": [
+        "Progression",
+        "Prototype",
+        "Game feel"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Information the game gives in response to player action?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Reward",
+        "Non-player character",
+        "Difficulty curve"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Adjusting systems so gameplay feels fair and engaging?",
+      "correctAnswer": "Balance",
+      "wrongAnswers": [
+        "Penalty",
+        "Hitbox",
+        "Emergent gameplay"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Creating spaces, challenges, and pacing for play?",
+      "correctAnswer": "Level design",
+      "wrongAnswers": [
+        "Tutorial",
+        "Collision detection",
+        "Game mechanic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: How player abilities, difficulty, or content change over time?",
+      "correctAnswer": "Progression",
+      "wrongAnswers": [
+        "Playtesting",
+        "User interface",
+        "Core loop"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: A benefit given for player action or achievement?",
+      "correctAnswer": "Reward",
+      "wrongAnswers": [
+        "Prototype",
+        "Game feel",
+        "Objective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: A consequence for mistakes or risky choices?",
+      "correctAnswer": "Penalty",
+      "wrongAnswers": [
+        "Non-player character",
+        "Difficulty curve",
+        "Challenge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Guided introduction to game controls or systems?",
+      "correctAnswer": "Tutorial",
+      "wrongAnswers": [
+        "Hitbox",
+        "Emergent gameplay",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Observing players to evaluate and improve a game?",
+      "correctAnswer": "Playtesting",
+      "wrongAnswers": [
+        "Collision detection",
+        "Game mechanic",
+        "Balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: A rough version built to test an idea?",
+      "correctAnswer": "Prototype",
+      "wrongAnswers": [
+        "User interface",
+        "Core loop",
+        "Level design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: A character controlled by the game rather than the player?",
+      "correctAnswer": "Non-player character",
+      "wrongAnswers": [
+        "Game feel",
+        "Objective",
+        "Progression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: An invisible area used to detect collisions or hits?",
+      "correctAnswer": "Hitbox",
+      "wrongAnswers": [
+        "Difficulty curve",
+        "Challenge",
+        "Reward"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Determining when game objects touch or overlap?",
+      "correctAnswer": "Collision detection",
+      "wrongAnswers": [
+        "Emergent gameplay",
+        "Feedback",
+        "Penalty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: On-screen controls and information for the player?",
+      "correctAnswer": "User interface",
+      "wrongAnswers": [
+        "Game mechanic",
+        "Balance",
+        "Tutorial"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: The responsiveness and sensation of interacting with the game?",
+      "correctAnswer": "Game feel",
+      "wrongAnswers": [
+        "Core loop",
+        "Level design",
+        "Playtesting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: How challenge changes across a game?",
+      "correctAnswer": "Difficulty curve",
+      "wrongAnswers": [
+        "Objective",
+        "Progression",
+        "Prototype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: Unexpected play that arises from interacting systems?",
+      "correctAnswer": "Emergent gameplay",
+      "wrongAnswers": [
+        "Challenge",
+        "Reward",
+        "Non-player character"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: A rule or interaction that shapes play?",
+      "correctAnswer": "Game mechanic",
+      "wrongAnswers": [
+        "Feedback",
+        "Penalty",
+        "Hitbox"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Game Design concept is described by this clue: The repeated sequence of actions that drives gameplay?",
+      "correctAnswer": "Core loop",
+      "wrongAnswers": [
+        "Balance",
+        "Tutorial",
+        "Collision detection"
+      ],
+      "timeout": 15
+    }
+  ]
+}

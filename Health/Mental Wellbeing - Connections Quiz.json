@@ -1,0 +1,205 @@
+{
+  "title": "Mental Wellbeing Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A method used to manage stress or emotion?",
+      "correctAnswer": "Coping strategy",
+      "wrongAnswers": [
+        "Self-care",
+        "Mood",
+        "Growth mindset"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Paying attention to the present moment without judgment?",
+      "correctAnswer": "Mindfulness",
+      "wrongAnswers": [
+        "Support network",
+        "Burnout",
+        "Self-talk"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Habits that support healthy sleep?",
+      "correctAnswer": "Sleep hygiene",
+      "wrongAnswers": [
+        "Active listening",
+        "Gratitude practice",
+        "Help-seeking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A limit set to protect time, energy, or wellbeing?",
+      "correctAnswer": "Boundary",
+      "wrongAnswers": [
+        "Empathy",
+        "Grounding technique",
+        "Wellbeing plan"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Actions that support physical and mental health?",
+      "correctAnswer": "Self-care",
+      "wrongAnswers": [
+        "Anxiety",
+        "Breathing exercise",
+        "Stress"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: People who can provide help or connection?",
+      "correctAnswer": "Support network",
+      "wrongAnswers": [
+        "Mood",
+        "Growth mindset",
+        "Resilience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Listening with attention and showing understanding?",
+      "correctAnswer": "Active listening",
+      "wrongAnswers": [
+        "Burnout",
+        "Self-talk",
+        "Coping strategy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Understanding or sharing another person's feelings?",
+      "correctAnswer": "Empathy",
+      "wrongAnswers": [
+        "Gratitude practice",
+        "Help-seeking",
+        "Mindfulness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A state of worry or fear that can affect thoughts and body?",
+      "correctAnswer": "Anxiety",
+      "wrongAnswers": [
+        "Grounding technique",
+        "Wellbeing plan",
+        "Sleep hygiene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A sustained emotional state?",
+      "correctAnswer": "Mood",
+      "wrongAnswers": [
+        "Breathing exercise",
+        "Stress",
+        "Boundary"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Exhaustion linked to prolonged stress or overload?",
+      "correctAnswer": "Burnout",
+      "wrongAnswers": [
+        "Growth mindset",
+        "Resilience",
+        "Self-care"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Regularly noticing and appreciating positive things?",
+      "correctAnswer": "Gratitude practice",
+      "wrongAnswers": [
+        "Self-talk",
+        "Coping strategy",
+        "Support network"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A strategy for reconnecting attention to the present?",
+      "correctAnswer": "Grounding technique",
+      "wrongAnswers": [
+        "Help-seeking",
+        "Mindfulness",
+        "Active listening"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Controlled breathing used to calm the body?",
+      "correctAnswer": "Breathing exercise",
+      "wrongAnswers": [
+        "Wellbeing plan",
+        "Sleep hygiene",
+        "Empathy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: The belief that abilities can improve through effort and learning?",
+      "correctAnswer": "Growth mindset",
+      "wrongAnswers": [
+        "Stress",
+        "Boundary",
+        "Anxiety"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: The inner language people use toward themselves?",
+      "correctAnswer": "Self-talk",
+      "wrongAnswers": [
+        "Resilience",
+        "Self-care",
+        "Mood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: Reaching out for support when needed?",
+      "correctAnswer": "Help-seeking",
+      "wrongAnswers": [
+        "Coping strategy",
+        "Support network",
+        "Burnout"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: A personal plan for maintaining mental and emotional health?",
+      "correctAnswer": "Wellbeing plan",
+      "wrongAnswers": [
+        "Mindfulness",
+        "Active listening",
+        "Gratitude practice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: The body's response to pressure or demand?",
+      "correctAnswer": "Stress",
+      "wrongAnswers": [
+        "Sleep hygiene",
+        "Empathy",
+        "Grounding technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Mental Wellbeing concept is described by this clue: The ability to recover and adapt after difficulty?",
+      "correctAnswer": "Resilience",
+      "wrongAnswers": [
+        "Boundary",
+        "Anxiety",
+        "Breathing exercise"
+      ],
+      "timeout": 15
+    }
+  ]
+}

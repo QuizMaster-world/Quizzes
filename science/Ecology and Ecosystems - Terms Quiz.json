@@ -1,0 +1,205 @@
+{
+  "title": "Ecology and Ecosystems Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Ecology and Ecosystems, which term means: The place where an organism normally lives?",
+      "correctAnswer": "Habitat",
+      "wrongAnswers": [
+        "Producer",
+        "Predation",
+        "Biodiversity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: Members of the same species living in an area?",
+      "correctAnswer": "Population",
+      "wrongAnswers": [
+        "Consumer",
+        "Competition",
+        "Carrying capacity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: Different populations living and interacting in an area?",
+      "correctAnswer": "Community",
+      "wrongAnswers": [
+        "Decomposer",
+        "Mutualism",
+        "Succession"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: An organism that makes its own food from energy sources?",
+      "correctAnswer": "Producer",
+      "wrongAnswers": [
+        "Food web",
+        "Parasitism",
+        "Keystone species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: An organism that gets energy by eating other organisms?",
+      "correctAnswer": "Consumer",
+      "wrongAnswers": [
+        "Trophic level",
+        "Commensalism",
+        "Invasive species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: An organism that breaks down dead material?",
+      "correctAnswer": "Decomposer",
+      "wrongAnswers": [
+        "Predation",
+        "Biodiversity",
+        "Niche"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A network of feeding relationships?",
+      "correctAnswer": "Food web",
+      "wrongAnswers": [
+        "Competition",
+        "Carrying capacity",
+        "Ecosystem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A feeding position in an ecosystem?",
+      "correctAnswer": "Trophic level",
+      "wrongAnswers": [
+        "Mutualism",
+        "Succession",
+        "Habitat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: An interaction where one organism eats another?",
+      "correctAnswer": "Predation",
+      "wrongAnswers": [
+        "Parasitism",
+        "Keystone species",
+        "Population"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A struggle for limited resources?",
+      "correctAnswer": "Competition",
+      "wrongAnswers": [
+        "Commensalism",
+        "Invasive species",
+        "Community"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A relationship where both species benefit?",
+      "correctAnswer": "Mutualism",
+      "wrongAnswers": [
+        "Biodiversity",
+        "Niche",
+        "Producer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A relationship where one organism benefits and the other is harmed?",
+      "correctAnswer": "Parasitism",
+      "wrongAnswers": [
+        "Carrying capacity",
+        "Ecosystem",
+        "Consumer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A relationship where one species benefits and the other is unaffected?",
+      "correctAnswer": "Commensalism",
+      "wrongAnswers": [
+        "Succession",
+        "Habitat",
+        "Decomposer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: The variety of living things in an area?",
+      "correctAnswer": "Biodiversity",
+      "wrongAnswers": [
+        "Keystone species",
+        "Population",
+        "Food web"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: The largest population an environment can support sustainably?",
+      "correctAnswer": "Carrying capacity",
+      "wrongAnswers": [
+        "Invasive species",
+        "Community",
+        "Trophic level"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: Gradual change in a biological community over time?",
+      "correctAnswer": "Succession",
+      "wrongAnswers": [
+        "Niche",
+        "Producer",
+        "Predation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A species with a large effect on its ecosystem?",
+      "correctAnswer": "Keystone species",
+      "wrongAnswers": [
+        "Ecosystem",
+        "Consumer",
+        "Competition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A non-native species that causes harm in a new area?",
+      "correctAnswer": "Invasive species",
+      "wrongAnswers": [
+        "Habitat",
+        "Decomposer",
+        "Mutualism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: The role and resource use of a species in its environment?",
+      "correctAnswer": "Niche",
+      "wrongAnswers": [
+        "Population",
+        "Food web",
+        "Parasitism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, which term means: A community of organisms interacting with their environment?",
+      "correctAnswer": "Ecosystem",
+      "wrongAnswers": [
+        "Community",
+        "Trophic level",
+        "Commensalism"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Astronomy and Space Science Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Astronomy and Space Science, what does \"Star\" mean?",
+      "correctAnswer": "A luminous sphere of plasma powered by nuclear fusion",
+      "wrongAnswers": [
+        "A natural satellite orbiting a planet or smaller body",
+        "The distance light travels in one year",
+        "Stretching of light toward longer wavelengths"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Planet\" mean?",
+      "correctAnswer": "A large body orbiting a star that clears its orbital neighborhood",
+      "wrongAnswers": [
+        "A rocky small body orbiting the Sun",
+        "The curved path of one body around another",
+        "A planet orbiting a star outside the Solar System"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Moon\" mean?",
+      "correctAnswer": "A natural satellite orbiting a planet or smaller body",
+      "wrongAnswers": [
+        "An icy small body that can form a tail near the Sun",
+        "The attraction between masses",
+        "A powerful stellar explosion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Asteroid\" mean?",
+      "correctAnswer": "A rocky small body orbiting the Sun",
+      "wrongAnswers": [
+        "A huge system of stars, gas, dust, and dark matter",
+        "An instrument that collects and focuses electromagnetic radiation",
+        "A region where gravity prevents light from escaping"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Comet\" mean?",
+      "correctAnswer": "An icy small body that can form a tail near the Sun",
+      "wrongAnswers": [
+        "A cloud of gas and dust in space",
+        "Studying light by separating it into wavelengths",
+        "A dense remnant of a massive star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Galaxy\" mean?",
+      "correctAnswer": "A huge system of stars, gas, dust, and dark matter",
+      "wrongAnswers": [
+        "The distance light travels in one year",
+        "Stretching of light toward longer wavelengths",
+        "A dense remnant left by a Sun-like star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Nebula\" mean?",
+      "correctAnswer": "A cloud of gas and dust in space",
+      "wrongAnswers": [
+        "The curved path of one body around another",
+        "A planet orbiting a star outside the Solar System",
+        "Charged particles flowing outward from the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Light-year\" mean?",
+      "correctAnswer": "The distance light travels in one year",
+      "wrongAnswers": [
+        "The attraction between masses",
+        "A powerful stellar explosion",
+        "The region where liquid water could exist on a planet's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Orbit\" mean?",
+      "correctAnswer": "The curved path of one body around another",
+      "wrongAnswers": [
+        "An instrument that collects and focuses electromagnetic radiation",
+        "A region where gravity prevents light from escaping",
+        "A luminous sphere of plasma powered by nuclear fusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Gravity\" mean?",
+      "correctAnswer": "The attraction between masses",
+      "wrongAnswers": [
+        "Studying light by separating it into wavelengths",
+        "A dense remnant of a massive star",
+        "A large body orbiting a star that clears its orbital neighborhood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Telescope\" mean?",
+      "correctAnswer": "An instrument that collects and focuses electromagnetic radiation",
+      "wrongAnswers": [
+        "Stretching of light toward longer wavelengths",
+        "A dense remnant left by a Sun-like star",
+        "A natural satellite orbiting a planet or smaller body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Spectroscopy\" mean?",
+      "correctAnswer": "Studying light by separating it into wavelengths",
+      "wrongAnswers": [
+        "A planet orbiting a star outside the Solar System",
+        "Charged particles flowing outward from the Sun",
+        "A rocky small body orbiting the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Redshift\" mean?",
+      "correctAnswer": "Stretching of light toward longer wavelengths",
+      "wrongAnswers": [
+        "A powerful stellar explosion",
+        "The region where liquid water could exist on a planet's surface",
+        "An icy small body that can form a tail near the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Exoplanet\" mean?",
+      "correctAnswer": "A planet orbiting a star outside the Solar System",
+      "wrongAnswers": [
+        "A region where gravity prevents light from escaping",
+        "A luminous sphere of plasma powered by nuclear fusion",
+        "A huge system of stars, gas, dust, and dark matter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Supernova\" mean?",
+      "correctAnswer": "A powerful stellar explosion",
+      "wrongAnswers": [
+        "A dense remnant of a massive star",
+        "A large body orbiting a star that clears its orbital neighborhood",
+        "A cloud of gas and dust in space"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Black hole\" mean?",
+      "correctAnswer": "A region where gravity prevents light from escaping",
+      "wrongAnswers": [
+        "A dense remnant left by a Sun-like star",
+        "A natural satellite orbiting a planet or smaller body",
+        "The distance light travels in one year"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Neutron star\" mean?",
+      "correctAnswer": "A dense remnant of a massive star",
+      "wrongAnswers": [
+        "Charged particles flowing outward from the Sun",
+        "A rocky small body orbiting the Sun",
+        "The curved path of one body around another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"White dwarf\" mean?",
+      "correctAnswer": "A dense remnant left by a Sun-like star",
+      "wrongAnswers": [
+        "The region where liquid water could exist on a planet's surface",
+        "An icy small body that can form a tail near the Sun",
+        "The attraction between masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Solar wind\" mean?",
+      "correctAnswer": "Charged particles flowing outward from the Sun",
+      "wrongAnswers": [
+        "A luminous sphere of plasma powered by nuclear fusion",
+        "A huge system of stars, gas, dust, and dark matter",
+        "An instrument that collects and focuses electromagnetic radiation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Astronomy and Space Science, what does \"Habitable zone\" mean?",
+      "correctAnswer": "The region where liquid water could exist on a planet's surface",
+      "wrongAnswers": [
+        "A large body orbiting a star that clears its orbital neighborhood",
+        "A cloud of gas and dust in space",
+        "Studying light by separating it into wavelengths"
+      ],
+      "timeout": 15
+    }
+  ]
+}

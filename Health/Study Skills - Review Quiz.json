@@ -1,0 +1,205 @@
+{
+  "title": "Study Skills Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Dual coding\" in Study Skills.",
+      "correctAnswer": "Combining words with visuals to support learning",
+      "wrongAnswers": [
+        "Scheduling focused periods for specific tasks",
+        "A schedule and method for reviewing material",
+        "Practicing retrieval of information from memory"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cornell notes\" in Study Skills.",
+      "correctAnswer": "A note format with cues, notes, and summary sections",
+      "wrongAnswers": [
+        "Working in short focused intervals separated by breaks",
+        "Thinking about one's own thinking and learning",
+        "Reviewing material at increasing intervals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mind map\" in Study Skills.",
+      "correctAnswer": "A diagram that shows connections among ideas",
+      "wrongAnswers": [
+        "Reducing interruptions during focused work",
+        "Condensing information into the main points",
+        "Mixing related topics during practice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Flashcard\" in Study Skills.",
+      "correctAnswer": "A study card with a prompt on one side and answer on the other",
+      "wrongAnswers": [
+        "Choosing what matters most to work on first",
+        "Adding notes or marks to text while reading",
+        "Explaining ideas in detail and connecting them to prior knowledge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Practice test\" in Study Skills.",
+      "correctAnswer": "A self-check that simulates assessment questions",
+      "wrongAnswers": [
+        "Information used to improve performance",
+        "Reviewing what worked and what should change next time",
+        "Combining words with visuals to support learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Goal setting\" in Study Skills.",
+      "correctAnswer": "Choosing clear targets for learning or work",
+      "wrongAnswers": [
+        "A schedule and method for reviewing material",
+        "Practicing retrieval of information from memory",
+        "A note format with cues, notes, and summary sections"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Time blocking\" in Study Skills.",
+      "correctAnswer": "Scheduling focused periods for specific tasks",
+      "wrongAnswers": [
+        "Thinking about one's own thinking and learning",
+        "Reviewing material at increasing intervals",
+        "A diagram that shows connections among ideas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pomodoro technique\" in Study Skills.",
+      "correctAnswer": "Working in short focused intervals separated by breaks",
+      "wrongAnswers": [
+        "Condensing information into the main points",
+        "Mixing related topics during practice",
+        "A study card with a prompt on one side and answer on the other"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Distraction management\" in Study Skills.",
+      "correctAnswer": "Reducing interruptions during focused work",
+      "wrongAnswers": [
+        "Adding notes or marks to text while reading",
+        "Explaining ideas in detail and connecting them to prior knowledge",
+        "A self-check that simulates assessment questions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Prioritization\" in Study Skills.",
+      "correctAnswer": "Choosing what matters most to work on first",
+      "wrongAnswers": [
+        "Reviewing what worked and what should change next time",
+        "Combining words with visuals to support learning",
+        "Choosing clear targets for learning or work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Feedback\" in Study Skills.",
+      "correctAnswer": "Information used to improve performance",
+      "wrongAnswers": [
+        "Practicing retrieval of information from memory",
+        "A note format with cues, notes, and summary sections",
+        "Scheduling focused periods for specific tasks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Revision plan\" in Study Skills.",
+      "correctAnswer": "A schedule and method for reviewing material",
+      "wrongAnswers": [
+        "Reviewing material at increasing intervals",
+        "A diagram that shows connections among ideas",
+        "Working in short focused intervals separated by breaks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Metacognition\" in Study Skills.",
+      "correctAnswer": "Thinking about one's own thinking and learning",
+      "wrongAnswers": [
+        "Mixing related topics during practice",
+        "A study card with a prompt on one side and answer on the other",
+        "Reducing interruptions during focused work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Summarizing\" in Study Skills.",
+      "correctAnswer": "Condensing information into the main points",
+      "wrongAnswers": [
+        "Explaining ideas in detail and connecting them to prior knowledge",
+        "A self-check that simulates assessment questions",
+        "Choosing what matters most to work on first"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Annotation\" in Study Skills.",
+      "correctAnswer": "Adding notes or marks to text while reading",
+      "wrongAnswers": [
+        "Combining words with visuals to support learning",
+        "Choosing clear targets for learning or work",
+        "Information used to improve performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Reflection\" in Study Skills.",
+      "correctAnswer": "Reviewing what worked and what should change next time",
+      "wrongAnswers": [
+        "A note format with cues, notes, and summary sections",
+        "Scheduling focused periods for specific tasks",
+        "A schedule and method for reviewing material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Active recall\" in Study Skills.",
+      "correctAnswer": "Practicing retrieval of information from memory",
+      "wrongAnswers": [
+        "A diagram that shows connections among ideas",
+        "Working in short focused intervals separated by breaks",
+        "Thinking about one's own thinking and learning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Spaced repetition\" in Study Skills.",
+      "correctAnswer": "Reviewing material at increasing intervals",
+      "wrongAnswers": [
+        "A study card with a prompt on one side and answer on the other",
+        "Reducing interruptions during focused work",
+        "Condensing information into the main points"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Interleaving\" in Study Skills.",
+      "correctAnswer": "Mixing related topics during practice",
+      "wrongAnswers": [
+        "A self-check that simulates assessment questions",
+        "Choosing what matters most to work on first",
+        "Adding notes or marks to text while reading"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Elaboration\" in Study Skills.",
+      "correctAnswer": "Explaining ideas in detail and connecting them to prior knowledge",
+      "wrongAnswers": [
+        "Choosing clear targets for learning or work",
+        "Information used to improve performance",
+        "Reviewing what worked and what should change next time"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Theatre and Performance Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Theatre and Performance, which term means: Words spoken by characters?",
+      "correctAnswer": "Dialogue",
+      "wrongAnswers": [
+        "Blocking",
+        "Lighting design",
+        "Improvisation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: An extended speech by one performer?",
+      "correctAnswer": "Monologue",
+      "wrongAnswers": [
+        "Cue",
+        "Sound design",
+        "Characterization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: A script note describing action, movement, or setting?",
+      "correctAnswer": "Stage direction",
+      "wrongAnswers": [
+        "Prop",
+        "Director",
+        "Projection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Planned movement and positioning of actors?",
+      "correctAnswer": "Blocking",
+      "wrongAnswers": [
+        "Set",
+        "Stage manager",
+        "Ensemble"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: A signal for an actor or technician to act?",
+      "correctAnswer": "Cue",
+      "wrongAnswers": [
+        "Costume",
+        "Rehearsal",
+        "Scene change"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: An object handled or used by performers?",
+      "correctAnswer": "Prop",
+      "wrongAnswers": [
+        "Lighting design",
+        "Improvisation",
+        "Curtain call"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: The physical environment built for a performance?",
+      "correctAnswer": "Set",
+      "wrongAnswers": [
+        "Sound design",
+        "Characterization",
+        "Script"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Clothing worn by performers to support character and setting?",
+      "correctAnswer": "Costume",
+      "wrongAnswers": [
+        "Director",
+        "Projection",
+        "Dialogue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Planning light to shape visibility, mood, and focus?",
+      "correctAnswer": "Lighting design",
+      "wrongAnswers": [
+        "Stage manager",
+        "Ensemble",
+        "Monologue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Planning audio elements for a production?",
+      "correctAnswer": "Sound design",
+      "wrongAnswers": [
+        "Rehearsal",
+        "Scene change",
+        "Stage direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: The person guiding artistic choices in a production?",
+      "correctAnswer": "Director",
+      "wrongAnswers": [
+        "Improvisation",
+        "Curtain call",
+        "Blocking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: The person coordinating rehearsals and live performance logistics?",
+      "correctAnswer": "Stage manager",
+      "wrongAnswers": [
+        "Characterization",
+        "Script",
+        "Cue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Practice time used to prepare a performance?",
+      "correctAnswer": "Rehearsal",
+      "wrongAnswers": [
+        "Projection",
+        "Dialogue",
+        "Prop"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Creating performance material spontaneously?",
+      "correctAnswer": "Improvisation",
+      "wrongAnswers": [
+        "Ensemble",
+        "Monologue",
+        "Set"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Choices that create a believable character?",
+      "correctAnswer": "Characterization",
+      "wrongAnswers": [
+        "Scene change",
+        "Stage direction",
+        "Costume"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Using voice so an audience can hear clearly?",
+      "correctAnswer": "Projection",
+      "wrongAnswers": [
+        "Curtain call",
+        "Blocking",
+        "Lighting design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Performers working together as a group?",
+      "correctAnswer": "Ensemble",
+      "wrongAnswers": [
+        "Script",
+        "Cue",
+        "Sound design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: A transition from one staged moment or setting to another?",
+      "correctAnswer": "Scene change",
+      "wrongAnswers": [
+        "Dialogue",
+        "Prop",
+        "Director"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: Performers returning to receive audience applause?",
+      "correctAnswer": "Curtain call",
+      "wrongAnswers": [
+        "Monologue",
+        "Set",
+        "Stage manager"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, which term means: The written text of a performance?",
+      "correctAnswer": "Script",
+      "wrongAnswers": [
+        "Stage direction",
+        "Costume",
+        "Rehearsal"
+      ],
+      "timeout": 15
+    }
+  ]
+}

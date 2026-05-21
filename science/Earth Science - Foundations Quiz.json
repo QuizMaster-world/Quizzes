@@ -1,0 +1,205 @@
+{
+  "title": "Earth Science Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Earth Science, what does \"Plate tectonics\" mean?",
+      "correctAnswer": "The theory that Earth's outer shell is divided into moving plates",
+      "wrongAnswers": [
+        "A softer mantle layer beneath the lithosphere",
+        "Rock changed by heat, pressure, or fluids",
+        "The surface point above an earthquake focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Lithosphere\" mean?",
+      "correctAnswer": "Earth's rigid outer layer of crust and upper mantle",
+      "wrongAnswers": [
+        "Molten rock beneath Earth's surface",
+        "Breaking down rock at Earth's surface",
+        "Energy wave produced by an earthquake"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Asthenosphere\" mean?",
+      "correctAnswer": "A softer mantle layer beneath the lithosphere",
+      "wrongAnswers": [
+        "Molten rock that reaches Earth's surface",
+        "Moving weathered material by water, wind, ice, or gravity",
+        "An opening where molten material and gases may erupt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Magma\" mean?",
+      "correctAnswer": "Molten rock beneath Earth's surface",
+      "wrongAnswers": [
+        "Rock formed from cooled molten material",
+        "Dropping sediment in a new location",
+        "Preserved evidence of past life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Lava\" mean?",
+      "correctAnswer": "Molten rock that reaches Earth's surface",
+      "wrongAnswers": [
+        "Rock formed from compacted sediment",
+        "A fracture where rocks have moved",
+        "Layers of sedimentary rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Igneous rock\" mean?",
+      "correctAnswer": "Rock formed from cooled molten material",
+      "wrongAnswers": [
+        "Rock changed by heat, pressure, or fluids",
+        "The surface point above an earthquake focus",
+        "The processes that transform rocks among major types"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Sedimentary rock\" mean?",
+      "correctAnswer": "Rock formed from compacted sediment",
+      "wrongAnswers": [
+        "Breaking down rock at Earth's surface",
+        "Energy wave produced by an earthquake",
+        "The thick layer of Earth between crust and core"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Metamorphic rock\" mean?",
+      "correctAnswer": "Rock changed by heat, pressure, or fluids",
+      "wrongAnswers": [
+        "Moving weathered material by water, wind, ice, or gravity",
+        "An opening where molten material and gases may erupt",
+        "Earth's central region rich in iron and nickel"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Weathering\" mean?",
+      "correctAnswer": "Breaking down rock at Earth's surface",
+      "wrongAnswers": [
+        "Dropping sediment in a new location",
+        "Preserved evidence of past life",
+        "The theory that Earth's outer shell is divided into moving plates"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Erosion\" mean?",
+      "correctAnswer": "Moving weathered material by water, wind, ice, or gravity",
+      "wrongAnswers": [
+        "A fracture where rocks have moved",
+        "Layers of sedimentary rock",
+        "Earth's rigid outer layer of crust and upper mantle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Deposition\" mean?",
+      "correctAnswer": "Dropping sediment in a new location",
+      "wrongAnswers": [
+        "The surface point above an earthquake focus",
+        "The processes that transform rocks among major types",
+        "A softer mantle layer beneath the lithosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Fault\" mean?",
+      "correctAnswer": "A fracture where rocks have moved",
+      "wrongAnswers": [
+        "Energy wave produced by an earthquake",
+        "The thick layer of Earth between crust and core",
+        "Molten rock beneath Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Epicenter\" mean?",
+      "correctAnswer": "The surface point above an earthquake focus",
+      "wrongAnswers": [
+        "An opening where molten material and gases may erupt",
+        "Earth's central region rich in iron and nickel",
+        "Molten rock that reaches Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Seismic wave\" mean?",
+      "correctAnswer": "Energy wave produced by an earthquake",
+      "wrongAnswers": [
+        "Preserved evidence of past life",
+        "The theory that Earth's outer shell is divided into moving plates",
+        "Rock formed from cooled molten material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Volcano\" mean?",
+      "correctAnswer": "An opening where molten material and gases may erupt",
+      "wrongAnswers": [
+        "Layers of sedimentary rock",
+        "Earth's rigid outer layer of crust and upper mantle",
+        "Rock formed from compacted sediment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Fossil\" mean?",
+      "correctAnswer": "Preserved evidence of past life",
+      "wrongAnswers": [
+        "The processes that transform rocks among major types",
+        "A softer mantle layer beneath the lithosphere",
+        "Rock changed by heat, pressure, or fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Strata\" mean?",
+      "correctAnswer": "Layers of sedimentary rock",
+      "wrongAnswers": [
+        "The thick layer of Earth between crust and core",
+        "Molten rock beneath Earth's surface",
+        "Breaking down rock at Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Rock cycle\" mean?",
+      "correctAnswer": "The processes that transform rocks among major types",
+      "wrongAnswers": [
+        "Earth's central region rich in iron and nickel",
+        "Molten rock that reaches Earth's surface",
+        "Moving weathered material by water, wind, ice, or gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Mantle\" mean?",
+      "correctAnswer": "The thick layer of Earth between crust and core",
+      "wrongAnswers": [
+        "The theory that Earth's outer shell is divided into moving plates",
+        "Rock formed from cooled molten material",
+        "Dropping sediment in a new location"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Earth Science, what does \"Core\" mean?",
+      "correctAnswer": "Earth's central region rich in iron and nickel",
+      "wrongAnswers": [
+        "Earth's rigid outer layer of crust and upper mantle",
+        "Rock formed from compacted sediment",
+        "A fracture where rocks have moved"
+      ],
+      "timeout": 15
+    }
+  ]
+}

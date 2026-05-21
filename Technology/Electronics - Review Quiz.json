@@ -1,0 +1,205 @@
+{
+  "title": "Electronics Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Resistor\" in Electronics.",
+      "correctAnswer": "A component that limits current",
+      "wrongAnswers": [
+        "A component that opens or closes a circuit",
+        "A tool for measuring electrical quantities",
+        "A path that allows electric current to flow"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Capacitor\" in Electronics.",
+      "correctAnswer": "A component that stores electric charge",
+      "wrongAnswers": [
+        "A device that provides electrical energy from chemical reactions",
+        "A device that detects a physical condition",
+        "The flow of electric charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Inductor\" in Electronics.",
+      "correctAnswer": "A component that stores energy in a magnetic field",
+      "wrongAnswers": [
+        "A reference point for voltage in a circuit",
+        "A device that creates physical action from a signal",
+        "Electric potential difference that pushes charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Diode\" in Electronics.",
+      "correctAnswer": "A component that allows current mainly in one direction",
+      "wrongAnswers": [
+        "A reusable board for building temporary circuits",
+        "A small computer on a chip used to control devices",
+        "Opposition to electric current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"LED\" in Electronics.",
+      "correctAnswer": "A diode that emits light when current flows",
+      "wrongAnswers": [
+        "Joining metal parts using melted filler metal",
+        "A board with conductive paths for electronic components",
+        "A component that limits current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Transistor\" in Electronics.",
+      "correctAnswer": "A component used for switching or amplification",
+      "wrongAnswers": [
+        "A tool for measuring electrical quantities",
+        "A path that allows electric current to flow",
+        "A component that stores electric charge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Switch\" in Electronics.",
+      "correctAnswer": "A component that opens or closes a circuit",
+      "wrongAnswers": [
+        "A device that detects a physical condition",
+        "The flow of electric charge",
+        "A component that stores energy in a magnetic field"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Battery\" in Electronics.",
+      "correctAnswer": "A device that provides electrical energy from chemical reactions",
+      "wrongAnswers": [
+        "A device that creates physical action from a signal",
+        "Electric potential difference that pushes charge",
+        "A component that allows current mainly in one direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ground\" in Electronics.",
+      "correctAnswer": "A reference point for voltage in a circuit",
+      "wrongAnswers": [
+        "A small computer on a chip used to control devices",
+        "Opposition to electric current",
+        "A diode that emits light when current flows"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Breadboard\" in Electronics.",
+      "correctAnswer": "A reusable board for building temporary circuits",
+      "wrongAnswers": [
+        "A board with conductive paths for electronic components",
+        "A component that limits current",
+        "A component used for switching or amplification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Soldering\" in Electronics.",
+      "correctAnswer": "Joining metal parts using melted filler metal",
+      "wrongAnswers": [
+        "A path that allows electric current to flow",
+        "A component that stores electric charge",
+        "A component that opens or closes a circuit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Multimeter\" in Electronics.",
+      "correctAnswer": "A tool for measuring electrical quantities",
+      "wrongAnswers": [
+        "The flow of electric charge",
+        "A component that stores energy in a magnetic field",
+        "A device that provides electrical energy from chemical reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sensor\" in Electronics.",
+      "correctAnswer": "A device that detects a physical condition",
+      "wrongAnswers": [
+        "Electric potential difference that pushes charge",
+        "A component that allows current mainly in one direction",
+        "A reference point for voltage in a circuit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Actuator\" in Electronics.",
+      "correctAnswer": "A device that creates physical action from a signal",
+      "wrongAnswers": [
+        "Opposition to electric current",
+        "A diode that emits light when current flows",
+        "A reusable board for building temporary circuits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Microcontroller\" in Electronics.",
+      "correctAnswer": "A small computer on a chip used to control devices",
+      "wrongAnswers": [
+        "A component that limits current",
+        "A component used for switching or amplification",
+        "Joining metal parts using melted filler metal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Printed circuit board\" in Electronics.",
+      "correctAnswer": "A board with conductive paths for electronic components",
+      "wrongAnswers": [
+        "A component that stores electric charge",
+        "A component that opens or closes a circuit",
+        "A tool for measuring electrical quantities"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Circuit\" in Electronics.",
+      "correctAnswer": "A path that allows electric current to flow",
+      "wrongAnswers": [
+        "A component that stores energy in a magnetic field",
+        "A device that provides electrical energy from chemical reactions",
+        "A device that detects a physical condition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Current\" in Electronics.",
+      "correctAnswer": "The flow of electric charge",
+      "wrongAnswers": [
+        "A component that allows current mainly in one direction",
+        "A reference point for voltage in a circuit",
+        "A device that creates physical action from a signal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Voltage\" in Electronics.",
+      "correctAnswer": "Electric potential difference that pushes charge",
+      "wrongAnswers": [
+        "A diode that emits light when current flows",
+        "A reusable board for building temporary circuits",
+        "A small computer on a chip used to control devices"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Resistance\" in Electronics.",
+      "correctAnswer": "Opposition to electric current",
+      "wrongAnswers": [
+        "A component used for switching or amplification",
+        "Joining metal parts using melted filler metal",
+        "A board with conductive paths for electronic components"
+      ],
+      "timeout": 15
+    }
+  ]
+}

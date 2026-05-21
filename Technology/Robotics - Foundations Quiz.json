@@ -1,0 +1,205 @@
+{
+  "title": "Robotics Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Robotics, what does \"Robot\" mean?",
+      "correctAnswer": "A machine that can sense, decide, or act in its environment",
+      "wrongAnswers": [
+        "A device that converts signals into movement or action",
+        "The system that processes inputs and commands outputs",
+        "Detecting and moving around objects in the way"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Sensor\" mean?",
+      "correctAnswer": "A device that detects information from the environment",
+      "wrongAnswers": [
+        "An actuator that produces rotational motion",
+        "Information returned to adjust robot behavior",
+        "Determining a robot's position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Actuator\" mean?",
+      "correctAnswer": "A device that converts signals into movement or action",
+      "wrongAnswers": [
+        "A motor system that moves to controlled positions",
+        "The ability to operate without direct human control",
+        "Building a representation of an environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Motor\" mean?",
+      "correctAnswer": "An actuator that produces rotational motion",
+      "wrongAnswers": [
+        "The tool or gripper at the end of a robot arm",
+        "Remote control of a robot by a human",
+        "A robotic arm or device used to move objects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Servo\" mean?",
+      "correctAnswer": "A motor system that moves to controlled positions",
+      "wrongAnswers": [
+        "The structural frame of a robot",
+        "Finding a route for a robot to follow",
+        "An independent direction or rotation a robot can move"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"End effector\" mean?",
+      "correctAnswer": "The tool or gripper at the end of a robot arm",
+      "wrongAnswers": [
+        "The system that processes inputs and commands outputs",
+        "Detecting and moving around objects in the way",
+        "The study of robot motion without focusing on forces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Chassis\" mean?",
+      "correctAnswer": "The structural frame of a robot",
+      "wrongAnswers": [
+        "Information returned to adjust robot behavior",
+        "Determining a robot's position",
+        "The weight a robot can carry or manipulate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Controller\" mean?",
+      "correctAnswer": "The system that processes inputs and commands outputs",
+      "wrongAnswers": [
+        "The ability to operate without direct human control",
+        "Building a representation of an environment",
+        "Adjusting a robot or sensor for accurate operation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Feedback\" mean?",
+      "correctAnswer": "Information returned to adjust robot behavior",
+      "wrongAnswers": [
+        "Remote control of a robot by a human",
+        "A robotic arm or device used to move objects",
+        "A machine that can sense, decide, or act in its environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Autonomy\" mean?",
+      "correctAnswer": "The ability to operate without direct human control",
+      "wrongAnswers": [
+        "Finding a route for a robot to follow",
+        "An independent direction or rotation a robot can move",
+        "A device that detects information from the environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Teleoperation\" mean?",
+      "correctAnswer": "Remote control of a robot by a human",
+      "wrongAnswers": [
+        "Detecting and moving around objects in the way",
+        "The study of robot motion without focusing on forces",
+        "A device that converts signals into movement or action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Path planning\" mean?",
+      "correctAnswer": "Finding a route for a robot to follow",
+      "wrongAnswers": [
+        "Determining a robot's position",
+        "The weight a robot can carry or manipulate",
+        "An actuator that produces rotational motion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Obstacle avoidance\" mean?",
+      "correctAnswer": "Detecting and moving around objects in the way",
+      "wrongAnswers": [
+        "Building a representation of an environment",
+        "Adjusting a robot or sensor for accurate operation",
+        "A motor system that moves to controlled positions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Localization\" mean?",
+      "correctAnswer": "Determining a robot's position",
+      "wrongAnswers": [
+        "A robotic arm or device used to move objects",
+        "A machine that can sense, decide, or act in its environment",
+        "The tool or gripper at the end of a robot arm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Mapping\" mean?",
+      "correctAnswer": "Building a representation of an environment",
+      "wrongAnswers": [
+        "An independent direction or rotation a robot can move",
+        "A device that detects information from the environment",
+        "The structural frame of a robot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Manipulator\" mean?",
+      "correctAnswer": "A robotic arm or device used to move objects",
+      "wrongAnswers": [
+        "The study of robot motion without focusing on forces",
+        "A device that converts signals into movement or action",
+        "The system that processes inputs and commands outputs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Degree of freedom\" mean?",
+      "correctAnswer": "An independent direction or rotation a robot can move",
+      "wrongAnswers": [
+        "The weight a robot can carry or manipulate",
+        "An actuator that produces rotational motion",
+        "Information returned to adjust robot behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Kinematics\" mean?",
+      "correctAnswer": "The study of robot motion without focusing on forces",
+      "wrongAnswers": [
+        "Adjusting a robot or sensor for accurate operation",
+        "A motor system that moves to controlled positions",
+        "The ability to operate without direct human control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Payload\" mean?",
+      "correctAnswer": "The weight a robot can carry or manipulate",
+      "wrongAnswers": [
+        "A machine that can sense, decide, or act in its environment",
+        "The tool or gripper at the end of a robot arm",
+        "Remote control of a robot by a human"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, what does \"Calibration\" mean?",
+      "correctAnswer": "Adjusting a robot or sensor for accurate operation",
+      "wrongAnswers": [
+        "A device that detects information from the environment",
+        "The structural frame of a robot",
+        "Finding a route for a robot to follow"
+      ],
+      "timeout": 15
+    }
+  ]
+}

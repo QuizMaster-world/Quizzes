@@ -1,0 +1,205 @@
+{
+  "title": "Archaeology Methods Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: A place containing evidence of past human activity?",
+      "correctAnswer": "Site",
+      "wrongAnswers": [
+        "Context",
+        "Pottery sherd",
+        "Remote sensing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Systematic searching for archaeological evidence?",
+      "correctAnswer": "Survey",
+      "wrongAnswers": [
+        "Provenance",
+        "Lithic",
+        "Ground-penetrating radar"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Careful digging to uncover and record buried evidence?",
+      "correctAnswer": "Excavation",
+      "wrongAnswers": [
+        "Typology",
+        "Ecofact",
+        "Ethnoarchaeology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Studying layers to understand sequence and context?",
+      "correctAnswer": "Stratigraphy",
+      "wrongAnswers": [
+        "Radiocarbon dating",
+        "Conservation",
+        "Public archaeology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: The location and relationship of evidence within a site?",
+      "correctAnswer": "Context",
+      "wrongAnswers": [
+        "Dendrochronology",
+        "Cataloging",
+        "Artifact"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: The precise origin or findspot of an object?",
+      "correctAnswer": "Provenance",
+      "wrongAnswers": [
+        "Pottery sherd",
+        "Remote sensing",
+        "Feature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Classifying artifacts by shared characteristics?",
+      "correctAnswer": "Typology",
+      "wrongAnswers": [
+        "Lithic",
+        "Ground-penetrating radar",
+        "Site"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Dating once-living material using carbon isotopes?",
+      "correctAnswer": "Radiocarbon dating",
+      "wrongAnswers": [
+        "Ecofact",
+        "Ethnoarchaeology",
+        "Survey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Dating wood by comparing tree-ring patterns?",
+      "correctAnswer": "Dendrochronology",
+      "wrongAnswers": [
+        "Conservation",
+        "Public archaeology",
+        "Excavation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: A fragment of broken ceramic material?",
+      "correctAnswer": "Pottery sherd",
+      "wrongAnswers": [
+        "Cataloging",
+        "Artifact",
+        "Stratigraphy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: A stone tool or stone-tool material?",
+      "correctAnswer": "Lithic",
+      "wrongAnswers": [
+        "Remote sensing",
+        "Feature",
+        "Context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Natural material that gives evidence about past environments or diet?",
+      "correctAnswer": "Ecofact",
+      "wrongAnswers": [
+        "Ground-penetrating radar",
+        "Site",
+        "Provenance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Stabilizing and preserving archaeological materials?",
+      "correctAnswer": "Conservation",
+      "wrongAnswers": [
+        "Ethnoarchaeology",
+        "Survey",
+        "Typology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Recording finds in an organized system?",
+      "correctAnswer": "Cataloging",
+      "wrongAnswers": [
+        "Public archaeology",
+        "Excavation",
+        "Radiocarbon dating"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Detecting buried or distant features without direct excavation?",
+      "correctAnswer": "Remote sensing",
+      "wrongAnswers": [
+        "Artifact",
+        "Stratigraphy",
+        "Dendrochronology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: A method using radar pulses to detect subsurface features?",
+      "correctAnswer": "Ground-penetrating radar",
+      "wrongAnswers": [
+        "Feature",
+        "Context",
+        "Pottery sherd"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Studying living communities to interpret material culture?",
+      "correctAnswer": "Ethnoarchaeology",
+      "wrongAnswers": [
+        "Site",
+        "Provenance",
+        "Lithic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: Archaeology that involves or communicates with the wider public?",
+      "correctAnswer": "Public archaeology",
+      "wrongAnswers": [
+        "Survey",
+        "Typology",
+        "Ecofact"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: An object made or modified by humans?",
+      "correctAnswer": "Artifact",
+      "wrongAnswers": [
+        "Excavation",
+        "Radiocarbon dating",
+        "Conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Archaeology Methods concept is described by this clue: A non-portable trace of human activity such as a hearth or wall?",
+      "correctAnswer": "Feature",
+      "wrongAnswers": [
+        "Stratigraphy",
+        "Dendrochronology",
+        "Cataloging"
+      ],
+      "timeout": 15
+    }
+  ]
+}

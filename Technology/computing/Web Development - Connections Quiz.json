@@ -1,0 +1,205 @@
+{
+  "title": "Web Development Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Web Development concept is described by this clue: A programming language commonly used for web interactivity?",
+      "correctAnswer": "JavaScript",
+      "wrongAnswers": [
+        "Grid layout",
+        "Status code",
+        "CORS"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A tree representation of a web document?",
+      "correctAnswer": "DOM",
+      "wrongAnswers": [
+        "Media query",
+        "Cookie",
+        "Form validation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: An HTML element that communicates meaning about its content?",
+      "correctAnswer": "Semantic element",
+      "wrongAnswers": [
+        "Responsive design",
+        "Local storage",
+        "Accessibility"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A CSS layout model for arranging items in one dimension?",
+      "correctAnswer": "Flexbox",
+      "wrongAnswers": [
+        "HTTP request",
+        "API endpoint",
+        "Progressive enhancement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A CSS layout model for arranging items in rows and columns?",
+      "correctAnswer": "Grid layout",
+      "wrongAnswers": [
+        "HTTP response",
+        "JSON",
+        "HTML"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A CSS rule that applies styles under certain device conditions?",
+      "correctAnswer": "Media query",
+      "wrongAnswers": [
+        "Status code",
+        "CORS",
+        "CSS"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Design that adapts to different screen sizes and contexts?",
+      "correctAnswer": "Responsive design",
+      "wrongAnswers": [
+        "Cookie",
+        "Form validation",
+        "JavaScript"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A message sent by a client to ask a server for an action?",
+      "correctAnswer": "HTTP request",
+      "wrongAnswers": [
+        "Local storage",
+        "Accessibility",
+        "DOM"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A message returned by a server after a request?",
+      "correctAnswer": "HTTP response",
+      "wrongAnswers": [
+        "API endpoint",
+        "Progressive enhancement",
+        "Semantic element"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A numeric result that describes an HTTP response?",
+      "correctAnswer": "Status code",
+      "wrongAnswers": [
+        "JSON",
+        "HTML",
+        "Flexbox"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Small site data stored by a browser?",
+      "correctAnswer": "Cookie",
+      "wrongAnswers": [
+        "CORS",
+        "CSS",
+        "Grid layout"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Persistent key-value storage in a browser?",
+      "correctAnswer": "Local storage",
+      "wrongAnswers": [
+        "Form validation",
+        "JavaScript",
+        "Media query"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A specific address where a service accepts requests?",
+      "correctAnswer": "API endpoint",
+      "wrongAnswers": [
+        "Accessibility",
+        "DOM",
+        "Responsive design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A text format for structured data?",
+      "correctAnswer": "JSON",
+      "wrongAnswers": [
+        "Progressive enhancement",
+        "Semantic element",
+        "HTTP request"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A browser security policy for cross-origin requests?",
+      "correctAnswer": "CORS",
+      "wrongAnswers": [
+        "HTML",
+        "Flexbox",
+        "HTTP response"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Checking submitted values before accepting them?",
+      "correctAnswer": "Form validation",
+      "wrongAnswers": [
+        "CSS",
+        "Grid layout",
+        "Status code"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Designing software so people with different needs can use it?",
+      "correctAnswer": "Accessibility",
+      "wrongAnswers": [
+        "JavaScript",
+        "Media query",
+        "Cookie"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: Building a basic experience first and adding advanced features when supported?",
+      "correctAnswer": "Progressive enhancement",
+      "wrongAnswers": [
+        "DOM",
+        "Responsive design",
+        "Local storage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A markup language used to structure web content?",
+      "correctAnswer": "HTML",
+      "wrongAnswers": [
+        "Semantic element",
+        "HTTP request",
+        "API endpoint"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Web Development concept is described by this clue: A style language used to control presentation and layout?",
+      "correctAnswer": "CSS",
+      "wrongAnswers": [
+        "Flexbox",
+        "HTTP response",
+        "JSON"
+      ],
+      "timeout": 15
+    }
+  ]
+}

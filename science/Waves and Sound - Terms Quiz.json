@@ -1,0 +1,205 @@
+{
+  "title": "Waves and Sound Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Waves and Sound, which term means: The maximum displacement from a wave's resting position?",
+      "correctAnswer": "Amplitude",
+      "wrongAnswers": [
+        "Period",
+        "Compression",
+        "Interference"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The distance between matching points on neighboring waves?",
+      "correctAnswer": "Wavelength",
+      "wrongAnswers": [
+        "Crest",
+        "Rarefaction",
+        "Resonance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: How often wave cycles pass a point?",
+      "correctAnswer": "Frequency",
+      "wrongAnswers": [
+        "Trough",
+        "Reflection",
+        "Pitch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The time for one complete wave cycle?",
+      "correctAnswer": "Period",
+      "wrongAnswers": [
+        "Longitudinal wave",
+        "Refraction",
+        "Loudness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The highest point of a transverse wave?",
+      "correctAnswer": "Crest",
+      "wrongAnswers": [
+        "Transverse wave",
+        "Diffraction",
+        "Echo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The lowest point of a transverse wave?",
+      "correctAnswer": "Trough",
+      "wrongAnswers": [
+        "Compression",
+        "Interference",
+        "Ultrasound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A wave where particles vibrate parallel to travel direction?",
+      "correctAnswer": "Longitudinal wave",
+      "wrongAnswers": [
+        "Rarefaction",
+        "Resonance",
+        "Wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A wave where particles vibrate perpendicular to travel direction?",
+      "correctAnswer": "Transverse wave",
+      "wrongAnswers": [
+        "Reflection",
+        "Pitch",
+        "Amplitude"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A crowded region in a longitudinal wave?",
+      "correctAnswer": "Compression",
+      "wrongAnswers": [
+        "Refraction",
+        "Loudness",
+        "Wavelength"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A spread-out region in a longitudinal wave?",
+      "correctAnswer": "Rarefaction",
+      "wrongAnswers": [
+        "Diffraction",
+        "Echo",
+        "Frequency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A wave bouncing from a boundary?",
+      "correctAnswer": "Reflection",
+      "wrongAnswers": [
+        "Interference",
+        "Ultrasound",
+        "Period"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A wave changing direction as speed changes in a new medium?",
+      "correctAnswer": "Refraction",
+      "wrongAnswers": [
+        "Resonance",
+        "Wave",
+        "Crest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A wave spreading around obstacles or through gaps?",
+      "correctAnswer": "Diffraction",
+      "wrongAnswers": [
+        "Pitch",
+        "Amplitude",
+        "Trough"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: Overlapping waves combining their effects?",
+      "correctAnswer": "Interference",
+      "wrongAnswers": [
+        "Loudness",
+        "Wavelength",
+        "Longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: Large vibration caused by matching a natural frequency?",
+      "correctAnswer": "Resonance",
+      "wrongAnswers": [
+        "Echo",
+        "Frequency",
+        "Transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The perceived highness or lowness of a sound?",
+      "correctAnswer": "Pitch",
+      "wrongAnswers": [
+        "Ultrasound",
+        "Period",
+        "Compression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: The perceived strength of a sound?",
+      "correctAnswer": "Loudness",
+      "wrongAnswers": [
+        "Wave",
+        "Crest",
+        "Rarefaction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A reflected sound heard after the original?",
+      "correctAnswer": "Echo",
+      "wrongAnswers": [
+        "Amplitude",
+        "Trough",
+        "Reflection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: Sound with frequency above human hearing range?",
+      "correctAnswer": "Ultrasound",
+      "wrongAnswers": [
+        "Wavelength",
+        "Longitudinal wave",
+        "Refraction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Waves and Sound, which term means: A disturbance that transfers energy through space or a medium?",
+      "correctAnswer": "Wave",
+      "wrongAnswers": [
+        "Frequency",
+        "Transverse wave",
+        "Diffraction"
+      ],
+      "timeout": 15
+    }
+  ]
+}

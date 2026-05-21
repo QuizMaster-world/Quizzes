@@ -1,0 +1,205 @@
+{
+  "title": "Visual Art Techniques Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Visual Art Techniques, what does \"Line\" mean?",
+      "correctAnswer": "A mark that can define shape, direction, and movement",
+      "wrongAnswers": [
+        "A three-dimensional object or the illusion of one",
+        "A method for creating the illusion of depth",
+        "A quick drawing that captures movement or pose"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Shape\" mean?",
+      "correctAnswer": "A flat enclosed area",
+      "wrongAnswers": [
+        "The lightness or darkness of a color",
+        "The area that draws the viewer's attention",
+        "A drawing that emphasizes outlines and edges"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Form\" mean?",
+      "correctAnswer": "A three-dimensional object or the illusion of one",
+      "wrongAnswers": [
+        "The surface quality seen or felt in artwork",
+        "Difference between visual elements",
+        "Using value to suggest light and form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Value\" mean?",
+      "correctAnswer": "The lightness or darkness of a color",
+      "wrongAnswers": [
+        "A pleasing relationship among colors",
+        "The distribution of visual weight",
+        "Smoothly transitioning between tones or colors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Texture\" mean?",
+      "correctAnswer": "The surface quality seen or felt in artwork",
+      "wrongAnswers": [
+        "The arrangement of visual elements",
+        "The size relationship between parts",
+        "Building an image through multiple applications of media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Color harmony\" mean?",
+      "correctAnswer": "A pleasing relationship among colors",
+      "wrongAnswers": [
+        "A method for creating the illusion of depth",
+        "A quick drawing that captures movement or pose",
+        "A thin transparent layer of paint or ink"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Composition\" mean?",
+      "correctAnswer": "The arrangement of visual elements",
+      "wrongAnswers": [
+        "The area that draws the viewer's attention",
+        "A drawing that emphasizes outlines and edges",
+        "The area around and between subjects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Perspective\" mean?",
+      "correctAnswer": "A method for creating the illusion of depth",
+      "wrongAnswers": [
+        "Difference between visual elements",
+        "Using value to suggest light and form",
+        "Artwork made with more than one material or technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Focal point\" mean?",
+      "correctAnswer": "The area that draws the viewer's attention",
+      "wrongAnswers": [
+        "The distribution of visual weight",
+        "Smoothly transitioning between tones or colors",
+        "A mark that can define shape, direction, and movement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Contrast\" mean?",
+      "correctAnswer": "Difference between visual elements",
+      "wrongAnswers": [
+        "The size relationship between parts",
+        "Building an image through multiple applications of media",
+        "A flat enclosed area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Balance\" mean?",
+      "correctAnswer": "The distribution of visual weight",
+      "wrongAnswers": [
+        "A quick drawing that captures movement or pose",
+        "A thin transparent layer of paint or ink",
+        "A three-dimensional object or the illusion of one"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Proportion\" mean?",
+      "correctAnswer": "The size relationship between parts",
+      "wrongAnswers": [
+        "A drawing that emphasizes outlines and edges",
+        "The area around and between subjects",
+        "The lightness or darkness of a color"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Gesture drawing\" mean?",
+      "correctAnswer": "A quick drawing that captures movement or pose",
+      "wrongAnswers": [
+        "Using value to suggest light and form",
+        "Artwork made with more than one material or technique",
+        "The surface quality seen or felt in artwork"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Contour drawing\" mean?",
+      "correctAnswer": "A drawing that emphasizes outlines and edges",
+      "wrongAnswers": [
+        "Smoothly transitioning between tones or colors",
+        "A mark that can define shape, direction, and movement",
+        "A pleasing relationship among colors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Shading\" mean?",
+      "correctAnswer": "Using value to suggest light and form",
+      "wrongAnswers": [
+        "Building an image through multiple applications of media",
+        "A flat enclosed area",
+        "The arrangement of visual elements"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Blending\" mean?",
+      "correctAnswer": "Smoothly transitioning between tones or colors",
+      "wrongAnswers": [
+        "A thin transparent layer of paint or ink",
+        "A three-dimensional object or the illusion of one",
+        "A method for creating the illusion of depth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Layering\" mean?",
+      "correctAnswer": "Building an image through multiple applications of media",
+      "wrongAnswers": [
+        "The area around and between subjects",
+        "The lightness or darkness of a color",
+        "The area that draws the viewer's attention"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Wash\" mean?",
+      "correctAnswer": "A thin transparent layer of paint or ink",
+      "wrongAnswers": [
+        "Artwork made with more than one material or technique",
+        "The surface quality seen or felt in artwork",
+        "Difference between visual elements"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Negative space\" mean?",
+      "correctAnswer": "The area around and between subjects",
+      "wrongAnswers": [
+        "A mark that can define shape, direction, and movement",
+        "A pleasing relationship among colors",
+        "The distribution of visual weight"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Visual Art Techniques, what does \"Mixed media\" mean?",
+      "correctAnswer": "Artwork made with more than one material or technique",
+      "wrongAnswers": [
+        "A flat enclosed area",
+        "The arrangement of visual elements",
+        "The size relationship between parts"
+      ],
+      "timeout": 15
+    }
+  ]
+}

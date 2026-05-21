@@ -1,0 +1,205 @@
+{
+  "title": "Weather and Climate Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Weather and Climate, which term means: The force exerted by the weight of air?",
+      "correctAnswer": "Air pressure",
+      "wrongAnswers": [
+        "Precipitation",
+        "Cumulus cloud",
+        "Hurricane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: The amount of water vapor in the air?",
+      "correctAnswer": "Humidity",
+      "wrongAnswers": [
+        "Front",
+        "Stratus cloud",
+        "Drought"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: Water vapor changing into liquid droplets?",
+      "correctAnswer": "Condensation",
+      "wrongAnswers": [
+        "Cold front",
+        "Cirrus cloud",
+        "Climate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: Water falling from the atmosphere to Earth's surface?",
+      "correctAnswer": "Precipitation",
+      "wrongAnswers": [
+        "Warm front",
+        "Thunderstorm",
+        "Weather"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A boundary between air masses?",
+      "correctAnswer": "Front",
+      "wrongAnswers": [
+        "Jet stream",
+        "Tornado",
+        "Greenhouse effect"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A boundary where colder air advances?",
+      "correctAnswer": "Cold front",
+      "wrongAnswers": [
+        "Cumulus cloud",
+        "Hurricane",
+        "Climate model"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A boundary where warmer air advances?",
+      "correctAnswer": "Warm front",
+      "wrongAnswers": [
+        "Stratus cloud",
+        "Drought",
+        "Atmosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A fast-flowing high-altitude air current?",
+      "correctAnswer": "Jet stream",
+      "wrongAnswers": [
+        "Cirrus cloud",
+        "Climate",
+        "Air pressure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A puffy cloud often linked to fair weather?",
+      "correctAnswer": "Cumulus cloud",
+      "wrongAnswers": [
+        "Thunderstorm",
+        "Weather",
+        "Humidity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A layered cloud that can cover much of the sky?",
+      "correctAnswer": "Stratus cloud",
+      "wrongAnswers": [
+        "Tornado",
+        "Greenhouse effect",
+        "Condensation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A high wispy cloud made mostly of ice crystals?",
+      "correctAnswer": "Cirrus cloud",
+      "wrongAnswers": [
+        "Hurricane",
+        "Climate model",
+        "Precipitation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A storm with lightning and thunder?",
+      "correctAnswer": "Thunderstorm",
+      "wrongAnswers": [
+        "Drought",
+        "Atmosphere",
+        "Front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A rotating column of air reaching from cloud to ground?",
+      "correctAnswer": "Tornado",
+      "wrongAnswers": [
+        "Climate",
+        "Air pressure",
+        "Cold front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A powerful tropical cyclone with organized rotation?",
+      "correctAnswer": "Hurricane",
+      "wrongAnswers": [
+        "Weather",
+        "Humidity",
+        "Warm front"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A long period with unusually low water availability?",
+      "correctAnswer": "Drought",
+      "wrongAnswers": [
+        "Greenhouse effect",
+        "Condensation",
+        "Jet stream"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: Long-term patterns of weather in a region?",
+      "correctAnswer": "Climate",
+      "wrongAnswers": [
+        "Climate model",
+        "Precipitation",
+        "Cumulus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: Short-term atmospheric conditions?",
+      "correctAnswer": "Weather",
+      "wrongAnswers": [
+        "Atmosphere",
+        "Front",
+        "Stratus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: Warming caused when gases trap outgoing heat?",
+      "correctAnswer": "Greenhouse effect",
+      "wrongAnswers": [
+        "Air pressure",
+        "Cold front",
+        "Cirrus cloud"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: A computer representation used to study climate behavior?",
+      "correctAnswer": "Climate model",
+      "wrongAnswers": [
+        "Humidity",
+        "Warm front",
+        "Thunderstorm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, which term means: The layer of gases surrounding Earth?",
+      "correctAnswer": "Atmosphere",
+      "wrongAnswers": [
+        "Condensation",
+        "Jet stream",
+        "Tornado"
+      ],
+      "timeout": 15
+    }
+  ]
+}

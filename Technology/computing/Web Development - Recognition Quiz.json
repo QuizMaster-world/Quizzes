@@ -1,0 +1,205 @@
+{
+  "title": "Web Development Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"DOM\" is correct?",
+      "correctAnswer": "DOM: A tree representation of a web document",
+      "wrongAnswers": [
+        "Responsive design: Design that adapts to different screen sizes and contexts",
+        "Local storage: Persistent key-value storage in a browser",
+        "Accessibility: Designing software so people with different needs can use it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Semantic element\" is correct?",
+      "correctAnswer": "Semantic element: An HTML element that communicates meaning about its content",
+      "wrongAnswers": [
+        "HTTP request: A message sent by a client to ask a server for an action",
+        "API endpoint: A specific address where a service accepts requests",
+        "Progressive enhancement: Building a basic experience first and adding advanced features when supported"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Flexbox\" is correct?",
+      "correctAnswer": "Flexbox: A CSS layout model for arranging items in one dimension",
+      "wrongAnswers": [
+        "HTTP response: A message returned by a server after a request",
+        "JSON: A text format for structured data",
+        "HTML: A markup language used to structure web content"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Grid layout\" is correct?",
+      "correctAnswer": "Grid layout: A CSS layout model for arranging items in rows and columns",
+      "wrongAnswers": [
+        "Status code: A numeric result that describes an HTTP response",
+        "CORS: A browser security policy for cross-origin requests",
+        "CSS: A style language used to control presentation and layout"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Media query\" is correct?",
+      "correctAnswer": "Media query: A CSS rule that applies styles under certain device conditions",
+      "wrongAnswers": [
+        "Cookie: Small site data stored by a browser",
+        "Form validation: Checking submitted values before accepting them",
+        "JavaScript: A programming language commonly used for web interactivity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Responsive design\" is correct?",
+      "correctAnswer": "Responsive design: Design that adapts to different screen sizes and contexts",
+      "wrongAnswers": [
+        "Local storage: Persistent key-value storage in a browser",
+        "Accessibility: Designing software so people with different needs can use it",
+        "DOM: A tree representation of a web document"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"HTTP request\" is correct?",
+      "correctAnswer": "HTTP request: A message sent by a client to ask a server for an action",
+      "wrongAnswers": [
+        "API endpoint: A specific address where a service accepts requests",
+        "Progressive enhancement: Building a basic experience first and adding advanced features when supported",
+        "Semantic element: An HTML element that communicates meaning about its content"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"HTTP response\" is correct?",
+      "correctAnswer": "HTTP response: A message returned by a server after a request",
+      "wrongAnswers": [
+        "JSON: A text format for structured data",
+        "HTML: A markup language used to structure web content",
+        "Flexbox: A CSS layout model for arranging items in one dimension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Status code\" is correct?",
+      "correctAnswer": "Status code: A numeric result that describes an HTTP response",
+      "wrongAnswers": [
+        "CORS: A browser security policy for cross-origin requests",
+        "CSS: A style language used to control presentation and layout",
+        "Grid layout: A CSS layout model for arranging items in rows and columns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cookie\" is correct?",
+      "correctAnswer": "Cookie: Small site data stored by a browser",
+      "wrongAnswers": [
+        "Form validation: Checking submitted values before accepting them",
+        "JavaScript: A programming language commonly used for web interactivity",
+        "Media query: A CSS rule that applies styles under certain device conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Local storage\" is correct?",
+      "correctAnswer": "Local storage: Persistent key-value storage in a browser",
+      "wrongAnswers": [
+        "Accessibility: Designing software so people with different needs can use it",
+        "DOM: A tree representation of a web document",
+        "Responsive design: Design that adapts to different screen sizes and contexts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"API endpoint\" is correct?",
+      "correctAnswer": "API endpoint: A specific address where a service accepts requests",
+      "wrongAnswers": [
+        "Progressive enhancement: Building a basic experience first and adding advanced features when supported",
+        "Semantic element: An HTML element that communicates meaning about its content",
+        "HTTP request: A message sent by a client to ask a server for an action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"JSON\" is correct?",
+      "correctAnswer": "JSON: A text format for structured data",
+      "wrongAnswers": [
+        "HTML: A markup language used to structure web content",
+        "Flexbox: A CSS layout model for arranging items in one dimension",
+        "HTTP response: A message returned by a server after a request"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"CORS\" is correct?",
+      "correctAnswer": "CORS: A browser security policy for cross-origin requests",
+      "wrongAnswers": [
+        "CSS: A style language used to control presentation and layout",
+        "Grid layout: A CSS layout model for arranging items in rows and columns",
+        "Status code: A numeric result that describes an HTTP response"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Form validation\" is correct?",
+      "correctAnswer": "Form validation: Checking submitted values before accepting them",
+      "wrongAnswers": [
+        "JavaScript: A programming language commonly used for web interactivity",
+        "Media query: A CSS rule that applies styles under certain device conditions",
+        "Cookie: Small site data stored by a browser"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Accessibility\" is correct?",
+      "correctAnswer": "Accessibility: Designing software so people with different needs can use it",
+      "wrongAnswers": [
+        "DOM: A tree representation of a web document",
+        "Responsive design: Design that adapts to different screen sizes and contexts",
+        "Local storage: Persistent key-value storage in a browser"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Progressive enhancement\" is correct?",
+      "correctAnswer": "Progressive enhancement: Building a basic experience first and adding advanced features when supported",
+      "wrongAnswers": [
+        "Semantic element: An HTML element that communicates meaning about its content",
+        "HTTP request: A message sent by a client to ask a server for an action",
+        "API endpoint: A specific address where a service accepts requests"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"HTML\" is correct?",
+      "correctAnswer": "HTML: A markup language used to structure web content",
+      "wrongAnswers": [
+        "Flexbox: A CSS layout model for arranging items in one dimension",
+        "HTTP response: A message returned by a server after a request",
+        "JSON: A text format for structured data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"CSS\" is correct?",
+      "correctAnswer": "CSS: A style language used to control presentation and layout",
+      "wrongAnswers": [
+        "Grid layout: A CSS layout model for arranging items in rows and columns",
+        "Status code: A numeric result that describes an HTTP response",
+        "CORS: A browser security policy for cross-origin requests"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"JavaScript\" is correct?",
+      "correctAnswer": "JavaScript: A programming language commonly used for web interactivity",
+      "wrongAnswers": [
+        "Media query: A CSS rule that applies styles under certain device conditions",
+        "Cookie: Small site data stored by a browser",
+        "Form validation: Checking submitted values before accepting them"
+      ],
+      "timeout": 15
+    }
+  ]
+}

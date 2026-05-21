@@ -1,0 +1,205 @@
+{
+  "title": "Civil Rights Movements Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Civil Rights Movements, which term means: Enforced separation of groups in public or private life?",
+      "correctAnswer": "Segregation",
+      "wrongAnswers": [
+        "Sit-in",
+        "Desegregation",
+        "Petition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Unfair treatment based on identity or group membership?",
+      "correctAnswer": "Discrimination",
+      "wrongAnswers": [
+        "March",
+        "Equal protection",
+        "Legal challenge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Refusing to buy or use something as protest?",
+      "correctAnswer": "Boycott",
+      "wrongAnswers": [
+        "Nonviolent resistance",
+        "Grassroots organizing",
+        "Activist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A protest where people occupy a space and refuse to leave?",
+      "correctAnswer": "Sit-in",
+      "wrongAnswers": [
+        "Civil disobedience",
+        "Advocacy",
+        "Ally"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A public demonstration involving organized walking?",
+      "correctAnswer": "March",
+      "wrongAnswers": [
+        "Suffrage",
+        "Coalition",
+        "Reform"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Opposing injustice without physical violence?",
+      "correctAnswer": "Nonviolent resistance",
+      "wrongAnswers": [
+        "Desegregation",
+        "Petition",
+        "Human rights"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Deliberately breaking an unjust law to challenge it?",
+      "correctAnswer": "Civil disobedience",
+      "wrongAnswers": [
+        "Equal protection",
+        "Legal challenge",
+        "Civil rights"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: The right to vote?",
+      "correctAnswer": "Suffrage",
+      "wrongAnswers": [
+        "Grassroots organizing",
+        "Activist",
+        "Segregation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Ending enforced separation of groups?",
+      "correctAnswer": "Desegregation",
+      "wrongAnswers": [
+        "Advocacy",
+        "Ally",
+        "Discrimination"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: The principle that laws should protect people equally?",
+      "correctAnswer": "Equal protection",
+      "wrongAnswers": [
+        "Coalition",
+        "Reform",
+        "Boycott"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Local community action to build change?",
+      "correctAnswer": "Grassroots organizing",
+      "wrongAnswers": [
+        "Petition",
+        "Human rights",
+        "Sit-in"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Public support for a cause or policy?",
+      "correctAnswer": "Advocacy",
+      "wrongAnswers": [
+        "Legal challenge",
+        "Civil rights",
+        "March"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Groups working together for a shared goal?",
+      "correctAnswer": "Coalition",
+      "wrongAnswers": [
+        "Activist",
+        "Segregation",
+        "Nonviolent resistance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A formal request supported by signatures?",
+      "correctAnswer": "Petition",
+      "wrongAnswers": [
+        "Ally",
+        "Discrimination",
+        "Civil disobedience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Using courts to contest a law or policy?",
+      "correctAnswer": "Legal challenge",
+      "wrongAnswers": [
+        "Reform",
+        "Boycott",
+        "Suffrage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A person who works to bring social or political change?",
+      "correctAnswer": "Activist",
+      "wrongAnswers": [
+        "Human rights",
+        "Sit-in",
+        "Desegregation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A supporter who helps a group facing injustice?",
+      "correctAnswer": "Ally",
+      "wrongAnswers": [
+        "Civil rights",
+        "March",
+        "Equal protection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: A change made to improve a system?",
+      "correctAnswer": "Reform",
+      "wrongAnswers": [
+        "Segregation",
+        "Nonviolent resistance",
+        "Grassroots organizing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Basic rights and freedoms considered to belong to all people?",
+      "correctAnswer": "Human rights",
+      "wrongAnswers": [
+        "Discrimination",
+        "Civil disobedience",
+        "Advocacy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Civil Rights Movements, which term means: Legal and social rights protecting equal participation?",
+      "correctAnswer": "Civil rights",
+      "wrongAnswers": [
+        "Boycott",
+        "Suffrage",
+        "Coalition"
+      ],
+      "timeout": 15
+    }
+  ]
+}

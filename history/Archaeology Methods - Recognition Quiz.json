@@ -1,0 +1,205 @@
+{
+  "title": "Archaeology Methods Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Survey\" is correct?",
+      "correctAnswer": "Survey: Systematic searching for archaeological evidence",
+      "wrongAnswers": [
+        "Typology: Classifying artifacts by shared characteristics",
+        "Ecofact: Natural material that gives evidence about past environments or diet",
+        "Ethnoarchaeology: Studying living communities to interpret material culture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Excavation\" is correct?",
+      "correctAnswer": "Excavation: Careful digging to uncover and record buried evidence",
+      "wrongAnswers": [
+        "Radiocarbon dating: Dating once-living material using carbon isotopes",
+        "Conservation: Stabilizing and preserving archaeological materials",
+        "Public archaeology: Archaeology that involves or communicates with the wider public"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Stratigraphy\" is correct?",
+      "correctAnswer": "Stratigraphy: Studying layers to understand sequence and context",
+      "wrongAnswers": [
+        "Dendrochronology: Dating wood by comparing tree-ring patterns",
+        "Cataloging: Recording finds in an organized system",
+        "Artifact: An object made or modified by humans"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Context\" is correct?",
+      "correctAnswer": "Context: The location and relationship of evidence within a site",
+      "wrongAnswers": [
+        "Pottery sherd: A fragment of broken ceramic material",
+        "Remote sensing: Detecting buried or distant features without direct excavation",
+        "Feature: A non-portable trace of human activity such as a hearth or wall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Provenance\" is correct?",
+      "correctAnswer": "Provenance: The precise origin or findspot of an object",
+      "wrongAnswers": [
+        "Lithic: A stone tool or stone-tool material",
+        "Ground-penetrating radar: A method using radar pulses to detect subsurface features",
+        "Site: A place containing evidence of past human activity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Typology\" is correct?",
+      "correctAnswer": "Typology: Classifying artifacts by shared characteristics",
+      "wrongAnswers": [
+        "Ecofact: Natural material that gives evidence about past environments or diet",
+        "Ethnoarchaeology: Studying living communities to interpret material culture",
+        "Survey: Systematic searching for archaeological evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Radiocarbon dating\" is correct?",
+      "correctAnswer": "Radiocarbon dating: Dating once-living material using carbon isotopes",
+      "wrongAnswers": [
+        "Conservation: Stabilizing and preserving archaeological materials",
+        "Public archaeology: Archaeology that involves or communicates with the wider public",
+        "Excavation: Careful digging to uncover and record buried evidence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dendrochronology\" is correct?",
+      "correctAnswer": "Dendrochronology: Dating wood by comparing tree-ring patterns",
+      "wrongAnswers": [
+        "Cataloging: Recording finds in an organized system",
+        "Artifact: An object made or modified by humans",
+        "Stratigraphy: Studying layers to understand sequence and context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pottery sherd\" is correct?",
+      "correctAnswer": "Pottery sherd: A fragment of broken ceramic material",
+      "wrongAnswers": [
+        "Remote sensing: Detecting buried or distant features without direct excavation",
+        "Feature: A non-portable trace of human activity such as a hearth or wall",
+        "Context: The location and relationship of evidence within a site"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lithic\" is correct?",
+      "correctAnswer": "Lithic: A stone tool or stone-tool material",
+      "wrongAnswers": [
+        "Ground-penetrating radar: A method using radar pulses to detect subsurface features",
+        "Site: A place containing evidence of past human activity",
+        "Provenance: The precise origin or findspot of an object"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ecofact\" is correct?",
+      "correctAnswer": "Ecofact: Natural material that gives evidence about past environments or diet",
+      "wrongAnswers": [
+        "Ethnoarchaeology: Studying living communities to interpret material culture",
+        "Survey: Systematic searching for archaeological evidence",
+        "Typology: Classifying artifacts by shared characteristics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Conservation\" is correct?",
+      "correctAnswer": "Conservation: Stabilizing and preserving archaeological materials",
+      "wrongAnswers": [
+        "Public archaeology: Archaeology that involves or communicates with the wider public",
+        "Excavation: Careful digging to uncover and record buried evidence",
+        "Radiocarbon dating: Dating once-living material using carbon isotopes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cataloging\" is correct?",
+      "correctAnswer": "Cataloging: Recording finds in an organized system",
+      "wrongAnswers": [
+        "Artifact: An object made or modified by humans",
+        "Stratigraphy: Studying layers to understand sequence and context",
+        "Dendrochronology: Dating wood by comparing tree-ring patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Remote sensing\" is correct?",
+      "correctAnswer": "Remote sensing: Detecting buried or distant features without direct excavation",
+      "wrongAnswers": [
+        "Feature: A non-portable trace of human activity such as a hearth or wall",
+        "Context: The location and relationship of evidence within a site",
+        "Pottery sherd: A fragment of broken ceramic material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ground-penetrating radar\" is correct?",
+      "correctAnswer": "Ground-penetrating radar: A method using radar pulses to detect subsurface features",
+      "wrongAnswers": [
+        "Site: A place containing evidence of past human activity",
+        "Provenance: The precise origin or findspot of an object",
+        "Lithic: A stone tool or stone-tool material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ethnoarchaeology\" is correct?",
+      "correctAnswer": "Ethnoarchaeology: Studying living communities to interpret material culture",
+      "wrongAnswers": [
+        "Survey: Systematic searching for archaeological evidence",
+        "Typology: Classifying artifacts by shared characteristics",
+        "Ecofact: Natural material that gives evidence about past environments or diet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Public archaeology\" is correct?",
+      "correctAnswer": "Public archaeology: Archaeology that involves or communicates with the wider public",
+      "wrongAnswers": [
+        "Excavation: Careful digging to uncover and record buried evidence",
+        "Radiocarbon dating: Dating once-living material using carbon isotopes",
+        "Conservation: Stabilizing and preserving archaeological materials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Artifact\" is correct?",
+      "correctAnswer": "Artifact: An object made or modified by humans",
+      "wrongAnswers": [
+        "Stratigraphy: Studying layers to understand sequence and context",
+        "Dendrochronology: Dating wood by comparing tree-ring patterns",
+        "Cataloging: Recording finds in an organized system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feature\" is correct?",
+      "correctAnswer": "Feature: A non-portable trace of human activity such as a hearth or wall",
+      "wrongAnswers": [
+        "Context: The location and relationship of evidence within a site",
+        "Pottery sherd: A fragment of broken ceramic material",
+        "Remote sensing: Detecting buried or distant features without direct excavation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Site\" is correct?",
+      "correctAnswer": "Site: A place containing evidence of past human activity",
+      "wrongAnswers": [
+        "Provenance: The precise origin or findspot of an object",
+        "Lithic: A stone tool or stone-tool material",
+        "Ground-penetrating radar: A method using radar pulses to detect subsurface features"
+      ],
+      "timeout": 15
+    }
+  ]
+}

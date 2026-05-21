@@ -1,0 +1,205 @@
+{
+  "title": "Robotics Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Robotics, which term means: A device that detects information from the environment?",
+      "correctAnswer": "Sensor",
+      "wrongAnswers": [
+        "Servo",
+        "Autonomy",
+        "Mapping"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: A device that converts signals into movement or action?",
+      "correctAnswer": "Actuator",
+      "wrongAnswers": [
+        "End effector",
+        "Teleoperation",
+        "Manipulator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: An actuator that produces rotational motion?",
+      "correctAnswer": "Motor",
+      "wrongAnswers": [
+        "Chassis",
+        "Path planning",
+        "Degree of freedom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: A motor system that moves to controlled positions?",
+      "correctAnswer": "Servo",
+      "wrongAnswers": [
+        "Controller",
+        "Obstacle avoidance",
+        "Kinematics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The tool or gripper at the end of a robot arm?",
+      "correctAnswer": "End effector",
+      "wrongAnswers": [
+        "Feedback",
+        "Localization",
+        "Payload"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The structural frame of a robot?",
+      "correctAnswer": "Chassis",
+      "wrongAnswers": [
+        "Autonomy",
+        "Mapping",
+        "Calibration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The system that processes inputs and commands outputs?",
+      "correctAnswer": "Controller",
+      "wrongAnswers": [
+        "Teleoperation",
+        "Manipulator",
+        "Robot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Information returned to adjust robot behavior?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Path planning",
+        "Degree of freedom",
+        "Sensor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The ability to operate without direct human control?",
+      "correctAnswer": "Autonomy",
+      "wrongAnswers": [
+        "Obstacle avoidance",
+        "Kinematics",
+        "Actuator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Remote control of a robot by a human?",
+      "correctAnswer": "Teleoperation",
+      "wrongAnswers": [
+        "Localization",
+        "Payload",
+        "Motor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Finding a route for a robot to follow?",
+      "correctAnswer": "Path planning",
+      "wrongAnswers": [
+        "Mapping",
+        "Calibration",
+        "Servo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Detecting and moving around objects in the way?",
+      "correctAnswer": "Obstacle avoidance",
+      "wrongAnswers": [
+        "Manipulator",
+        "Robot",
+        "End effector"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Determining a robot's position?",
+      "correctAnswer": "Localization",
+      "wrongAnswers": [
+        "Degree of freedom",
+        "Sensor",
+        "Chassis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Building a representation of an environment?",
+      "correctAnswer": "Mapping",
+      "wrongAnswers": [
+        "Kinematics",
+        "Actuator",
+        "Controller"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: A robotic arm or device used to move objects?",
+      "correctAnswer": "Manipulator",
+      "wrongAnswers": [
+        "Payload",
+        "Motor",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: An independent direction or rotation a robot can move?",
+      "correctAnswer": "Degree of freedom",
+      "wrongAnswers": [
+        "Calibration",
+        "Servo",
+        "Autonomy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The study of robot motion without focusing on forces?",
+      "correctAnswer": "Kinematics",
+      "wrongAnswers": [
+        "Robot",
+        "End effector",
+        "Teleoperation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: The weight a robot can carry or manipulate?",
+      "correctAnswer": "Payload",
+      "wrongAnswers": [
+        "Sensor",
+        "Chassis",
+        "Path planning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: Adjusting a robot or sensor for accurate operation?",
+      "correctAnswer": "Calibration",
+      "wrongAnswers": [
+        "Actuator",
+        "Controller",
+        "Obstacle avoidance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Robotics, which term means: A machine that can sense, decide, or act in its environment?",
+      "correctAnswer": "Robot",
+      "wrongAnswers": [
+        "Motor",
+        "Feedback",
+        "Localization"
+      ],
+      "timeout": 15
+    }
+  ]
+}

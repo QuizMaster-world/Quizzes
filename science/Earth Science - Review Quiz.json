@@ -1,0 +1,205 @@
+{
+  "title": "Earth Science Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Lava\" in Earth Science.",
+      "correctAnswer": "Molten rock that reaches Earth's surface",
+      "wrongAnswers": [
+        "Dropping sediment in a new location",
+        "Preserved evidence of past life",
+        "The theory that Earth's outer shell is divided into moving plates"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Igneous rock\" in Earth Science.",
+      "correctAnswer": "Rock formed from cooled molten material",
+      "wrongAnswers": [
+        "A fracture where rocks have moved",
+        "Layers of sedimentary rock",
+        "Earth's rigid outer layer of crust and upper mantle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Sedimentary rock\" in Earth Science.",
+      "correctAnswer": "Rock formed from compacted sediment",
+      "wrongAnswers": [
+        "The surface point above an earthquake focus",
+        "The processes that transform rocks among major types",
+        "A softer mantle layer beneath the lithosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Metamorphic rock\" in Earth Science.",
+      "correctAnswer": "Rock changed by heat, pressure, or fluids",
+      "wrongAnswers": [
+        "Energy wave produced by an earthquake",
+        "The thick layer of Earth between crust and core",
+        "Molten rock beneath Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Weathering\" in Earth Science.",
+      "correctAnswer": "Breaking down rock at Earth's surface",
+      "wrongAnswers": [
+        "An opening where molten material and gases may erupt",
+        "Earth's central region rich in iron and nickel",
+        "Molten rock that reaches Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Erosion\" in Earth Science.",
+      "correctAnswer": "Moving weathered material by water, wind, ice, or gravity",
+      "wrongAnswers": [
+        "Preserved evidence of past life",
+        "The theory that Earth's outer shell is divided into moving plates",
+        "Rock formed from cooled molten material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Deposition\" in Earth Science.",
+      "correctAnswer": "Dropping sediment in a new location",
+      "wrongAnswers": [
+        "Layers of sedimentary rock",
+        "Earth's rigid outer layer of crust and upper mantle",
+        "Rock formed from compacted sediment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fault\" in Earth Science.",
+      "correctAnswer": "A fracture where rocks have moved",
+      "wrongAnswers": [
+        "The processes that transform rocks among major types",
+        "A softer mantle layer beneath the lithosphere",
+        "Rock changed by heat, pressure, or fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Epicenter\" in Earth Science.",
+      "correctAnswer": "The surface point above an earthquake focus",
+      "wrongAnswers": [
+        "The thick layer of Earth between crust and core",
+        "Molten rock beneath Earth's surface",
+        "Breaking down rock at Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Seismic wave\" in Earth Science.",
+      "correctAnswer": "Energy wave produced by an earthquake",
+      "wrongAnswers": [
+        "Earth's central region rich in iron and nickel",
+        "Molten rock that reaches Earth's surface",
+        "Moving weathered material by water, wind, ice, or gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Volcano\" in Earth Science.",
+      "correctAnswer": "An opening where molten material and gases may erupt",
+      "wrongAnswers": [
+        "The theory that Earth's outer shell is divided into moving plates",
+        "Rock formed from cooled molten material",
+        "Dropping sediment in a new location"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fossil\" in Earth Science.",
+      "correctAnswer": "Preserved evidence of past life",
+      "wrongAnswers": [
+        "Earth's rigid outer layer of crust and upper mantle",
+        "Rock formed from compacted sediment",
+        "A fracture where rocks have moved"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Strata\" in Earth Science.",
+      "correctAnswer": "Layers of sedimentary rock",
+      "wrongAnswers": [
+        "A softer mantle layer beneath the lithosphere",
+        "Rock changed by heat, pressure, or fluids",
+        "The surface point above an earthquake focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rock cycle\" in Earth Science.",
+      "correctAnswer": "The processes that transform rocks among major types",
+      "wrongAnswers": [
+        "Molten rock beneath Earth's surface",
+        "Breaking down rock at Earth's surface",
+        "Energy wave produced by an earthquake"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mantle\" in Earth Science.",
+      "correctAnswer": "The thick layer of Earth between crust and core",
+      "wrongAnswers": [
+        "Molten rock that reaches Earth's surface",
+        "Moving weathered material by water, wind, ice, or gravity",
+        "An opening where molten material and gases may erupt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Core\" in Earth Science.",
+      "correctAnswer": "Earth's central region rich in iron and nickel",
+      "wrongAnswers": [
+        "Rock formed from cooled molten material",
+        "Dropping sediment in a new location",
+        "Preserved evidence of past life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Plate tectonics\" in Earth Science.",
+      "correctAnswer": "The theory that Earth's outer shell is divided into moving plates",
+      "wrongAnswers": [
+        "Rock formed from compacted sediment",
+        "A fracture where rocks have moved",
+        "Layers of sedimentary rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Lithosphere\" in Earth Science.",
+      "correctAnswer": "Earth's rigid outer layer of crust and upper mantle",
+      "wrongAnswers": [
+        "Rock changed by heat, pressure, or fluids",
+        "The surface point above an earthquake focus",
+        "The processes that transform rocks among major types"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Asthenosphere\" in Earth Science.",
+      "correctAnswer": "A softer mantle layer beneath the lithosphere",
+      "wrongAnswers": [
+        "Breaking down rock at Earth's surface",
+        "Energy wave produced by an earthquake",
+        "The thick layer of Earth between crust and core"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Magma\" in Earth Science.",
+      "correctAnswer": "Molten rock beneath Earth's surface",
+      "wrongAnswers": [
+        "Moving weathered material by water, wind, ice, or gravity",
+        "An opening where molten material and gases may erupt",
+        "Earth's central region rich in iron and nickel"
+      ],
+      "timeout": 15
+    }
+  ]
+}

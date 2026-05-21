@@ -1,0 +1,205 @@
+{
+  "title": "English Grammar Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In English Grammar, which term means: A word that expresses an action or state?",
+      "correctAnswer": "Verb",
+      "wrongAnswers": [
+        "Pronoun",
+        "Predicate",
+        "Tense"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word that describes a noun?",
+      "correctAnswer": "Adjective",
+      "wrongAnswers": [
+        "Preposition",
+        "Clause",
+        "Agreement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word that modifies a verb, adjective, or adverb?",
+      "correctAnswer": "Adverb",
+      "wrongAnswers": [
+        "Conjunction",
+        "Independent clause",
+        "Modifier"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word that stands in for a noun?",
+      "correctAnswer": "Pronoun",
+      "wrongAnswers": [
+        "Interjection",
+        "Dependent clause",
+        "Object"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word showing relationships such as location or direction?",
+      "correctAnswer": "Preposition",
+      "wrongAnswers": [
+        "Subject",
+        "Phrase",
+        "Comma splice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word that connects words, phrases, or clauses?",
+      "correctAnswer": "Conjunction",
+      "wrongAnswers": [
+        "Predicate",
+        "Tense",
+        "Parallel structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word or phrase expressing sudden feeling?",
+      "correctAnswer": "Interjection",
+      "wrongAnswers": [
+        "Clause",
+        "Agreement",
+        "Noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: The part of a sentence that tells who or what it is about?",
+      "correctAnswer": "Subject",
+      "wrongAnswers": [
+        "Independent clause",
+        "Modifier",
+        "Verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: The part of a sentence that tells what the subject does or is?",
+      "correctAnswer": "Predicate",
+      "wrongAnswers": [
+        "Dependent clause",
+        "Object",
+        "Adjective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A group of words with a subject and a verb?",
+      "correctAnswer": "Clause",
+      "wrongAnswers": [
+        "Phrase",
+        "Comma splice",
+        "Adverb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A clause that can stand alone as a sentence?",
+      "correctAnswer": "Independent clause",
+      "wrongAnswers": [
+        "Tense",
+        "Parallel structure",
+        "Pronoun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A clause that cannot stand alone as a sentence?",
+      "correctAnswer": "Dependent clause",
+      "wrongAnswers": [
+        "Agreement",
+        "Noun",
+        "Preposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A group of related words without both subject and verb?",
+      "correctAnswer": "Phrase",
+      "wrongAnswers": [
+        "Modifier",
+        "Verb",
+        "Conjunction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: Verb form showing time?",
+      "correctAnswer": "Tense",
+      "wrongAnswers": [
+        "Object",
+        "Adjective",
+        "Interjection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: Matching grammatical forms such as subject and verb?",
+      "correctAnswer": "Agreement",
+      "wrongAnswers": [
+        "Comma splice",
+        "Adverb",
+        "Subject"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word or phrase that describes another element?",
+      "correctAnswer": "Modifier",
+      "wrongAnswers": [
+        "Parallel structure",
+        "Pronoun",
+        "Predicate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A noun or pronoun receiving an action or following a preposition?",
+      "correctAnswer": "Object",
+      "wrongAnswers": [
+        "Noun",
+        "Preposition",
+        "Clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: An error joining independent clauses with only a comma?",
+      "correctAnswer": "Comma splice",
+      "wrongAnswers": [
+        "Verb",
+        "Conjunction",
+        "Independent clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: Using matching grammatical forms in a series?",
+      "correctAnswer": "Parallel structure",
+      "wrongAnswers": [
+        "Adjective",
+        "Interjection",
+        "Dependent clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In English Grammar, which term means: A word that names a person, place, thing, or idea?",
+      "correctAnswer": "Noun",
+      "wrongAnswers": [
+        "Adverb",
+        "Subject",
+        "Phrase"
+      ],
+      "timeout": 15
+    }
+  ]
+}

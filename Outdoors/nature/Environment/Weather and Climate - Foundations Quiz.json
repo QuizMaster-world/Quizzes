@@ -1,0 +1,205 @@
+{
+  "title": "Weather and Climate Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Weather and Climate, what does \"Atmosphere\" mean?",
+      "correctAnswer": "The layer of gases surrounding Earth",
+      "wrongAnswers": [
+        "The amount of water vapor in the air",
+        "A boundary where warmer air advances",
+        "A storm with lightning and thunder"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Air pressure\" mean?",
+      "correctAnswer": "The force exerted by the weight of air",
+      "wrongAnswers": [
+        "Water vapor changing into liquid droplets",
+        "A fast-flowing high-altitude air current",
+        "A rotating column of air reaching from cloud to ground"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Humidity\" mean?",
+      "correctAnswer": "The amount of water vapor in the air",
+      "wrongAnswers": [
+        "Water falling from the atmosphere to Earth's surface",
+        "A puffy cloud often linked to fair weather",
+        "A powerful tropical cyclone with organized rotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Condensation\" mean?",
+      "correctAnswer": "Water vapor changing into liquid droplets",
+      "wrongAnswers": [
+        "A boundary between air masses",
+        "A layered cloud that can cover much of the sky",
+        "A long period with unusually low water availability"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Precipitation\" mean?",
+      "correctAnswer": "Water falling from the atmosphere to Earth's surface",
+      "wrongAnswers": [
+        "A boundary where colder air advances",
+        "A high wispy cloud made mostly of ice crystals",
+        "Long-term patterns of weather in a region"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Front\" mean?",
+      "correctAnswer": "A boundary between air masses",
+      "wrongAnswers": [
+        "A boundary where warmer air advances",
+        "A storm with lightning and thunder",
+        "Short-term atmospheric conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Cold front\" mean?",
+      "correctAnswer": "A boundary where colder air advances",
+      "wrongAnswers": [
+        "A fast-flowing high-altitude air current",
+        "A rotating column of air reaching from cloud to ground",
+        "Warming caused when gases trap outgoing heat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Warm front\" mean?",
+      "correctAnswer": "A boundary where warmer air advances",
+      "wrongAnswers": [
+        "A puffy cloud often linked to fair weather",
+        "A powerful tropical cyclone with organized rotation",
+        "A computer representation used to study climate behavior"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Jet stream\" mean?",
+      "correctAnswer": "A fast-flowing high-altitude air current",
+      "wrongAnswers": [
+        "A layered cloud that can cover much of the sky",
+        "A long period with unusually low water availability",
+        "The layer of gases surrounding Earth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Cumulus cloud\" mean?",
+      "correctAnswer": "A puffy cloud often linked to fair weather",
+      "wrongAnswers": [
+        "A high wispy cloud made mostly of ice crystals",
+        "Long-term patterns of weather in a region",
+        "The force exerted by the weight of air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Stratus cloud\" mean?",
+      "correctAnswer": "A layered cloud that can cover much of the sky",
+      "wrongAnswers": [
+        "A storm with lightning and thunder",
+        "Short-term atmospheric conditions",
+        "The amount of water vapor in the air"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Cirrus cloud\" mean?",
+      "correctAnswer": "A high wispy cloud made mostly of ice crystals",
+      "wrongAnswers": [
+        "A rotating column of air reaching from cloud to ground",
+        "Warming caused when gases trap outgoing heat",
+        "Water vapor changing into liquid droplets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Thunderstorm\" mean?",
+      "correctAnswer": "A storm with lightning and thunder",
+      "wrongAnswers": [
+        "A powerful tropical cyclone with organized rotation",
+        "A computer representation used to study climate behavior",
+        "Water falling from the atmosphere to Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Tornado\" mean?",
+      "correctAnswer": "A rotating column of air reaching from cloud to ground",
+      "wrongAnswers": [
+        "A long period with unusually low water availability",
+        "The layer of gases surrounding Earth",
+        "A boundary between air masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Hurricane\" mean?",
+      "correctAnswer": "A powerful tropical cyclone with organized rotation",
+      "wrongAnswers": [
+        "Long-term patterns of weather in a region",
+        "The force exerted by the weight of air",
+        "A boundary where colder air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Drought\" mean?",
+      "correctAnswer": "A long period with unusually low water availability",
+      "wrongAnswers": [
+        "Short-term atmospheric conditions",
+        "The amount of water vapor in the air",
+        "A boundary where warmer air advances"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Climate\" mean?",
+      "correctAnswer": "Long-term patterns of weather in a region",
+      "wrongAnswers": [
+        "Warming caused when gases trap outgoing heat",
+        "Water vapor changing into liquid droplets",
+        "A fast-flowing high-altitude air current"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Weather\" mean?",
+      "correctAnswer": "Short-term atmospheric conditions",
+      "wrongAnswers": [
+        "A computer representation used to study climate behavior",
+        "Water falling from the atmosphere to Earth's surface",
+        "A puffy cloud often linked to fair weather"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Greenhouse effect\" mean?",
+      "correctAnswer": "Warming caused when gases trap outgoing heat",
+      "wrongAnswers": [
+        "The layer of gases surrounding Earth",
+        "A boundary between air masses",
+        "A layered cloud that can cover much of the sky"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Weather and Climate, what does \"Climate model\" mean?",
+      "correctAnswer": "A computer representation used to study climate behavior",
+      "wrongAnswers": [
+        "The force exerted by the weight of air",
+        "A boundary where colder air advances",
+        "A high wispy cloud made mostly of ice crystals"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Web Development Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Web Development, what does \"HTML\" mean?",
+      "correctAnswer": "A markup language used to structure web content",
+      "wrongAnswers": [
+        "A programming language commonly used for web interactivity",
+        "A CSS rule that applies styles under certain device conditions",
+        "Small site data stored by a browser"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"CSS\" mean?",
+      "correctAnswer": "A style language used to control presentation and layout",
+      "wrongAnswers": [
+        "A tree representation of a web document",
+        "Design that adapts to different screen sizes and contexts",
+        "Persistent key-value storage in a browser"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"JavaScript\" mean?",
+      "correctAnswer": "A programming language commonly used for web interactivity",
+      "wrongAnswers": [
+        "An HTML element that communicates meaning about its content",
+        "A message sent by a client to ask a server for an action",
+        "A specific address where a service accepts requests"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"DOM\" mean?",
+      "correctAnswer": "A tree representation of a web document",
+      "wrongAnswers": [
+        "A CSS layout model for arranging items in one dimension",
+        "A message returned by a server after a request",
+        "A text format for structured data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Semantic element\" mean?",
+      "correctAnswer": "An HTML element that communicates meaning about its content",
+      "wrongAnswers": [
+        "A CSS layout model for arranging items in rows and columns",
+        "A numeric result that describes an HTTP response",
+        "A browser security policy for cross-origin requests"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Flexbox\" mean?",
+      "correctAnswer": "A CSS layout model for arranging items in one dimension",
+      "wrongAnswers": [
+        "A CSS rule that applies styles under certain device conditions",
+        "Small site data stored by a browser",
+        "Checking submitted values before accepting them"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Grid layout\" mean?",
+      "correctAnswer": "A CSS layout model for arranging items in rows and columns",
+      "wrongAnswers": [
+        "Design that adapts to different screen sizes and contexts",
+        "Persistent key-value storage in a browser",
+        "Designing software so people with different needs can use it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Media query\" mean?",
+      "correctAnswer": "A CSS rule that applies styles under certain device conditions",
+      "wrongAnswers": [
+        "A message sent by a client to ask a server for an action",
+        "A specific address where a service accepts requests",
+        "Building a basic experience first and adding advanced features when supported"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Responsive design\" mean?",
+      "correctAnswer": "Design that adapts to different screen sizes and contexts",
+      "wrongAnswers": [
+        "A message returned by a server after a request",
+        "A text format for structured data",
+        "A markup language used to structure web content"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"HTTP request\" mean?",
+      "correctAnswer": "A message sent by a client to ask a server for an action",
+      "wrongAnswers": [
+        "A numeric result that describes an HTTP response",
+        "A browser security policy for cross-origin requests",
+        "A style language used to control presentation and layout"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"HTTP response\" mean?",
+      "correctAnswer": "A message returned by a server after a request",
+      "wrongAnswers": [
+        "Small site data stored by a browser",
+        "Checking submitted values before accepting them",
+        "A programming language commonly used for web interactivity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Status code\" mean?",
+      "correctAnswer": "A numeric result that describes an HTTP response",
+      "wrongAnswers": [
+        "Persistent key-value storage in a browser",
+        "Designing software so people with different needs can use it",
+        "A tree representation of a web document"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Cookie\" mean?",
+      "correctAnswer": "Small site data stored by a browser",
+      "wrongAnswers": [
+        "A specific address where a service accepts requests",
+        "Building a basic experience first and adding advanced features when supported",
+        "An HTML element that communicates meaning about its content"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Local storage\" mean?",
+      "correctAnswer": "Persistent key-value storage in a browser",
+      "wrongAnswers": [
+        "A text format for structured data",
+        "A markup language used to structure web content",
+        "A CSS layout model for arranging items in one dimension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"API endpoint\" mean?",
+      "correctAnswer": "A specific address where a service accepts requests",
+      "wrongAnswers": [
+        "A browser security policy for cross-origin requests",
+        "A style language used to control presentation and layout",
+        "A CSS layout model for arranging items in rows and columns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"JSON\" mean?",
+      "correctAnswer": "A text format for structured data",
+      "wrongAnswers": [
+        "Checking submitted values before accepting them",
+        "A programming language commonly used for web interactivity",
+        "A CSS rule that applies styles under certain device conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"CORS\" mean?",
+      "correctAnswer": "A browser security policy for cross-origin requests",
+      "wrongAnswers": [
+        "Designing software so people with different needs can use it",
+        "A tree representation of a web document",
+        "Design that adapts to different screen sizes and contexts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Form validation\" mean?",
+      "correctAnswer": "Checking submitted values before accepting them",
+      "wrongAnswers": [
+        "Building a basic experience first and adding advanced features when supported",
+        "An HTML element that communicates meaning about its content",
+        "A message sent by a client to ask a server for an action"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Accessibility\" mean?",
+      "correctAnswer": "Designing software so people with different needs can use it",
+      "wrongAnswers": [
+        "A markup language used to structure web content",
+        "A CSS layout model for arranging items in one dimension",
+        "A message returned by a server after a request"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Web Development, what does \"Progressive enhancement\" mean?",
+      "correctAnswer": "Building a basic experience first and adding advanced features when supported",
+      "wrongAnswers": [
+        "A style language used to control presentation and layout",
+        "A CSS layout model for arranging items in rows and columns",
+        "A numeric result that describes an HTTP response"
+      ],
+      "timeout": 15
+    }
+  ]
+}

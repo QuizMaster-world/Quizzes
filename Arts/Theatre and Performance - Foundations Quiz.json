@@ -1,0 +1,205 @@
+{
+  "title": "Theatre and Performance Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Theatre and Performance, what does \"Script\" mean?",
+      "correctAnswer": "The written text of a performance",
+      "wrongAnswers": [
+        "An extended speech by one performer",
+        "The physical environment built for a performance",
+        "The person coordinating rehearsals and live performance logistics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Dialogue\" mean?",
+      "correctAnswer": "Words spoken by characters",
+      "wrongAnswers": [
+        "A script note describing action, movement, or setting",
+        "Clothing worn by performers to support character and setting",
+        "Practice time used to prepare a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Monologue\" mean?",
+      "correctAnswer": "An extended speech by one performer",
+      "wrongAnswers": [
+        "Planned movement and positioning of actors",
+        "Planning light to shape visibility, mood, and focus",
+        "Creating performance material spontaneously"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Stage direction\" mean?",
+      "correctAnswer": "A script note describing action, movement, or setting",
+      "wrongAnswers": [
+        "A signal for an actor or technician to act",
+        "Planning audio elements for a production",
+        "Choices that create a believable character"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Blocking\" mean?",
+      "correctAnswer": "Planned movement and positioning of actors",
+      "wrongAnswers": [
+        "An object handled or used by performers",
+        "The person guiding artistic choices in a production",
+        "Using voice so an audience can hear clearly"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Cue\" mean?",
+      "correctAnswer": "A signal for an actor or technician to act",
+      "wrongAnswers": [
+        "The physical environment built for a performance",
+        "The person coordinating rehearsals and live performance logistics",
+        "Performers working together as a group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Prop\" mean?",
+      "correctAnswer": "An object handled or used by performers",
+      "wrongAnswers": [
+        "Clothing worn by performers to support character and setting",
+        "Practice time used to prepare a performance",
+        "A transition from one staged moment or setting to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Set\" mean?",
+      "correctAnswer": "The physical environment built for a performance",
+      "wrongAnswers": [
+        "Planning light to shape visibility, mood, and focus",
+        "Creating performance material spontaneously",
+        "Performers returning to receive audience applause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Costume\" mean?",
+      "correctAnswer": "Clothing worn by performers to support character and setting",
+      "wrongAnswers": [
+        "Planning audio elements for a production",
+        "Choices that create a believable character",
+        "The written text of a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Lighting design\" mean?",
+      "correctAnswer": "Planning light to shape visibility, mood, and focus",
+      "wrongAnswers": [
+        "The person guiding artistic choices in a production",
+        "Using voice so an audience can hear clearly",
+        "Words spoken by characters"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Sound design\" mean?",
+      "correctAnswer": "Planning audio elements for a production",
+      "wrongAnswers": [
+        "The person coordinating rehearsals and live performance logistics",
+        "Performers working together as a group",
+        "An extended speech by one performer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Director\" mean?",
+      "correctAnswer": "The person guiding artistic choices in a production",
+      "wrongAnswers": [
+        "Practice time used to prepare a performance",
+        "A transition from one staged moment or setting to another",
+        "A script note describing action, movement, or setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Stage manager\" mean?",
+      "correctAnswer": "The person coordinating rehearsals and live performance logistics",
+      "wrongAnswers": [
+        "Creating performance material spontaneously",
+        "Performers returning to receive audience applause",
+        "Planned movement and positioning of actors"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Rehearsal\" mean?",
+      "correctAnswer": "Practice time used to prepare a performance",
+      "wrongAnswers": [
+        "Choices that create a believable character",
+        "The written text of a performance",
+        "A signal for an actor or technician to act"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Improvisation\" mean?",
+      "correctAnswer": "Creating performance material spontaneously",
+      "wrongAnswers": [
+        "Using voice so an audience can hear clearly",
+        "Words spoken by characters",
+        "An object handled or used by performers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Characterization\" mean?",
+      "correctAnswer": "Choices that create a believable character",
+      "wrongAnswers": [
+        "Performers working together as a group",
+        "An extended speech by one performer",
+        "The physical environment built for a performance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Projection\" mean?",
+      "correctAnswer": "Using voice so an audience can hear clearly",
+      "wrongAnswers": [
+        "A transition from one staged moment or setting to another",
+        "A script note describing action, movement, or setting",
+        "Clothing worn by performers to support character and setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Ensemble\" mean?",
+      "correctAnswer": "Performers working together as a group",
+      "wrongAnswers": [
+        "Performers returning to receive audience applause",
+        "Planned movement and positioning of actors",
+        "Planning light to shape visibility, mood, and focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Scene change\" mean?",
+      "correctAnswer": "A transition from one staged moment or setting to another",
+      "wrongAnswers": [
+        "The written text of a performance",
+        "A signal for an actor or technician to act",
+        "Planning audio elements for a production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Theatre and Performance, what does \"Curtain call\" mean?",
+      "correctAnswer": "Performers returning to receive audience applause",
+      "wrongAnswers": [
+        "Words spoken by characters",
+        "An object handled or used by performers",
+        "The person guiding artistic choices in a production"
+      ],
+      "timeout": 15
+    }
+  ]
+}

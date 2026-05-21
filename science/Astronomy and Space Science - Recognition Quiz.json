@@ -1,0 +1,205 @@
+{
+  "title": "Astronomy and Space Science Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Asteroid\" is correct?",
+      "correctAnswer": "Asteroid: A rocky small body orbiting the Sun",
+      "wrongAnswers": [
+        "Orbit: The curved path of one body around another",
+        "Exoplanet: A planet orbiting a star outside the Solar System",
+        "Solar wind: Charged particles flowing outward from the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Comet\" is correct?",
+      "correctAnswer": "Comet: An icy small body that can form a tail near the Sun",
+      "wrongAnswers": [
+        "Gravity: The attraction between masses",
+        "Supernova: A powerful stellar explosion",
+        "Habitable zone: The region where liquid water could exist on a planet's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Galaxy\" is correct?",
+      "correctAnswer": "Galaxy: A huge system of stars, gas, dust, and dark matter",
+      "wrongAnswers": [
+        "Telescope: An instrument that collects and focuses electromagnetic radiation",
+        "Black hole: A region where gravity prevents light from escaping",
+        "Star: A luminous sphere of plasma powered by nuclear fusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Nebula\" is correct?",
+      "correctAnswer": "Nebula: A cloud of gas and dust in space",
+      "wrongAnswers": [
+        "Spectroscopy: Studying light by separating it into wavelengths",
+        "Neutron star: A dense remnant of a massive star",
+        "Planet: A large body orbiting a star that clears its orbital neighborhood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Light-year\" is correct?",
+      "correctAnswer": "Light-year: The distance light travels in one year",
+      "wrongAnswers": [
+        "Redshift: Stretching of light toward longer wavelengths",
+        "White dwarf: A dense remnant left by a Sun-like star",
+        "Moon: A natural satellite orbiting a planet or smaller body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Orbit\" is correct?",
+      "correctAnswer": "Orbit: The curved path of one body around another",
+      "wrongAnswers": [
+        "Exoplanet: A planet orbiting a star outside the Solar System",
+        "Solar wind: Charged particles flowing outward from the Sun",
+        "Asteroid: A rocky small body orbiting the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gravity\" is correct?",
+      "correctAnswer": "Gravity: The attraction between masses",
+      "wrongAnswers": [
+        "Supernova: A powerful stellar explosion",
+        "Habitable zone: The region where liquid water could exist on a planet's surface",
+        "Comet: An icy small body that can form a tail near the Sun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Telescope\" is correct?",
+      "correctAnswer": "Telescope: An instrument that collects and focuses electromagnetic radiation",
+      "wrongAnswers": [
+        "Black hole: A region where gravity prevents light from escaping",
+        "Star: A luminous sphere of plasma powered by nuclear fusion",
+        "Galaxy: A huge system of stars, gas, dust, and dark matter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Spectroscopy\" is correct?",
+      "correctAnswer": "Spectroscopy: Studying light by separating it into wavelengths",
+      "wrongAnswers": [
+        "Neutron star: A dense remnant of a massive star",
+        "Planet: A large body orbiting a star that clears its orbital neighborhood",
+        "Nebula: A cloud of gas and dust in space"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Redshift\" is correct?",
+      "correctAnswer": "Redshift: Stretching of light toward longer wavelengths",
+      "wrongAnswers": [
+        "White dwarf: A dense remnant left by a Sun-like star",
+        "Moon: A natural satellite orbiting a planet or smaller body",
+        "Light-year: The distance light travels in one year"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Exoplanet\" is correct?",
+      "correctAnswer": "Exoplanet: A planet orbiting a star outside the Solar System",
+      "wrongAnswers": [
+        "Solar wind: Charged particles flowing outward from the Sun",
+        "Asteroid: A rocky small body orbiting the Sun",
+        "Orbit: The curved path of one body around another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Supernova\" is correct?",
+      "correctAnswer": "Supernova: A powerful stellar explosion",
+      "wrongAnswers": [
+        "Habitable zone: The region where liquid water could exist on a planet's surface",
+        "Comet: An icy small body that can form a tail near the Sun",
+        "Gravity: The attraction between masses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Black hole\" is correct?",
+      "correctAnswer": "Black hole: A region where gravity prevents light from escaping",
+      "wrongAnswers": [
+        "Star: A luminous sphere of plasma powered by nuclear fusion",
+        "Galaxy: A huge system of stars, gas, dust, and dark matter",
+        "Telescope: An instrument that collects and focuses electromagnetic radiation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Neutron star\" is correct?",
+      "correctAnswer": "Neutron star: A dense remnant of a massive star",
+      "wrongAnswers": [
+        "Planet: A large body orbiting a star that clears its orbital neighborhood",
+        "Nebula: A cloud of gas and dust in space",
+        "Spectroscopy: Studying light by separating it into wavelengths"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"White dwarf\" is correct?",
+      "correctAnswer": "White dwarf: A dense remnant left by a Sun-like star",
+      "wrongAnswers": [
+        "Moon: A natural satellite orbiting a planet or smaller body",
+        "Light-year: The distance light travels in one year",
+        "Redshift: Stretching of light toward longer wavelengths"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Solar wind\" is correct?",
+      "correctAnswer": "Solar wind: Charged particles flowing outward from the Sun",
+      "wrongAnswers": [
+        "Asteroid: A rocky small body orbiting the Sun",
+        "Orbit: The curved path of one body around another",
+        "Exoplanet: A planet orbiting a star outside the Solar System"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Habitable zone\" is correct?",
+      "correctAnswer": "Habitable zone: The region where liquid water could exist on a planet's surface",
+      "wrongAnswers": [
+        "Comet: An icy small body that can form a tail near the Sun",
+        "Gravity: The attraction between masses",
+        "Supernova: A powerful stellar explosion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Star\" is correct?",
+      "correctAnswer": "Star: A luminous sphere of plasma powered by nuclear fusion",
+      "wrongAnswers": [
+        "Galaxy: A huge system of stars, gas, dust, and dark matter",
+        "Telescope: An instrument that collects and focuses electromagnetic radiation",
+        "Black hole: A region where gravity prevents light from escaping"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Planet\" is correct?",
+      "correctAnswer": "Planet: A large body orbiting a star that clears its orbital neighborhood",
+      "wrongAnswers": [
+        "Nebula: A cloud of gas and dust in space",
+        "Spectroscopy: Studying light by separating it into wavelengths",
+        "Neutron star: A dense remnant of a massive star"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Moon\" is correct?",
+      "correctAnswer": "Moon: A natural satellite orbiting a planet or smaller body",
+      "wrongAnswers": [
+        "Light-year: The distance light travels in one year",
+        "Redshift: Stretching of light toward longer wavelengths",
+        "White dwarf: A dense remnant left by a Sun-like star"
+      ],
+      "timeout": 15
+    }
+  ]
+}

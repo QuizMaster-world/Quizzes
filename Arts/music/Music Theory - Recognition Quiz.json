@@ -1,0 +1,205 @@
+{
+  "title": "Music Theory Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Tempo\" is correct?",
+      "correctAnswer": "Tempo: The speed of the beat",
+      "wrongAnswers": [
+        "Chord: Three or more notes sounded together",
+        "Timbre: The tone color or quality of a sound",
+        "Motif: A short recurring musical idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Meter\" is correct?",
+      "correctAnswer": "Meter: The grouping of beats into repeating patterns",
+      "wrongAnswers": [
+        "Scale: An ordered set of pitches",
+        "Articulation: How notes are started, connected, or separated",
+        "Improvisation: Creating music spontaneously while performing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Measure\" is correct?",
+      "correctAnswer": "Measure: A segment of music containing a set number of beats",
+      "wrongAnswers": [
+        "Key: The tonal center of a piece of music",
+        "Legato: Smoothly connected notes",
+        "Pitch: How high or low a sound is perceived"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Melody\" is correct?",
+      "correctAnswer": "Melody: A sequence of pitches heard as a musical line",
+      "wrongAnswers": [
+        "Interval: The distance between two pitches",
+        "Staccato: Short separated notes",
+        "Rhythm: The pattern of sounds and silences in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Harmony\" is correct?",
+      "correctAnswer": "Harmony: The combination of notes sounded together",
+      "wrongAnswers": [
+        "Dynamics: How loud or soft music is played",
+        "Cadence: A musical ending or point of rest",
+        "Beat: The regular pulse in music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Chord\" is correct?",
+      "correctAnswer": "Chord: Three or more notes sounded together",
+      "wrongAnswers": [
+        "Timbre: The tone color or quality of a sound",
+        "Motif: A short recurring musical idea",
+        "Tempo: The speed of the beat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Scale\" is correct?",
+      "correctAnswer": "Scale: An ordered set of pitches",
+      "wrongAnswers": [
+        "Articulation: How notes are started, connected, or separated",
+        "Improvisation: Creating music spontaneously while performing",
+        "Meter: The grouping of beats into repeating patterns"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Key\" is correct?",
+      "correctAnswer": "Key: The tonal center of a piece of music",
+      "wrongAnswers": [
+        "Legato: Smoothly connected notes",
+        "Pitch: How high or low a sound is perceived",
+        "Measure: A segment of music containing a set number of beats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Interval\" is correct?",
+      "correctAnswer": "Interval: The distance between two pitches",
+      "wrongAnswers": [
+        "Staccato: Short separated notes",
+        "Rhythm: The pattern of sounds and silences in time",
+        "Melody: A sequence of pitches heard as a musical line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dynamics\" is correct?",
+      "correctAnswer": "Dynamics: How loud or soft music is played",
+      "wrongAnswers": [
+        "Cadence: A musical ending or point of rest",
+        "Beat: The regular pulse in music",
+        "Harmony: The combination of notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Timbre\" is correct?",
+      "correctAnswer": "Timbre: The tone color or quality of a sound",
+      "wrongAnswers": [
+        "Motif: A short recurring musical idea",
+        "Tempo: The speed of the beat",
+        "Chord: Three or more notes sounded together"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Articulation\" is correct?",
+      "correctAnswer": "Articulation: How notes are started, connected, or separated",
+      "wrongAnswers": [
+        "Improvisation: Creating music spontaneously while performing",
+        "Meter: The grouping of beats into repeating patterns",
+        "Scale: An ordered set of pitches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Legato\" is correct?",
+      "correctAnswer": "Legato: Smoothly connected notes",
+      "wrongAnswers": [
+        "Pitch: How high or low a sound is perceived",
+        "Measure: A segment of music containing a set number of beats",
+        "Key: The tonal center of a piece of music"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Staccato\" is correct?",
+      "correctAnswer": "Staccato: Short separated notes",
+      "wrongAnswers": [
+        "Rhythm: The pattern of sounds and silences in time",
+        "Melody: A sequence of pitches heard as a musical line",
+        "Interval: The distance between two pitches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cadence\" is correct?",
+      "correctAnswer": "Cadence: A musical ending or point of rest",
+      "wrongAnswers": [
+        "Beat: The regular pulse in music",
+        "Harmony: The combination of notes sounded together",
+        "Dynamics: How loud or soft music is played"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Motif\" is correct?",
+      "correctAnswer": "Motif: A short recurring musical idea",
+      "wrongAnswers": [
+        "Tempo: The speed of the beat",
+        "Chord: Three or more notes sounded together",
+        "Timbre: The tone color or quality of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Improvisation\" is correct?",
+      "correctAnswer": "Improvisation: Creating music spontaneously while performing",
+      "wrongAnswers": [
+        "Meter: The grouping of beats into repeating patterns",
+        "Scale: An ordered set of pitches",
+        "Articulation: How notes are started, connected, or separated"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pitch\" is correct?",
+      "correctAnswer": "Pitch: How high or low a sound is perceived",
+      "wrongAnswers": [
+        "Measure: A segment of music containing a set number of beats",
+        "Key: The tonal center of a piece of music",
+        "Legato: Smoothly connected notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rhythm\" is correct?",
+      "correctAnswer": "Rhythm: The pattern of sounds and silences in time",
+      "wrongAnswers": [
+        "Melody: A sequence of pitches heard as a musical line",
+        "Interval: The distance between two pitches",
+        "Staccato: Short separated notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Beat\" is correct?",
+      "correctAnswer": "Beat: The regular pulse in music",
+      "wrongAnswers": [
+        "Harmony: The combination of notes sounded together",
+        "Dynamics: How loud or soft music is played",
+        "Cadence: A musical ending or point of rest"
+      ],
+      "timeout": 15
+    }
+  ]
+}

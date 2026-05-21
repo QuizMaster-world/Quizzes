@@ -1,0 +1,205 @@
+{
+  "title": "Industrial Revolution Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Industrial Revolution, what does \"Mechanization\" mean?",
+      "correctAnswer": "Using machines to perform work formerly done by hand",
+      "wrongAnswers": [
+        "An engine powered by steam pressure",
+        "Extracting coal to fuel industry and transport",
+        "An organization that represents workers' interests"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Factory system\" mean?",
+      "correctAnswer": "Organizing production in centralized workplaces with machinery",
+      "wrongAnswers": [
+        "A factory that produces cloth or yarn",
+        "A place where iron is produced or processed",
+        "Employment of children, often under harsh conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Steam engine\" mean?",
+      "correctAnswer": "An engine powered by steam pressure",
+      "wrongAnswers": [
+        "Growth of towns and cities as people move for work",
+        "Making large quantities of standardized goods",
+        "Efforts to improve sanitation and living conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Textile mill\" mean?",
+      "correctAnswer": "A factory that produces cloth or yarn",
+      "wrongAnswers": [
+        "A human-made waterway used for transport",
+        "Splitting work into specialized tasks",
+        "A legal right protecting an invention"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Urbanization\" mean?",
+      "correctAnswer": "Growth of towns and cities as people move for work",
+      "wrongAnswers": [
+        "A transport system using trains on tracks",
+        "An approach favoring limited government interference in markets",
+        "A person who organizes and takes risks in business"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Canal\" mean?",
+      "correctAnswer": "A human-made waterway used for transport",
+      "wrongAnswers": [
+        "Extracting coal to fuel industry and transport",
+        "An organization that represents workers' interests",
+        "Money or assets used to support production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Railway\" mean?",
+      "correctAnswer": "A transport system using trains on tracks",
+      "wrongAnswers": [
+        "A place where iron is produced or processed",
+        "Employment of children, often under harsh conditions",
+        "Home-based production before or alongside factories"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Coal mining\" mean?",
+      "correctAnswer": "Extracting coal to fuel industry and transport",
+      "wrongAnswers": [
+        "Making large quantities of standardized goods",
+        "Efforts to improve sanitation and living conditions",
+        "Organized efforts to improve workers' rights and conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Ironworks\" mean?",
+      "correctAnswer": "A place where iron is produced or processed",
+      "wrongAnswers": [
+        "Splitting work into specialized tasks",
+        "A legal right protecting an invention",
+        "Using machines to perform work formerly done by hand"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Mass production\" mean?",
+      "correctAnswer": "Making large quantities of standardized goods",
+      "wrongAnswers": [
+        "An approach favoring limited government interference in markets",
+        "A person who organizes and takes risks in business",
+        "Organizing production in centralized workplaces with machinery"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Division of labor\" mean?",
+      "correctAnswer": "Splitting work into specialized tasks",
+      "wrongAnswers": [
+        "An organization that represents workers' interests",
+        "Money or assets used to support production",
+        "An engine powered by steam pressure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Laissez-faire\" mean?",
+      "correctAnswer": "An approach favoring limited government interference in markets",
+      "wrongAnswers": [
+        "Employment of children, often under harsh conditions",
+        "Home-based production before or alongside factories",
+        "A factory that produces cloth or yarn"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Trade union\" mean?",
+      "correctAnswer": "An organization that represents workers' interests",
+      "wrongAnswers": [
+        "Efforts to improve sanitation and living conditions",
+        "Organized efforts to improve workers' rights and conditions",
+        "Growth of towns and cities as people move for work"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Child labor\" mean?",
+      "correctAnswer": "Employment of children, often under harsh conditions",
+      "wrongAnswers": [
+        "A legal right protecting an invention",
+        "Using machines to perform work formerly done by hand",
+        "A human-made waterway used for transport"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Public health reform\" mean?",
+      "correctAnswer": "Efforts to improve sanitation and living conditions",
+      "wrongAnswers": [
+        "A person who organizes and takes risks in business",
+        "Organizing production in centralized workplaces with machinery",
+        "A transport system using trains on tracks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Patent\" mean?",
+      "correctAnswer": "A legal right protecting an invention",
+      "wrongAnswers": [
+        "Money or assets used to support production",
+        "An engine powered by steam pressure",
+        "Extracting coal to fuel industry and transport"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Entrepreneur\" mean?",
+      "correctAnswer": "A person who organizes and takes risks in business",
+      "wrongAnswers": [
+        "Home-based production before or alongside factories",
+        "A factory that produces cloth or yarn",
+        "A place where iron is produced or processed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Capital\" mean?",
+      "correctAnswer": "Money or assets used to support production",
+      "wrongAnswers": [
+        "Organized efforts to improve workers' rights and conditions",
+        "Growth of towns and cities as people move for work",
+        "Making large quantities of standardized goods"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Cottage industry\" mean?",
+      "correctAnswer": "Home-based production before or alongside factories",
+      "wrongAnswers": [
+        "Using machines to perform work formerly done by hand",
+        "A human-made waterway used for transport",
+        "Splitting work into specialized tasks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, what does \"Labor movement\" mean?",
+      "correctAnswer": "Organized efforts to improve workers' rights and conditions",
+      "wrongAnswers": [
+        "Organizing production in centralized workplaces with machinery",
+        "A transport system using trains on tracks",
+        "An approach favoring limited government interference in markets"
+      ],
+      "timeout": 15
+    }
+  ]
+}

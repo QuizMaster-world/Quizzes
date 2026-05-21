@@ -1,0 +1,205 @@
+{
+  "title": "Creative Writing Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Setting\" is correct?",
+      "correctAnswer": "Setting: The time and place of a story",
+      "wrongAnswers": [
+        "Dialogue: Spoken conversation between characters",
+        "Climax: The turning point of highest tension",
+        "Subtext: Meaning implied beneath spoken or written words"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Point of view\" is correct?",
+      "correctAnswer": "Point of view: The perspective from which a story is told",
+      "wrongAnswers": [
+        "Pacing: The speed at which a story moves",
+        "Falling action: Events after the climax leading toward resolution",
+        "Revision: Reworking a draft to improve meaning, structure, and style"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"First person\" is correct?",
+      "correctAnswer": "First person: Narration using a character's I perspective",
+      "wrongAnswers": [
+        "Scene: A unit of story action in a specific time and place",
+        "Resolution: The part where major story questions are settled",
+        "Protagonist: The central character who drives the story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Third person limited\" is correct?",
+      "correctAnswer": "Third person limited: Narration focused on one character's thoughts",
+      "wrongAnswers": [
+        "Exposition: Information that introduces background and context",
+        "Character arc: A character's internal change through a story",
+        "Antagonist: A character or force opposing the protagonist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Third person omniscient\" is correct?",
+      "correctAnswer": "Third person omniscient: Narration that can reveal many characters' thoughts",
+      "wrongAnswers": [
+        "Rising action: Events that build tension toward the climax",
+        "Voice: The distinctive style or personality of narration",
+        "Conflict: The struggle that creates story tension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Dialogue\" is correct?",
+      "correctAnswer": "Dialogue: Spoken conversation between characters",
+      "wrongAnswers": [
+        "Climax: The turning point of highest tension",
+        "Subtext: Meaning implied beneath spoken or written words",
+        "Setting: The time and place of a story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pacing\" is correct?",
+      "correctAnswer": "Pacing: The speed at which a story moves",
+      "wrongAnswers": [
+        "Falling action: Events after the climax leading toward resolution",
+        "Revision: Reworking a draft to improve meaning, structure, and style",
+        "Point of view: The perspective from which a story is told"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Scene\" is correct?",
+      "correctAnswer": "Scene: A unit of story action in a specific time and place",
+      "wrongAnswers": [
+        "Resolution: The part where major story questions are settled",
+        "Protagonist: The central character who drives the story",
+        "First person: Narration using a character's I perspective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Exposition\" is correct?",
+      "correctAnswer": "Exposition: Information that introduces background and context",
+      "wrongAnswers": [
+        "Character arc: A character's internal change through a story",
+        "Antagonist: A character or force opposing the protagonist",
+        "Third person limited: Narration focused on one character's thoughts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rising action\" is correct?",
+      "correctAnswer": "Rising action: Events that build tension toward the climax",
+      "wrongAnswers": [
+        "Voice: The distinctive style or personality of narration",
+        "Conflict: The struggle that creates story tension",
+        "Third person omniscient: Narration that can reveal many characters' thoughts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Climax\" is correct?",
+      "correctAnswer": "Climax: The turning point of highest tension",
+      "wrongAnswers": [
+        "Subtext: Meaning implied beneath spoken or written words",
+        "Setting: The time and place of a story",
+        "Dialogue: Spoken conversation between characters"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Falling action\" is correct?",
+      "correctAnswer": "Falling action: Events after the climax leading toward resolution",
+      "wrongAnswers": [
+        "Revision: Reworking a draft to improve meaning, structure, and style",
+        "Point of view: The perspective from which a story is told",
+        "Pacing: The speed at which a story moves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Resolution\" is correct?",
+      "correctAnswer": "Resolution: The part where major story questions are settled",
+      "wrongAnswers": [
+        "Protagonist: The central character who drives the story",
+        "First person: Narration using a character's I perspective",
+        "Scene: A unit of story action in a specific time and place"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Character arc\" is correct?",
+      "correctAnswer": "Character arc: A character's internal change through a story",
+      "wrongAnswers": [
+        "Antagonist: A character or force opposing the protagonist",
+        "Third person limited: Narration focused on one character's thoughts",
+        "Exposition: Information that introduces background and context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Voice\" is correct?",
+      "correctAnswer": "Voice: The distinctive style or personality of narration",
+      "wrongAnswers": [
+        "Conflict: The struggle that creates story tension",
+        "Third person omniscient: Narration that can reveal many characters' thoughts",
+        "Rising action: Events that build tension toward the climax"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Subtext\" is correct?",
+      "correctAnswer": "Subtext: Meaning implied beneath spoken or written words",
+      "wrongAnswers": [
+        "Setting: The time and place of a story",
+        "Dialogue: Spoken conversation between characters",
+        "Climax: The turning point of highest tension"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Revision\" is correct?",
+      "correctAnswer": "Revision: Reworking a draft to improve meaning, structure, and style",
+      "wrongAnswers": [
+        "Point of view: The perspective from which a story is told",
+        "Pacing: The speed at which a story moves",
+        "Falling action: Events after the climax leading toward resolution"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Protagonist\" is correct?",
+      "correctAnswer": "Protagonist: The central character who drives the story",
+      "wrongAnswers": [
+        "First person: Narration using a character's I perspective",
+        "Scene: A unit of story action in a specific time and place",
+        "Resolution: The part where major story questions are settled"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Antagonist\" is correct?",
+      "correctAnswer": "Antagonist: A character or force opposing the protagonist",
+      "wrongAnswers": [
+        "Third person limited: Narration focused on one character's thoughts",
+        "Exposition: Information that introduces background and context",
+        "Character arc: A character's internal change through a story"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Conflict\" is correct?",
+      "correctAnswer": "Conflict: The struggle that creates story tension",
+      "wrongAnswers": [
+        "Third person omniscient: Narration that can reveal many characters' thoughts",
+        "Rising action: Events that build tension toward the climax",
+        "Voice: The distinctive style or personality of narration"
+      ],
+      "timeout": 15
+    }
+  ]
+}

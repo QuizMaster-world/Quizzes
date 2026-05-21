@@ -1,0 +1,205 @@
+{
+  "title": "Human Anatomy Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Human Anatomy, what does \"Heart\" mean?",
+      "correctAnswer": "A muscular organ that pumps blood through the body",
+      "wrongAnswers": [
+        "The organ that coordinates thought, sensation, and body control",
+        "An organ that processes nutrients and detoxifies chemicals",
+        "A blood vessel that carries blood toward the heart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Lung\" mean?",
+      "correctAnswer": "An organ that exchanges oxygen and carbon dioxide",
+      "wrongAnswers": [
+        "A nerve pathway connecting the brain with the body",
+        "An organ that filters blood and helps regulate body fluids",
+        "A tiny blood vessel where exchange with tissues occurs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Brain\" mean?",
+      "correctAnswer": "The organ that coordinates thought, sensation, and body control",
+      "wrongAnswers": [
+        "An organ that begins major chemical digestion of food",
+        "An organ that produces digestive enzymes and hormones",
+        "A muscle that helps draw air into the lungs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Spinal cord\" mean?",
+      "correctAnswer": "A nerve pathway connecting the brain with the body",
+      "wrongAnswers": [
+        "The organ where most nutrient absorption occurs",
+        "A nerve cell that carries signals",
+        "Tissue that connects muscle to bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Stomach\" mean?",
+      "correctAnswer": "An organ that begins major chemical digestion of food",
+      "wrongAnswers": [
+        "The organ that absorbs water from digestive waste",
+        "A blood vessel that carries blood away from the heart",
+        "Tissue that connects bone to bone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Small intestine\" mean?",
+      "correctAnswer": "The organ where most nutrient absorption occurs",
+      "wrongAnswers": [
+        "An organ that processes nutrients and detoxifies chemicals",
+        "A blood vessel that carries blood toward the heart",
+        "Flexible connective tissue that cushions joints"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Large intestine\" mean?",
+      "correctAnswer": "The organ that absorbs water from digestive waste",
+      "wrongAnswers": [
+        "An organ that filters blood and helps regulate body fluids",
+        "A tiny blood vessel where exchange with tissues occurs",
+        "A cell that transports oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Liver\" mean?",
+      "correctAnswer": "An organ that processes nutrients and detoxifies chemicals",
+      "wrongAnswers": [
+        "An organ that produces digestive enzymes and hormones",
+        "A muscle that helps draw air into the lungs",
+        "A cell involved in immune defense"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Kidney\" mean?",
+      "correctAnswer": "An organ that filters blood and helps regulate body fluids",
+      "wrongAnswers": [
+        "A nerve cell that carries signals",
+        "Tissue that connects muscle to bone",
+        "A muscular organ that pumps blood through the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Pancreas\" mean?",
+      "correctAnswer": "An organ that produces digestive enzymes and hormones",
+      "wrongAnswers": [
+        "A blood vessel that carries blood away from the heart",
+        "Tissue that connects bone to bone",
+        "An organ that exchanges oxygen and carbon dioxide"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Neuron\" mean?",
+      "correctAnswer": "A nerve cell that carries signals",
+      "wrongAnswers": [
+        "A blood vessel that carries blood toward the heart",
+        "Flexible connective tissue that cushions joints",
+        "The organ that coordinates thought, sensation, and body control"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Artery\" mean?",
+      "correctAnswer": "A blood vessel that carries blood away from the heart",
+      "wrongAnswers": [
+        "A tiny blood vessel where exchange with tissues occurs",
+        "A cell that transports oxygen",
+        "A nerve pathway connecting the brain with the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Vein\" mean?",
+      "correctAnswer": "A blood vessel that carries blood toward the heart",
+      "wrongAnswers": [
+        "A muscle that helps draw air into the lungs",
+        "A cell involved in immune defense",
+        "An organ that begins major chemical digestion of food"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Capillary\" mean?",
+      "correctAnswer": "A tiny blood vessel where exchange with tissues occurs",
+      "wrongAnswers": [
+        "Tissue that connects muscle to bone",
+        "A muscular organ that pumps blood through the body",
+        "The organ where most nutrient absorption occurs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Diaphragm\" mean?",
+      "correctAnswer": "A muscle that helps draw air into the lungs",
+      "wrongAnswers": [
+        "Tissue that connects bone to bone",
+        "An organ that exchanges oxygen and carbon dioxide",
+        "The organ that absorbs water from digestive waste"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Tendon\" mean?",
+      "correctAnswer": "Tissue that connects muscle to bone",
+      "wrongAnswers": [
+        "Flexible connective tissue that cushions joints",
+        "The organ that coordinates thought, sensation, and body control",
+        "An organ that processes nutrients and detoxifies chemicals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Ligament\" mean?",
+      "correctAnswer": "Tissue that connects bone to bone",
+      "wrongAnswers": [
+        "A cell that transports oxygen",
+        "A nerve pathway connecting the brain with the body",
+        "An organ that filters blood and helps regulate body fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Cartilage\" mean?",
+      "correctAnswer": "Flexible connective tissue that cushions joints",
+      "wrongAnswers": [
+        "A cell involved in immune defense",
+        "An organ that begins major chemical digestion of food",
+        "An organ that produces digestive enzymes and hormones"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"Red blood cell\" mean?",
+      "correctAnswer": "A cell that transports oxygen",
+      "wrongAnswers": [
+        "A muscular organ that pumps blood through the body",
+        "The organ where most nutrient absorption occurs",
+        "A nerve cell that carries signals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Human Anatomy, what does \"White blood cell\" mean?",
+      "correctAnswer": "A cell involved in immune defense",
+      "wrongAnswers": [
+        "An organ that exchanges oxygen and carbon dioxide",
+        "The organ that absorbs water from digestive waste",
+        "A blood vessel that carries blood away from the heart"
+      ],
+      "timeout": 15
+    }
+  ]
+}

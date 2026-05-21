@@ -1,0 +1,205 @@
+{
+  "title": "Ancient Egypt Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: The river that supported farming and transport in ancient Egypt?",
+      "correctAnswer": "Nile River",
+      "wrongAnswers": [
+        "Scribe",
+        "Osiris",
+        "Obelisk"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: Land enriched by seasonal river flooding?",
+      "correctAnswer": "Floodplain",
+      "wrongAnswers": [
+        "Pyramid",
+        "Isis",
+        "Cartouche"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: An Egyptian writing system using picture symbols?",
+      "correctAnswer": "Hieroglyphs",
+      "wrongAnswers": [
+        "Mummification",
+        "Ra",
+        "Rosetta Stone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A writing material made from a reed plant?",
+      "correctAnswer": "Papyrus",
+      "wrongAnswers": [
+        "Canopic jar",
+        "Ma'at",
+        "New Kingdom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A trained writer and record keeper?",
+      "correctAnswer": "Scribe",
+      "wrongAnswers": [
+        "Afterlife",
+        "Vizier",
+        "Pharaoh"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A monumental tomb structure associated with royal burials?",
+      "correctAnswer": "Pyramid",
+      "wrongAnswers": [
+        "Osiris",
+        "Obelisk",
+        "Dynasty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A process used to preserve bodies after death?",
+      "correctAnswer": "Mummification",
+      "wrongAnswers": [
+        "Isis",
+        "Cartouche",
+        "Nile River"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A container used to hold organs during mummification?",
+      "correctAnswer": "Canopic jar",
+      "wrongAnswers": [
+        "Ra",
+        "Rosetta Stone",
+        "Floodplain"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: The continued existence Egyptians believed followed death?",
+      "correctAnswer": "Afterlife",
+      "wrongAnswers": [
+        "Ma'at",
+        "New Kingdom",
+        "Hieroglyphs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: An Egyptian god associated with the afterlife?",
+      "correctAnswer": "Osiris",
+      "wrongAnswers": [
+        "Vizier",
+        "Pharaoh",
+        "Papyrus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: An Egyptian goddess associated with protection and magic?",
+      "correctAnswer": "Isis",
+      "wrongAnswers": [
+        "Obelisk",
+        "Dynasty",
+        "Scribe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: An Egyptian sun god?",
+      "correctAnswer": "Ra",
+      "wrongAnswers": [
+        "Cartouche",
+        "Nile River",
+        "Pyramid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: The concept of truth, balance, and order?",
+      "correctAnswer": "Ma'at",
+      "wrongAnswers": [
+        "Rosetta Stone",
+        "Floodplain",
+        "Mummification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A high official who helped administer the kingdom?",
+      "correctAnswer": "Vizier",
+      "wrongAnswers": [
+        "New Kingdom",
+        "Hieroglyphs",
+        "Canopic jar"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A tall stone monument with a pointed top?",
+      "correctAnswer": "Obelisk",
+      "wrongAnswers": [
+        "Pharaoh",
+        "Papyrus",
+        "Afterlife"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: An oval frame containing a royal name?",
+      "correctAnswer": "Cartouche",
+      "wrongAnswers": [
+        "Dynasty",
+        "Scribe",
+        "Osiris"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A stone inscription that helped scholars read hieroglyphs?",
+      "correctAnswer": "Rosetta Stone",
+      "wrongAnswers": [
+        "Nile River",
+        "Pyramid",
+        "Isis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A period of Egyptian power and expansion?",
+      "correctAnswer": "New Kingdom",
+      "wrongAnswers": [
+        "Floodplain",
+        "Mummification",
+        "Ra"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: The ruler of ancient Egypt?",
+      "correctAnswer": "Pharaoh",
+      "wrongAnswers": [
+        "Hieroglyphs",
+        "Canopic jar",
+        "Ma'at"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Ancient Egypt concept is described by this clue: A sequence of rulers from the same family or line?",
+      "correctAnswer": "Dynasty",
+      "wrongAnswers": [
+        "Papyrus",
+        "Afterlife",
+        "Vizier"
+      ],
+      "timeout": 15
+    }
+  ]
+}

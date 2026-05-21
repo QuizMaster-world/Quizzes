@@ -1,0 +1,205 @@
+{
+  "title": "Waves and Sound Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Period\" in Waves and Sound.",
+      "correctAnswer": "The time for one complete wave cycle",
+      "wrongAnswers": [
+        "A spread-out region in a longitudinal wave",
+        "Large vibration caused by matching a natural frequency",
+        "A disturbance that transfers energy through space or a medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Crest\" in Waves and Sound.",
+      "correctAnswer": "The highest point of a transverse wave",
+      "wrongAnswers": [
+        "A wave bouncing from a boundary",
+        "The perceived highness or lowness of a sound",
+        "The maximum displacement from a wave's resting position"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Trough\" in Waves and Sound.",
+      "correctAnswer": "The lowest point of a transverse wave",
+      "wrongAnswers": [
+        "A wave changing direction as speed changes in a new medium",
+        "The perceived strength of a sound",
+        "The distance between matching points on neighboring waves"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Longitudinal wave\" in Waves and Sound.",
+      "correctAnswer": "A wave where particles vibrate parallel to travel direction",
+      "wrongAnswers": [
+        "A wave spreading around obstacles or through gaps",
+        "A reflected sound heard after the original",
+        "How often wave cycles pass a point"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Transverse wave\" in Waves and Sound.",
+      "correctAnswer": "A wave where particles vibrate perpendicular to travel direction",
+      "wrongAnswers": [
+        "Overlapping waves combining their effects",
+        "Sound with frequency above human hearing range",
+        "The time for one complete wave cycle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Compression\" in Waves and Sound.",
+      "correctAnswer": "A crowded region in a longitudinal wave",
+      "wrongAnswers": [
+        "Large vibration caused by matching a natural frequency",
+        "A disturbance that transfers energy through space or a medium",
+        "The highest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rarefaction\" in Waves and Sound.",
+      "correctAnswer": "A spread-out region in a longitudinal wave",
+      "wrongAnswers": [
+        "The perceived highness or lowness of a sound",
+        "The maximum displacement from a wave's resting position",
+        "The lowest point of a transverse wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Reflection\" in Waves and Sound.",
+      "correctAnswer": "A wave bouncing from a boundary",
+      "wrongAnswers": [
+        "The perceived strength of a sound",
+        "The distance between matching points on neighboring waves",
+        "A wave where particles vibrate parallel to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Refraction\" in Waves and Sound.",
+      "correctAnswer": "A wave changing direction as speed changes in a new medium",
+      "wrongAnswers": [
+        "A reflected sound heard after the original",
+        "How often wave cycles pass a point",
+        "A wave where particles vibrate perpendicular to travel direction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Diffraction\" in Waves and Sound.",
+      "correctAnswer": "A wave spreading around obstacles or through gaps",
+      "wrongAnswers": [
+        "Sound with frequency above human hearing range",
+        "The time for one complete wave cycle",
+        "A crowded region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Interference\" in Waves and Sound.",
+      "correctAnswer": "Overlapping waves combining their effects",
+      "wrongAnswers": [
+        "A disturbance that transfers energy through space or a medium",
+        "The highest point of a transverse wave",
+        "A spread-out region in a longitudinal wave"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Resonance\" in Waves and Sound.",
+      "correctAnswer": "Large vibration caused by matching a natural frequency",
+      "wrongAnswers": [
+        "The maximum displacement from a wave's resting position",
+        "The lowest point of a transverse wave",
+        "A wave bouncing from a boundary"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pitch\" in Waves and Sound.",
+      "correctAnswer": "The perceived highness or lowness of a sound",
+      "wrongAnswers": [
+        "The distance between matching points on neighboring waves",
+        "A wave where particles vibrate parallel to travel direction",
+        "A wave changing direction as speed changes in a new medium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Loudness\" in Waves and Sound.",
+      "correctAnswer": "The perceived strength of a sound",
+      "wrongAnswers": [
+        "How often wave cycles pass a point",
+        "A wave where particles vibrate perpendicular to travel direction",
+        "A wave spreading around obstacles or through gaps"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Echo\" in Waves and Sound.",
+      "correctAnswer": "A reflected sound heard after the original",
+      "wrongAnswers": [
+        "The time for one complete wave cycle",
+        "A crowded region in a longitudinal wave",
+        "Overlapping waves combining their effects"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ultrasound\" in Waves and Sound.",
+      "correctAnswer": "Sound with frequency above human hearing range",
+      "wrongAnswers": [
+        "The highest point of a transverse wave",
+        "A spread-out region in a longitudinal wave",
+        "Large vibration caused by matching a natural frequency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Wave\" in Waves and Sound.",
+      "correctAnswer": "A disturbance that transfers energy through space or a medium",
+      "wrongAnswers": [
+        "The lowest point of a transverse wave",
+        "A wave bouncing from a boundary",
+        "The perceived highness or lowness of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Amplitude\" in Waves and Sound.",
+      "correctAnswer": "The maximum displacement from a wave's resting position",
+      "wrongAnswers": [
+        "A wave where particles vibrate parallel to travel direction",
+        "A wave changing direction as speed changes in a new medium",
+        "The perceived strength of a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Wavelength\" in Waves and Sound.",
+      "correctAnswer": "The distance between matching points on neighboring waves",
+      "wrongAnswers": [
+        "A wave where particles vibrate perpendicular to travel direction",
+        "A wave spreading around obstacles or through gaps",
+        "A reflected sound heard after the original"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Frequency\" in Waves and Sound.",
+      "correctAnswer": "How often wave cycles pass a point",
+      "wrongAnswers": [
+        "A crowded region in a longitudinal wave",
+        "Overlapping waves combining their effects",
+        "Sound with frequency above human hearing range"
+      ],
+      "timeout": 15
+    }
+  ]
+}

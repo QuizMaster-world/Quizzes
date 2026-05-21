@@ -1,0 +1,205 @@
+{
+  "title": "Genetics and Heredity Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A long DNA structure containing many genes?",
+      "correctAnswer": "Chromosome",
+      "wrongAnswers": [
+        "Dominant allele",
+        "Protein synthesis",
+        "Carrier"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A version of a gene?",
+      "correctAnswer": "Allele",
+      "wrongAnswers": [
+        "Recessive allele",
+        "Transcription",
+        "Codon"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: The genetic makeup for a trait?",
+      "correctAnswer": "Genotype",
+      "wrongAnswers": [
+        "Homozygous",
+        "Translation",
+        "Genome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: The observable expression of a trait?",
+      "correctAnswer": "Phenotype",
+      "wrongAnswers": [
+        "Heterozygous",
+        "Messenger RNA",
+        "Genetic variation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: An allele expressed when one copy is present?",
+      "correctAnswer": "Dominant allele",
+      "wrongAnswers": [
+        "Mutation",
+        "Punnett square",
+        "DNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: An allele expressed when two copies are present?",
+      "correctAnswer": "Recessive allele",
+      "wrongAnswers": [
+        "Protein synthesis",
+        "Carrier",
+        "Gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: Having two matching alleles for a gene?",
+      "correctAnswer": "Homozygous",
+      "wrongAnswers": [
+        "Transcription",
+        "Codon",
+        "Chromosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: Having two different alleles for a gene?",
+      "correctAnswer": "Heterozygous",
+      "wrongAnswers": [
+        "Translation",
+        "Genome",
+        "Allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A change in DNA sequence?",
+      "correctAnswer": "Mutation",
+      "wrongAnswers": [
+        "Messenger RNA",
+        "Genetic variation",
+        "Genotype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: The process of making proteins from genetic instructions?",
+      "correctAnswer": "Protein synthesis",
+      "wrongAnswers": [
+        "Punnett square",
+        "DNA",
+        "Phenotype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: Copying DNA information into RNA?",
+      "correctAnswer": "Transcription",
+      "wrongAnswers": [
+        "Carrier",
+        "Gene",
+        "Dominant allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: Building a protein using RNA instructions?",
+      "correctAnswer": "Translation",
+      "wrongAnswers": [
+        "Codon",
+        "Chromosome",
+        "Recessive allele"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: RNA that carries genetic instructions from DNA to ribosomes?",
+      "correctAnswer": "Messenger RNA",
+      "wrongAnswers": [
+        "Genome",
+        "Allele",
+        "Homozygous"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A diagram used to predict possible inherited traits?",
+      "correctAnswer": "Punnett square",
+      "wrongAnswers": [
+        "Genetic variation",
+        "Genotype",
+        "Heterozygous"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: An individual who has one recessive disease allele without showing the trait?",
+      "correctAnswer": "Carrier",
+      "wrongAnswers": [
+        "DNA",
+        "Phenotype",
+        "Mutation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A three-base RNA sequence that specifies an amino acid or stop signal?",
+      "correctAnswer": "Codon",
+      "wrongAnswers": [
+        "Gene",
+        "Dominant allele",
+        "Protein synthesis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: All genetic material in an organism?",
+      "correctAnswer": "Genome",
+      "wrongAnswers": [
+        "Chromosome",
+        "Recessive allele",
+        "Transcription"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: Differences in DNA among individuals?",
+      "correctAnswer": "Genetic variation",
+      "wrongAnswers": [
+        "Allele",
+        "Homozygous",
+        "Translation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A molecule that stores hereditary instructions?",
+      "correctAnswer": "DNA",
+      "wrongAnswers": [
+        "Genotype",
+        "Heterozygous",
+        "Messenger RNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Genetics and Heredity concept is described by this clue: A DNA segment that influences a trait or product?",
+      "correctAnswer": "Gene",
+      "wrongAnswers": [
+        "Phenotype",
+        "Mutation",
+        "Punnett square"
+      ],
+      "timeout": 15
+    }
+  ]
+}

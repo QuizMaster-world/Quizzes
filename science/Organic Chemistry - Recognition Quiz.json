@@ -1,0 +1,205 @@
+{
+  "title": "Organic Chemistry Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Alkyne\" is correct?",
+      "correctAnswer": "Alkyne: A hydrocarbon with at least one carbon-carbon triple bond",
+      "wrongAnswers": [
+        "Polymer: A large molecule made from repeating smaller units",
+        "Unsaturated compound: A compound with at least one carbon-carbon multiple bond",
+        "Condensation reaction: A reaction that joins molecules while releasing a small molecule"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Alcohol\" is correct?",
+      "correctAnswer": "Alcohol: An organic compound containing a hydroxyl group",
+      "wrongAnswers": [
+        "Monomer: A small molecule that can join to form a polymer",
+        "Aromatic compound: A stable ring compound with delocalized electrons",
+        "Cracking: Breaking larger hydrocarbons into smaller molecules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Carboxylic acid\" is correct?",
+      "correctAnswer": "Carboxylic acid: An organic compound containing a carboxyl group",
+      "wrongAnswers": [
+        "Isomer: A compound with the same formula but a different structure",
+        "Catalyst: A substance that speeds a reaction without being consumed",
+        "Hydrocarbon: A compound made only of carbon and hydrogen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ester\" is correct?",
+      "correctAnswer": "Ester: An organic compound often formed from an alcohol and a carboxylic acid",
+      "wrongAnswers": [
+        "Functional group: A group of atoms that gives a molecule characteristic reactions",
+        "Addition reaction: A reaction where atoms add across a multiple bond",
+        "Alkane: A hydrocarbon with only single carbon-carbon bonds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Amine\" is correct?",
+      "correctAnswer": "Amine: An organic compound containing nitrogen bonded to carbon or hydrogen",
+      "wrongAnswers": [
+        "Saturated compound: A compound with no carbon-carbon multiple bonds",
+        "Substitution reaction: A reaction where one atom or group replaces another",
+        "Alkene: A hydrocarbon with at least one carbon-carbon double bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Polymer\" is correct?",
+      "correctAnswer": "Polymer: A large molecule made from repeating smaller units",
+      "wrongAnswers": [
+        "Unsaturated compound: A compound with at least one carbon-carbon multiple bond",
+        "Condensation reaction: A reaction that joins molecules while releasing a small molecule",
+        "Alkyne: A hydrocarbon with at least one carbon-carbon triple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Monomer\" is correct?",
+      "correctAnswer": "Monomer: A small molecule that can join to form a polymer",
+      "wrongAnswers": [
+        "Aromatic compound: A stable ring compound with delocalized electrons",
+        "Cracking: Breaking larger hydrocarbons into smaller molecules",
+        "Alcohol: An organic compound containing a hydroxyl group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Isomer\" is correct?",
+      "correctAnswer": "Isomer: A compound with the same formula but a different structure",
+      "wrongAnswers": [
+        "Catalyst: A substance that speeds a reaction without being consumed",
+        "Hydrocarbon: A compound made only of carbon and hydrogen",
+        "Carboxylic acid: An organic compound containing a carboxyl group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Functional group\" is correct?",
+      "correctAnswer": "Functional group: A group of atoms that gives a molecule characteristic reactions",
+      "wrongAnswers": [
+        "Addition reaction: A reaction where atoms add across a multiple bond",
+        "Alkane: A hydrocarbon with only single carbon-carbon bonds",
+        "Ester: An organic compound often formed from an alcohol and a carboxylic acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Saturated compound\" is correct?",
+      "correctAnswer": "Saturated compound: A compound with no carbon-carbon multiple bonds",
+      "wrongAnswers": [
+        "Substitution reaction: A reaction where one atom or group replaces another",
+        "Alkene: A hydrocarbon with at least one carbon-carbon double bond",
+        "Amine: An organic compound containing nitrogen bonded to carbon or hydrogen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Unsaturated compound\" is correct?",
+      "correctAnswer": "Unsaturated compound: A compound with at least one carbon-carbon multiple bond",
+      "wrongAnswers": [
+        "Condensation reaction: A reaction that joins molecules while releasing a small molecule",
+        "Alkyne: A hydrocarbon with at least one carbon-carbon triple bond",
+        "Polymer: A large molecule made from repeating smaller units"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Aromatic compound\" is correct?",
+      "correctAnswer": "Aromatic compound: A stable ring compound with delocalized electrons",
+      "wrongAnswers": [
+        "Cracking: Breaking larger hydrocarbons into smaller molecules",
+        "Alcohol: An organic compound containing a hydroxyl group",
+        "Monomer: A small molecule that can join to form a polymer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Catalyst\" is correct?",
+      "correctAnswer": "Catalyst: A substance that speeds a reaction without being consumed",
+      "wrongAnswers": [
+        "Hydrocarbon: A compound made only of carbon and hydrogen",
+        "Carboxylic acid: An organic compound containing a carboxyl group",
+        "Isomer: A compound with the same formula but a different structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Addition reaction\" is correct?",
+      "correctAnswer": "Addition reaction: A reaction where atoms add across a multiple bond",
+      "wrongAnswers": [
+        "Alkane: A hydrocarbon with only single carbon-carbon bonds",
+        "Ester: An organic compound often formed from an alcohol and a carboxylic acid",
+        "Functional group: A group of atoms that gives a molecule characteristic reactions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Substitution reaction\" is correct?",
+      "correctAnswer": "Substitution reaction: A reaction where one atom or group replaces another",
+      "wrongAnswers": [
+        "Alkene: A hydrocarbon with at least one carbon-carbon double bond",
+        "Amine: An organic compound containing nitrogen bonded to carbon or hydrogen",
+        "Saturated compound: A compound with no carbon-carbon multiple bonds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Condensation reaction\" is correct?",
+      "correctAnswer": "Condensation reaction: A reaction that joins molecules while releasing a small molecule",
+      "wrongAnswers": [
+        "Alkyne: A hydrocarbon with at least one carbon-carbon triple bond",
+        "Polymer: A large molecule made from repeating smaller units",
+        "Unsaturated compound: A compound with at least one carbon-carbon multiple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cracking\" is correct?",
+      "correctAnswer": "Cracking: Breaking larger hydrocarbons into smaller molecules",
+      "wrongAnswers": [
+        "Alcohol: An organic compound containing a hydroxyl group",
+        "Monomer: A small molecule that can join to form a polymer",
+        "Aromatic compound: A stable ring compound with delocalized electrons"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hydrocarbon\" is correct?",
+      "correctAnswer": "Hydrocarbon: A compound made only of carbon and hydrogen",
+      "wrongAnswers": [
+        "Carboxylic acid: An organic compound containing a carboxyl group",
+        "Isomer: A compound with the same formula but a different structure",
+        "Catalyst: A substance that speeds a reaction without being consumed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Alkane\" is correct?",
+      "correctAnswer": "Alkane: A hydrocarbon with only single carbon-carbon bonds",
+      "wrongAnswers": [
+        "Ester: An organic compound often formed from an alcohol and a carboxylic acid",
+        "Functional group: A group of atoms that gives a molecule characteristic reactions",
+        "Addition reaction: A reaction where atoms add across a multiple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Alkene\" is correct?",
+      "correctAnswer": "Alkene: A hydrocarbon with at least one carbon-carbon double bond",
+      "wrongAnswers": [
+        "Amine: An organic compound containing nitrogen bonded to carbon or hydrogen",
+        "Saturated compound: A compound with no carbon-carbon multiple bonds",
+        "Substitution reaction: A reaction where one atom or group replaces another"
+      ],
+      "timeout": 15
+    }
+  ]
+}

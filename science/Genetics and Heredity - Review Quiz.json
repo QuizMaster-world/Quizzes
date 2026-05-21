@@ -1,0 +1,205 @@
+{
+  "title": "Genetics and Heredity Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Genotype\" in Genetics and Heredity.",
+      "correctAnswer": "The genetic makeup for a trait",
+      "wrongAnswers": [
+        "A change in DNA sequence",
+        "A diagram used to predict possible inherited traits",
+        "A molecule that stores hereditary instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Phenotype\" in Genetics and Heredity.",
+      "correctAnswer": "The observable expression of a trait",
+      "wrongAnswers": [
+        "The process of making proteins from genetic instructions",
+        "An individual who has one recessive disease allele without showing the trait",
+        "A DNA segment that influences a trait or product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Dominant allele\" in Genetics and Heredity.",
+      "correctAnswer": "An allele expressed when one copy is present",
+      "wrongAnswers": [
+        "Copying DNA information into RNA",
+        "A three-base RNA sequence that specifies an amino acid or stop signal",
+        "A long DNA structure containing many genes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Recessive allele\" in Genetics and Heredity.",
+      "correctAnswer": "An allele expressed when two copies are present",
+      "wrongAnswers": [
+        "Building a protein using RNA instructions",
+        "All genetic material in an organism",
+        "A version of a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Homozygous\" in Genetics and Heredity.",
+      "correctAnswer": "Having two matching alleles for a gene",
+      "wrongAnswers": [
+        "RNA that carries genetic instructions from DNA to ribosomes",
+        "Differences in DNA among individuals",
+        "The genetic makeup for a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Heterozygous\" in Genetics and Heredity.",
+      "correctAnswer": "Having two different alleles for a gene",
+      "wrongAnswers": [
+        "A diagram used to predict possible inherited traits",
+        "A molecule that stores hereditary instructions",
+        "The observable expression of a trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mutation\" in Genetics and Heredity.",
+      "correctAnswer": "A change in DNA sequence",
+      "wrongAnswers": [
+        "An individual who has one recessive disease allele without showing the trait",
+        "A DNA segment that influences a trait or product",
+        "An allele expressed when one copy is present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Protein synthesis\" in Genetics and Heredity.",
+      "correctAnswer": "The process of making proteins from genetic instructions",
+      "wrongAnswers": [
+        "A three-base RNA sequence that specifies an amino acid or stop signal",
+        "A long DNA structure containing many genes",
+        "An allele expressed when two copies are present"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Transcription\" in Genetics and Heredity.",
+      "correctAnswer": "Copying DNA information into RNA",
+      "wrongAnswers": [
+        "All genetic material in an organism",
+        "A version of a gene",
+        "Having two matching alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Translation\" in Genetics and Heredity.",
+      "correctAnswer": "Building a protein using RNA instructions",
+      "wrongAnswers": [
+        "Differences in DNA among individuals",
+        "The genetic makeup for a trait",
+        "Having two different alleles for a gene"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Messenger RNA\" in Genetics and Heredity.",
+      "correctAnswer": "RNA that carries genetic instructions from DNA to ribosomes",
+      "wrongAnswers": [
+        "A molecule that stores hereditary instructions",
+        "The observable expression of a trait",
+        "A change in DNA sequence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Punnett square\" in Genetics and Heredity.",
+      "correctAnswer": "A diagram used to predict possible inherited traits",
+      "wrongAnswers": [
+        "A DNA segment that influences a trait or product",
+        "An allele expressed when one copy is present",
+        "The process of making proteins from genetic instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Carrier\" in Genetics and Heredity.",
+      "correctAnswer": "An individual who has one recessive disease allele without showing the trait",
+      "wrongAnswers": [
+        "A long DNA structure containing many genes",
+        "An allele expressed when two copies are present",
+        "Copying DNA information into RNA"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Codon\" in Genetics and Heredity.",
+      "correctAnswer": "A three-base RNA sequence that specifies an amino acid or stop signal",
+      "wrongAnswers": [
+        "A version of a gene",
+        "Having two matching alleles for a gene",
+        "Building a protein using RNA instructions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Genome\" in Genetics and Heredity.",
+      "correctAnswer": "All genetic material in an organism",
+      "wrongAnswers": [
+        "The genetic makeup for a trait",
+        "Having two different alleles for a gene",
+        "RNA that carries genetic instructions from DNA to ribosomes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Genetic variation\" in Genetics and Heredity.",
+      "correctAnswer": "Differences in DNA among individuals",
+      "wrongAnswers": [
+        "The observable expression of a trait",
+        "A change in DNA sequence",
+        "A diagram used to predict possible inherited traits"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"DNA\" in Genetics and Heredity.",
+      "correctAnswer": "A molecule that stores hereditary instructions",
+      "wrongAnswers": [
+        "An allele expressed when one copy is present",
+        "The process of making proteins from genetic instructions",
+        "An individual who has one recessive disease allele without showing the trait"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Gene\" in Genetics and Heredity.",
+      "correctAnswer": "A DNA segment that influences a trait or product",
+      "wrongAnswers": [
+        "An allele expressed when two copies are present",
+        "Copying DNA information into RNA",
+        "A three-base RNA sequence that specifies an amino acid or stop signal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Chromosome\" in Genetics and Heredity.",
+      "correctAnswer": "A long DNA structure containing many genes",
+      "wrongAnswers": [
+        "Having two matching alleles for a gene",
+        "Building a protein using RNA instructions",
+        "All genetic material in an organism"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Allele\" in Genetics and Heredity.",
+      "correctAnswer": "A version of a gene",
+      "wrongAnswers": [
+        "Having two different alleles for a gene",
+        "RNA that carries genetic instructions from DNA to ribosomes",
+        "Differences in DNA among individuals"
+      ],
+      "timeout": 15
+    }
+  ]
+}

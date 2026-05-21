@@ -1,0 +1,205 @@
+{
+  "title": "Cell Biology Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Cell Biology, which term means: The gel-like material inside a cell where many reactions occur?",
+      "correctAnswer": "Cytoplasm",
+      "wrongAnswers": [
+        "Ribosome",
+        "Cell wall",
+        "Active transport"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: The organelle that stores most genetic material in eukaryotic cells?",
+      "correctAnswer": "Nucleus",
+      "wrongAnswers": [
+        "Endoplasmic reticulum",
+        "Vacuole",
+        "Enzyme"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: An organelle that releases usable energy from food molecules?",
+      "correctAnswer": "Mitochondrion",
+      "wrongAnswers": [
+        "Golgi apparatus",
+        "Organelle",
+        "ATP"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A structure that builds proteins from amino acids?",
+      "correctAnswer": "Ribosome",
+      "wrongAnswers": [
+        "Lysosome",
+        "Diffusion",
+        "Mitosis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A membrane network involved in protein and lipid processing?",
+      "correctAnswer": "Endoplasmic reticulum",
+      "wrongAnswers": [
+        "Chloroplast",
+        "Osmosis",
+        "Meiosis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: An organelle that modifies and packages cell products?",
+      "correctAnswer": "Golgi apparatus",
+      "wrongAnswers": [
+        "Cell wall",
+        "Active transport",
+        "Homeostasis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: An organelle that breaks down waste and worn cell parts?",
+      "correctAnswer": "Lysosome",
+      "wrongAnswers": [
+        "Vacuole",
+        "Enzyme",
+        "Cell membrane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A plant cell organelle that carries out photosynthesis?",
+      "correctAnswer": "Chloroplast",
+      "wrongAnswers": [
+        "Organelle",
+        "ATP",
+        "Cytoplasm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A rigid outer layer that supports some kinds of cells?",
+      "correctAnswer": "Cell wall",
+      "wrongAnswers": [
+        "Diffusion",
+        "Mitosis",
+        "Nucleus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A storage compartment inside a cell?",
+      "correctAnswer": "Vacuole",
+      "wrongAnswers": [
+        "Osmosis",
+        "Meiosis",
+        "Mitochondrion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A specialized structure inside a cell?",
+      "correctAnswer": "Organelle",
+      "wrongAnswers": [
+        "Active transport",
+        "Homeostasis",
+        "Ribosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Movement of particles from higher concentration to lower concentration?",
+      "correctAnswer": "Diffusion",
+      "wrongAnswers": [
+        "Enzyme",
+        "Cell membrane",
+        "Endoplasmic reticulum"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Diffusion of water across a selectively permeable membrane?",
+      "correctAnswer": "Osmosis",
+      "wrongAnswers": [
+        "ATP",
+        "Cytoplasm",
+        "Golgi apparatus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Movement across a membrane using cellular energy?",
+      "correctAnswer": "Active transport",
+      "wrongAnswers": [
+        "Mitosis",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A protein that speeds up a chemical reaction?",
+      "correctAnswer": "Enzyme",
+      "wrongAnswers": [
+        "Meiosis",
+        "Mitochondrion",
+        "Chloroplast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A molecule used as a direct energy source in cells?",
+      "correctAnswer": "ATP",
+      "wrongAnswers": [
+        "Homeostasis",
+        "Ribosome",
+        "Cell wall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Cell division that produces genetically identical body cells?",
+      "correctAnswer": "Mitosis",
+      "wrongAnswers": [
+        "Cell membrane",
+        "Endoplasmic reticulum",
+        "Vacuole"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Cell division that produces gametes with reduced chromosome sets?",
+      "correctAnswer": "Meiosis",
+      "wrongAnswers": [
+        "Cytoplasm",
+        "Golgi apparatus",
+        "Organelle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: Maintaining a stable internal condition?",
+      "correctAnswer": "Homeostasis",
+      "wrongAnswers": [
+        "Nucleus",
+        "Lysosome",
+        "Diffusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cell Biology, which term means: A boundary that controls movement into and out of the cell?",
+      "correctAnswer": "Cell membrane",
+      "wrongAnswers": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Osmosis"
+      ],
+      "timeout": 15
+    }
+  ]
+}

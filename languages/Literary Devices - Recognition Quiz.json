@@ -1,0 +1,205 @@
+{
+  "title": "Literary Devices Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Alliteration\" is correct?",
+      "correctAnswer": "Alliteration: Repeating initial consonant sounds",
+      "wrongAnswers": [
+        "Irony: A contrast between expectation and reality",
+        "Tone: The writer's attitude toward the subject",
+        "Allegory: A story with a second symbolic meaning"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Assonance\" is correct?",
+      "correctAnswer": "Assonance: Repeating vowel sounds within nearby words",
+      "wrongAnswers": [
+        "Foreshadowing: Hints about events that will happen later",
+        "Mood: The emotional atmosphere felt by the reader",
+        "Allusion: A reference to another text, event, or idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Onomatopoeia\" is correct?",
+      "correctAnswer": "Onomatopoeia: A word that imitates a sound",
+      "wrongAnswers": [
+        "Flashback: A scene that shows an earlier time",
+        "Hyperbole: Deliberate exaggeration for effect",
+        "Metaphor: A comparison that says one thing is another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Imagery\" is correct?",
+      "correctAnswer": "Imagery: Language that appeals to the senses",
+      "wrongAnswers": [
+        "Motif: A repeated element with thematic importance",
+        "Oxymoron: A phrase that combines contradictory terms",
+        "Simile: A comparison using like or as"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Symbolism\" is correct?",
+      "correctAnswer": "Symbolism: Using an object or action to represent a larger idea",
+      "wrongAnswers": [
+        "Theme: A central idea explored by a text",
+        "Paradox: A statement that seems contradictory but reveals truth",
+        "Personification: Giving human qualities to non-human things"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Irony\" is correct?",
+      "correctAnswer": "Irony: A contrast between expectation and reality",
+      "wrongAnswers": [
+        "Tone: The writer's attitude toward the subject",
+        "Allegory: A story with a second symbolic meaning",
+        "Alliteration: Repeating initial consonant sounds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Foreshadowing\" is correct?",
+      "correctAnswer": "Foreshadowing: Hints about events that will happen later",
+      "wrongAnswers": [
+        "Mood: The emotional atmosphere felt by the reader",
+        "Allusion: A reference to another text, event, or idea",
+        "Assonance: Repeating vowel sounds within nearby words"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Flashback\" is correct?",
+      "correctAnswer": "Flashback: A scene that shows an earlier time",
+      "wrongAnswers": [
+        "Hyperbole: Deliberate exaggeration for effect",
+        "Metaphor: A comparison that says one thing is another",
+        "Onomatopoeia: A word that imitates a sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Motif\" is correct?",
+      "correctAnswer": "Motif: A repeated element with thematic importance",
+      "wrongAnswers": [
+        "Oxymoron: A phrase that combines contradictory terms",
+        "Simile: A comparison using like or as",
+        "Imagery: Language that appeals to the senses"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Theme\" is correct?",
+      "correctAnswer": "Theme: A central idea explored by a text",
+      "wrongAnswers": [
+        "Paradox: A statement that seems contradictory but reveals truth",
+        "Personification: Giving human qualities to non-human things",
+        "Symbolism: Using an object or action to represent a larger idea"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Tone\" is correct?",
+      "correctAnswer": "Tone: The writer's attitude toward the subject",
+      "wrongAnswers": [
+        "Allegory: A story with a second symbolic meaning",
+        "Alliteration: Repeating initial consonant sounds",
+        "Irony: A contrast between expectation and reality"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mood\" is correct?",
+      "correctAnswer": "Mood: The emotional atmosphere felt by the reader",
+      "wrongAnswers": [
+        "Allusion: A reference to another text, event, or idea",
+        "Assonance: Repeating vowel sounds within nearby words",
+        "Foreshadowing: Hints about events that will happen later"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hyperbole\" is correct?",
+      "correctAnswer": "Hyperbole: Deliberate exaggeration for effect",
+      "wrongAnswers": [
+        "Metaphor: A comparison that says one thing is another",
+        "Onomatopoeia: A word that imitates a sound",
+        "Flashback: A scene that shows an earlier time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Oxymoron\" is correct?",
+      "correctAnswer": "Oxymoron: A phrase that combines contradictory terms",
+      "wrongAnswers": [
+        "Simile: A comparison using like or as",
+        "Imagery: Language that appeals to the senses",
+        "Motif: A repeated element with thematic importance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Paradox\" is correct?",
+      "correctAnswer": "Paradox: A statement that seems contradictory but reveals truth",
+      "wrongAnswers": [
+        "Personification: Giving human qualities to non-human things",
+        "Symbolism: Using an object or action to represent a larger idea",
+        "Theme: A central idea explored by a text"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Allegory\" is correct?",
+      "correctAnswer": "Allegory: A story with a second symbolic meaning",
+      "wrongAnswers": [
+        "Alliteration: Repeating initial consonant sounds",
+        "Irony: A contrast between expectation and reality",
+        "Tone: The writer's attitude toward the subject"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Allusion\" is correct?",
+      "correctAnswer": "Allusion: A reference to another text, event, or idea",
+      "wrongAnswers": [
+        "Assonance: Repeating vowel sounds within nearby words",
+        "Foreshadowing: Hints about events that will happen later",
+        "Mood: The emotional atmosphere felt by the reader"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Metaphor\" is correct?",
+      "correctAnswer": "Metaphor: A comparison that says one thing is another",
+      "wrongAnswers": [
+        "Onomatopoeia: A word that imitates a sound",
+        "Flashback: A scene that shows an earlier time",
+        "Hyperbole: Deliberate exaggeration for effect"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Simile\" is correct?",
+      "correctAnswer": "Simile: A comparison using like or as",
+      "wrongAnswers": [
+        "Imagery: Language that appeals to the senses",
+        "Motif: A repeated element with thematic importance",
+        "Oxymoron: A phrase that combines contradictory terms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Personification\" is correct?",
+      "correctAnswer": "Personification: Giving human qualities to non-human things",
+      "wrongAnswers": [
+        "Symbolism: Using an object or action to represent a larger idea",
+        "Theme: A central idea explored by a text",
+        "Paradox: A statement that seems contradictory but reveals truth"
+      ],
+      "timeout": 15
+    }
+  ]
+}

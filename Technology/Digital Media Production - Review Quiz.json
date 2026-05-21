@@ -1,0 +1,205 @@
+{
+  "title": "Digital Media Production Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Shot list\" in Digital Media Production.",
+      "correctAnswer": "A planned list of camera shots for production",
+      "wrongAnswers": [
+        "Adjusting color so whites appear neutral",
+        "A separate visual or audio element stacked with others",
+        "The detail of an image or video measured by pixel dimensions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"B-roll\" in Digital Media Production.",
+      "correctAnswer": "Supplementary footage used to support the main footage",
+      "wrongAnswers": [
+        "Reducing media file size through encoding",
+        "A marker defining a property value at a point in time",
+        "How many video frames are shown each second"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Voice-over\" in Digital Media Production.",
+      "correctAnswer": "Narration recorded over visuals",
+      "wrongAnswers": [
+        "Software or method used to encode and decode media",
+        "A shape used to hide or reveal part of a layer",
+        "The proportional relationship between width and height"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cut\" in Digital Media Production.",
+      "correctAnswer": "A direct transition from one shot to another",
+      "wrongAnswers": [
+        "The amount of data used per second of media",
+        "Rendering a finished media file from a project",
+        "A sequence of drawings or panels planning visual scenes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fade\" in Digital Media Production.",
+      "correctAnswer": "A gradual transition to or from an image or sound",
+      "wrongAnswers": [
+        "The editing workspace where clips are arranged over time",
+        "Legal protection for creative works",
+        "A planned list of camera shots for production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Color grading\" in Digital Media Production.",
+      "correctAnswer": "Adjusting color and tone for style and consistency",
+      "wrongAnswers": [
+        "A separate visual or audio element stacked with others",
+        "The detail of an image or video measured by pixel dimensions",
+        "Supplementary footage used to support the main footage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"White balance\" in Digital Media Production.",
+      "correctAnswer": "Adjusting color so whites appear neutral",
+      "wrongAnswers": [
+        "A marker defining a property value at a point in time",
+        "How many video frames are shown each second",
+        "Narration recorded over visuals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Compression\" in Digital Media Production.",
+      "correctAnswer": "Reducing media file size through encoding",
+      "wrongAnswers": [
+        "A shape used to hide or reveal part of a layer",
+        "The proportional relationship between width and height",
+        "A direct transition from one shot to another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Codec\" in Digital Media Production.",
+      "correctAnswer": "Software or method used to encode and decode media",
+      "wrongAnswers": [
+        "Rendering a finished media file from a project",
+        "A sequence of drawings or panels planning visual scenes",
+        "A gradual transition to or from an image or sound"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Bitrate\" in Digital Media Production.",
+      "correctAnswer": "The amount of data used per second of media",
+      "wrongAnswers": [
+        "Legal protection for creative works",
+        "A planned list of camera shots for production",
+        "Adjusting color and tone for style and consistency"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Timeline\" in Digital Media Production.",
+      "correctAnswer": "The editing workspace where clips are arranged over time",
+      "wrongAnswers": [
+        "The detail of an image or video measured by pixel dimensions",
+        "Supplementary footage used to support the main footage",
+        "Adjusting color so whites appear neutral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Layer\" in Digital Media Production.",
+      "correctAnswer": "A separate visual or audio element stacked with others",
+      "wrongAnswers": [
+        "How many video frames are shown each second",
+        "Narration recorded over visuals",
+        "Reducing media file size through encoding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Keyframe\" in Digital Media Production.",
+      "correctAnswer": "A marker defining a property value at a point in time",
+      "wrongAnswers": [
+        "The proportional relationship between width and height",
+        "A direct transition from one shot to another",
+        "Software or method used to encode and decode media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mask\" in Digital Media Production.",
+      "correctAnswer": "A shape used to hide or reveal part of a layer",
+      "wrongAnswers": [
+        "A sequence of drawings or panels planning visual scenes",
+        "A gradual transition to or from an image or sound",
+        "The amount of data used per second of media"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Export\" in Digital Media Production.",
+      "correctAnswer": "Rendering a finished media file from a project",
+      "wrongAnswers": [
+        "A planned list of camera shots for production",
+        "Adjusting color and tone for style and consistency",
+        "The editing workspace where clips are arranged over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Copyright\" in Digital Media Production.",
+      "correctAnswer": "Legal protection for creative works",
+      "wrongAnswers": [
+        "Supplementary footage used to support the main footage",
+        "Adjusting color so whites appear neutral",
+        "A separate visual or audio element stacked with others"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Resolution\" in Digital Media Production.",
+      "correctAnswer": "The detail of an image or video measured by pixel dimensions",
+      "wrongAnswers": [
+        "Narration recorded over visuals",
+        "Reducing media file size through encoding",
+        "A marker defining a property value at a point in time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Frame rate\" in Digital Media Production.",
+      "correctAnswer": "How many video frames are shown each second",
+      "wrongAnswers": [
+        "A direct transition from one shot to another",
+        "Software or method used to encode and decode media",
+        "A shape used to hide or reveal part of a layer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Aspect ratio\" in Digital Media Production.",
+      "correctAnswer": "The proportional relationship between width and height",
+      "wrongAnswers": [
+        "A gradual transition to or from an image or sound",
+        "The amount of data used per second of media",
+        "Rendering a finished media file from a project"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Storyboard\" in Digital Media Production.",
+      "correctAnswer": "A sequence of drawings or panels planning visual scenes",
+      "wrongAnswers": [
+        "Adjusting color and tone for style and consistency",
+        "The editing workspace where clips are arranged over time",
+        "Legal protection for creative works"
+      ],
+      "timeout": 15
+    }
+  ]
+}

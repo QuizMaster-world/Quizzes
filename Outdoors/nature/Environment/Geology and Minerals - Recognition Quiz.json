@@ -1,0 +1,205 @@
+{
+  "title": "Geology and Minerals Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Luster\" is correct?",
+      "correctAnswer": "Luster: How a mineral reflects light",
+      "wrongAnswers": [
+        "Gemstone: A mineral valued for beauty, durability, or rarity",
+        "Granite: A coarse-grained igneous rock",
+        "Marble: A metamorphic rock formed from limestone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Streak\" is correct?",
+      "correctAnswer": "Streak: The color of a mineral in powdered form",
+      "wrongAnswers": [
+        "Quartz: A common mineral made of silicon and oxygen",
+        "Basalt: A fine-grained volcanic igneous rock",
+        "Gneiss: A banded metamorphic rock formed under high grade conditions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cleavage\" is correct?",
+      "correctAnswer": "Cleavage: A mineral breaking along flat surfaces",
+      "wrongAnswers": [
+        "Feldspar: A common group of rock-forming minerals",
+        "Sandstone: A sedimentary rock made mostly of sand-sized grains",
+        "Mineral: A naturally occurring inorganic solid with a defined structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fracture\" is correct?",
+      "correctAnswer": "Fracture: A mineral breaking along irregular surfaces",
+      "wrongAnswers": [
+        "Mica: A mineral group that splits into thin sheets",
+        "Limestone: A sedimentary rock made largely of calcium carbonate",
+        "Crystal: A solid with atoms arranged in a repeating pattern"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ore\" is correct?",
+      "correctAnswer": "Ore: Rock or mineral containing useful material that can be extracted",
+      "wrongAnswers": [
+        "Calcite: A carbonate mineral that reacts with acid",
+        "Slate: A fine-grained metamorphic rock that splits into sheets",
+        "Hardness: Resistance of a mineral to scratching"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gemstone\" is correct?",
+      "correctAnswer": "Gemstone: A mineral valued for beauty, durability, or rarity",
+      "wrongAnswers": [
+        "Granite: A coarse-grained igneous rock",
+        "Marble: A metamorphic rock formed from limestone",
+        "Luster: How a mineral reflects light"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Quartz\" is correct?",
+      "correctAnswer": "Quartz: A common mineral made of silicon and oxygen",
+      "wrongAnswers": [
+        "Basalt: A fine-grained volcanic igneous rock",
+        "Gneiss: A banded metamorphic rock formed under high grade conditions",
+        "Streak: The color of a mineral in powdered form"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Feldspar\" is correct?",
+      "correctAnswer": "Feldspar: A common group of rock-forming minerals",
+      "wrongAnswers": [
+        "Sandstone: A sedimentary rock made mostly of sand-sized grains",
+        "Mineral: A naturally occurring inorganic solid with a defined structure",
+        "Cleavage: A mineral breaking along flat surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mica\" is correct?",
+      "correctAnswer": "Mica: A mineral group that splits into thin sheets",
+      "wrongAnswers": [
+        "Limestone: A sedimentary rock made largely of calcium carbonate",
+        "Crystal: A solid with atoms arranged in a repeating pattern",
+        "Fracture: A mineral breaking along irregular surfaces"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Calcite\" is correct?",
+      "correctAnswer": "Calcite: A carbonate mineral that reacts with acid",
+      "wrongAnswers": [
+        "Slate: A fine-grained metamorphic rock that splits into sheets",
+        "Hardness: Resistance of a mineral to scratching",
+        "Ore: Rock or mineral containing useful material that can be extracted"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Granite\" is correct?",
+      "correctAnswer": "Granite: A coarse-grained igneous rock",
+      "wrongAnswers": [
+        "Marble: A metamorphic rock formed from limestone",
+        "Luster: How a mineral reflects light",
+        "Gemstone: A mineral valued for beauty, durability, or rarity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Basalt\" is correct?",
+      "correctAnswer": "Basalt: A fine-grained volcanic igneous rock",
+      "wrongAnswers": [
+        "Gneiss: A banded metamorphic rock formed under high grade conditions",
+        "Streak: The color of a mineral in powdered form",
+        "Quartz: A common mineral made of silicon and oxygen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sandstone\" is correct?",
+      "correctAnswer": "Sandstone: A sedimentary rock made mostly of sand-sized grains",
+      "wrongAnswers": [
+        "Mineral: A naturally occurring inorganic solid with a defined structure",
+        "Cleavage: A mineral breaking along flat surfaces",
+        "Feldspar: A common group of rock-forming minerals"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Limestone\" is correct?",
+      "correctAnswer": "Limestone: A sedimentary rock made largely of calcium carbonate",
+      "wrongAnswers": [
+        "Crystal: A solid with atoms arranged in a repeating pattern",
+        "Fracture: A mineral breaking along irregular surfaces",
+        "Mica: A mineral group that splits into thin sheets"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Slate\" is correct?",
+      "correctAnswer": "Slate: A fine-grained metamorphic rock that splits into sheets",
+      "wrongAnswers": [
+        "Hardness: Resistance of a mineral to scratching",
+        "Ore: Rock or mineral containing useful material that can be extracted",
+        "Calcite: A carbonate mineral that reacts with acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Marble\" is correct?",
+      "correctAnswer": "Marble: A metamorphic rock formed from limestone",
+      "wrongAnswers": [
+        "Luster: How a mineral reflects light",
+        "Gemstone: A mineral valued for beauty, durability, or rarity",
+        "Granite: A coarse-grained igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Gneiss\" is correct?",
+      "correctAnswer": "Gneiss: A banded metamorphic rock formed under high grade conditions",
+      "wrongAnswers": [
+        "Streak: The color of a mineral in powdered form",
+        "Quartz: A common mineral made of silicon and oxygen",
+        "Basalt: A fine-grained volcanic igneous rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mineral\" is correct?",
+      "correctAnswer": "Mineral: A naturally occurring inorganic solid with a defined structure",
+      "wrongAnswers": [
+        "Cleavage: A mineral breaking along flat surfaces",
+        "Feldspar: A common group of rock-forming minerals",
+        "Sandstone: A sedimentary rock made mostly of sand-sized grains"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Crystal\" is correct?",
+      "correctAnswer": "Crystal: A solid with atoms arranged in a repeating pattern",
+      "wrongAnswers": [
+        "Fracture: A mineral breaking along irregular surfaces",
+        "Mica: A mineral group that splits into thin sheets",
+        "Limestone: A sedimentary rock made largely of calcium carbonate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Hardness\" is correct?",
+      "correctAnswer": "Hardness: Resistance of a mineral to scratching",
+      "wrongAnswers": [
+        "Ore: Rock or mineral containing useful material that can be extracted",
+        "Calcite: A carbonate mineral that reacts with acid",
+        "Slate: A fine-grained metamorphic rock that splits into sheets"
+      ],
+      "timeout": 15
+    }
+  ]
+}

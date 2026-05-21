@@ -1,0 +1,205 @@
+{
+  "title": "Ancient Egypt Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Hieroglyphs\" in Ancient Egypt.",
+      "correctAnswer": "An Egyptian writing system using picture symbols",
+      "wrongAnswers": [
+        "The continued existence Egyptians believed followed death",
+        "A high official who helped administer the kingdom",
+        "The ruler of ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Papyrus\" in Ancient Egypt.",
+      "correctAnswer": "A writing material made from a reed plant",
+      "wrongAnswers": [
+        "An Egyptian god associated with the afterlife",
+        "A tall stone monument with a pointed top",
+        "A sequence of rulers from the same family or line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Scribe\" in Ancient Egypt.",
+      "correctAnswer": "A trained writer and record keeper",
+      "wrongAnswers": [
+        "An Egyptian goddess associated with protection and magic",
+        "An oval frame containing a royal name",
+        "The river that supported farming and transport in ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pyramid\" in Ancient Egypt.",
+      "correctAnswer": "A monumental tomb structure associated with royal burials",
+      "wrongAnswers": [
+        "An Egyptian sun god",
+        "A stone inscription that helped scholars read hieroglyphs",
+        "Land enriched by seasonal river flooding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Mummification\" in Ancient Egypt.",
+      "correctAnswer": "A process used to preserve bodies after death",
+      "wrongAnswers": [
+        "The concept of truth, balance, and order",
+        "A period of Egyptian power and expansion",
+        "An Egyptian writing system using picture symbols"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Canopic jar\" in Ancient Egypt.",
+      "correctAnswer": "A container used to hold organs during mummification",
+      "wrongAnswers": [
+        "A high official who helped administer the kingdom",
+        "The ruler of ancient Egypt",
+        "A writing material made from a reed plant"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Afterlife\" in Ancient Egypt.",
+      "correctAnswer": "The continued existence Egyptians believed followed death",
+      "wrongAnswers": [
+        "A tall stone monument with a pointed top",
+        "A sequence of rulers from the same family or line",
+        "A trained writer and record keeper"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Osiris\" in Ancient Egypt.",
+      "correctAnswer": "An Egyptian god associated with the afterlife",
+      "wrongAnswers": [
+        "An oval frame containing a royal name",
+        "The river that supported farming and transport in ancient Egypt",
+        "A monumental tomb structure associated with royal burials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Isis\" in Ancient Egypt.",
+      "correctAnswer": "An Egyptian goddess associated with protection and magic",
+      "wrongAnswers": [
+        "A stone inscription that helped scholars read hieroglyphs",
+        "Land enriched by seasonal river flooding",
+        "A process used to preserve bodies after death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ra\" in Ancient Egypt.",
+      "correctAnswer": "An Egyptian sun god",
+      "wrongAnswers": [
+        "A period of Egyptian power and expansion",
+        "An Egyptian writing system using picture symbols",
+        "A container used to hold organs during mummification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Ma'at\" in Ancient Egypt.",
+      "correctAnswer": "The concept of truth, balance, and order",
+      "wrongAnswers": [
+        "The ruler of ancient Egypt",
+        "A writing material made from a reed plant",
+        "The continued existence Egyptians believed followed death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Vizier\" in Ancient Egypt.",
+      "correctAnswer": "A high official who helped administer the kingdom",
+      "wrongAnswers": [
+        "A sequence of rulers from the same family or line",
+        "A trained writer and record keeper",
+        "An Egyptian god associated with the afterlife"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Obelisk\" in Ancient Egypt.",
+      "correctAnswer": "A tall stone monument with a pointed top",
+      "wrongAnswers": [
+        "The river that supported farming and transport in ancient Egypt",
+        "A monumental tomb structure associated with royal burials",
+        "An Egyptian goddess associated with protection and magic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Cartouche\" in Ancient Egypt.",
+      "correctAnswer": "An oval frame containing a royal name",
+      "wrongAnswers": [
+        "Land enriched by seasonal river flooding",
+        "A process used to preserve bodies after death",
+        "An Egyptian sun god"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Rosetta Stone\" in Ancient Egypt.",
+      "correctAnswer": "A stone inscription that helped scholars read hieroglyphs",
+      "wrongAnswers": [
+        "An Egyptian writing system using picture symbols",
+        "A container used to hold organs during mummification",
+        "The concept of truth, balance, and order"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"New Kingdom\" in Ancient Egypt.",
+      "correctAnswer": "A period of Egyptian power and expansion",
+      "wrongAnswers": [
+        "A writing material made from a reed plant",
+        "The continued existence Egyptians believed followed death",
+        "A high official who helped administer the kingdom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Pharaoh\" in Ancient Egypt.",
+      "correctAnswer": "The ruler of ancient Egypt",
+      "wrongAnswers": [
+        "A trained writer and record keeper",
+        "An Egyptian god associated with the afterlife",
+        "A tall stone monument with a pointed top"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Dynasty\" in Ancient Egypt.",
+      "correctAnswer": "A sequence of rulers from the same family or line",
+      "wrongAnswers": [
+        "A monumental tomb structure associated with royal burials",
+        "An Egyptian goddess associated with protection and magic",
+        "An oval frame containing a royal name"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Nile River\" in Ancient Egypt.",
+      "correctAnswer": "The river that supported farming and transport in ancient Egypt",
+      "wrongAnswers": [
+        "A process used to preserve bodies after death",
+        "An Egyptian sun god",
+        "A stone inscription that helped scholars read hieroglyphs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Floodplain\" in Ancient Egypt.",
+      "correctAnswer": "Land enriched by seasonal river flooding",
+      "wrongAnswers": [
+        "A container used to hold organs during mummification",
+        "The concept of truth, balance, and order",
+        "A period of Egyptian power and expansion"
+      ],
+      "timeout": 15
+    }
+  ]
+}

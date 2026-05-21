@@ -1,0 +1,205 @@
+{
+  "title": "Archaeology Methods Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Archaeology Methods, which term means: A non-portable trace of human activity such as a hearth or wall?",
+      "correctAnswer": "Feature",
+      "wrongAnswers": [
+        "Excavation",
+        "Radiocarbon dating",
+        "Conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: A place containing evidence of past human activity?",
+      "correctAnswer": "Site",
+      "wrongAnswers": [
+        "Stratigraphy",
+        "Dendrochronology",
+        "Cataloging"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Systematic searching for archaeological evidence?",
+      "correctAnswer": "Survey",
+      "wrongAnswers": [
+        "Context",
+        "Pottery sherd",
+        "Remote sensing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Careful digging to uncover and record buried evidence?",
+      "correctAnswer": "Excavation",
+      "wrongAnswers": [
+        "Provenance",
+        "Lithic",
+        "Ground-penetrating radar"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Studying layers to understand sequence and context?",
+      "correctAnswer": "Stratigraphy",
+      "wrongAnswers": [
+        "Typology",
+        "Ecofact",
+        "Ethnoarchaeology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: The location and relationship of evidence within a site?",
+      "correctAnswer": "Context",
+      "wrongAnswers": [
+        "Radiocarbon dating",
+        "Conservation",
+        "Public archaeology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: The precise origin or findspot of an object?",
+      "correctAnswer": "Provenance",
+      "wrongAnswers": [
+        "Dendrochronology",
+        "Cataloging",
+        "Artifact"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Classifying artifacts by shared characteristics?",
+      "correctAnswer": "Typology",
+      "wrongAnswers": [
+        "Pottery sherd",
+        "Remote sensing",
+        "Feature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Dating once-living material using carbon isotopes?",
+      "correctAnswer": "Radiocarbon dating",
+      "wrongAnswers": [
+        "Lithic",
+        "Ground-penetrating radar",
+        "Site"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Dating wood by comparing tree-ring patterns?",
+      "correctAnswer": "Dendrochronology",
+      "wrongAnswers": [
+        "Ecofact",
+        "Ethnoarchaeology",
+        "Survey"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: A fragment of broken ceramic material?",
+      "correctAnswer": "Pottery sherd",
+      "wrongAnswers": [
+        "Conservation",
+        "Public archaeology",
+        "Excavation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: A stone tool or stone-tool material?",
+      "correctAnswer": "Lithic",
+      "wrongAnswers": [
+        "Cataloging",
+        "Artifact",
+        "Stratigraphy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Natural material that gives evidence about past environments or diet?",
+      "correctAnswer": "Ecofact",
+      "wrongAnswers": [
+        "Remote sensing",
+        "Feature",
+        "Context"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Stabilizing and preserving archaeological materials?",
+      "correctAnswer": "Conservation",
+      "wrongAnswers": [
+        "Ground-penetrating radar",
+        "Site",
+        "Provenance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Recording finds in an organized system?",
+      "correctAnswer": "Cataloging",
+      "wrongAnswers": [
+        "Ethnoarchaeology",
+        "Survey",
+        "Typology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Detecting buried or distant features without direct excavation?",
+      "correctAnswer": "Remote sensing",
+      "wrongAnswers": [
+        "Public archaeology",
+        "Excavation",
+        "Radiocarbon dating"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: A method using radar pulses to detect subsurface features?",
+      "correctAnswer": "Ground-penetrating radar",
+      "wrongAnswers": [
+        "Artifact",
+        "Stratigraphy",
+        "Dendrochronology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Studying living communities to interpret material culture?",
+      "correctAnswer": "Ethnoarchaeology",
+      "wrongAnswers": [
+        "Feature",
+        "Context",
+        "Pottery sherd"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: Archaeology that involves or communicates with the wider public?",
+      "correctAnswer": "Public archaeology",
+      "wrongAnswers": [
+        "Site",
+        "Provenance",
+        "Lithic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Archaeology Methods, which term means: An object made or modified by humans?",
+      "correctAnswer": "Artifact",
+      "wrongAnswers": [
+        "Survey",
+        "Typology",
+        "Ecofact"
+      ],
+      "timeout": 15
+    }
+  ]
+}

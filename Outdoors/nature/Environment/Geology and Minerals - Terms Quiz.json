@@ -1,0 +1,205 @@
+{
+  "title": "Geology and Minerals Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Geology and Minerals, which term means: A solid with atoms arranged in a repeating pattern?",
+      "correctAnswer": "Crystal",
+      "wrongAnswers": [
+        "Streak",
+        "Quartz",
+        "Basalt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: Resistance of a mineral to scratching?",
+      "correctAnswer": "Hardness",
+      "wrongAnswers": [
+        "Cleavage",
+        "Feldspar",
+        "Sandstone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: How a mineral reflects light?",
+      "correctAnswer": "Luster",
+      "wrongAnswers": [
+        "Fracture",
+        "Mica",
+        "Limestone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: The color of a mineral in powdered form?",
+      "correctAnswer": "Streak",
+      "wrongAnswers": [
+        "Ore",
+        "Calcite",
+        "Slate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A mineral breaking along flat surfaces?",
+      "correctAnswer": "Cleavage",
+      "wrongAnswers": [
+        "Gemstone",
+        "Granite",
+        "Marble"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A mineral breaking along irregular surfaces?",
+      "correctAnswer": "Fracture",
+      "wrongAnswers": [
+        "Quartz",
+        "Basalt",
+        "Gneiss"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: Rock or mineral containing useful material that can be extracted?",
+      "correctAnswer": "Ore",
+      "wrongAnswers": [
+        "Feldspar",
+        "Sandstone",
+        "Mineral"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A mineral valued for beauty, durability, or rarity?",
+      "correctAnswer": "Gemstone",
+      "wrongAnswers": [
+        "Mica",
+        "Limestone",
+        "Crystal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A common mineral made of silicon and oxygen?",
+      "correctAnswer": "Quartz",
+      "wrongAnswers": [
+        "Calcite",
+        "Slate",
+        "Hardness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A common group of rock-forming minerals?",
+      "correctAnswer": "Feldspar",
+      "wrongAnswers": [
+        "Granite",
+        "Marble",
+        "Luster"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A mineral group that splits into thin sheets?",
+      "correctAnswer": "Mica",
+      "wrongAnswers": [
+        "Basalt",
+        "Gneiss",
+        "Streak"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A carbonate mineral that reacts with acid?",
+      "correctAnswer": "Calcite",
+      "wrongAnswers": [
+        "Sandstone",
+        "Mineral",
+        "Cleavage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A coarse-grained igneous rock?",
+      "correctAnswer": "Granite",
+      "wrongAnswers": [
+        "Limestone",
+        "Crystal",
+        "Fracture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A fine-grained volcanic igneous rock?",
+      "correctAnswer": "Basalt",
+      "wrongAnswers": [
+        "Slate",
+        "Hardness",
+        "Ore"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A sedimentary rock made mostly of sand-sized grains?",
+      "correctAnswer": "Sandstone",
+      "wrongAnswers": [
+        "Marble",
+        "Luster",
+        "Gemstone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A sedimentary rock made largely of calcium carbonate?",
+      "correctAnswer": "Limestone",
+      "wrongAnswers": [
+        "Gneiss",
+        "Streak",
+        "Quartz"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A fine-grained metamorphic rock that splits into sheets?",
+      "correctAnswer": "Slate",
+      "wrongAnswers": [
+        "Mineral",
+        "Cleavage",
+        "Feldspar"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A metamorphic rock formed from limestone?",
+      "correctAnswer": "Marble",
+      "wrongAnswers": [
+        "Crystal",
+        "Fracture",
+        "Mica"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A banded metamorphic rock formed under high grade conditions?",
+      "correctAnswer": "Gneiss",
+      "wrongAnswers": [
+        "Hardness",
+        "Ore",
+        "Calcite"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Geology and Minerals, which term means: A naturally occurring inorganic solid with a defined structure?",
+      "correctAnswer": "Mineral",
+      "wrongAnswers": [
+        "Luster",
+        "Gemstone",
+        "Granite"
+      ],
+      "timeout": 15
+    }
+  ]
+}

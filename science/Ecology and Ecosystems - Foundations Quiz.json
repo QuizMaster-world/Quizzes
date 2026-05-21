@@ -1,0 +1,205 @@
+{
+  "title": "Ecology and Ecosystems Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Ecology and Ecosystems, what does \"Ecosystem\" mean?",
+      "correctAnswer": "A community of organisms interacting with their environment",
+      "wrongAnswers": [
+        "Members of the same species living in an area",
+        "A network of feeding relationships",
+        "A relationship where one organism benefits and the other is harmed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Habitat\" mean?",
+      "correctAnswer": "The place where an organism normally lives",
+      "wrongAnswers": [
+        "Different populations living and interacting in an area",
+        "A feeding position in an ecosystem",
+        "A relationship where one species benefits and the other is unaffected"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Population\" mean?",
+      "correctAnswer": "Members of the same species living in an area",
+      "wrongAnswers": [
+        "An organism that makes its own food from energy sources",
+        "An interaction where one organism eats another",
+        "The variety of living things in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Community\" mean?",
+      "correctAnswer": "Different populations living and interacting in an area",
+      "wrongAnswers": [
+        "An organism that gets energy by eating other organisms",
+        "A struggle for limited resources",
+        "The largest population an environment can support sustainably"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Producer\" mean?",
+      "correctAnswer": "An organism that makes its own food from energy sources",
+      "wrongAnswers": [
+        "An organism that breaks down dead material",
+        "A relationship where both species benefit",
+        "Gradual change in a biological community over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Consumer\" mean?",
+      "correctAnswer": "An organism that gets energy by eating other organisms",
+      "wrongAnswers": [
+        "A network of feeding relationships",
+        "A relationship where one organism benefits and the other is harmed",
+        "A species with a large effect on its ecosystem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Decomposer\" mean?",
+      "correctAnswer": "An organism that breaks down dead material",
+      "wrongAnswers": [
+        "A feeding position in an ecosystem",
+        "A relationship where one species benefits and the other is unaffected",
+        "A non-native species that causes harm in a new area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Food web\" mean?",
+      "correctAnswer": "A network of feeding relationships",
+      "wrongAnswers": [
+        "An interaction where one organism eats another",
+        "The variety of living things in an area",
+        "The role and resource use of a species in its environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Trophic level\" mean?",
+      "correctAnswer": "A feeding position in an ecosystem",
+      "wrongAnswers": [
+        "A struggle for limited resources",
+        "The largest population an environment can support sustainably",
+        "A community of organisms interacting with their environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Predation\" mean?",
+      "correctAnswer": "An interaction where one organism eats another",
+      "wrongAnswers": [
+        "A relationship where both species benefit",
+        "Gradual change in a biological community over time",
+        "The place where an organism normally lives"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Competition\" mean?",
+      "correctAnswer": "A struggle for limited resources",
+      "wrongAnswers": [
+        "A relationship where one organism benefits and the other is harmed",
+        "A species with a large effect on its ecosystem",
+        "Members of the same species living in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Mutualism\" mean?",
+      "correctAnswer": "A relationship where both species benefit",
+      "wrongAnswers": [
+        "A relationship where one species benefits and the other is unaffected",
+        "A non-native species that causes harm in a new area",
+        "Different populations living and interacting in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Parasitism\" mean?",
+      "correctAnswer": "A relationship where one organism benefits and the other is harmed",
+      "wrongAnswers": [
+        "The variety of living things in an area",
+        "The role and resource use of a species in its environment",
+        "An organism that makes its own food from energy sources"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Commensalism\" mean?",
+      "correctAnswer": "A relationship where one species benefits and the other is unaffected",
+      "wrongAnswers": [
+        "The largest population an environment can support sustainably",
+        "A community of organisms interacting with their environment",
+        "An organism that gets energy by eating other organisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Biodiversity\" mean?",
+      "correctAnswer": "The variety of living things in an area",
+      "wrongAnswers": [
+        "Gradual change in a biological community over time",
+        "The place where an organism normally lives",
+        "An organism that breaks down dead material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Carrying capacity\" mean?",
+      "correctAnswer": "The largest population an environment can support sustainably",
+      "wrongAnswers": [
+        "A species with a large effect on its ecosystem",
+        "Members of the same species living in an area",
+        "A network of feeding relationships"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Succession\" mean?",
+      "correctAnswer": "Gradual change in a biological community over time",
+      "wrongAnswers": [
+        "A non-native species that causes harm in a new area",
+        "Different populations living and interacting in an area",
+        "A feeding position in an ecosystem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Keystone species\" mean?",
+      "correctAnswer": "A species with a large effect on its ecosystem",
+      "wrongAnswers": [
+        "The role and resource use of a species in its environment",
+        "An organism that makes its own food from energy sources",
+        "An interaction where one organism eats another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Invasive species\" mean?",
+      "correctAnswer": "A non-native species that causes harm in a new area",
+      "wrongAnswers": [
+        "A community of organisms interacting with their environment",
+        "An organism that gets energy by eating other organisms",
+        "A struggle for limited resources"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ecology and Ecosystems, what does \"Niche\" mean?",
+      "correctAnswer": "The role and resource use of a species in its environment",
+      "wrongAnswers": [
+        "The place where an organism normally lives",
+        "An organism that breaks down dead material",
+        "A relationship where both species benefit"
+      ],
+      "timeout": 15
+    }
+  ]
+}

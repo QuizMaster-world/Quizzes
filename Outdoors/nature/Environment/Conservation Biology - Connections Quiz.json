@@ -1,0 +1,205 @@
+{
+  "title": "Conservation Biology Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A species likely to become endangered without protection?",
+      "correctAnswer": "Threatened species",
+      "wrongAnswers": [
+        "Rewilding",
+        "Ex situ conservation",
+        "Citizen science"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Breaking continuous habitat into smaller isolated patches?",
+      "correctAnswer": "Habitat fragmentation",
+      "wrongAnswers": [
+        "Protected area",
+        "Pollinator",
+        "Bioindicator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A habitat link that helps organisms move between areas?",
+      "correctAnswer": "Corridor",
+      "wrongAnswers": [
+        "Biodiversity hotspot",
+        "Ecosystem service",
+        "Genetic diversity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Repairing damaged ecosystems?",
+      "correctAnswer": "Restoration ecology",
+      "wrongAnswers": [
+        "Captive breeding",
+        "Sustainable harvest",
+        "Habitat restoration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Restoring natural processes and native species to landscapes?",
+      "correctAnswer": "Rewilding",
+      "wrongAnswers": [
+        "In situ conservation",
+        "Overexploitation",
+        "Conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A place managed to conserve natural or cultural value?",
+      "correctAnswer": "Protected area",
+      "wrongAnswers": [
+        "Ex situ conservation",
+        "Citizen science",
+        "Endangered species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A region with many unique species under threat?",
+      "correctAnswer": "Biodiversity hotspot",
+      "wrongAnswers": [
+        "Pollinator",
+        "Bioindicator",
+        "Threatened species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Raising species under human care to support conservation?",
+      "correctAnswer": "Captive breeding",
+      "wrongAnswers": [
+        "Ecosystem service",
+        "Genetic diversity",
+        "Habitat fragmentation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Protecting species in their natural habitats?",
+      "correctAnswer": "In situ conservation",
+      "wrongAnswers": [
+        "Sustainable harvest",
+        "Habitat restoration",
+        "Corridor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Protecting species outside their natural habitats?",
+      "correctAnswer": "Ex situ conservation",
+      "wrongAnswers": [
+        "Overexploitation",
+        "Conservation",
+        "Restoration ecology"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: An organism that helps transfer pollen between flowers?",
+      "correctAnswer": "Pollinator",
+      "wrongAnswers": [
+        "Citizen science",
+        "Endangered species",
+        "Rewilding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A benefit people receive from nature?",
+      "correctAnswer": "Ecosystem service",
+      "wrongAnswers": [
+        "Bioindicator",
+        "Threatened species",
+        "Protected area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Using resources at a rate that can continue over time?",
+      "correctAnswer": "Sustainable harvest",
+      "wrongAnswers": [
+        "Genetic diversity",
+        "Habitat fragmentation",
+        "Biodiversity hotspot"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Using a species or resource faster than it can recover?",
+      "correctAnswer": "Overexploitation",
+      "wrongAnswers": [
+        "Habitat restoration",
+        "Corridor",
+        "Captive breeding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Public participation in scientific data collection?",
+      "correctAnswer": "Citizen science",
+      "wrongAnswers": [
+        "Conservation",
+        "Restoration ecology",
+        "In situ conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A species used to show environmental conditions?",
+      "correctAnswer": "Bioindicator",
+      "wrongAnswers": [
+        "Endangered species",
+        "Rewilding",
+        "Ex situ conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Variation in genes within a population or species?",
+      "correctAnswer": "Genetic diversity",
+      "wrongAnswers": [
+        "Threatened species",
+        "Protected area",
+        "Pollinator"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Improving a damaged habitat so it can support life?",
+      "correctAnswer": "Habitat restoration",
+      "wrongAnswers": [
+        "Habitat fragmentation",
+        "Biodiversity hotspot",
+        "Ecosystem service"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: Protecting species, habitats, and natural processes?",
+      "correctAnswer": "Conservation",
+      "wrongAnswers": [
+        "Corridor",
+        "Captive breeding",
+        "Sustainable harvest"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Conservation Biology concept is described by this clue: A species at serious risk of extinction?",
+      "correctAnswer": "Endangered species",
+      "wrongAnswers": [
+        "Restoration ecology",
+        "In situ conservation",
+        "Overexploitation"
+      ],
+      "timeout": 15
+    }
+  ]
+}

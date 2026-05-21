@@ -1,0 +1,205 @@
+{
+  "title": "UI and UX Design Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In UI and UX Design, what does \"User interface\" mean?",
+      "correctAnswer": "The visible and interactive parts of a product",
+      "wrongAnswers": [
+        "A research-based profile representing a user type",
+        "Organizing content so people can find and understand it",
+        "A visual difference that helps elements stand apart"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"User experience\" mean?",
+      "correctAnswer": "The overall experience a person has using a product",
+      "wrongAnswers": [
+        "The steps a user takes to reach a goal",
+        "Controls that help users move through a product",
+        "Arranging elements to show importance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Persona\" mean?",
+      "correctAnswer": "A research-based profile representing a user type",
+      "wrongAnswers": [
+        "A low-detail layout plan for an interface",
+        "A cue that suggests how something can be used",
+        "Using familiar patterns across an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"User journey\" mean?",
+      "correctAnswer": "The steps a user takes to reach a goal",
+      "wrongAnswers": [
+        "An interactive or visual model used to test a design",
+        "A system response that confirms an action or state",
+        "A design state that communicates a problem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Wireframe\" mean?",
+      "correctAnswer": "A low-detail layout plan for an interface",
+      "wrongAnswers": [
+        "Observing users to find design problems",
+        "Designing products for people with varied abilities",
+        "A design state shown when there is no content yet"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Prototype\" mean?",
+      "correctAnswer": "An interactive or visual model used to test a design",
+      "wrongAnswers": [
+        "Organizing content so people can find and understand it",
+        "A visual difference that helps elements stand apart",
+        "Helping new users begin using a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Usability testing\" mean?",
+      "correctAnswer": "Observing users to find design problems",
+      "wrongAnswers": [
+        "Controls that help users move through a product",
+        "Arranging elements to show importance",
+        "Short interface text that guides users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Information architecture\" mean?",
+      "correctAnswer": "Organizing content so people can find and understand it",
+      "wrongAnswers": [
+        "A cue that suggests how something can be used",
+        "Using familiar patterns across an interface",
+        "A shared set of reusable design rules and components"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Navigation\" mean?",
+      "correctAnswer": "Controls that help users move through a product",
+      "wrongAnswers": [
+        "A system response that confirms an action or state",
+        "A design state that communicates a problem",
+        "The visible and interactive parts of a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Affordance\" mean?",
+      "correctAnswer": "A cue that suggests how something can be used",
+      "wrongAnswers": [
+        "Designing products for people with varied abilities",
+        "A design state shown when there is no content yet",
+        "The overall experience a person has using a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Feedback\" mean?",
+      "correctAnswer": "A system response that confirms an action or state",
+      "wrongAnswers": [
+        "A visual difference that helps elements stand apart",
+        "Helping new users begin using a product",
+        "A research-based profile representing a user type"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Accessibility\" mean?",
+      "correctAnswer": "Designing products for people with varied abilities",
+      "wrongAnswers": [
+        "Arranging elements to show importance",
+        "Short interface text that guides users",
+        "The steps a user takes to reach a goal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Contrast\" mean?",
+      "correctAnswer": "A visual difference that helps elements stand apart",
+      "wrongAnswers": [
+        "Using familiar patterns across an interface",
+        "A shared set of reusable design rules and components",
+        "A low-detail layout plan for an interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Hierarchy\" mean?",
+      "correctAnswer": "Arranging elements to show importance",
+      "wrongAnswers": [
+        "A design state that communicates a problem",
+        "The visible and interactive parts of a product",
+        "An interactive or visual model used to test a design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Consistency\" mean?",
+      "correctAnswer": "Using familiar patterns across an interface",
+      "wrongAnswers": [
+        "A design state shown when there is no content yet",
+        "The overall experience a person has using a product",
+        "Observing users to find design problems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Error state\" mean?",
+      "correctAnswer": "A design state that communicates a problem",
+      "wrongAnswers": [
+        "Helping new users begin using a product",
+        "A research-based profile representing a user type",
+        "Organizing content so people can find and understand it"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Empty state\" mean?",
+      "correctAnswer": "A design state shown when there is no content yet",
+      "wrongAnswers": [
+        "Short interface text that guides users",
+        "The steps a user takes to reach a goal",
+        "Controls that help users move through a product"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Onboarding\" mean?",
+      "correctAnswer": "Helping new users begin using a product",
+      "wrongAnswers": [
+        "A shared set of reusable design rules and components",
+        "A low-detail layout plan for an interface",
+        "A cue that suggests how something can be used"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Microcopy\" mean?",
+      "correctAnswer": "Short interface text that guides users",
+      "wrongAnswers": [
+        "The visible and interactive parts of a product",
+        "An interactive or visual model used to test a design",
+        "A system response that confirms an action or state"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In UI and UX Design, what does \"Design system\" mean?",
+      "correctAnswer": "A shared set of reusable design rules and components",
+      "wrongAnswers": [
+        "The overall experience a person has using a product",
+        "Observing users to find design problems",
+        "Designing products for people with varied abilities"
+      ],
+      "timeout": 15
+    }
+  ]
+}

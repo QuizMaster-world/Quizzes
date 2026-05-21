@@ -1,0 +1,205 @@
+{
+  "title": "Nutrition Science Review Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Choose the best match for \"Mineral\" in Nutrition Science.",
+      "correctAnswer": "An inorganic micronutrient needed for body functions",
+      "wrongAnswers": [
+        "A mineral important for bones, teeth, and muscle function",
+        "A fat type often solid at room temperature",
+        "A nutrient group used as a major energy source"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fiber\" in Nutrition Science.",
+      "correctAnswer": "Plant material that supports digestion",
+      "wrongAnswers": [
+        "A mineral needed for oxygen transport in blood",
+        "A processed fat type associated with health risks",
+        "A nutrient made of amino acids used for growth and repair"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Hydration\" in Nutrition Science.",
+      "correctAnswer": "Maintaining enough water in the body",
+      "wrongAnswers": [
+        "A vitamin involved in tissue repair and immune function",
+        "Printed nutrition and ingredient information on packaged food",
+        "A nutrient that stores energy and supports cell functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Balanced diet\" in Nutrition Science.",
+      "correctAnswer": "Eating a variety of foods in appropriate amounts",
+      "wrongAnswers": [
+        "A vitamin important for calcium regulation and bone health",
+        "The amount of food someone chooses to eat",
+        "An organic micronutrient needed in small amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Macronutrient\" in Nutrition Science.",
+      "correctAnswer": "A nutrient needed in larger amounts",
+      "wrongAnswers": [
+        "A fat type often liquid at room temperature",
+        "An immune reaction to a specific food substance",
+        "An inorganic micronutrient needed for body functions"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Micronutrient\" in Nutrition Science.",
+      "correctAnswer": "A nutrient needed in smaller amounts",
+      "wrongAnswers": [
+        "A fat type often solid at room temperature",
+        "A nutrient group used as a major energy source",
+        "Plant material that supports digestion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Calcium\" in Nutrition Science.",
+      "correctAnswer": "A mineral important for bones, teeth, and muscle function",
+      "wrongAnswers": [
+        "A processed fat type associated with health risks",
+        "A nutrient made of amino acids used for growth and repair",
+        "Maintaining enough water in the body"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Iron\" in Nutrition Science.",
+      "correctAnswer": "A mineral needed for oxygen transport in blood",
+      "wrongAnswers": [
+        "Printed nutrition and ingredient information on packaged food",
+        "A nutrient that stores energy and supports cell functions",
+        "Eating a variety of foods in appropriate amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Vitamin C\" in Nutrition Science.",
+      "correctAnswer": "A vitamin involved in tissue repair and immune function",
+      "wrongAnswers": [
+        "The amount of food someone chooses to eat",
+        "An organic micronutrient needed in small amounts",
+        "A nutrient needed in larger amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Vitamin D\" in Nutrition Science.",
+      "correctAnswer": "A vitamin important for calcium regulation and bone health",
+      "wrongAnswers": [
+        "An immune reaction to a specific food substance",
+        "An inorganic micronutrient needed for body functions",
+        "A nutrient needed in smaller amounts"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Unsaturated fat\" in Nutrition Science.",
+      "correctAnswer": "A fat type often liquid at room temperature",
+      "wrongAnswers": [
+        "A nutrient group used as a major energy source",
+        "Plant material that supports digestion",
+        "A mineral important for bones, teeth, and muscle function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Saturated fat\" in Nutrition Science.",
+      "correctAnswer": "A fat type often solid at room temperature",
+      "wrongAnswers": [
+        "A nutrient made of amino acids used for growth and repair",
+        "Maintaining enough water in the body",
+        "A mineral needed for oxygen transport in blood"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Trans fat\" in Nutrition Science.",
+      "correctAnswer": "A processed fat type associated with health risks",
+      "wrongAnswers": [
+        "A nutrient that stores energy and supports cell functions",
+        "Eating a variety of foods in appropriate amounts",
+        "A vitamin involved in tissue repair and immune function"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Food label\" in Nutrition Science.",
+      "correctAnswer": "Printed nutrition and ingredient information on packaged food",
+      "wrongAnswers": [
+        "An organic micronutrient needed in small amounts",
+        "A nutrient needed in larger amounts",
+        "A vitamin important for calcium regulation and bone health"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Portion size\" in Nutrition Science.",
+      "correctAnswer": "The amount of food someone chooses to eat",
+      "wrongAnswers": [
+        "An inorganic micronutrient needed for body functions",
+        "A nutrient needed in smaller amounts",
+        "A fat type often liquid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Food allergy\" in Nutrition Science.",
+      "correctAnswer": "An immune reaction to a specific food substance",
+      "wrongAnswers": [
+        "Plant material that supports digestion",
+        "A mineral important for bones, teeth, and muscle function",
+        "A fat type often solid at room temperature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Carbohydrate\" in Nutrition Science.",
+      "correctAnswer": "A nutrient group used as a major energy source",
+      "wrongAnswers": [
+        "Maintaining enough water in the body",
+        "A mineral needed for oxygen transport in blood",
+        "A processed fat type associated with health risks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Protein\" in Nutrition Science.",
+      "correctAnswer": "A nutrient made of amino acids used for growth and repair",
+      "wrongAnswers": [
+        "Eating a variety of foods in appropriate amounts",
+        "A vitamin involved in tissue repair and immune function",
+        "Printed nutrition and ingredient information on packaged food"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Fat\" in Nutrition Science.",
+      "correctAnswer": "A nutrient that stores energy and supports cell functions",
+      "wrongAnswers": [
+        "A nutrient needed in larger amounts",
+        "A vitamin important for calcium regulation and bone health",
+        "The amount of food someone chooses to eat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Choose the best match for \"Vitamin\" in Nutrition Science.",
+      "correctAnswer": "An organic micronutrient needed in small amounts",
+      "wrongAnswers": [
+        "A nutrient needed in smaller amounts",
+        "A fat type often liquid at room temperature",
+        "An immune reaction to a specific food substance"
+      ],
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Microbiology Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Microbiology, which term means: An infectious particle that replicates inside host cells?",
+      "correctAnswer": "Virus",
+      "wrongAnswers": [
+        "Microbiome",
+        "Petri dish",
+        "Colony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: An organism group that includes yeasts and molds?",
+      "correctAnswer": "Fungus",
+      "wrongAnswers": [
+        "Pathogen",
+        "Aseptic technique",
+        "Fermentation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A single-celled eukaryotic microorganism?",
+      "correctAnswer": "Protozoan",
+      "wrongAnswers": [
+        "Antibiotic",
+        "Sterilization",
+        "Yeast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: The community of microorganisms living in an environment?",
+      "correctAnswer": "Microbiome",
+      "wrongAnswers": [
+        "Antibiotic resistance",
+        "Disinfectant",
+        "Capsid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A microbe or agent that can cause disease?",
+      "correctAnswer": "Pathogen",
+      "wrongAnswers": [
+        "Culture",
+        "Gram stain",
+        "Host cell"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A drug used to treat bacterial infections?",
+      "correctAnswer": "Antibiotic",
+      "wrongAnswers": [
+        "Petri dish",
+        "Colony",
+        "Biofilm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: The ability of bacteria to survive an antibiotic?",
+      "correctAnswer": "Antibiotic resistance",
+      "wrongAnswers": [
+        "Aseptic technique",
+        "Fermentation",
+        "Bacterium"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: Microbes grown under controlled conditions?",
+      "correctAnswer": "Culture",
+      "wrongAnswers": [
+        "Sterilization",
+        "Yeast",
+        "Virus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A shallow dish used to grow microorganisms?",
+      "correctAnswer": "Petri dish",
+      "wrongAnswers": [
+        "Disinfectant",
+        "Capsid",
+        "Fungus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: Methods used to prevent unwanted contamination?",
+      "correctAnswer": "Aseptic technique",
+      "wrongAnswers": [
+        "Gram stain",
+        "Host cell",
+        "Protozoan"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: Destroying or removing all living microbes?",
+      "correctAnswer": "Sterilization",
+      "wrongAnswers": [
+        "Colony",
+        "Biofilm",
+        "Microbiome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A chemical used to reduce microbes on surfaces?",
+      "correctAnswer": "Disinfectant",
+      "wrongAnswers": [
+        "Fermentation",
+        "Bacterium",
+        "Pathogen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A staining method that helps classify bacteria?",
+      "correctAnswer": "Gram stain",
+      "wrongAnswers": [
+        "Yeast",
+        "Virus",
+        "Antibiotic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A visible group of microbes growing from cells?",
+      "correctAnswer": "Colony",
+      "wrongAnswers": [
+        "Capsid",
+        "Fungus",
+        "Antibiotic resistance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: Microbial metabolism that produces useful products without oxygen?",
+      "correctAnswer": "Fermentation",
+      "wrongAnswers": [
+        "Host cell",
+        "Protozoan",
+        "Culture"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A single-celled fungus often used in baking and brewing?",
+      "correctAnswer": "Yeast",
+      "wrongAnswers": [
+        "Biofilm",
+        "Microbiome",
+        "Petri dish"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: The protein coat around a virus?",
+      "correctAnswer": "Capsid",
+      "wrongAnswers": [
+        "Bacterium",
+        "Pathogen",
+        "Aseptic technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A cell used by a virus or microbe to reproduce?",
+      "correctAnswer": "Host cell",
+      "wrongAnswers": [
+        "Virus",
+        "Antibiotic",
+        "Sterilization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A surface-attached community of microorganisms?",
+      "correctAnswer": "Biofilm",
+      "wrongAnswers": [
+        "Fungus",
+        "Antibiotic resistance",
+        "Disinfectant"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Microbiology, which term means: A single-celled organism without a nucleus?",
+      "correctAnswer": "Bacterium",
+      "wrongAnswers": [
+        "Protozoan",
+        "Culture",
+        "Gram stain"
+      ],
+      "timeout": 15
+    }
+  ]
+}

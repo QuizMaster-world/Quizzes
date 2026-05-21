@@ -1,0 +1,205 @@
+{
+  "title": "Algorithms and Data Structures Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A collection where the most recently added item is removed first?",
+      "correctAnswer": "Stack",
+      "wrongAnswers": [
+        "Heap",
+        "Merge sort",
+        "Memoization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A collection where the earliest added item is removed first?",
+      "correctAnswer": "Queue",
+      "wrongAnswers": [
+        "Graph",
+        "Quick sort",
+        "Big O notation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A structure that maps keys to buckets for fast lookup?",
+      "correctAnswer": "Hash table",
+      "wrongAnswers": [
+        "Depth-first search",
+        "Dynamic programming",
+        "Stable sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A tree where each node has at most two children?",
+      "correctAnswer": "Binary tree",
+      "wrongAnswers": [
+        "Breadth-first search",
+        "Greedy algorithm",
+        "Topological sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A tree-based structure that keeps the highest or lowest priority item easy to remove?",
+      "correctAnswer": "Heap",
+      "wrongAnswers": [
+        "Binary search",
+        "Backtracking",
+        "Array"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A set of vertices connected by edges?",
+      "correctAnswer": "Graph",
+      "wrongAnswers": [
+        "Merge sort",
+        "Memoization",
+        "Linked list"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A graph search that explores one path deeply before backtracking?",
+      "correctAnswer": "Depth-first search",
+      "wrongAnswers": [
+        "Quick sort",
+        "Big O notation",
+        "Stack"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A graph search that explores nearby vertices before moving farther away?",
+      "correctAnswer": "Breadth-first search",
+      "wrongAnswers": [
+        "Dynamic programming",
+        "Stable sort",
+        "Queue"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A search method that repeatedly narrows a sorted range?",
+      "correctAnswer": "Binary search",
+      "wrongAnswers": [
+        "Greedy algorithm",
+        "Topological sort",
+        "Hash table"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A sorting method that sorts smaller parts and combines them?",
+      "correctAnswer": "Merge sort",
+      "wrongAnswers": [
+        "Backtracking",
+        "Array",
+        "Binary tree"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A sorting method that partitions data around a pivot?",
+      "correctAnswer": "Quick sort",
+      "wrongAnswers": [
+        "Memoization",
+        "Linked list",
+        "Heap"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A method that reuses solutions to overlapping subproblems?",
+      "correctAnswer": "Dynamic programming",
+      "wrongAnswers": [
+        "Big O notation",
+        "Stack",
+        "Graph"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A method that chooses the best immediate option at each step?",
+      "correctAnswer": "Greedy algorithm",
+      "wrongAnswers": [
+        "Stable sort",
+        "Queue",
+        "Depth-first search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A method that tries choices and abandons paths that cannot succeed?",
+      "correctAnswer": "Backtracking",
+      "wrongAnswers": [
+        "Topological sort",
+        "Hash table",
+        "Breadth-first search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: Storing function results so repeated calls can be answered quickly?",
+      "correctAnswer": "Memoization",
+      "wrongAnswers": [
+        "Array",
+        "Binary tree",
+        "Binary search"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A way to describe how resource use grows with input size?",
+      "correctAnswer": "Big O notation",
+      "wrongAnswers": [
+        "Linked list",
+        "Heap",
+        "Merge sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A sort that keeps equal items in their original relative order?",
+      "correctAnswer": "Stable sort",
+      "wrongAnswers": [
+        "Stack",
+        "Graph",
+        "Quick sort"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: An ordering of dependent tasks so prerequisites come first?",
+      "correctAnswer": "Topological sort",
+      "wrongAnswers": [
+        "Queue",
+        "Depth-first search",
+        "Dynamic programming"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A sequence of values stored so each item can be accessed by position?",
+      "correctAnswer": "Array",
+      "wrongAnswers": [
+        "Hash table",
+        "Breadth-first search",
+        "Greedy algorithm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Algorithms and Data Structures concept is described by this clue: A chain of nodes where each node points to another node?",
+      "correctAnswer": "Linked list",
+      "wrongAnswers": [
+        "Binary tree",
+        "Binary search",
+        "Backtracking"
+      ],
+      "timeout": 15
+    }
+  ]
+}

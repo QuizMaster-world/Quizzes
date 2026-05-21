@@ -1,0 +1,205 @@
+{
+  "title": "Ancient Egypt Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Ancient Egypt, which term means: A sequence of rulers from the same family or line?",
+      "correctAnswer": "Dynasty",
+      "wrongAnswers": [
+        "Hieroglyphs",
+        "Canopic jar",
+        "Ma'at"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: The river that supported farming and transport in ancient Egypt?",
+      "correctAnswer": "Nile River",
+      "wrongAnswers": [
+        "Papyrus",
+        "Afterlife",
+        "Vizier"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: Land enriched by seasonal river flooding?",
+      "correctAnswer": "Floodplain",
+      "wrongAnswers": [
+        "Scribe",
+        "Osiris",
+        "Obelisk"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: An Egyptian writing system using picture symbols?",
+      "correctAnswer": "Hieroglyphs",
+      "wrongAnswers": [
+        "Pyramid",
+        "Isis",
+        "Cartouche"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A writing material made from a reed plant?",
+      "correctAnswer": "Papyrus",
+      "wrongAnswers": [
+        "Mummification",
+        "Ra",
+        "Rosetta Stone"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A trained writer and record keeper?",
+      "correctAnswer": "Scribe",
+      "wrongAnswers": [
+        "Canopic jar",
+        "Ma'at",
+        "New Kingdom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A monumental tomb structure associated with royal burials?",
+      "correctAnswer": "Pyramid",
+      "wrongAnswers": [
+        "Afterlife",
+        "Vizier",
+        "Pharaoh"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A process used to preserve bodies after death?",
+      "correctAnswer": "Mummification",
+      "wrongAnswers": [
+        "Osiris",
+        "Obelisk",
+        "Dynasty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A container used to hold organs during mummification?",
+      "correctAnswer": "Canopic jar",
+      "wrongAnswers": [
+        "Isis",
+        "Cartouche",
+        "Nile River"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: The continued existence Egyptians believed followed death?",
+      "correctAnswer": "Afterlife",
+      "wrongAnswers": [
+        "Ra",
+        "Rosetta Stone",
+        "Floodplain"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: An Egyptian god associated with the afterlife?",
+      "correctAnswer": "Osiris",
+      "wrongAnswers": [
+        "Ma'at",
+        "New Kingdom",
+        "Hieroglyphs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: An Egyptian goddess associated with protection and magic?",
+      "correctAnswer": "Isis",
+      "wrongAnswers": [
+        "Vizier",
+        "Pharaoh",
+        "Papyrus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: An Egyptian sun god?",
+      "correctAnswer": "Ra",
+      "wrongAnswers": [
+        "Obelisk",
+        "Dynasty",
+        "Scribe"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: The concept of truth, balance, and order?",
+      "correctAnswer": "Ma'at",
+      "wrongAnswers": [
+        "Cartouche",
+        "Nile River",
+        "Pyramid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A high official who helped administer the kingdom?",
+      "correctAnswer": "Vizier",
+      "wrongAnswers": [
+        "Rosetta Stone",
+        "Floodplain",
+        "Mummification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A tall stone monument with a pointed top?",
+      "correctAnswer": "Obelisk",
+      "wrongAnswers": [
+        "New Kingdom",
+        "Hieroglyphs",
+        "Canopic jar"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: An oval frame containing a royal name?",
+      "correctAnswer": "Cartouche",
+      "wrongAnswers": [
+        "Pharaoh",
+        "Papyrus",
+        "Afterlife"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A stone inscription that helped scholars read hieroglyphs?",
+      "correctAnswer": "Rosetta Stone",
+      "wrongAnswers": [
+        "Dynasty",
+        "Scribe",
+        "Osiris"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: A period of Egyptian power and expansion?",
+      "correctAnswer": "New Kingdom",
+      "wrongAnswers": [
+        "Nile River",
+        "Pyramid",
+        "Isis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, which term means: The ruler of ancient Egypt?",
+      "correctAnswer": "Pharaoh",
+      "wrongAnswers": [
+        "Floodplain",
+        "Mummification",
+        "Ra"
+      ],
+      "timeout": 15
+    }
+  ]
+}

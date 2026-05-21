@@ -1,0 +1,205 @@
+{
+  "title": "Oceanography Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Oceanography, what does \"Salinity\" mean?",
+      "correctAnswer": "The amount of dissolved salt in seawater",
+      "wrongAnswers": [
+        "A large circular system of ocean currents",
+        "An underwater mountain chain where new crust forms",
+        "A marine ecosystem built by coral animals and their skeletons"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Current\" mean?",
+      "correctAnswer": "A continuous movement of ocean water",
+      "wrongAnswers": [
+        "Regular sea level rise and fall caused mainly by gravity",
+        "A seafloor opening that releases hot mineral-rich water",
+        "A coastal ecosystem dominated by large brown algae"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Gyre\" mean?",
+      "correctAnswer": "A large circular system of ocean currents",
+      "wrongAnswers": [
+        "A place where river water mixes with seawater",
+        "Small drifting organisms in water",
+        "Rising deep water that brings nutrients to the surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Tide\" mean?",
+      "correctAnswer": "Regular sea level rise and fall caused mainly by gravity",
+      "wrongAnswers": [
+        "The shallow seafloor edge of a continent",
+        "Photosynthetic plankton that form the base of many food webs",
+        "A layer where ocean temperature changes rapidly with depth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Estuary\" mean?",
+      "correctAnswer": "A place where river water mixes with seawater",
+      "wrongAnswers": [
+        "A broad flat region of deep ocean floor",
+        "Animal-like plankton that feed on other organisms",
+        "Falling organic particles that feed deep-sea life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Continental shelf\" mean?",
+      "correctAnswer": "The shallow seafloor edge of a continent",
+      "wrongAnswers": [
+        "An underwater mountain chain where new crust forms",
+        "A marine ecosystem built by coral animals and their skeletons",
+        "Using sound waves to detect underwater objects or depth"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Abyssal plain\" mean?",
+      "correctAnswer": "A broad flat region of deep ocean floor",
+      "wrongAnswers": [
+        "A seafloor opening that releases hot mineral-rich water",
+        "A coastal ecosystem dominated by large brown algae",
+        "Water with salinity between freshwater and seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Mid-ocean ridge\" mean?",
+      "correctAnswer": "An underwater mountain chain where new crust forms",
+      "wrongAnswers": [
+        "Small drifting organisms in water",
+        "Rising deep water that brings nutrients to the surface",
+        "A decrease in seawater pH linked to absorbed carbon dioxide"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Hydrothermal vent\" mean?",
+      "correctAnswer": "A seafloor opening that releases hot mineral-rich water",
+      "wrongAnswers": [
+        "Photosynthetic plankton that form the base of many food webs",
+        "A layer where ocean temperature changes rapidly with depth",
+        "The amount of dissolved salt in seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Plankton\" mean?",
+      "correctAnswer": "Small drifting organisms in water",
+      "wrongAnswers": [
+        "Animal-like plankton that feed on other organisms",
+        "Falling organic particles that feed deep-sea life",
+        "A continuous movement of ocean water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Phytoplankton\" mean?",
+      "correctAnswer": "Photosynthetic plankton that form the base of many food webs",
+      "wrongAnswers": [
+        "A marine ecosystem built by coral animals and their skeletons",
+        "Using sound waves to detect underwater objects or depth",
+        "A large circular system of ocean currents"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Zooplankton\" mean?",
+      "correctAnswer": "Animal-like plankton that feed on other organisms",
+      "wrongAnswers": [
+        "A coastal ecosystem dominated by large brown algae",
+        "Water with salinity between freshwater and seawater",
+        "Regular sea level rise and fall caused mainly by gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Coral reef\" mean?",
+      "correctAnswer": "A marine ecosystem built by coral animals and their skeletons",
+      "wrongAnswers": [
+        "Rising deep water that brings nutrients to the surface",
+        "A decrease in seawater pH linked to absorbed carbon dioxide",
+        "A place where river water mixes with seawater"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Kelp forest\" mean?",
+      "correctAnswer": "A coastal ecosystem dominated by large brown algae",
+      "wrongAnswers": [
+        "A layer where ocean temperature changes rapidly with depth",
+        "The amount of dissolved salt in seawater",
+        "The shallow seafloor edge of a continent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Upwelling\" mean?",
+      "correctAnswer": "Rising deep water that brings nutrients to the surface",
+      "wrongAnswers": [
+        "Falling organic particles that feed deep-sea life",
+        "A continuous movement of ocean water",
+        "A broad flat region of deep ocean floor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Thermocline\" mean?",
+      "correctAnswer": "A layer where ocean temperature changes rapidly with depth",
+      "wrongAnswers": [
+        "Using sound waves to detect underwater objects or depth",
+        "A large circular system of ocean currents",
+        "An underwater mountain chain where new crust forms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Marine snow\" mean?",
+      "correctAnswer": "Falling organic particles that feed deep-sea life",
+      "wrongAnswers": [
+        "Water with salinity between freshwater and seawater",
+        "Regular sea level rise and fall caused mainly by gravity",
+        "A seafloor opening that releases hot mineral-rich water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Sonar\" mean?",
+      "correctAnswer": "Using sound waves to detect underwater objects or depth",
+      "wrongAnswers": [
+        "A decrease in seawater pH linked to absorbed carbon dioxide",
+        "A place where river water mixes with seawater",
+        "Small drifting organisms in water"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Brackish water\" mean?",
+      "correctAnswer": "Water with salinity between freshwater and seawater",
+      "wrongAnswers": [
+        "The amount of dissolved salt in seawater",
+        "The shallow seafloor edge of a continent",
+        "Photosynthetic plankton that form the base of many food webs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Oceanography, what does \"Ocean acidification\" mean?",
+      "correctAnswer": "A decrease in seawater pH linked to absorbed carbon dioxide",
+      "wrongAnswers": [
+        "A continuous movement of ocean water",
+        "A broad flat region of deep ocean floor",
+        "Animal-like plankton that feed on other organisms"
+      ],
+      "timeout": 15
+    }
+  ]
+}

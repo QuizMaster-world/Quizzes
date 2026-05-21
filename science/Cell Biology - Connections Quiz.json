@@ -1,0 +1,205 @@
+{
+  "title": "Cell Biology Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Cell Biology concept is described by this clue: The organelle that stores most genetic material in eukaryotic cells?",
+      "correctAnswer": "Nucleus",
+      "wrongAnswers": [
+        "Golgi apparatus",
+        "Organelle",
+        "ATP"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: An organelle that releases usable energy from food molecules?",
+      "correctAnswer": "Mitochondrion",
+      "wrongAnswers": [
+        "Lysosome",
+        "Diffusion",
+        "Mitosis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A structure that builds proteins from amino acids?",
+      "correctAnswer": "Ribosome",
+      "wrongAnswers": [
+        "Chloroplast",
+        "Osmosis",
+        "Meiosis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A membrane network involved in protein and lipid processing?",
+      "correctAnswer": "Endoplasmic reticulum",
+      "wrongAnswers": [
+        "Cell wall",
+        "Active transport",
+        "Homeostasis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: An organelle that modifies and packages cell products?",
+      "correctAnswer": "Golgi apparatus",
+      "wrongAnswers": [
+        "Vacuole",
+        "Enzyme",
+        "Cell membrane"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: An organelle that breaks down waste and worn cell parts?",
+      "correctAnswer": "Lysosome",
+      "wrongAnswers": [
+        "Organelle",
+        "ATP",
+        "Cytoplasm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A plant cell organelle that carries out photosynthesis?",
+      "correctAnswer": "Chloroplast",
+      "wrongAnswers": [
+        "Diffusion",
+        "Mitosis",
+        "Nucleus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A rigid outer layer that supports some kinds of cells?",
+      "correctAnswer": "Cell wall",
+      "wrongAnswers": [
+        "Osmosis",
+        "Meiosis",
+        "Mitochondrion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A storage compartment inside a cell?",
+      "correctAnswer": "Vacuole",
+      "wrongAnswers": [
+        "Active transport",
+        "Homeostasis",
+        "Ribosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A specialized structure inside a cell?",
+      "correctAnswer": "Organelle",
+      "wrongAnswers": [
+        "Enzyme",
+        "Cell membrane",
+        "Endoplasmic reticulum"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Movement of particles from higher concentration to lower concentration?",
+      "correctAnswer": "Diffusion",
+      "wrongAnswers": [
+        "ATP",
+        "Cytoplasm",
+        "Golgi apparatus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Diffusion of water across a selectively permeable membrane?",
+      "correctAnswer": "Osmosis",
+      "wrongAnswers": [
+        "Mitosis",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Movement across a membrane using cellular energy?",
+      "correctAnswer": "Active transport",
+      "wrongAnswers": [
+        "Meiosis",
+        "Mitochondrion",
+        "Chloroplast"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A protein that speeds up a chemical reaction?",
+      "correctAnswer": "Enzyme",
+      "wrongAnswers": [
+        "Homeostasis",
+        "Ribosome",
+        "Cell wall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A molecule used as a direct energy source in cells?",
+      "correctAnswer": "ATP",
+      "wrongAnswers": [
+        "Cell membrane",
+        "Endoplasmic reticulum",
+        "Vacuole"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Cell division that produces genetically identical body cells?",
+      "correctAnswer": "Mitosis",
+      "wrongAnswers": [
+        "Cytoplasm",
+        "Golgi apparatus",
+        "Organelle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Cell division that produces gametes with reduced chromosome sets?",
+      "correctAnswer": "Meiosis",
+      "wrongAnswers": [
+        "Nucleus",
+        "Lysosome",
+        "Diffusion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: Maintaining a stable internal condition?",
+      "correctAnswer": "Homeostasis",
+      "wrongAnswers": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Osmosis"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: A boundary that controls movement into and out of the cell?",
+      "correctAnswer": "Cell membrane",
+      "wrongAnswers": [
+        "Ribosome",
+        "Cell wall",
+        "Active transport"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Cell Biology concept is described by this clue: The gel-like material inside a cell where many reactions occur?",
+      "correctAnswer": "Cytoplasm",
+      "wrongAnswers": [
+        "Endoplasmic reticulum",
+        "Vacuole",
+        "Enzyme"
+      ],
+      "timeout": 15
+    }
+  ]
+}

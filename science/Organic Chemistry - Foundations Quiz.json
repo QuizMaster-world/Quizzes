@@ -1,0 +1,205 @@
+{
+  "title": "Organic Chemistry Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Organic Chemistry, what does \"Hydrocarbon\" mean?",
+      "correctAnswer": "A compound made only of carbon and hydrogen",
+      "wrongAnswers": [
+        "A hydrocarbon with at least one carbon-carbon double bond",
+        "An organic compound containing nitrogen bonded to carbon or hydrogen",
+        "A compound with no carbon-carbon multiple bonds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Alkane\" mean?",
+      "correctAnswer": "A hydrocarbon with only single carbon-carbon bonds",
+      "wrongAnswers": [
+        "A hydrocarbon with at least one carbon-carbon triple bond",
+        "A large molecule made from repeating smaller units",
+        "A compound with at least one carbon-carbon multiple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Alkene\" mean?",
+      "correctAnswer": "A hydrocarbon with at least one carbon-carbon double bond",
+      "wrongAnswers": [
+        "An organic compound containing a hydroxyl group",
+        "A small molecule that can join to form a polymer",
+        "A stable ring compound with delocalized electrons"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Alkyne\" mean?",
+      "correctAnswer": "A hydrocarbon with at least one carbon-carbon triple bond",
+      "wrongAnswers": [
+        "An organic compound containing a carboxyl group",
+        "A compound with the same formula but a different structure",
+        "A substance that speeds a reaction without being consumed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Alcohol\" mean?",
+      "correctAnswer": "An organic compound containing a hydroxyl group",
+      "wrongAnswers": [
+        "An organic compound often formed from an alcohol and a carboxylic acid",
+        "A group of atoms that gives a molecule characteristic reactions",
+        "A reaction where atoms add across a multiple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Carboxylic acid\" mean?",
+      "correctAnswer": "An organic compound containing a carboxyl group",
+      "wrongAnswers": [
+        "An organic compound containing nitrogen bonded to carbon or hydrogen",
+        "A compound with no carbon-carbon multiple bonds",
+        "A reaction where one atom or group replaces another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Ester\" mean?",
+      "correctAnswer": "An organic compound often formed from an alcohol and a carboxylic acid",
+      "wrongAnswers": [
+        "A large molecule made from repeating smaller units",
+        "A compound with at least one carbon-carbon multiple bond",
+        "A reaction that joins molecules while releasing a small molecule"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Amine\" mean?",
+      "correctAnswer": "An organic compound containing nitrogen bonded to carbon or hydrogen",
+      "wrongAnswers": [
+        "A small molecule that can join to form a polymer",
+        "A stable ring compound with delocalized electrons",
+        "Breaking larger hydrocarbons into smaller molecules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Polymer\" mean?",
+      "correctAnswer": "A large molecule made from repeating smaller units",
+      "wrongAnswers": [
+        "A compound with the same formula but a different structure",
+        "A substance that speeds a reaction without being consumed",
+        "A compound made only of carbon and hydrogen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Monomer\" mean?",
+      "correctAnswer": "A small molecule that can join to form a polymer",
+      "wrongAnswers": [
+        "A group of atoms that gives a molecule characteristic reactions",
+        "A reaction where atoms add across a multiple bond",
+        "A hydrocarbon with only single carbon-carbon bonds"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Isomer\" mean?",
+      "correctAnswer": "A compound with the same formula but a different structure",
+      "wrongAnswers": [
+        "A compound with no carbon-carbon multiple bonds",
+        "A reaction where one atom or group replaces another",
+        "A hydrocarbon with at least one carbon-carbon double bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Functional group\" mean?",
+      "correctAnswer": "A group of atoms that gives a molecule characteristic reactions",
+      "wrongAnswers": [
+        "A compound with at least one carbon-carbon multiple bond",
+        "A reaction that joins molecules while releasing a small molecule",
+        "A hydrocarbon with at least one carbon-carbon triple bond"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Saturated compound\" mean?",
+      "correctAnswer": "A compound with no carbon-carbon multiple bonds",
+      "wrongAnswers": [
+        "A stable ring compound with delocalized electrons",
+        "Breaking larger hydrocarbons into smaller molecules",
+        "An organic compound containing a hydroxyl group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Unsaturated compound\" mean?",
+      "correctAnswer": "A compound with at least one carbon-carbon multiple bond",
+      "wrongAnswers": [
+        "A substance that speeds a reaction without being consumed",
+        "A compound made only of carbon and hydrogen",
+        "An organic compound containing a carboxyl group"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Aromatic compound\" mean?",
+      "correctAnswer": "A stable ring compound with delocalized electrons",
+      "wrongAnswers": [
+        "A reaction where atoms add across a multiple bond",
+        "A hydrocarbon with only single carbon-carbon bonds",
+        "An organic compound often formed from an alcohol and a carboxylic acid"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Catalyst\" mean?",
+      "correctAnswer": "A substance that speeds a reaction without being consumed",
+      "wrongAnswers": [
+        "A reaction where one atom or group replaces another",
+        "A hydrocarbon with at least one carbon-carbon double bond",
+        "An organic compound containing nitrogen bonded to carbon or hydrogen"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Addition reaction\" mean?",
+      "correctAnswer": "A reaction where atoms add across a multiple bond",
+      "wrongAnswers": [
+        "A reaction that joins molecules while releasing a small molecule",
+        "A hydrocarbon with at least one carbon-carbon triple bond",
+        "A large molecule made from repeating smaller units"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Substitution reaction\" mean?",
+      "correctAnswer": "A reaction where one atom or group replaces another",
+      "wrongAnswers": [
+        "Breaking larger hydrocarbons into smaller molecules",
+        "An organic compound containing a hydroxyl group",
+        "A small molecule that can join to form a polymer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Condensation reaction\" mean?",
+      "correctAnswer": "A reaction that joins molecules while releasing a small molecule",
+      "wrongAnswers": [
+        "A compound made only of carbon and hydrogen",
+        "An organic compound containing a carboxyl group",
+        "A compound with the same formula but a different structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Organic Chemistry, what does \"Cracking\" mean?",
+      "correctAnswer": "Breaking larger hydrocarbons into smaller molecules",
+      "wrongAnswers": [
+        "A hydrocarbon with only single carbon-carbon bonds",
+        "An organic compound often formed from an alcohol and a carboxylic acid",
+        "A group of atoms that gives a molecule characteristic reactions"
+      ],
+      "timeout": 15
+    }
+  ]
+}

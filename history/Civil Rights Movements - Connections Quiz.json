@@ -1,0 +1,205 @@
+{
+  "title": "Civil Rights Movements Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Unfair treatment based on identity or group membership?",
+      "correctAnswer": "Discrimination",
+      "wrongAnswers": [
+        "Nonviolent resistance",
+        "Grassroots organizing",
+        "Activist"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Refusing to buy or use something as protest?",
+      "correctAnswer": "Boycott",
+      "wrongAnswers": [
+        "Civil disobedience",
+        "Advocacy",
+        "Ally"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A protest where people occupy a space and refuse to leave?",
+      "correctAnswer": "Sit-in",
+      "wrongAnswers": [
+        "Suffrage",
+        "Coalition",
+        "Reform"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A public demonstration involving organized walking?",
+      "correctAnswer": "March",
+      "wrongAnswers": [
+        "Desegregation",
+        "Petition",
+        "Human rights"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Opposing injustice without physical violence?",
+      "correctAnswer": "Nonviolent resistance",
+      "wrongAnswers": [
+        "Equal protection",
+        "Legal challenge",
+        "Civil rights"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Deliberately breaking an unjust law to challenge it?",
+      "correctAnswer": "Civil disobedience",
+      "wrongAnswers": [
+        "Grassroots organizing",
+        "Activist",
+        "Segregation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: The right to vote?",
+      "correctAnswer": "Suffrage",
+      "wrongAnswers": [
+        "Advocacy",
+        "Ally",
+        "Discrimination"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Ending enforced separation of groups?",
+      "correctAnswer": "Desegregation",
+      "wrongAnswers": [
+        "Coalition",
+        "Reform",
+        "Boycott"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: The principle that laws should protect people equally?",
+      "correctAnswer": "Equal protection",
+      "wrongAnswers": [
+        "Petition",
+        "Human rights",
+        "Sit-in"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Local community action to build change?",
+      "correctAnswer": "Grassroots organizing",
+      "wrongAnswers": [
+        "Legal challenge",
+        "Civil rights",
+        "March"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Public support for a cause or policy?",
+      "correctAnswer": "Advocacy",
+      "wrongAnswers": [
+        "Activist",
+        "Segregation",
+        "Nonviolent resistance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Groups working together for a shared goal?",
+      "correctAnswer": "Coalition",
+      "wrongAnswers": [
+        "Ally",
+        "Discrimination",
+        "Civil disobedience"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A formal request supported by signatures?",
+      "correctAnswer": "Petition",
+      "wrongAnswers": [
+        "Reform",
+        "Boycott",
+        "Suffrage"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Using courts to contest a law or policy?",
+      "correctAnswer": "Legal challenge",
+      "wrongAnswers": [
+        "Human rights",
+        "Sit-in",
+        "Desegregation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A person who works to bring social or political change?",
+      "correctAnswer": "Activist",
+      "wrongAnswers": [
+        "Civil rights",
+        "March",
+        "Equal protection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A supporter who helps a group facing injustice?",
+      "correctAnswer": "Ally",
+      "wrongAnswers": [
+        "Segregation",
+        "Nonviolent resistance",
+        "Grassroots organizing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: A change made to improve a system?",
+      "correctAnswer": "Reform",
+      "wrongAnswers": [
+        "Discrimination",
+        "Civil disobedience",
+        "Advocacy"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Basic rights and freedoms considered to belong to all people?",
+      "correctAnswer": "Human rights",
+      "wrongAnswers": [
+        "Boycott",
+        "Suffrage",
+        "Coalition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Legal and social rights protecting equal participation?",
+      "correctAnswer": "Civil rights",
+      "wrongAnswers": [
+        "Sit-in",
+        "Desegregation",
+        "Petition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Civil Rights Movements concept is described by this clue: Enforced separation of groups in public or private life?",
+      "correctAnswer": "Segregation",
+      "wrongAnswers": [
+        "March",
+        "Equal protection",
+        "Legal challenge"
+      ],
+      "timeout": 15
+    }
+  ]
+}

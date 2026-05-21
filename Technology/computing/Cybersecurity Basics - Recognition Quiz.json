@@ -1,0 +1,205 @@
+{
+  "title": "Cybersecurity Basics Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Hashing\" is correct?",
+      "correctAnswer": "Hashing: Creating a fixed-size digest from input data",
+      "wrongAnswers": [
+        "Firewall: A control that filters network traffic using rules",
+        "Multi-factor authentication: Requiring more than one kind of identity proof",
+        "Cross-site scripting: Injecting script into content viewed by other users"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Salt\" is correct?",
+      "correctAnswer": "Salt: Random data added before hashing to protect repeated passwords",
+      "wrongAnswers": [
+        "Vulnerability: A weakness that could be exploited",
+        "Public key: A shareable key used in asymmetric cryptography",
+        "Security audit log: A record of events useful for investigating security activity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Phishing\" is correct?",
+      "correctAnswer": "Phishing: Tricking people into revealing sensitive information",
+      "wrongAnswers": [
+        "Patch: An update that fixes a defect or security weakness",
+        "Private key: A secret key used in asymmetric cryptography",
+        "Authentication: Verifying the identity of a user or system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Malware\" is correct?",
+      "correctAnswer": "Malware: Software designed to harm or misuse systems",
+      "wrongAnswers": [
+        "Zero-day: A vulnerability that is not yet patched by the vendor",
+        "Digital signature: A cryptographic proof of data origin and integrity",
+        "Authorization: Deciding what an identified user or system is allowed to access"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ransomware\" is correct?",
+      "correctAnswer": "Ransomware: Malware that blocks access to data until payment is demanded",
+      "wrongAnswers": [
+        "Least privilege: Giving only the access required for a task",
+        "SQL injection: Putting malicious database commands into untrusted input",
+        "Encryption: Transforming readable data into protected data using a key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Firewall\" is correct?",
+      "correctAnswer": "Firewall: A control that filters network traffic using rules",
+      "wrongAnswers": [
+        "Multi-factor authentication: Requiring more than one kind of identity proof",
+        "Cross-site scripting: Injecting script into content viewed by other users",
+        "Hashing: Creating a fixed-size digest from input data"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Vulnerability\" is correct?",
+      "correctAnswer": "Vulnerability: A weakness that could be exploited",
+      "wrongAnswers": [
+        "Public key: A shareable key used in asymmetric cryptography",
+        "Security audit log: A record of events useful for investigating security activity",
+        "Salt: Random data added before hashing to protect repeated passwords"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Patch\" is correct?",
+      "correctAnswer": "Patch: An update that fixes a defect or security weakness",
+      "wrongAnswers": [
+        "Private key: A secret key used in asymmetric cryptography",
+        "Authentication: Verifying the identity of a user or system",
+        "Phishing: Tricking people into revealing sensitive information"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Zero-day\" is correct?",
+      "correctAnswer": "Zero-day: A vulnerability that is not yet patched by the vendor",
+      "wrongAnswers": [
+        "Digital signature: A cryptographic proof of data origin and integrity",
+        "Authorization: Deciding what an identified user or system is allowed to access",
+        "Malware: Software designed to harm or misuse systems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Least privilege\" is correct?",
+      "correctAnswer": "Least privilege: Giving only the access required for a task",
+      "wrongAnswers": [
+        "SQL injection: Putting malicious database commands into untrusted input",
+        "Encryption: Transforming readable data into protected data using a key",
+        "Ransomware: Malware that blocks access to data until payment is demanded"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Multi-factor authentication\" is correct?",
+      "correctAnswer": "Multi-factor authentication: Requiring more than one kind of identity proof",
+      "wrongAnswers": [
+        "Cross-site scripting: Injecting script into content viewed by other users",
+        "Hashing: Creating a fixed-size digest from input data",
+        "Firewall: A control that filters network traffic using rules"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Public key\" is correct?",
+      "correctAnswer": "Public key: A shareable key used in asymmetric cryptography",
+      "wrongAnswers": [
+        "Security audit log: A record of events useful for investigating security activity",
+        "Salt: Random data added before hashing to protect repeated passwords",
+        "Vulnerability: A weakness that could be exploited"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Private key\" is correct?",
+      "correctAnswer": "Private key: A secret key used in asymmetric cryptography",
+      "wrongAnswers": [
+        "Authentication: Verifying the identity of a user or system",
+        "Phishing: Tricking people into revealing sensitive information",
+        "Patch: An update that fixes a defect or security weakness"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Digital signature\" is correct?",
+      "correctAnswer": "Digital signature: A cryptographic proof of data origin and integrity",
+      "wrongAnswers": [
+        "Authorization: Deciding what an identified user or system is allowed to access",
+        "Malware: Software designed to harm or misuse systems",
+        "Zero-day: A vulnerability that is not yet patched by the vendor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"SQL injection\" is correct?",
+      "correctAnswer": "SQL injection: Putting malicious database commands into untrusted input",
+      "wrongAnswers": [
+        "Encryption: Transforming readable data into protected data using a key",
+        "Ransomware: Malware that blocks access to data until payment is demanded",
+        "Least privilege: Giving only the access required for a task"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Cross-site scripting\" is correct?",
+      "correctAnswer": "Cross-site scripting: Injecting script into content viewed by other users",
+      "wrongAnswers": [
+        "Hashing: Creating a fixed-size digest from input data",
+        "Firewall: A control that filters network traffic using rules",
+        "Multi-factor authentication: Requiring more than one kind of identity proof"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Security audit log\" is correct?",
+      "correctAnswer": "Security audit log: A record of events useful for investigating security activity",
+      "wrongAnswers": [
+        "Salt: Random data added before hashing to protect repeated passwords",
+        "Vulnerability: A weakness that could be exploited",
+        "Public key: A shareable key used in asymmetric cryptography"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Authentication\" is correct?",
+      "correctAnswer": "Authentication: Verifying the identity of a user or system",
+      "wrongAnswers": [
+        "Phishing: Tricking people into revealing sensitive information",
+        "Patch: An update that fixes a defect or security weakness",
+        "Private key: A secret key used in asymmetric cryptography"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Authorization\" is correct?",
+      "correctAnswer": "Authorization: Deciding what an identified user or system is allowed to access",
+      "wrongAnswers": [
+        "Malware: Software designed to harm or misuse systems",
+        "Zero-day: A vulnerability that is not yet patched by the vendor",
+        "Digital signature: A cryptographic proof of data origin and integrity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Encryption\" is correct?",
+      "correctAnswer": "Encryption: Transforming readable data into protected data using a key",
+      "wrongAnswers": [
+        "Ransomware: Malware that blocks access to data until payment is demanded",
+        "Least privilege: Giving only the access required for a task",
+        "SQL injection: Putting malicious database commands into untrusted input"
+      ],
+      "timeout": 15
+    }
+  ]
+}

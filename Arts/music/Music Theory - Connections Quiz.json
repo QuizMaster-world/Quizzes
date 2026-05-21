@@ -1,0 +1,205 @@
+{
+  "title": "Music Theory Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Music Theory concept is described by this clue: The regular pulse in music?",
+      "correctAnswer": "Beat",
+      "wrongAnswers": [
+        "Melody",
+        "Interval",
+        "Staccato"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The speed of the beat?",
+      "correctAnswer": "Tempo",
+      "wrongAnswers": [
+        "Harmony",
+        "Dynamics",
+        "Cadence"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The grouping of beats into repeating patterns?",
+      "correctAnswer": "Meter",
+      "wrongAnswers": [
+        "Chord",
+        "Timbre",
+        "Motif"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: A segment of music containing a set number of beats?",
+      "correctAnswer": "Measure",
+      "wrongAnswers": [
+        "Scale",
+        "Articulation",
+        "Improvisation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: A sequence of pitches heard as a musical line?",
+      "correctAnswer": "Melody",
+      "wrongAnswers": [
+        "Key",
+        "Legato",
+        "Pitch"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The combination of notes sounded together?",
+      "correctAnswer": "Harmony",
+      "wrongAnswers": [
+        "Interval",
+        "Staccato",
+        "Rhythm"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: Three or more notes sounded together?",
+      "correctAnswer": "Chord",
+      "wrongAnswers": [
+        "Dynamics",
+        "Cadence",
+        "Beat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: An ordered set of pitches?",
+      "correctAnswer": "Scale",
+      "wrongAnswers": [
+        "Timbre",
+        "Motif",
+        "Tempo"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The tonal center of a piece of music?",
+      "correctAnswer": "Key",
+      "wrongAnswers": [
+        "Articulation",
+        "Improvisation",
+        "Meter"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The distance between two pitches?",
+      "correctAnswer": "Interval",
+      "wrongAnswers": [
+        "Legato",
+        "Pitch",
+        "Measure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: How loud or soft music is played?",
+      "correctAnswer": "Dynamics",
+      "wrongAnswers": [
+        "Staccato",
+        "Rhythm",
+        "Melody"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The tone color or quality of a sound?",
+      "correctAnswer": "Timbre",
+      "wrongAnswers": [
+        "Cadence",
+        "Beat",
+        "Harmony"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: How notes are started, connected, or separated?",
+      "correctAnswer": "Articulation",
+      "wrongAnswers": [
+        "Motif",
+        "Tempo",
+        "Chord"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: Smoothly connected notes?",
+      "correctAnswer": "Legato",
+      "wrongAnswers": [
+        "Improvisation",
+        "Meter",
+        "Scale"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: Short separated notes?",
+      "correctAnswer": "Staccato",
+      "wrongAnswers": [
+        "Pitch",
+        "Measure",
+        "Key"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: A musical ending or point of rest?",
+      "correctAnswer": "Cadence",
+      "wrongAnswers": [
+        "Rhythm",
+        "Melody",
+        "Interval"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: A short recurring musical idea?",
+      "correctAnswer": "Motif",
+      "wrongAnswers": [
+        "Beat",
+        "Harmony",
+        "Dynamics"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: Creating music spontaneously while performing?",
+      "correctAnswer": "Improvisation",
+      "wrongAnswers": [
+        "Tempo",
+        "Chord",
+        "Timbre"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: How high or low a sound is perceived?",
+      "correctAnswer": "Pitch",
+      "wrongAnswers": [
+        "Meter",
+        "Scale",
+        "Articulation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Music Theory concept is described by this clue: The pattern of sounds and silences in time?",
+      "correctAnswer": "Rhythm",
+      "wrongAnswers": [
+        "Measure",
+        "Key",
+        "Legato"
+      ],
+      "timeout": 15
+    }
+  ]
+}

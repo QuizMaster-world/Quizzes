@@ -1,0 +1,205 @@
+{
+  "title": "Game Design Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Game Design, which term means: The repeated sequence of actions that drives gameplay?",
+      "correctAnswer": "Core loop",
+      "wrongAnswers": [
+        "Feedback",
+        "Penalty",
+        "Hitbox"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: The goal a player tries to achieve?",
+      "correctAnswer": "Objective",
+      "wrongAnswers": [
+        "Balance",
+        "Tutorial",
+        "Collision detection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: An obstacle or difficulty for the player?",
+      "correctAnswer": "Challenge",
+      "wrongAnswers": [
+        "Level design",
+        "Playtesting",
+        "User interface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Information the game gives in response to player action?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Progression",
+        "Prototype",
+        "Game feel"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Adjusting systems so gameplay feels fair and engaging?",
+      "correctAnswer": "Balance",
+      "wrongAnswers": [
+        "Reward",
+        "Non-player character",
+        "Difficulty curve"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Creating spaces, challenges, and pacing for play?",
+      "correctAnswer": "Level design",
+      "wrongAnswers": [
+        "Penalty",
+        "Hitbox",
+        "Emergent gameplay"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: How player abilities, difficulty, or content change over time?",
+      "correctAnswer": "Progression",
+      "wrongAnswers": [
+        "Tutorial",
+        "Collision detection",
+        "Game mechanic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: A benefit given for player action or achievement?",
+      "correctAnswer": "Reward",
+      "wrongAnswers": [
+        "Playtesting",
+        "User interface",
+        "Core loop"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: A consequence for mistakes or risky choices?",
+      "correctAnswer": "Penalty",
+      "wrongAnswers": [
+        "Prototype",
+        "Game feel",
+        "Objective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Guided introduction to game controls or systems?",
+      "correctAnswer": "Tutorial",
+      "wrongAnswers": [
+        "Non-player character",
+        "Difficulty curve",
+        "Challenge"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Observing players to evaluate and improve a game?",
+      "correctAnswer": "Playtesting",
+      "wrongAnswers": [
+        "Hitbox",
+        "Emergent gameplay",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: A rough version built to test an idea?",
+      "correctAnswer": "Prototype",
+      "wrongAnswers": [
+        "Collision detection",
+        "Game mechanic",
+        "Balance"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: A character controlled by the game rather than the player?",
+      "correctAnswer": "Non-player character",
+      "wrongAnswers": [
+        "User interface",
+        "Core loop",
+        "Level design"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: An invisible area used to detect collisions or hits?",
+      "correctAnswer": "Hitbox",
+      "wrongAnswers": [
+        "Game feel",
+        "Objective",
+        "Progression"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Determining when game objects touch or overlap?",
+      "correctAnswer": "Collision detection",
+      "wrongAnswers": [
+        "Difficulty curve",
+        "Challenge",
+        "Reward"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: On-screen controls and information for the player?",
+      "correctAnswer": "User interface",
+      "wrongAnswers": [
+        "Emergent gameplay",
+        "Feedback",
+        "Penalty"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: The responsiveness and sensation of interacting with the game?",
+      "correctAnswer": "Game feel",
+      "wrongAnswers": [
+        "Game mechanic",
+        "Balance",
+        "Tutorial"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: How challenge changes across a game?",
+      "correctAnswer": "Difficulty curve",
+      "wrongAnswers": [
+        "Core loop",
+        "Level design",
+        "Playtesting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: Unexpected play that arises from interacting systems?",
+      "correctAnswer": "Emergent gameplay",
+      "wrongAnswers": [
+        "Objective",
+        "Progression",
+        "Prototype"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Game Design, which term means: A rule or interaction that shapes play?",
+      "correctAnswer": "Game mechanic",
+      "wrongAnswers": [
+        "Challenge",
+        "Reward",
+        "Non-player character"
+      ],
+      "timeout": 15
+    }
+  ]
+}

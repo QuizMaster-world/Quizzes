@@ -1,0 +1,205 @@
+{
+  "title": "Study Skills Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which Study Skills concept is described by this clue: Mixing related topics during practice?",
+      "correctAnswer": "Interleaving",
+      "wrongAnswers": [
+        "Mind map",
+        "Pomodoro technique",
+        "Metacognition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Explaining ideas in detail and connecting them to prior knowledge?",
+      "correctAnswer": "Elaboration",
+      "wrongAnswers": [
+        "Flashcard",
+        "Distraction management",
+        "Summarizing"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Combining words with visuals to support learning?",
+      "correctAnswer": "Dual coding",
+      "wrongAnswers": [
+        "Practice test",
+        "Prioritization",
+        "Annotation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: A note format with cues, notes, and summary sections?",
+      "correctAnswer": "Cornell notes",
+      "wrongAnswers": [
+        "Goal setting",
+        "Feedback",
+        "Reflection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: A diagram that shows connections among ideas?",
+      "correctAnswer": "Mind map",
+      "wrongAnswers": [
+        "Time blocking",
+        "Revision plan",
+        "Active recall"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: A study card with a prompt on one side and answer on the other?",
+      "correctAnswer": "Flashcard",
+      "wrongAnswers": [
+        "Pomodoro technique",
+        "Metacognition",
+        "Spaced repetition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: A self-check that simulates assessment questions?",
+      "correctAnswer": "Practice test",
+      "wrongAnswers": [
+        "Distraction management",
+        "Summarizing",
+        "Interleaving"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Choosing clear targets for learning or work?",
+      "correctAnswer": "Goal setting",
+      "wrongAnswers": [
+        "Prioritization",
+        "Annotation",
+        "Elaboration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Scheduling focused periods for specific tasks?",
+      "correctAnswer": "Time blocking",
+      "wrongAnswers": [
+        "Feedback",
+        "Reflection",
+        "Dual coding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Working in short focused intervals separated by breaks?",
+      "correctAnswer": "Pomodoro technique",
+      "wrongAnswers": [
+        "Revision plan",
+        "Active recall",
+        "Cornell notes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Reducing interruptions during focused work?",
+      "correctAnswer": "Distraction management",
+      "wrongAnswers": [
+        "Metacognition",
+        "Spaced repetition",
+        "Mind map"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Choosing what matters most to work on first?",
+      "correctAnswer": "Prioritization",
+      "wrongAnswers": [
+        "Summarizing",
+        "Interleaving",
+        "Flashcard"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Information used to improve performance?",
+      "correctAnswer": "Feedback",
+      "wrongAnswers": [
+        "Annotation",
+        "Elaboration",
+        "Practice test"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: A schedule and method for reviewing material?",
+      "correctAnswer": "Revision plan",
+      "wrongAnswers": [
+        "Reflection",
+        "Dual coding",
+        "Goal setting"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Thinking about one's own thinking and learning?",
+      "correctAnswer": "Metacognition",
+      "wrongAnswers": [
+        "Active recall",
+        "Cornell notes",
+        "Time blocking"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Condensing information into the main points?",
+      "correctAnswer": "Summarizing",
+      "wrongAnswers": [
+        "Spaced repetition",
+        "Mind map",
+        "Pomodoro technique"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Adding notes or marks to text while reading?",
+      "correctAnswer": "Annotation",
+      "wrongAnswers": [
+        "Interleaving",
+        "Flashcard",
+        "Distraction management"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Reviewing what worked and what should change next time?",
+      "correctAnswer": "Reflection",
+      "wrongAnswers": [
+        "Elaboration",
+        "Practice test",
+        "Prioritization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Practicing retrieval of information from memory?",
+      "correctAnswer": "Active recall",
+      "wrongAnswers": [
+        "Dual coding",
+        "Goal setting",
+        "Feedback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which Study Skills concept is described by this clue: Reviewing material at increasing intervals?",
+      "correctAnswer": "Spaced repetition",
+      "wrongAnswers": [
+        "Cornell notes",
+        "Time blocking",
+        "Revision plan"
+      ],
+      "timeout": 15
+    }
+  ]
+}

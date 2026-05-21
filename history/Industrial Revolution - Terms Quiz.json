@@ -1,0 +1,205 @@
+{
+  "title": "Industrial Revolution Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Industrial Revolution, which term means: Organizing production in centralized workplaces with machinery?",
+      "correctAnswer": "Factory system",
+      "wrongAnswers": [
+        "Urbanization",
+        "Mass production",
+        "Public health reform"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: An engine powered by steam pressure?",
+      "correctAnswer": "Steam engine",
+      "wrongAnswers": [
+        "Canal",
+        "Division of labor",
+        "Patent"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A factory that produces cloth or yarn?",
+      "correctAnswer": "Textile mill",
+      "wrongAnswers": [
+        "Railway",
+        "Laissez-faire",
+        "Entrepreneur"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Growth of towns and cities as people move for work?",
+      "correctAnswer": "Urbanization",
+      "wrongAnswers": [
+        "Coal mining",
+        "Trade union",
+        "Capital"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A human-made waterway used for transport?",
+      "correctAnswer": "Canal",
+      "wrongAnswers": [
+        "Ironworks",
+        "Child labor",
+        "Cottage industry"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A transport system using trains on tracks?",
+      "correctAnswer": "Railway",
+      "wrongAnswers": [
+        "Mass production",
+        "Public health reform",
+        "Labor movement"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Extracting coal to fuel industry and transport?",
+      "correctAnswer": "Coal mining",
+      "wrongAnswers": [
+        "Division of labor",
+        "Patent",
+        "Mechanization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A place where iron is produced or processed?",
+      "correctAnswer": "Ironworks",
+      "wrongAnswers": [
+        "Laissez-faire",
+        "Entrepreneur",
+        "Factory system"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Making large quantities of standardized goods?",
+      "correctAnswer": "Mass production",
+      "wrongAnswers": [
+        "Trade union",
+        "Capital",
+        "Steam engine"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Splitting work into specialized tasks?",
+      "correctAnswer": "Division of labor",
+      "wrongAnswers": [
+        "Child labor",
+        "Cottage industry",
+        "Textile mill"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: An approach favoring limited government interference in markets?",
+      "correctAnswer": "Laissez-faire",
+      "wrongAnswers": [
+        "Public health reform",
+        "Labor movement",
+        "Urbanization"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: An organization that represents workers' interests?",
+      "correctAnswer": "Trade union",
+      "wrongAnswers": [
+        "Patent",
+        "Mechanization",
+        "Canal"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Employment of children, often under harsh conditions?",
+      "correctAnswer": "Child labor",
+      "wrongAnswers": [
+        "Entrepreneur",
+        "Factory system",
+        "Railway"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Efforts to improve sanitation and living conditions?",
+      "correctAnswer": "Public health reform",
+      "wrongAnswers": [
+        "Capital",
+        "Steam engine",
+        "Coal mining"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A legal right protecting an invention?",
+      "correctAnswer": "Patent",
+      "wrongAnswers": [
+        "Cottage industry",
+        "Textile mill",
+        "Ironworks"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: A person who organizes and takes risks in business?",
+      "correctAnswer": "Entrepreneur",
+      "wrongAnswers": [
+        "Labor movement",
+        "Urbanization",
+        "Mass production"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Money or assets used to support production?",
+      "correctAnswer": "Capital",
+      "wrongAnswers": [
+        "Mechanization",
+        "Canal",
+        "Division of labor"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Home-based production before or alongside factories?",
+      "correctAnswer": "Cottage industry",
+      "wrongAnswers": [
+        "Factory system",
+        "Railway",
+        "Laissez-faire"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Organized efforts to improve workers' rights and conditions?",
+      "correctAnswer": "Labor movement",
+      "wrongAnswers": [
+        "Steam engine",
+        "Coal mining",
+        "Trade union"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Industrial Revolution, which term means: Using machines to perform work formerly done by hand?",
+      "correctAnswer": "Mechanization",
+      "wrongAnswers": [
+        "Textile mill",
+        "Ironworks",
+        "Child labor"
+      ],
+      "timeout": 15
+    }
+  ]
+}

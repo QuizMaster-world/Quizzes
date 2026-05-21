@@ -1,0 +1,205 @@
+{
+  "title": "English Grammar Connections Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that describes a noun?",
+      "correctAnswer": "Adjective",
+      "wrongAnswers": [
+        "Conjunction",
+        "Independent clause",
+        "Modifier"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that modifies a verb, adjective, or adverb?",
+      "correctAnswer": "Adverb",
+      "wrongAnswers": [
+        "Interjection",
+        "Dependent clause",
+        "Object"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that stands in for a noun?",
+      "correctAnswer": "Pronoun",
+      "wrongAnswers": [
+        "Subject",
+        "Phrase",
+        "Comma splice"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word showing relationships such as location or direction?",
+      "correctAnswer": "Preposition",
+      "wrongAnswers": [
+        "Predicate",
+        "Tense",
+        "Parallel structure"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that connects words, phrases, or clauses?",
+      "correctAnswer": "Conjunction",
+      "wrongAnswers": [
+        "Clause",
+        "Agreement",
+        "Noun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word or phrase expressing sudden feeling?",
+      "correctAnswer": "Interjection",
+      "wrongAnswers": [
+        "Independent clause",
+        "Modifier",
+        "Verb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: The part of a sentence that tells who or what it is about?",
+      "correctAnswer": "Subject",
+      "wrongAnswers": [
+        "Dependent clause",
+        "Object",
+        "Adjective"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: The part of a sentence that tells what the subject does or is?",
+      "correctAnswer": "Predicate",
+      "wrongAnswers": [
+        "Phrase",
+        "Comma splice",
+        "Adverb"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A group of words with a subject and a verb?",
+      "correctAnswer": "Clause",
+      "wrongAnswers": [
+        "Tense",
+        "Parallel structure",
+        "Pronoun"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A clause that can stand alone as a sentence?",
+      "correctAnswer": "Independent clause",
+      "wrongAnswers": [
+        "Agreement",
+        "Noun",
+        "Preposition"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A clause that cannot stand alone as a sentence?",
+      "correctAnswer": "Dependent clause",
+      "wrongAnswers": [
+        "Modifier",
+        "Verb",
+        "Conjunction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A group of related words without both subject and verb?",
+      "correctAnswer": "Phrase",
+      "wrongAnswers": [
+        "Object",
+        "Adjective",
+        "Interjection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: Verb form showing time?",
+      "correctAnswer": "Tense",
+      "wrongAnswers": [
+        "Comma splice",
+        "Adverb",
+        "Subject"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: Matching grammatical forms such as subject and verb?",
+      "correctAnswer": "Agreement",
+      "wrongAnswers": [
+        "Parallel structure",
+        "Pronoun",
+        "Predicate"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word or phrase that describes another element?",
+      "correctAnswer": "Modifier",
+      "wrongAnswers": [
+        "Noun",
+        "Preposition",
+        "Clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A noun or pronoun receiving an action or following a preposition?",
+      "correctAnswer": "Object",
+      "wrongAnswers": [
+        "Verb",
+        "Conjunction",
+        "Independent clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: An error joining independent clauses with only a comma?",
+      "correctAnswer": "Comma splice",
+      "wrongAnswers": [
+        "Adjective",
+        "Interjection",
+        "Dependent clause"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: Using matching grammatical forms in a series?",
+      "correctAnswer": "Parallel structure",
+      "wrongAnswers": [
+        "Adverb",
+        "Subject",
+        "Phrase"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that names a person, place, thing, or idea?",
+      "correctAnswer": "Noun",
+      "wrongAnswers": [
+        "Pronoun",
+        "Predicate",
+        "Tense"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which English Grammar concept is described by this clue: A word that expresses an action or state?",
+      "correctAnswer": "Verb",
+      "wrongAnswers": [
+        "Preposition",
+        "Clause",
+        "Agreement"
+      ],
+      "timeout": 15
+    }
+  ]
+}

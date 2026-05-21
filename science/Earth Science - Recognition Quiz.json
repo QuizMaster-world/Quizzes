@@ -1,0 +1,205 @@
+{
+  "title": "Earth Science Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Magma\" is correct?",
+      "correctAnswer": "Magma: Molten rock beneath Earth's surface",
+      "wrongAnswers": [
+        "Weathering: Breaking down rock at Earth's surface",
+        "Seismic wave: Energy wave produced by an earthquake",
+        "Mantle: The thick layer of Earth between crust and core"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lava\" is correct?",
+      "correctAnswer": "Lava: Molten rock that reaches Earth's surface",
+      "wrongAnswers": [
+        "Erosion: Moving weathered material by water, wind, ice, or gravity",
+        "Volcano: An opening where molten material and gases may erupt",
+        "Core: Earth's central region rich in iron and nickel"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Igneous rock\" is correct?",
+      "correctAnswer": "Igneous rock: Rock formed from cooled molten material",
+      "wrongAnswers": [
+        "Deposition: Dropping sediment in a new location",
+        "Fossil: Preserved evidence of past life",
+        "Plate tectonics: The theory that Earth's outer shell is divided into moving plates"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sedimentary rock\" is correct?",
+      "correctAnswer": "Sedimentary rock: Rock formed from compacted sediment",
+      "wrongAnswers": [
+        "Fault: A fracture where rocks have moved",
+        "Strata: Layers of sedimentary rock",
+        "Lithosphere: Earth's rigid outer layer of crust and upper mantle"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Metamorphic rock\" is correct?",
+      "correctAnswer": "Metamorphic rock: Rock changed by heat, pressure, or fluids",
+      "wrongAnswers": [
+        "Epicenter: The surface point above an earthquake focus",
+        "Rock cycle: The processes that transform rocks among major types",
+        "Asthenosphere: A softer mantle layer beneath the lithosphere"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Weathering\" is correct?",
+      "correctAnswer": "Weathering: Breaking down rock at Earth's surface",
+      "wrongAnswers": [
+        "Seismic wave: Energy wave produced by an earthquake",
+        "Mantle: The thick layer of Earth between crust and core",
+        "Magma: Molten rock beneath Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Erosion\" is correct?",
+      "correctAnswer": "Erosion: Moving weathered material by water, wind, ice, or gravity",
+      "wrongAnswers": [
+        "Volcano: An opening where molten material and gases may erupt",
+        "Core: Earth's central region rich in iron and nickel",
+        "Lava: Molten rock that reaches Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Deposition\" is correct?",
+      "correctAnswer": "Deposition: Dropping sediment in a new location",
+      "wrongAnswers": [
+        "Fossil: Preserved evidence of past life",
+        "Plate tectonics: The theory that Earth's outer shell is divided into moving plates",
+        "Igneous rock: Rock formed from cooled molten material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fault\" is correct?",
+      "correctAnswer": "Fault: A fracture where rocks have moved",
+      "wrongAnswers": [
+        "Strata: Layers of sedimentary rock",
+        "Lithosphere: Earth's rigid outer layer of crust and upper mantle",
+        "Sedimentary rock: Rock formed from compacted sediment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Epicenter\" is correct?",
+      "correctAnswer": "Epicenter: The surface point above an earthquake focus",
+      "wrongAnswers": [
+        "Rock cycle: The processes that transform rocks among major types",
+        "Asthenosphere: A softer mantle layer beneath the lithosphere",
+        "Metamorphic rock: Rock changed by heat, pressure, or fluids"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Seismic wave\" is correct?",
+      "correctAnswer": "Seismic wave: Energy wave produced by an earthquake",
+      "wrongAnswers": [
+        "Mantle: The thick layer of Earth between crust and core",
+        "Magma: Molten rock beneath Earth's surface",
+        "Weathering: Breaking down rock at Earth's surface"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Volcano\" is correct?",
+      "correctAnswer": "Volcano: An opening where molten material and gases may erupt",
+      "wrongAnswers": [
+        "Core: Earth's central region rich in iron and nickel",
+        "Lava: Molten rock that reaches Earth's surface",
+        "Erosion: Moving weathered material by water, wind, ice, or gravity"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Fossil\" is correct?",
+      "correctAnswer": "Fossil: Preserved evidence of past life",
+      "wrongAnswers": [
+        "Plate tectonics: The theory that Earth's outer shell is divided into moving plates",
+        "Igneous rock: Rock formed from cooled molten material",
+        "Deposition: Dropping sediment in a new location"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Strata\" is correct?",
+      "correctAnswer": "Strata: Layers of sedimentary rock",
+      "wrongAnswers": [
+        "Lithosphere: Earth's rigid outer layer of crust and upper mantle",
+        "Sedimentary rock: Rock formed from compacted sediment",
+        "Fault: A fracture where rocks have moved"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rock cycle\" is correct?",
+      "correctAnswer": "Rock cycle: The processes that transform rocks among major types",
+      "wrongAnswers": [
+        "Asthenosphere: A softer mantle layer beneath the lithosphere",
+        "Metamorphic rock: Rock changed by heat, pressure, or fluids",
+        "Epicenter: The surface point above an earthquake focus"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mantle\" is correct?",
+      "correctAnswer": "Mantle: The thick layer of Earth between crust and core",
+      "wrongAnswers": [
+        "Magma: Molten rock beneath Earth's surface",
+        "Weathering: Breaking down rock at Earth's surface",
+        "Seismic wave: Energy wave produced by an earthquake"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Core\" is correct?",
+      "correctAnswer": "Core: Earth's central region rich in iron and nickel",
+      "wrongAnswers": [
+        "Lava: Molten rock that reaches Earth's surface",
+        "Erosion: Moving weathered material by water, wind, ice, or gravity",
+        "Volcano: An opening where molten material and gases may erupt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Plate tectonics\" is correct?",
+      "correctAnswer": "Plate tectonics: The theory that Earth's outer shell is divided into moving plates",
+      "wrongAnswers": [
+        "Igneous rock: Rock formed from cooled molten material",
+        "Deposition: Dropping sediment in a new location",
+        "Fossil: Preserved evidence of past life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Lithosphere\" is correct?",
+      "correctAnswer": "Lithosphere: Earth's rigid outer layer of crust and upper mantle",
+      "wrongAnswers": [
+        "Sedimentary rock: Rock formed from compacted sediment",
+        "Fault: A fracture where rocks have moved",
+        "Strata: Layers of sedimentary rock"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Asthenosphere\" is correct?",
+      "correctAnswer": "Asthenosphere: A softer mantle layer beneath the lithosphere",
+      "wrongAnswers": [
+        "Metamorphic rock: Rock changed by heat, pressure, or fluids",
+        "Epicenter: The surface point above an earthquake focus",
+        "Rock cycle: The processes that transform rocks among major types"
+      ],
+      "timeout": 15
+    }
+  ]
+}

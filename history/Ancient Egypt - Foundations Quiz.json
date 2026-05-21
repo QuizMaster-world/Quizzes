@@ -1,0 +1,205 @@
+{
+  "title": "Ancient Egypt Foundations Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Ancient Egypt, what does \"Pharaoh\" mean?",
+      "correctAnswer": "The ruler of ancient Egypt",
+      "wrongAnswers": [
+        "The river that supported farming and transport in ancient Egypt",
+        "A monumental tomb structure associated with royal burials",
+        "An Egyptian goddess associated with protection and magic"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Dynasty\" mean?",
+      "correctAnswer": "A sequence of rulers from the same family or line",
+      "wrongAnswers": [
+        "Land enriched by seasonal river flooding",
+        "A process used to preserve bodies after death",
+        "An Egyptian sun god"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Nile River\" mean?",
+      "correctAnswer": "The river that supported farming and transport in ancient Egypt",
+      "wrongAnswers": [
+        "An Egyptian writing system using picture symbols",
+        "A container used to hold organs during mummification",
+        "The concept of truth, balance, and order"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Floodplain\" mean?",
+      "correctAnswer": "Land enriched by seasonal river flooding",
+      "wrongAnswers": [
+        "A writing material made from a reed plant",
+        "The continued existence Egyptians believed followed death",
+        "A high official who helped administer the kingdom"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Hieroglyphs\" mean?",
+      "correctAnswer": "An Egyptian writing system using picture symbols",
+      "wrongAnswers": [
+        "A trained writer and record keeper",
+        "An Egyptian god associated with the afterlife",
+        "A tall stone monument with a pointed top"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Papyrus\" mean?",
+      "correctAnswer": "A writing material made from a reed plant",
+      "wrongAnswers": [
+        "A monumental tomb structure associated with royal burials",
+        "An Egyptian goddess associated with protection and magic",
+        "An oval frame containing a royal name"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Scribe\" mean?",
+      "correctAnswer": "A trained writer and record keeper",
+      "wrongAnswers": [
+        "A process used to preserve bodies after death",
+        "An Egyptian sun god",
+        "A stone inscription that helped scholars read hieroglyphs"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Pyramid\" mean?",
+      "correctAnswer": "A monumental tomb structure associated with royal burials",
+      "wrongAnswers": [
+        "A container used to hold organs during mummification",
+        "The concept of truth, balance, and order",
+        "A period of Egyptian power and expansion"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Mummification\" mean?",
+      "correctAnswer": "A process used to preserve bodies after death",
+      "wrongAnswers": [
+        "The continued existence Egyptians believed followed death",
+        "A high official who helped administer the kingdom",
+        "The ruler of ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Canopic jar\" mean?",
+      "correctAnswer": "A container used to hold organs during mummification",
+      "wrongAnswers": [
+        "An Egyptian god associated with the afterlife",
+        "A tall stone monument with a pointed top",
+        "A sequence of rulers from the same family or line"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Afterlife\" mean?",
+      "correctAnswer": "The continued existence Egyptians believed followed death",
+      "wrongAnswers": [
+        "An Egyptian goddess associated with protection and magic",
+        "An oval frame containing a royal name",
+        "The river that supported farming and transport in ancient Egypt"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Osiris\" mean?",
+      "correctAnswer": "An Egyptian god associated with the afterlife",
+      "wrongAnswers": [
+        "An Egyptian sun god",
+        "A stone inscription that helped scholars read hieroglyphs",
+        "Land enriched by seasonal river flooding"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Isis\" mean?",
+      "correctAnswer": "An Egyptian goddess associated with protection and magic",
+      "wrongAnswers": [
+        "The concept of truth, balance, and order",
+        "A period of Egyptian power and expansion",
+        "An Egyptian writing system using picture symbols"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Ra\" mean?",
+      "correctAnswer": "An Egyptian sun god",
+      "wrongAnswers": [
+        "A high official who helped administer the kingdom",
+        "The ruler of ancient Egypt",
+        "A writing material made from a reed plant"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Ma'at\" mean?",
+      "correctAnswer": "The concept of truth, balance, and order",
+      "wrongAnswers": [
+        "A tall stone monument with a pointed top",
+        "A sequence of rulers from the same family or line",
+        "A trained writer and record keeper"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Vizier\" mean?",
+      "correctAnswer": "A high official who helped administer the kingdom",
+      "wrongAnswers": [
+        "An oval frame containing a royal name",
+        "The river that supported farming and transport in ancient Egypt",
+        "A monumental tomb structure associated with royal burials"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Obelisk\" mean?",
+      "correctAnswer": "A tall stone monument with a pointed top",
+      "wrongAnswers": [
+        "A stone inscription that helped scholars read hieroglyphs",
+        "Land enriched by seasonal river flooding",
+        "A process used to preserve bodies after death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Cartouche\" mean?",
+      "correctAnswer": "An oval frame containing a royal name",
+      "wrongAnswers": [
+        "A period of Egyptian power and expansion",
+        "An Egyptian writing system using picture symbols",
+        "A container used to hold organs during mummification"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"Rosetta Stone\" mean?",
+      "correctAnswer": "A stone inscription that helped scholars read hieroglyphs",
+      "wrongAnswers": [
+        "The ruler of ancient Egypt",
+        "A writing material made from a reed plant",
+        "The continued existence Egyptians believed followed death"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Ancient Egypt, what does \"New Kingdom\" mean?",
+      "correctAnswer": "A period of Egyptian power and expansion",
+      "wrongAnswers": [
+        "A sequence of rulers from the same family or line",
+        "A trained writer and record keeper",
+        "An Egyptian god associated with the afterlife"
+      ],
+      "timeout": 15
+    }
+  ]
+}

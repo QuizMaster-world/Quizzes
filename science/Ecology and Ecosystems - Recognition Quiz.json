@@ -1,0 +1,205 @@
+{
+  "title": "Ecology and Ecosystems Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Community\" is correct?",
+      "correctAnswer": "Community: Different populations living and interacting in an area",
+      "wrongAnswers": [
+        "Trophic level: A feeding position in an ecosystem",
+        "Commensalism: A relationship where one species benefits and the other is unaffected",
+        "Invasive species: A non-native species that causes harm in a new area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Producer\" is correct?",
+      "correctAnswer": "Producer: An organism that makes its own food from energy sources",
+      "wrongAnswers": [
+        "Predation: An interaction where one organism eats another",
+        "Biodiversity: The variety of living things in an area",
+        "Niche: The role and resource use of a species in its environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Consumer\" is correct?",
+      "correctAnswer": "Consumer: An organism that gets energy by eating other organisms",
+      "wrongAnswers": [
+        "Competition: A struggle for limited resources",
+        "Carrying capacity: The largest population an environment can support sustainably",
+        "Ecosystem: A community of organisms interacting with their environment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Decomposer\" is correct?",
+      "correctAnswer": "Decomposer: An organism that breaks down dead material",
+      "wrongAnswers": [
+        "Mutualism: A relationship where both species benefit",
+        "Succession: Gradual change in a biological community over time",
+        "Habitat: The place where an organism normally lives"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Food web\" is correct?",
+      "correctAnswer": "Food web: A network of feeding relationships",
+      "wrongAnswers": [
+        "Parasitism: A relationship where one organism benefits and the other is harmed",
+        "Keystone species: A species with a large effect on its ecosystem",
+        "Population: Members of the same species living in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Trophic level\" is correct?",
+      "correctAnswer": "Trophic level: A feeding position in an ecosystem",
+      "wrongAnswers": [
+        "Commensalism: A relationship where one species benefits and the other is unaffected",
+        "Invasive species: A non-native species that causes harm in a new area",
+        "Community: Different populations living and interacting in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Predation\" is correct?",
+      "correctAnswer": "Predation: An interaction where one organism eats another",
+      "wrongAnswers": [
+        "Biodiversity: The variety of living things in an area",
+        "Niche: The role and resource use of a species in its environment",
+        "Producer: An organism that makes its own food from energy sources"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Competition\" is correct?",
+      "correctAnswer": "Competition: A struggle for limited resources",
+      "wrongAnswers": [
+        "Carrying capacity: The largest population an environment can support sustainably",
+        "Ecosystem: A community of organisms interacting with their environment",
+        "Consumer: An organism that gets energy by eating other organisms"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Mutualism\" is correct?",
+      "correctAnswer": "Mutualism: A relationship where both species benefit",
+      "wrongAnswers": [
+        "Succession: Gradual change in a biological community over time",
+        "Habitat: The place where an organism normally lives",
+        "Decomposer: An organism that breaks down dead material"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Parasitism\" is correct?",
+      "correctAnswer": "Parasitism: A relationship where one organism benefits and the other is harmed",
+      "wrongAnswers": [
+        "Keystone species: A species with a large effect on its ecosystem",
+        "Population: Members of the same species living in an area",
+        "Food web: A network of feeding relationships"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Commensalism\" is correct?",
+      "correctAnswer": "Commensalism: A relationship where one species benefits and the other is unaffected",
+      "wrongAnswers": [
+        "Invasive species: A non-native species that causes harm in a new area",
+        "Community: Different populations living and interacting in an area",
+        "Trophic level: A feeding position in an ecosystem"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Biodiversity\" is correct?",
+      "correctAnswer": "Biodiversity: The variety of living things in an area",
+      "wrongAnswers": [
+        "Niche: The role and resource use of a species in its environment",
+        "Producer: An organism that makes its own food from energy sources",
+        "Predation: An interaction where one organism eats another"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Carrying capacity\" is correct?",
+      "correctAnswer": "Carrying capacity: The largest population an environment can support sustainably",
+      "wrongAnswers": [
+        "Ecosystem: A community of organisms interacting with their environment",
+        "Consumer: An organism that gets energy by eating other organisms",
+        "Competition: A struggle for limited resources"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Succession\" is correct?",
+      "correctAnswer": "Succession: Gradual change in a biological community over time",
+      "wrongAnswers": [
+        "Habitat: The place where an organism normally lives",
+        "Decomposer: An organism that breaks down dead material",
+        "Mutualism: A relationship where both species benefit"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Keystone species\" is correct?",
+      "correctAnswer": "Keystone species: A species with a large effect on its ecosystem",
+      "wrongAnswers": [
+        "Population: Members of the same species living in an area",
+        "Food web: A network of feeding relationships",
+        "Parasitism: A relationship where one organism benefits and the other is harmed"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Invasive species\" is correct?",
+      "correctAnswer": "Invasive species: A non-native species that causes harm in a new area",
+      "wrongAnswers": [
+        "Community: Different populations living and interacting in an area",
+        "Trophic level: A feeding position in an ecosystem",
+        "Commensalism: A relationship where one species benefits and the other is unaffected"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Niche\" is correct?",
+      "correctAnswer": "Niche: The role and resource use of a species in its environment",
+      "wrongAnswers": [
+        "Producer: An organism that makes its own food from energy sources",
+        "Predation: An interaction where one organism eats another",
+        "Biodiversity: The variety of living things in an area"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ecosystem\" is correct?",
+      "correctAnswer": "Ecosystem: A community of organisms interacting with their environment",
+      "wrongAnswers": [
+        "Consumer: An organism that gets energy by eating other organisms",
+        "Competition: A struggle for limited resources",
+        "Carrying capacity: The largest population an environment can support sustainably"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Habitat\" is correct?",
+      "correctAnswer": "Habitat: The place where an organism normally lives",
+      "wrongAnswers": [
+        "Decomposer: An organism that breaks down dead material",
+        "Mutualism: A relationship where both species benefit",
+        "Succession: Gradual change in a biological community over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Population\" is correct?",
+      "correctAnswer": "Population: Members of the same species living in an area",
+      "wrongAnswers": [
+        "Food web: A network of feeding relationships",
+        "Parasitism: A relationship where one organism benefits and the other is harmed",
+        "Keystone species: A species with a large effect on its ecosystem"
+      ],
+      "timeout": 15
+    }
+  ]
+}

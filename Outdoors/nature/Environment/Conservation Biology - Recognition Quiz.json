@@ -1,0 +1,205 @@
+{
+  "title": "Conservation Biology Recognition Quiz",
+  "listOfQuestions": [
+    {
+      "question": "Which statement about \"Habitat fragmentation\" is correct?",
+      "correctAnswer": "Habitat fragmentation: Breaking continuous habitat into smaller isolated patches",
+      "wrongAnswers": [
+        "Biodiversity hotspot: A region with many unique species under threat",
+        "Ecosystem service: A benefit people receive from nature",
+        "Genetic diversity: Variation in genes within a population or species"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Corridor\" is correct?",
+      "correctAnswer": "Corridor: A habitat link that helps organisms move between areas",
+      "wrongAnswers": [
+        "Captive breeding: Raising species under human care to support conservation",
+        "Sustainable harvest: Using resources at a rate that can continue over time",
+        "Habitat restoration: Improving a damaged habitat so it can support life"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Restoration ecology\" is correct?",
+      "correctAnswer": "Restoration ecology: Repairing damaged ecosystems",
+      "wrongAnswers": [
+        "In situ conservation: Protecting species in their natural habitats",
+        "Overexploitation: Using a species or resource faster than it can recover",
+        "Conservation: Protecting species, habitats, and natural processes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Rewilding\" is correct?",
+      "correctAnswer": "Rewilding: Restoring natural processes and native species to landscapes",
+      "wrongAnswers": [
+        "Ex situ conservation: Protecting species outside their natural habitats",
+        "Citizen science: Public participation in scientific data collection",
+        "Endangered species: A species at serious risk of extinction"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Protected area\" is correct?",
+      "correctAnswer": "Protected area: A place managed to conserve natural or cultural value",
+      "wrongAnswers": [
+        "Pollinator: An organism that helps transfer pollen between flowers",
+        "Bioindicator: A species used to show environmental conditions",
+        "Threatened species: A species likely to become endangered without protection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Biodiversity hotspot\" is correct?",
+      "correctAnswer": "Biodiversity hotspot: A region with many unique species under threat",
+      "wrongAnswers": [
+        "Ecosystem service: A benefit people receive from nature",
+        "Genetic diversity: Variation in genes within a population or species",
+        "Habitat fragmentation: Breaking continuous habitat into smaller isolated patches"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Captive breeding\" is correct?",
+      "correctAnswer": "Captive breeding: Raising species under human care to support conservation",
+      "wrongAnswers": [
+        "Sustainable harvest: Using resources at a rate that can continue over time",
+        "Habitat restoration: Improving a damaged habitat so it can support life",
+        "Corridor: A habitat link that helps organisms move between areas"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"In situ conservation\" is correct?",
+      "correctAnswer": "In situ conservation: Protecting species in their natural habitats",
+      "wrongAnswers": [
+        "Overexploitation: Using a species or resource faster than it can recover",
+        "Conservation: Protecting species, habitats, and natural processes",
+        "Restoration ecology: Repairing damaged ecosystems"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ex situ conservation\" is correct?",
+      "correctAnswer": "Ex situ conservation: Protecting species outside their natural habitats",
+      "wrongAnswers": [
+        "Citizen science: Public participation in scientific data collection",
+        "Endangered species: A species at serious risk of extinction",
+        "Rewilding: Restoring natural processes and native species to landscapes"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Pollinator\" is correct?",
+      "correctAnswer": "Pollinator: An organism that helps transfer pollen between flowers",
+      "wrongAnswers": [
+        "Bioindicator: A species used to show environmental conditions",
+        "Threatened species: A species likely to become endangered without protection",
+        "Protected area: A place managed to conserve natural or cultural value"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Ecosystem service\" is correct?",
+      "correctAnswer": "Ecosystem service: A benefit people receive from nature",
+      "wrongAnswers": [
+        "Genetic diversity: Variation in genes within a population or species",
+        "Habitat fragmentation: Breaking continuous habitat into smaller isolated patches",
+        "Biodiversity hotspot: A region with many unique species under threat"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Sustainable harvest\" is correct?",
+      "correctAnswer": "Sustainable harvest: Using resources at a rate that can continue over time",
+      "wrongAnswers": [
+        "Habitat restoration: Improving a damaged habitat so it can support life",
+        "Corridor: A habitat link that helps organisms move between areas",
+        "Captive breeding: Raising species under human care to support conservation"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Overexploitation\" is correct?",
+      "correctAnswer": "Overexploitation: Using a species or resource faster than it can recover",
+      "wrongAnswers": [
+        "Conservation: Protecting species, habitats, and natural processes",
+        "Restoration ecology: Repairing damaged ecosystems",
+        "In situ conservation: Protecting species in their natural habitats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Citizen science\" is correct?",
+      "correctAnswer": "Citizen science: Public participation in scientific data collection",
+      "wrongAnswers": [
+        "Endangered species: A species at serious risk of extinction",
+        "Rewilding: Restoring natural processes and native species to landscapes",
+        "Ex situ conservation: Protecting species outside their natural habitats"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Bioindicator\" is correct?",
+      "correctAnswer": "Bioindicator: A species used to show environmental conditions",
+      "wrongAnswers": [
+        "Threatened species: A species likely to become endangered without protection",
+        "Protected area: A place managed to conserve natural or cultural value",
+        "Pollinator: An organism that helps transfer pollen between flowers"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Genetic diversity\" is correct?",
+      "correctAnswer": "Genetic diversity: Variation in genes within a population or species",
+      "wrongAnswers": [
+        "Habitat fragmentation: Breaking continuous habitat into smaller isolated patches",
+        "Biodiversity hotspot: A region with many unique species under threat",
+        "Ecosystem service: A benefit people receive from nature"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Habitat restoration\" is correct?",
+      "correctAnswer": "Habitat restoration: Improving a damaged habitat so it can support life",
+      "wrongAnswers": [
+        "Corridor: A habitat link that helps organisms move between areas",
+        "Captive breeding: Raising species under human care to support conservation",
+        "Sustainable harvest: Using resources at a rate that can continue over time"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Conservation\" is correct?",
+      "correctAnswer": "Conservation: Protecting species, habitats, and natural processes",
+      "wrongAnswers": [
+        "Restoration ecology: Repairing damaged ecosystems",
+        "In situ conservation: Protecting species in their natural habitats",
+        "Overexploitation: Using a species or resource faster than it can recover"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Endangered species\" is correct?",
+      "correctAnswer": "Endangered species: A species at serious risk of extinction",
+      "wrongAnswers": [
+        "Rewilding: Restoring natural processes and native species to landscapes",
+        "Ex situ conservation: Protecting species outside their natural habitats",
+        "Citizen science: Public participation in scientific data collection"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "Which statement about \"Threatened species\" is correct?",
+      "correctAnswer": "Threatened species: A species likely to become endangered without protection",
+      "wrongAnswers": [
+        "Protected area: A place managed to conserve natural or cultural value",
+        "Pollinator: An organism that helps transfer pollen between flowers",
+        "Bioindicator: A species used to show environmental conditions"
+      ],
+      "timeout": 15
+    }
+  ]
+}

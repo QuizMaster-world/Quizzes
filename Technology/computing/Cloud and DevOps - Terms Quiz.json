@@ -1,0 +1,205 @@
+{
+  "title": "Cloud and DevOps Terms Quiz",
+  "listOfQuestions": [
+    {
+      "question": "In Cloud and DevOps, which term means: A template used to create containers?",
+      "correctAnswer": "Image",
+      "wrongAnswers": [
+        "Continuous integration",
+        "Secret management",
+        "Log"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Managing deployment and operation of many containers?",
+      "correctAnswer": "Orchestration",
+      "wrongAnswers": [
+        "Continuous deployment",
+        "Load balancer",
+        "Trace"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Managing infrastructure through versioned configuration files?",
+      "correctAnswer": "Infrastructure as code",
+      "wrongAnswers": [
+        "Pipeline",
+        "Auto scaling",
+        "Incident"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Automatically building and testing frequent code changes?",
+      "correctAnswer": "Continuous integration",
+      "wrongAnswers": [
+        "Artifact",
+        "Monitoring",
+        "Rollback"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Automatically releasing validated changes to users?",
+      "correctAnswer": "Continuous deployment",
+      "wrongAnswers": [
+        "Environment variable",
+        "Metric",
+        "Canary release"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: An automated sequence of build, test, and release steps?",
+      "correctAnswer": "Pipeline",
+      "wrongAnswers": [
+        "Secret management",
+        "Log",
+        "Feature flag"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A built output produced by a software pipeline?",
+      "correctAnswer": "Artifact",
+      "wrongAnswers": [
+        "Load balancer",
+        "Trace",
+        "Container"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A named value supplied to a running process?",
+      "correctAnswer": "Environment variable",
+      "wrongAnswers": [
+        "Auto scaling",
+        "Incident",
+        "Image"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Protecting credentials used by systems and applications?",
+      "correctAnswer": "Secret management",
+      "wrongAnswers": [
+        "Monitoring",
+        "Rollback",
+        "Orchestration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A component that distributes traffic across servers?",
+      "correctAnswer": "Load balancer",
+      "wrongAnswers": [
+        "Metric",
+        "Canary release",
+        "Infrastructure as code"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Adjusting computing capacity as demand changes?",
+      "correctAnswer": "Auto scaling",
+      "wrongAnswers": [
+        "Log",
+        "Feature flag",
+        "Continuous integration"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Collecting information about system health and behavior?",
+      "correctAnswer": "Monitoring",
+      "wrongAnswers": [
+        "Trace",
+        "Container",
+        "Continuous deployment"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A numeric measurement collected over time?",
+      "correctAnswer": "Metric",
+      "wrongAnswers": [
+        "Incident",
+        "Image",
+        "Pipeline"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A recorded event from a system or application?",
+      "correctAnswer": "Log",
+      "wrongAnswers": [
+        "Rollback",
+        "Orchestration",
+        "Artifact"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A record of a request moving through system components?",
+      "correctAnswer": "Trace",
+      "wrongAnswers": [
+        "Canary release",
+        "Infrastructure as code",
+        "Environment variable"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: An unplanned service disruption or degradation?",
+      "correctAnswer": "Incident",
+      "wrongAnswers": [
+        "Feature flag",
+        "Continuous integration",
+        "Secret management"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Returning a deployed system to a previous version?",
+      "correctAnswer": "Rollback",
+      "wrongAnswers": [
+        "Container",
+        "Continuous deployment",
+        "Load balancer"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: Rolling out a change to a small group before wider release?",
+      "correctAnswer": "Canary release",
+      "wrongAnswers": [
+        "Image",
+        "Pipeline",
+        "Auto scaling"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A switch that controls behavior without redeploying code?",
+      "correctAnswer": "Feature flag",
+      "wrongAnswers": [
+        "Orchestration",
+        "Artifact",
+        "Monitoring"
+      ],
+      "timeout": 15
+    },
+    {
+      "question": "In Cloud and DevOps, which term means: A packaged runtime environment for an application?",
+      "correctAnswer": "Container",
+      "wrongAnswers": [
+        "Infrastructure as code",
+        "Environment variable",
+        "Metric"
+      ],
+      "timeout": 15
+    }
+  ]
+}
